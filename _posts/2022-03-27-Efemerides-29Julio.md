@@ -2,7 +2,7 @@
 layout: blog
 title: 'La capa berreta que cubre la realidad'
 date: 2022-03-26 19:41:34
-categories: Efemerides
+categories: blog
 tags: Onganía, Tairona, Colombia, Baudrillard
 image: '/images/default.jpg'
 lead_text: 'La sociedad de consumo.'

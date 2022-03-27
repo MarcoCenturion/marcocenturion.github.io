@@ -2,7 +2,7 @@
 layout: blog
 title: 'Efemerides 4 de Enero'
 date: 2022-03-26 19:41:34
-categories: Efemerides
+categories: blog
 tags: Linux
 image: '/images/default.jpg'
 lead_text: 'Efemerides 4 de enero.'
