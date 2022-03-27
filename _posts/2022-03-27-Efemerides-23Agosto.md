@@ -1,14 +1,12 @@
 ---
 layout: blog
-title: 'Efemerides 26 de Agosto'
+title: 'Efemerides 23 de Agosto'
 date: 2022-03-26 19:41:34
 categories: blog
 tags: Linux
 image: '/images/default.jpg'
-lead_text: 'Efemerides 26 de Agosto.'
+lead_text: 'Efemerides 23 de Agosto.'
 ---
-
-
 
 ## Efemerides 23 de Agosto
 En el 79 el **Vesubio** entra en erupción, unos meses mas tarde sepultará las villas vacacionales de **Pompeya** -con cenizas- y **Herculano** -con lava- algo así como Carlos Paz y San Antonio de Arredondo.  La armada romana anclada en Capri, Salen en auxilio de los sobrevivientes, solo a los libres, los esclavos quedan encadenados con los animales.
