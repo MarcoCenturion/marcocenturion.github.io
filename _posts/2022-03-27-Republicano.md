@@ -1,4 +1,4 @@
- ---
+---
 layout: blog
 title: 'La Res Publicae'
 date: 2022-03-01 19:41:34

@@ -1,13 +1,763 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://lavkumarv.github.io//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://lavkumarv.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://lavkumarv.github.io//" rel="alternate" type="text/html" /><updated>2017-01-25T00:42:41+05:30</updated><id>https://lavkumarv.github.io///</id><subtitle>This is personal blog.</subtitle><entry><title type="html">Sample post to check the functionality</title><link href="https://lavkumarv.github.io//blog/2017/01/24/example-post.html" rel="alternate" type="text/html" title="Sample post to check the functionality" /><published>2017-01-24T17:41:34+05:30</published><updated>2017-01-24T17:41:34+05:30</updated><id>https://lavkumarv.github.io//blog/2017/01/24/example-post</id><content type="html" xml:base="https://lavkumarv.github.io//blog/2017/01/24/example-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2022-03-27T16:14:59-03:00</updated><id>http://localhost:4000///</id><subtitle>Sanateando se llega lejos.</subtitle><entry><title type="html">Trenes que pasan</title><link href="http://localhost:4000//blog/2022/03/26/Trenes-que-pasan.html" rel="alternate" type="text/html" title="Trenes que pasan" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//blog/2022/03/26/Trenes-que-pasan</id><content type="html" xml:base="http://localhost:4000//blog/2022/03/26/Trenes-que-pasan.html">&lt;h1 id=&quot;trenes-que-pasan&quot;&gt;Trenes que pasan&lt;/h1&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;
+&lt;p&gt;Podemos pensar nuestra vida -y la de los pueblos- como una constante tensión por elegir cual es el mejor tren.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;
+&lt;p&gt;Todos hemos escuchado miles de frases hechas sobre: &lt;em&gt;“Ya se le pasó el tren”&lt;/em&gt;, “&lt;em&gt;Yo no me subo a este tren&lt;/em&gt;” o “&lt;em&gt;No dejemos que se nos pase el tren&lt;/em&gt;” o la frase mas hermosa de la poesía argentina, de Homero Manzi: “&lt;strong&gt;El misterio de adiós que siembra el tren&lt;/strong&gt;”&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;
+&lt;p&gt;Todas hacen referencia a un tiempo de trenes, aromas de maderas, polvaredas, misterios y adioses.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;
+&lt;p&gt;El tren ya no llega a Alta Gracia, pero nos quedan trenes en las historias y el brillo en los ojos de quienes las narran.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;
+&lt;p&gt;Posiblemente no exista mejor imagen que la de un tren para pensar en el Día Internacional del Turismo, viajes y el romanticismo poético que ello trae.  Pero la intención de la presente nota excede lo literario y pretende hacer una lectura económica.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.&lt;/p&gt;</content><category term="code" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lavkumarv.github.io//images/default.jpg" /></entry></feed>
+&lt;p&gt;Nuestra ciudad esta ligada indisolublemente al tren, a la llegada de turistas, a visitantes ilustres, pero esa época ya pasó como también pasó la época del tren.&lt;/p&gt;
+
+&lt;p&gt;Carecemos de cifras concretas, de porcentajes de recursos humanos afectados a esta industria, pero necesitamos como sociedad, como ciudad, competir por un espacio en la puja por la captación de turistas. Esta industria genera empleos de calidad -Según la Organización Mundial de Turismo, un puesto de cada diez (1) a nivel global- y un dato para nada menor en estas épocas: empleo a mujeres y jóvenes, los segmentos mas golpeados en la crisis que comenzó en estos últimos meses y a la que no vemos una salida nítida aún.&lt;/p&gt;
+
+&lt;p&gt;A nuestra ciudad se le pasó el tren del turismo frente a competidores que supieron acomodar muy bien su oferta -Villa Carlos Paz, Villa General Belgrano, etc- por solo citar los de mayor éxito.&lt;/p&gt;
+
+&lt;p&gt;Soy de quienes sostienen que hay muchos trenes (oportunidades) totalmente distintos, pero hay que aprovecharlas.&lt;/p&gt;
+
+&lt;p&gt;Las previsiones para el 2030 es de nuevos 600 millones de pasajeros internacionales a nivel global, de estos el 20 % serán milenians (3)&lt;/p&gt;
+
+&lt;p&gt;Todo parece presagiar un nuevo aluvión de visitantes extranjeros, durante el próximo lustro, favorecidos por una moneda argentina depreciada.  Muchos de estos turistas serán milenians, idealistas atraídos por la libertad, la anarquía, la poesía y las locuras de juventud y la utopía.&lt;/p&gt;
+
+&lt;p&gt;Por una casualidad cósmica, vivimos en la ciudad donde hizo su infancia -Los años mas tiernos de su vida- el profeta icónico de esa cultura, el Che.&lt;/p&gt;
+
+&lt;p&gt;Existen oportunidades, muchas, el tren pasa muchas veces. Capilla del Monte “vende” Ovnis y al museo del holocausto en Auschwitz lo visitan 1,5 millones de personas al año.&lt;/p&gt;
+
+&lt;p&gt;¿Que intento decir con esto?  Que por muy en desacuerdo que estemos con la ideología marxista, o con las banderas del Che, es El producto turístico, es el tren que va a pasar dentro de poco.&lt;/p&gt;
+
+&lt;p&gt;No creo que los polacos estén muy orgullosos de mostrar un campo de exterminio.  Sin embargo, business are business.&lt;/p&gt;
+
+&lt;p&gt;¿Lo dejamos pasar o nos subimos?&lt;/p&gt;
+
+&lt;h1 id=&quot;bulling&quot;&gt;Bulling&lt;/h1&gt;
+&lt;h2 id=&quot;nota-interesante-al-25-de-marzo-del-2022&quot;&gt;Nota interesante al 25 de Marzo del 2022:&lt;/h2&gt;
+
+&lt;p&gt;Mi nena mas grande de 13 años, llega llorando de su práctica de Handball.  Al ir a saludar a sus “amigas” todas se levantan de sus asientos al unísono y se la esquivan porque va a una “escuela pública”.&lt;/p&gt;
+
+&lt;p&gt;(1) http://wtd.unwto.org/es/content/dmt-2019-sobre-el-dia-mundial-del-turismo
+(2) https://www.abc.es/viajar/polonia/abci-auschwitz-201501271056.html
+(3) https://www.hosteltur.com/130280_turismo-joven-nicho-segmento-estrategico-empresas-destinos.html&lt;/p&gt;</content><category term="Linux" /><summary type="html">Trenes que pasan</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Efemerides 5 de Julio</title><link href="http://localhost:4000//efemerides/2022/03/26/Efemerides-5Julio.html" rel="alternate" type="text/html" title="Efemerides 5 de Julio" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//efemerides/2022/03/26/Efemerides-5Julio</id><content type="html" xml:base="http://localhost:4000//efemerides/2022/03/26/Efemerides-5Julio.html">&lt;h2 id=&quot;efemerides-5-de-julio&quot;&gt;Efemerides 5 de julio&lt;/h2&gt;
+
+&lt;p&gt;Un 5 de julio de 1964, se juntan en un bar de London (creo) Roger Waters, Nick Mason, Syd Barrett y Richard Wright, crean mítica la banda &lt;strong&gt;Pink Floyd&lt;/strong&gt;.  Pronto la curiosa relación de Barrett con el LSD hace que el cuarto árbitro se pare en el borde de la cancha y ponga su nombre en letras rojas y en letras verde &lt;strong&gt;Gilmoure&lt;/strong&gt;  Tienen el record de 350 millones de discos vendidos.  El resto es historia conocida.&lt;/p&gt;
+
+&lt;p&gt;Un 5 de julio de 1951 &lt;strong&gt;William Shockley&lt;/strong&gt; Inventa el transistor de semiconductores de silicio, dando comienzo a una carrera por la minuaturización de la realidad, que se estira hasta nuestros días.  Nada de nuestro presente, es imaginable sin transistores, padres de los circuitos integrados y abuelos de los Microprocesadores.  Por ello recibirá el premio nobel de Física en 1956.  Tiempo después sostiene fervientemente la superioridad racial caucásica por sobre las razas africanas, basándose en tasas de natalidad y lombrosianos formatos del cráneo.  Esto nos muestra que pueden convivir en un mismo individuo la genialidad, con la imbecilidad, en tranquila armonía.&lt;/p&gt;
+
+&lt;p&gt;En 1805 nace el vicealmirante Robert FitzRoy, que será el comandante del &lt;strong&gt;Beagle&lt;/strong&gt; con el que &lt;strong&gt;Charles Darwin&lt;/strong&gt; recorre el mundo y cambia nuestro concepto de la evolución.  No evoluciona el mas fuerte, sino el que mas rápido se adapta a los cambios, dejando descendencia.&lt;/p&gt;
+
+&lt;p&gt;Tambien un 5 e Julio, pero de 1857, nacía en Alemania &lt;strong&gt;Clara Eibner&lt;/strong&gt;, Zetkin de Soltera.  Junto a &lt;strong&gt;Rosa Luxemburgo&lt;/strong&gt; fundan la liga espartaquista, perseguidas por anarquistas, feministas, revolucionarias.  Tiene mejor suerte que Rosa y escapa a la &lt;strong&gt;Unión Soviética&lt;/strong&gt; antes del pasaje mas negro de la historia, que llamamos nazismo.  Esto solo intenta demostrar que no todos los alemanes de la pre guerra eran lo que fueron.
+l
+El 6 de julio es un día musical. En 1925 nacía Billy Halley, el padre del Rock y en 1946 Toquinho padre o hermano de la bosa nova.  Un 6 de julio de 1985 moría &lt;strong&gt;Alfredo Barbieri&lt;/strong&gt;, papá de &lt;strong&gt;Carmen&lt;/strong&gt; e hijo de &lt;strong&gt;Guillermo Barbieri&lt;/strong&gt;, el famoso guitarrista que muere con &lt;strong&gt;Carlos Gardel&lt;/strong&gt; y &lt;strong&gt;Afredo Le Pera&lt;/strong&gt; en el accidente de &lt;strong&gt;Medeĺlín&lt;/strong&gt; el 24 de Junio del 1935.&lt;/p&gt;
+
+&lt;p&gt;Moría un 6 de julio de 2013 &lt;strong&gt;Nadezhda “Nadia” Vasilievna Popova&lt;/strong&gt;, Heroína ucraniana de la segunda guerra mundial.  Se inscribió a los 15 años en una escuela de vuelo, a escondida de sus padres. El primer vuelo sola lo hace a los 16.  Cuando muere su hermano en el frente, se presentó como voluntaria para volar en la &lt;strong&gt;Gran Guerra Patria&lt;/strong&gt;, La incluyen -a desgano- en una brigada de bombarderos exclusivamente piloteada por mujeres, conocidas por los alemanes como &lt;strong&gt;Las Brujas de la noche&lt;/strong&gt;.  Montan unos biplanos &lt;strong&gt;Polikarpov PO2&lt;/strong&gt;, de cabina descubierta, sin armamento defensivo, ni radio, ni paracaidas.  Volaban en parejas, una tactica frecuenta era que el segundo avión detuviera el motor para acercarse todo lo posible al suelo sin ser escuchado, mientras el primero se “llevaba la marca” por usar una metáfora feliz.&lt;/p&gt;
+
+&lt;p&gt;Terminada la guerra, &lt;strong&gt;Nadia&lt;/strong&gt; había realizado 852 misiones.  Llegó al record de 18 salidas en una sola noche.  En una misión debía descargar viveres terreno enemigo, sobre tropas cercadas, rodeadas y sin suministros, sobrevoló tan bajo sobre terreno enemigo, que escuchaba los insultos de los alemanes.  Al regreso, los mecánicos contaron 42 impactos de bala en el fuselaje.  La &lt;strong&gt;Unión Soviética&lt;/strong&gt; pierde 27 millones de personas en la guerra, de los cuales 18 fueron civiles.  Estados Unidos, solo 500 mil soldados.  A pesar de eso, Hollywood insiste que la guerra la ganaron ellos.&lt;/p&gt;
+
+&lt;p&gt;La historia no la escriben los que ganan, sino aquellos a los que le pones la oreja.&lt;/p&gt;</content><category term="Linux" /><summary type="html">Efemerides 5 de julio</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Efemerides 5 de Enero</title><link href="http://localhost:4000//efemerides/2022/03/26/Efemerides-5Enero.html" rel="alternate" type="text/html" title="Efemerides 5 de Enero" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//efemerides/2022/03/26/Efemerides-5Enero</id><content type="html" xml:base="http://localhost:4000//efemerides/2022/03/26/Efemerides-5Enero.html">&lt;h2 id=&quot;efemerides-05-de-enero&quot;&gt;Efemerides 05 de enero&lt;/h2&gt;
+
+&lt;p&gt;Un dia como hoy nacía Humberto Eco.  Autor de la novela policial situada en una abadía de la edad media, a la que llega James Bond.  Pregunta por significados y significantes a su discípulo, Robin, arguyendo que no siempre lo escrito dice todo, o sugiere mucho mas, como bien lo demuestra la biblioteca&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ese hombre viene de Basora -Dijo en Obra Abierta y se dispararon millones de significados.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En 1941 nace Hayao Miyazaki, el Walt Disney de Japón, pero sin ser buchon de los servicios.  A él debemos bellezas del cine animado como “Nausicaa”, “el viaje de Chihiro”, “Mi vecino Totoro”, “Ponyo la sirenita” y la bellísima historia de los aviones: “El viento se levanta”.  Como es lógico y esperable, casi todas sus historias están llenas de viajes.&lt;/p&gt;
+
+&lt;p&gt;La Nausicaa de la película, pareciera hacer referencia a la princesa que cobijara al Ulyses desnudo que llegara a las playas de Sicila, en su viaje de regreso a Itaca, lo rescata y se lo lleva a palacio.&lt;/p&gt;
+
+&lt;p&gt;La historia aquí -posiblemente por pudor- funde en negro y abre con Ulises partiendo en su barco, tiempo después.&lt;/p&gt;
+
+&lt;p&gt;El buen recibimiento del que es objeto el héroe en cada puero que llega, explica en parte, el porqué la demora de 10 años en volver a casa.&lt;/p&gt;
+
+&lt;p&gt;Le saturan la memoria del Nokia 1100 los mensajes de texto.  No había whatsapp aún.&lt;/p&gt;
+
+&lt;p&gt;Ciertas ratas de biblioteca de ese microcosmos que es la “arqueologia literaria”, ponen en duda que sea una sola persona, el autor de las narraciones orales &lt;strong&gt;La Ilíada&lt;/strong&gt; y &lt;strong&gt;La Odisea&lt;/strong&gt;. Sugieren, en cambio, que el primer narrador bien puede ser un varón, en virtud de presiciones sobre uso de armas, navegación y formaciones para la batalla; pero en la Odisea, ciertos detalles sobre el protocolo en las cortes y errores en nombres de vientos, sugieren que la escritora es una princesa siciliana.  Hay quien sugiere el nombre de &lt;strong&gt;Nausicaa&lt;/strong&gt;, el que elige Miyazaki para una de sus películas.&lt;/p&gt;
+
+&lt;p&gt;En 1592 nace Sha Yaján, emperador musulman de la India, que ordenara la construcción del palacio &lt;strong&gt;Taj Mahal&lt;/strong&gt; en &lt;strong&gt;Agra&lt;/strong&gt; donde se destaca el mausoleo, en uno de los complejos arquitectónicos mas bellos de Oriente.&lt;/p&gt;
+
+&lt;p&gt;En 1970 moría Max Born, fisico que revoluciono la teoría de las partículas subatóicas.&lt;/p&gt;
+
+&lt;p&gt;Terminada la “Gran Guerra” del 14, estallan pequeñas revoluciones socialistas en el viejo continente. Alemania no escapa a la regla, la &lt;strong&gt;Liga Espartaquista&lt;/strong&gt; comandada por Rosa Luxemburgo, Clara Zetkin, se opone argumentando la visible inferioridad de fuerzas, pero lo mismo participan.  El 5 de enero, los espartaquistas son ejecutados y arrojados al río, a manos del embrión de lo que luego será el &lt;strong&gt;Nazismo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se reconfigura el mundo nuevamente, la mariposa aletea para otro lado y fuerte.&lt;/p&gt;</content><category term="Linux" /><summary type="html">Efemerides 05 de enero</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Efemerides 4 de Enero</title><link href="http://localhost:4000//efemerides/2022/03/26/Efemerides-4Enero.html" rel="alternate" type="text/html" title="Efemerides 4 de Enero" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//efemerides/2022/03/26/Efemerides-4Enero</id><content type="html" xml:base="http://localhost:4000//efemerides/2022/03/26/Efemerides-4Enero.html">&lt;h2 id=&quot;efemérides-4-de-enero&quot;&gt;Efemérides 4 de enero&lt;/h2&gt;
+&lt;p&gt;Un cuatro de enero del año 52 parte de Buenos Aires una &lt;strong&gt;norton 500&lt;/strong&gt; apodada: &lt;strong&gt;“La Poderosa”&lt;/strong&gt;, tripulada por los jóvenes Ernesto Guervara y Alberto Gradado, hecho prolijamente documentado en un cuaderno del que se extrajeron libros, películas y hasta revoluciones.  Los viajes, en casos de extrema sensibilidad, cambian el alma de la gente que los usa.&lt;/p&gt;
+
+&lt;p&gt;También un cuatro de enero pero de 2011, recordamos la inmolación del vendedor ambulante &lt;strong&gt;Tariq Tayyib Mohamed Bouazizi&lt;/strong&gt;, en un pueblo de &lt;strong&gt;Tunez&lt;/strong&gt;, generando la revuelta mas grande de la historia del mundo árabe, después de la hégira de &lt;strong&gt;Muhammad&lt;/strong&gt; el profeta.&lt;/p&gt;
+
+&lt;p&gt;De todos los hechos, prefiero traer al recuerdo el “aterrizaje” de la zonda &lt;strong&gt;Spirit&lt;/strong&gt; en Marte en el 2004, no por importante, sino por belleza estética.&lt;/p&gt;
+
+&lt;p&gt;Espero disculpen la feliz incongruiencia de &lt;strong&gt;“Aterrizar”&lt;/strong&gt; asociado a Marte.&lt;/p&gt;
+
+&lt;p&gt;La sola mención a Marte, convocaba hasta hace muy poco, viajes imposibles, monstruos verdes y platos voladores. Yo prefiero recordar a &lt;strong&gt;Bradbury&lt;/strong&gt;, ese desempleado que alquilara durante meses una máquina de escribir en una biblioteca púbica, a un dólar diario para dejarnos su primera novela &lt;strong&gt;“Farenheit 451”&lt;/strong&gt;.  Bradbury entretejida poesía en la prosa, con la excusa de mundos o tiempos distantes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El Principito&lt;/strong&gt; de &lt;strong&gt;Saint Excupery&lt;/strong&gt; sostiene que todos fuimos niños alguna vez, pero pocos lo recuerdan, Bradbury nunca dejó de ser un niño, al punto de deprimirse por la cancelación de la misión tripulada a Marte.&lt;/p&gt;
+
+&lt;p&gt;El protagonista de Farenheit es un ex incendiario de libros, Guy Montag, ahora fugitivo de la ley por negarse a quemar libros, da con una secta de ancianos memorizadores y recitadores de clásicos.  Ancianos y ancianas que se nombran mutuamente por el clásico que recuerdan.&lt;/p&gt;
+
+&lt;p&gt;Uno de estos &lt;strong&gt;memoriosos&lt;/strong&gt;, cuenta la tristeza por la pérdida de su abuelo cuando niño, pero no por el abuelo en sí, sino por &lt;strong&gt;todas las cosas&lt;/strong&gt; que pierde el mundo con la desaparición de las &lt;strong&gt;manos&lt;/strong&gt; de ese abuelo.  Manos que moldeaban la madera, fabricaban juguetes, tocaban el violín y cobijaban pichones con el mismo amor.&lt;/p&gt;
+
+&lt;p&gt;Montag entristece al intentar, vanamente, recordar algo hecho por las manos de Milly.  No somos mas que el verbo que nos nombra, lo que queda resonando en los oídos de la gente y la sonrisa que despierta.&lt;/p&gt;
+
+&lt;p&gt;En otro de los cuentos de Bradbury, el protagonista es un &lt;strong&gt;viajero poco sensible al medio ambiente&lt;/strong&gt;, que pisa por error una mariposa, generando cambios incorregibles en su futuro, que solo notamos -lectores y protagonistas- de regreso al presente narrativo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Con el diario del lunes&lt;/strong&gt;, como decimos en mi pueblo.&lt;/p&gt;
+
+&lt;p&gt;La primera traducción de &lt;strong&gt;“Crónicas Marcianas”&lt;/strong&gt; al castellano se hizo en Argentina, con prólogo nada menos que Jorge Luis Borges, como si faltaran símbolos.&lt;/p&gt;
+
+&lt;p&gt;Todas y cada una de nuestras lecturas y viajes reconfiguran nuestras vidas y las de otros, pero pisamos mariposas que cambian el futuro con esas acciones.&lt;/p&gt;
+
+&lt;p&gt;Los &lt;strong&gt;viajes imposibles&lt;/strong&gt;, como todos los imposibles, solo desnudan las limitaciones de quienes los imaginan.&lt;/p&gt;</content><category term="Linux" /><summary type="html">Efemérides 4 de enero
+Un cuatro de enero del año 52 parte de Buenos Aires una norton 500 apodada: “La Poderosa”, tripulada por los jóvenes Ernesto Guervara y Alberto Gradado, hecho prolijamente documentado en un cuaderno del que se extrajeron libros, películas y hasta revoluciones.  Los viajes, en casos de extrema sensibilidad, cambian el alma de la gente que los usa.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">La capa berreta que cubre la realidad</title><link href="http://localhost:4000//efemerides/2022/03/26/Efemerides-29Julio.html" rel="alternate" type="text/html" title="La capa berreta que cubre la realidad" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//efemerides/2022/03/26/Efemerides-29Julio</id><content type="html" xml:base="http://localhost:4000//efemerides/2022/03/26/Efemerides-29Julio.html">&lt;h2 id=&quot;efemerides-29-de-julio&quot;&gt;Efemerides 29 de Julio&lt;/h2&gt;
+
+&lt;p&gt;No hablamos el lenguaje, la lengua es un virus que se propaga a través de los individuos.  Somos utilizados por la lengua y ella habla de nosotros.&lt;/p&gt;
+
+&lt;p&gt;Un 29 de Julio pero de 1525, el adelantado sevillano &lt;strong&gt;Rodrigo de Bastidas&lt;/strong&gt; funda &lt;strong&gt;Santa Marta&lt;/strong&gt;, la ciudad mas antigua de Colombia, como sugiere Les Luthiers donde ya vivían los Tairona, detalle no menor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Colombia&lt;/strong&gt; es ese pais donde se habla un castellano gesticulado y simpático, extrañamente desprovisto de groserías. Los locales carecen del “NO” a un pedido, en su lugar utilizan el eufemismo: &lt;strong&gt;“hay que pena”&lt;/strong&gt;.  Para solicitar algo puntual no dicen &lt;strong&gt;“dame”&lt;/strong&gt; sino &lt;strong&gt;“regálame”&lt;/strong&gt;.  La publicidad del bar en &lt;strong&gt;Santa Marta&lt;/strong&gt; reza:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Aqui la cerveza es mas fria que el corazón de tu ex”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Un 29 de julio en &lt;strong&gt;Buenos Aires&lt;/strong&gt; pero de 1966, durante la dictadura de &lt;strong&gt;Onganía&lt;/strong&gt;, la policía federal desaloja a bastonazos de las universidades a profesores, estudiantes y público en general.  Encarcelados 400 de estos.  Se desmantelan proyectos científicos completos, emigran intelectuales de a centernares, dando comienzo a lo que conocimos después como &lt;strong&gt;“la fuga de cerebros”&lt;/strong&gt;.  Pasa a la historia como “La noche de los bastones largos”&lt;/p&gt;
+
+&lt;p&gt;El mismísimo New York Times publica una nota firmada por &lt;strong&gt;Warren Ambrose&lt;/strong&gt;, profesor del &lt;strong&gt;MIT&lt;/strong&gt; y de la &lt;strong&gt;UBA&lt;/strong&gt; donde detalla es esmero, proligidad y dedicación puesto por las fuerzas del órden en el reparto de garrotazos.  Antecedente directo de la dictadura posterior especializada en el reparto plomo.&lt;/p&gt;
+
+&lt;p&gt;Cito la nota:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Parece simplemente reflejar el odio del actual gobierno por los universitarios… Esta conducta del gobierno, a mi juicio, va a retrasar seriamente el desarrollo del país”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;En 1929 nace Jean Baudrillard, sociólogo francés, autor de &lt;strong&gt;“la sociedad de consumo”&lt;/strong&gt; una explicación estructuralista de nuestra realidad o de esa &lt;strong&gt;HiperRealidad&lt;/strong&gt; en la que nos movemos.&lt;/p&gt;
+
+&lt;p&gt;Este sugiere que habitamos una capa por encima de la realidad, una cáscara de un mundo que copia a &lt;strong&gt;Disney&lt;/strong&gt; o &lt;strong&gt;Titanes en el Ring&lt;/strong&gt; emocionados por historias como la llegada al planeta del bebe Clark Kent o el millonario Bruno Díaz en su baticueva.  Desconocedores absolutos de los profesores que recibieron los bastonazos gentilmente distribuidos por la dictadura de Onganía.&lt;/p&gt;</content><category term="Onganía," /><category term="Tairona," /><category term="Colombia," /><category term="Baudrillard" /><summary type="html">Efemerides 29 de Julio</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Efemerides 26 de Agosto</title><link href="http://localhost:4000//efemerides/2022/03/26/Efemerides-26Agosto.html" rel="alternate" type="text/html" title="Efemerides 26 de Agosto" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//efemerides/2022/03/26/Efemerides-26Agosto</id><content type="html" xml:base="http://localhost:4000//efemerides/2022/03/26/Efemerides-26Agosto.html">&lt;p&gt;##Efemerides 23 de Agosto
+En el 79 el &lt;strong&gt;Vesubio&lt;/strong&gt; entra en erupción, unos meses mas tarde sepultará las villas vacacionales de &lt;strong&gt;Pompeya&lt;/strong&gt; -con cenizas- y &lt;strong&gt;Herculano&lt;/strong&gt; -con lava- algo así como Carlos Paz y San Antonio de Arredondo.  La armada romana anclada en Capri, Salen en auxilio de los sobrevivientes, solo a los libres, los esclavos quedan encadenados con los animales.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;El 23 de agosto de 1572 ocurre en París la masacre de Saint-Barthélemy, los burqueses ordenan cerrar todas las puertas de salida de la ciudad, durante dias, ordas de cristianos católicos matan a cristianos protestantes, al igual que en la plaza de mayo del 55, no tenemos cifras ciertas de las víctimas.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;En 1927 en Masachusets, en el ejemplo de democracia y el coso, ejecutaban en la silla eléctrica a dos anarquistas italianos: &lt;strong&gt;Nicola Saco&lt;/strong&gt; y &lt;strong&gt;Bartolomeo Vanzetti&lt;/strong&gt;. Cincuenta años mas tarde, el gobernador &lt;strong&gt;Michael Dukakis&lt;/strong&gt; ordena una investigación que descubre falta de &lt;strong&gt;imparcialidad&lt;/strong&gt; en el juicio, por lo que les conmuta la pena.  Para aquellos que sostienen que la justicia nunca llega.&lt;/p&gt;
+
+&lt;p&gt;Es sano recordar, además, que los Estados Unidos son el único pais de América, y la única &lt;strong&gt;“democracia”&lt;/strong&gt; del mundo que mantiene la bella costumbre de ejecutar humanos por cuenta y orden del estado, actividad que exporta a los lugares que invade ya con mucha mas liviandad.&lt;/p&gt;
+
+&lt;p&gt;A lo largo de la historia parece existir una constante llamativa. Tanto en Saco y Vanzetti, como en Maldonado, o Kosteki y Santillán, o Fuentealba, o pocho Leprati, o Rafael Nahuel.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Cuanto mayor es la preocupación del individuo por la suerte del otro, mayor también son las posibilidades de morir a manos de fuerzas de seguridad que deberían cuidarnos.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;En 1973 en Estocolmo, Suecia, un asalto a un banco termina con toma de rehenes, una víctima se enamora de uno de los captores, agregando una patología nueva a la bibliografía clínica, el &lt;strong&gt;síndrome de Estocolmo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;En 1812 el abogado porteño &lt;strong&gt;Manuel Belgrano&lt;/strong&gt;, al mando de su escaso ejército, ordena al pueblo jujeño abandonar todo, quemar los campos y retirarse a &lt;strong&gt;Tucumán&lt;/strong&gt;.  El gobierno central le ha dado poco mas de cien hombres y una pieza de artillería para frenar toda la avanzada realista de miles de hombres.  El molesto revolucionario que se saca de encima la junta porteña, deja sin pertrechos al enemigo, copiando, tal vez sin saberlo, la estrategia del general romano &lt;strong&gt;Flavio&lt;/strong&gt; frente al avance de los galos.&lt;/p&gt;
+
+&lt;p&gt;En las filas de Belgrano pelean la criolla &lt;strong&gt;Juana Azurduy de Padilla&lt;/strong&gt;, que pierde cuatro de sus hijos y a su marido en batalla, y la negra liberta &lt;strong&gt;María Remedios del Valle&lt;/strong&gt; que pierde a su marido y sus dos hijos.&lt;/p&gt;
+
+&lt;p&gt;Los tres comparten el triste honor de morir en la miseria gracias a los sucesivos gobiernos porteños.&lt;/p&gt;
+
+&lt;p&gt;“Lo enviaron a morir y regresó héroe”.  Muy parecida a “Nos enterraron y no sabían que éramos semillas”&lt;/p&gt;</content><category term="Linux" /><summary type="html">##Efemerides 23 de Agosto
+En el 79 el Vesubio entra en erupción, unos meses mas tarde sepultará las villas vacacionales de Pompeya -con cenizas- y Herculano -con lava- algo así como Carlos Paz y San Antonio de Arredondo.  La armada romana anclada en Capri, Salen en auxilio de los sobrevivientes, solo a los libres, los esclavos quedan encadenados con los animales.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Efemerides 01 de Febrero</title><link href="http://localhost:4000//blog/2022/03/26/Efemerides-01Febrero.html" rel="alternate" type="text/html" title="Efemerides 01 de Febrero" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//blog/2022/03/26/Efemerides-01Febrero</id><content type="html" xml:base="http://localhost:4000//blog/2022/03/26/Efemerides-01Febrero.html">&lt;h2 id=&quot;efemerides-01-de-febrero&quot;&gt;Efemerides 01 de Febrero&lt;/h2&gt;
+&lt;p&gt;1524: en Londres, unos 20 000 pobladores abandonan sus hogares y se dirigen a terrenos más altos, en espera de la inundación que producirá el fin del mundo. Fue profetizada en junio de 1523 por los más prestigiosos astrólogos de Inglaterra.  Nadie puso en duda en aquel entonces la veracidad de los hechos, tampoco nunca nadie dudó que los reyes europeos desciendan de Dios, o el emperador chino sea un dragón. 
+El primer barco a vapor que cruzara el atlántico de London a New York, llevaba en el camarote del capitán un libro de física, en el que se explicaba precisa y pacientemente la imposibilidad de cruzar el Atlántico en un barco impulsado a vapor.
+Nuestras limitaciones intelectuales son las limitaciones de nuestra època.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;1820: en el norte de la provincia de Buenos Aires, 20 km al norte de la aldea Pergamino, el ejército federal vence al ejército unitario en la Primera batalla de Cepeda. Termina el gobierno centralizado de Buenos Aires.  Una encrucijada, pudimos haber doblado a la derecha o a la izquierda.  Biejouterie, cambiar algunas cosas para que nada cambie.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;h2 id=&quot;1930-nace-maría-helena-walsh--hasta-aquí-las-generaciones-cantan-lo-que-sus-abuelos-oyeros-de-sus-abuelos-con-algunas-ligeras-modificaciones-decorosas--la-cucaracha-no-puede-caminar-porque-le-falta-mariguana-pa-fumar-o-churchill-el-conde-de-marlborough-si-el-que-despues-se-puso-a-fabricar-cigarrillos-devenido-luego-en-mambrú-se-va-a-una-guerra-y-no-vuelve-ni-para-pascuas-ni-para-navidad--una-canción-compuesta-en-1700-sobre-melodía-árabe-llvada-a-europ-en-los-oidos-de-los-cruzados--maría-helena-pero-no-la-vecina-de-los-argentos-reconfigura-el-cancionero-infantil-con-algunos-guiños-que-camuflan-su-condición-de-mujer-inteligente-en-épocas-de-curas-y-militares&quot;&gt;1930 nace María Helena Walsh.  Hasta aquí las generaciones cantan lo que sus abuelos oyeros de sus abuelos, con algunas ligeras modificaciones decorosas.  “&lt;strong&gt;La cucaracha&lt;/strong&gt;” no puede caminar porque le falta mariguana pa fumar, o Churchill el conde de &lt;strong&gt;Marlborough&lt;/strong&gt; (si el que despues se puso a fabricar cigarrillos), devenido luego en &lt;strong&gt;Mambrú&lt;/strong&gt; se va a una guerra y no vuelve ni para pascuas ni para navidad.  una canción compuesta en 1700 sobre melodía árabe llvada a Europ en los oidos de los cruzados.  María Helena (pero no la vecina de los Argentos) reconfigura el cancionero infantil con algunos guiños que camuflan su condición de “&lt;strong&gt;mujer inteligente&lt;/strong&gt;” en épocas de curas y militares.&lt;/h2&gt;
+
+&lt;p&gt;1976 muere Weren Heisemberg el Nobel que vino a decirnos que nunca tendremos la certeza de si un partícula es a la vez una onda, dependiendo de cuando la &lt;strong&gt;miramos&lt;/strong&gt;, nos trae incertidumbre donde imaginábamos firmeza, solo para conviertirse en sobrenombre para &lt;strong&gt;Walter White&lt;/strong&gt; en &lt;strong&gt;Braking Bad&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;1939 nace Fritjof Kapra un doctor en física austríaco, quien escribiera en &lt;strong&gt;El tao de la física&lt;/strong&gt; una nueva visión de la mecánica cuántica y las filosofías orientales, agregando mas incertidumbres, como el &lt;strong&gt;significado de un haiku&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1978 cabalga al mas allá Jorge Cafrune. Si los guerreros vikingos van al cielo cuando mueren en batalla, los folkloristas van al cielo de las guitarras?&lt;/p&gt;</content><category term="Linux" /><summary type="html">Efemerides 01 de Febrero
+1524: en Londres, unos 20 000 pobladores abandonan sus hogares y se dirigen a terrenos más altos, en espera de la inundación que producirá el fin del mundo. Fue profetizada en junio de 1523 por los más prestigiosos astrólogos de Inglaterra.  Nadie puso en duda en aquel entonces la veracidad de los hechos, tampoco nunca nadie dudó que los reyes europeos desciendan de Dios, o el emperador chino sea un dragón. 
+El primer barco a vapor que cruzara el atlántico de London a New York, llevaba en el camarote del capitán un libro de física, en el que se explicaba precisa y pacientemente la imposibilidad de cruzar el Atlántico en un barco impulsado a vapor.
+Nuestras limitaciones intelectuales son las limitaciones de nuestra època.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Efemerides 01 de Marzo</title><link href="http://localhost:4000//efemerides/2022/03/26/Efemerides-01-02-03Marzo.html" rel="alternate" type="text/html" title="Efemerides 01 de Marzo" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//efemerides/2022/03/26/Efemerides-01-02-03Marzo</id><content type="html" xml:base="http://localhost:4000//efemerides/2022/03/26/Efemerides-01-02-03Marzo.html">&lt;h2 id=&quot;efemerides-01-de-marzo&quot;&gt;Efemerides 01 de Marzo&lt;/h2&gt;
+
+&lt;p&gt;en el 752 AC el primer y legendario rey de Roma &lt;strong&gt;Rómulo&lt;/strong&gt; vence a los cheninos, quienes asaltaron las siete colinas para intentar rescatar a sus mujeres, hecho conocido como el &lt;strong&gt;rapto de las sabinas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En el 317 DC Constantino, vence en Campus Ardensis, actual bulgaria al emperador romano de oriente Licinio.&lt;/p&gt;
+
+&lt;p&gt;En 1940 la dictadura de Francisco Franco, dicta una ley en la que permite perseguir a masones, comunistas y todo movimiento que siembre ideas “disolventes de la relígión, la patria y la armonía social”  Cualquier parecido con la realidad mundial, es mera coincidencia.&lt;/p&gt;
+
+&lt;p&gt;1951 el partido guatemalteco de los trabajadores, denuncia que la CIA del democrático y bienintencionado JFK entrena mercenarios para invadir Cuba.&lt;/p&gt;
+
+&lt;p&gt;en 1998 Se reunen en Cartagena, Colombia, mas de 500 representantes de organismos gubernamentales y extra gubernamentales, para luchar contra el trabajo infantil, la violencia familiar, explotación sexual y la guerra.  Al parecer ninguno salió de su hotel a verificar con sus propios ojos que todo eso ocurre al mismo tiempo en Cartagena, no importa el día o la hora en que escuches esto.&lt;/p&gt;
+
+&lt;p&gt;757 nace en Córdoba, Al Andaluz, Abu al-Walid Hisham al-Rida, también conocido como Hixem I en la transcripción española antigua; fue el segundo emir independiente de Córdoba, reinando desde el 7 de octubre de 788 hasta abril de 796.&lt;/p&gt;
+
+&lt;p&gt;1890 nace Benito Quinquela Martín
+1904 nace Glen Miller
+1964 nace Pedro Saborido.
+2020 moría Ernesto Cardenal&lt;/p&gt;
+
+&lt;h2 id=&quot;02-de-marzo&quot;&gt;02 de marzo&lt;/h2&gt;
+&lt;p&gt;1959: en el estudio de grabación de &lt;strong&gt;Columbia Records&lt;/strong&gt; en Manhattan, en solo diez horas repartidas en dos días, el trompetista de jazz &lt;strong&gt;Miles Davis&lt;/strong&gt;, les da unas instrucciones muy vagas de lo que van hacer al pianista &lt;strong&gt;Bill Evans&lt;/strong&gt;, alcontrabista &lt;strong&gt;Paul Chambers&lt;/strong&gt; y al saxofonista &lt;strong&gt;John Train Coltrane&lt;/strong&gt;.  Algo así como entrar a la cancha con Maradona, Ṕelé, Mesi, Ronaldo, Ronaldinho y Chuck Norris al arco.  Graban el mítico “&lt;strong&gt;Kind of Blue&lt;/strong&gt;”&lt;br /&gt;
+Imagino a Miles, garabatear una escalas con la trompeta y a medida que van entrando los restantes instrumentos soltar un:&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;“Ahí va”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;La revista &lt;strong&gt;Rolling Stone&lt;/strong&gt; pone a este album en el puesto 12 de los 500 mejores discos de la historia.&lt;/p&gt;
+
+&lt;p&gt;1657: en &lt;strong&gt;Edo&lt;/strong&gt;, la actual Tokio, sucede el &lt;strong&gt;Gran incendio de Meirekin&lt;/strong&gt; en el que se pierden 100 mil vidas humanas y el 80% de las viviendas.&lt;/p&gt;
+
+&lt;p&gt;1950: nace Karen Carpenter, cantante y baterista estadounidense, del dúo The Carpenters (f. 1983).&lt;/p&gt;
+
+&lt;p&gt;2001: nacia Fernando Báez Sosa, su familia y amigos deberían estar debatiendose como hacer su cumpleaños, pero lamentablemente Fernando no está, porque un grupo de rugbiers lo asesinó a golpes, por diversión.&lt;/p&gt;
+
+&lt;p&gt;1982: Sale al porsche de su jardín &lt;strong&gt;Philip K. Dick&lt;/strong&gt;, a saludar la mañana y muere de un ataque cardíaco. Cincuenta años de tóxicos de diverso tipo no pudieron con él y si un soplo de aire matinal.
+Cuenta su representante que se sentaba con su termo de café, sus auriculares con Beetowen y su frasco de anfetaminas, frente a la máquina de escribir hasta pasamba unas horas, o unos días, o unas semanas, en que tomaba el teléfono y lo llamaba.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;em&gt;Terminé una novela, enviame la ambulancia, cuida de mis gatos&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lo internaban, lo desintoxicaban y nuevamente iniciaba el mismo ciclo.&lt;/p&gt;
+
+&lt;p&gt;No alcanza a ver la primera película basada en uno de sus -muchísimos- cuentos y novelas.  &lt;strong&gt;&lt;em&gt;Blade Runner&lt;/em&gt;&lt;/strong&gt;, de Ridle Scott, con Harrison Ford, rugther Howard, Eduard James Olmos y esa muñeca llamada &lt;strong&gt;Rachel&lt;/strong&gt;, porque eso era &lt;strong&gt;Sean Young&lt;/strong&gt;. Y por supuesto, la música de Vángelis, que será cortina de todos los programas de deportes en adelante.&lt;/p&gt;
+
+&lt;p&gt;Una de sus muchas obsesiones es la forma en que la gente se gana la vida.  En su obra, notamos una marcada paranoia muy poco disimulada.  En sus últimas tres novela, esa paranoia migra a un total &lt;strong&gt;delirio místico&lt;/strong&gt;.  Se lo come el personaje.  Asegura que la &lt;strong&gt;CIA&lt;/strong&gt; le pinchó el teléfono.  Hace muy pocos años, la central de inteligencia desclasifica material de aquel entonces y nos hace saber que pinchaban el telefono del buen &lt;strong&gt;Phil Dick&lt;/strong&gt;, que traducido al español sería &lt;strong&gt;Felipe Pene&lt;/strong&gt;.  Por fin encontramos algo que agradecerle a la CIA.&lt;/p&gt;
+
+&lt;p&gt;Todo el cine de ciencia ficción posterior está basado directamente en su obra o influido muy seriamente.  Lo vemos a Arnold con Sharon Stone viajando a marte y haciendo una revolución por el uso del aire, a Tom Cruise persiguiendo delincuentes por delitos que van a cometer, nuevamente a Arnorld viniendo del futuro a matar a la madre de John Connor, llegar a una central de policía y decir&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;I’ll be back&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A Arnold otra vez ahora bueno, protegiendo a la madre de John Connor y otra vez Arnold.  Que cobra millones y millones por palabra emitida.  A Philip le tocó bastante menos.&lt;/p&gt;
+
+&lt;h2 id=&quot;03-de-marzo&quot;&gt;03 de Marzo&lt;/h2&gt;
+&lt;p&gt;1816: cerca de Villar actual Bolivia, la heroína boliviana &lt;strong&gt;Juana Azurduy&lt;/strong&gt;, viuda del coronel patriota Padilla, al frente de treinta jinetes, entre ellos varias mujeres, ataca a las fuerzas del coronel español &lt;strong&gt;José de La Hera&lt;/strong&gt;, les quita el estandarte y se hace de fusiles y municiones. Por esta acción, en agosto será nombrada teniente coronel, por pedido expreso del General &lt;strong&gt;Manuel Belgrano&lt;/strong&gt;.    Muere habiendo perdido a su marido y cuatro de sus hijos en batalla, el gobierno central no “honra” esa deuda, pagándole un sueldo y ella muere indigente.  Tampoco hace las escuelas que pide Belgrano hagan con el dinero que le deben.&lt;/p&gt;
+
+&lt;p&gt;1923: en Nueva York aparece el primer número de la revista Time.  Versiones apócrifas muestran una primera tapa con Mirta Legrand en su viaje de egresada.&lt;/p&gt;
+
+&lt;p&gt;1943: en España ―en el marco de la dictadura franquista― se recuerda la prohibición de celebrar las fiestas de Carnaval.&lt;/p&gt;
+
+&lt;p&gt;1991: en &lt;strong&gt;Los Ángeles&lt;/strong&gt;, un video amateur graba la golpiza que sufrió el taxista afroestadounidense &lt;strong&gt;Rodney King&lt;/strong&gt; por parte de ágentes blancos del Departamento de Policía de Los Ángeles.  Esto origina los disturbios de Los Angeles de 1992 que dejaron como saldo 63 muertos y 2000 heridos.  Al ser estos latinos, coreanos y negros, como en las películas, pronto cae en el olvido.  De allí el aforismo de Oscar Wilde:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“La realidad imita al arte”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Desafortunadamente, cada día del año, rendimos homenaje a un afro americano, o indio, o hispano siendo golpeado o muerto por supremasistas blancos, en el faro de la democracia y el coso.&lt;/p&gt;
+
+&lt;p&gt;1930: nace Alfredo Félix Alcón Riesco, Alfredo Alcón, actor argentino (f. 2014). Futuro Rey Lear que dirá “Cordelia, no te interpongas entre el dragón y su ira”&lt;/p&gt;
+
+&lt;p&gt;1959: &lt;strong&gt;Fabiana Cantilo&lt;/strong&gt;, cantante y compositora argentina.  La Musa del mejor &lt;strong&gt;Charly&lt;/strong&gt; también musa del mejor &lt;strong&gt;Fito&lt;/strong&gt;.  Musa de Calamaro, vocalista de Superlógico, de los twist.  Existe la versión que asegura que la verdadera genia es ella.&lt;/p&gt;
+
+&lt;p&gt;1959: muere Louis Francis Cristillo, Lou Costello, actor y comediante estadounidense (n. 1906), o sea, la mitad de Abott y Costello.&lt;/p&gt;
+
+&lt;p&gt;-&lt;em&gt;“Quien está en primera base”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Parece ser un chiste muy festejado en la América por encima de Colombia y Velezuela, por el solo hecho el comprender ese deporte que llaman beisball.&lt;/p&gt;
+
+&lt;p&gt;1987: muere Daniel David Kaminsky.  Danny Kaye, actor estadounidense (n. 1911),&lt;br /&gt;
+Lo elegí no por todos los premios y homenajes que no son pocos, dos oscars, emys, el gobierno frances lo condecoró con la &lt;strong&gt;legión de honor&lt;/strong&gt; y el gobierno  norteamericano, le otorgó el mayor honor a un civil, la &lt;strong&gt;medalla presidencial&lt;/strong&gt;.  Se le designó &lt;strong&gt;Embajador Permanente de Buena Voluntad de la UNICEF&lt;/strong&gt; siendo el encargado de aceptar el Premio Nobel de la organización como su representante en 1965.  Recaudó más de 10.000.000 de dólares en fondos de pensiones para músicos. Un jugador de toda la cancha, su casa en Los Angeles era considerada el mejor restaurante chino de toda California, lo que habla de su calidad de cocinero.  Llegó a reemplazar a &lt;strong&gt;Zubin Mehta&lt;/strong&gt; dirigiendo la filarmónica de New York.  Amigo personal de &lt;strong&gt;Sir Laurence Olivier&lt;/strong&gt;, lo que le ganó acusacines de homosexualidad, y un amorío con China Zorrilla, lo que habla bien de… ambos. Honor y privilegio del que solo gozan las buenas gentes, los que les duele el dolor ajeno y entienden que:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“The country is the another one”&lt;/em&gt; o dicho localmente &lt;em&gt;“La patria es el otro”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;fue perseguido por alguno de los varios organismos de inteligencia norteamericana, que para simplificar diremos la &lt;strong&gt;CIA&lt;/strong&gt;. acusado de comunista y homosexual.&lt;/p&gt;
+
+&lt;p&gt;La misma gente de inteligencia que se enterara de la caida del Muro de Berlín por el noticiero de la FOX, que no pudo predecir la invasión de bisontes al Capitolio, dias atras y hoy no cuenta entre sus mandos medios con nadie que hable árabe.  Una tan extraña como curiosa concepción de la itenligencia.&lt;/p&gt;
+
+&lt;p&gt;1993: Muere Albert Saperstein, virólogo polaco nacionalizado estadounidense (n. 1906) al que conocemos como &lt;em&gt;Sabín&lt;/em&gt;.  Inventa un método para administrar la vacuna descubierta por &lt;strong&gt;Jonas Salk&lt;/strong&gt;, contra la poliomielitis, para hacerlo de manera masiva, barata, rápida y no invasiva.  Poniendo un par de gotas en un terrón de azucar.  La Sabín oral.  Después de pasar por el escrito, seguramente.  Ninguno de los dos, ni Salk ni Sabín patentan la invención.  La revista Forbes cree que Salk renunció a siete mil millones de dólares. Sabín, otro tanto.  ¿Sabrá el pobre Forbes que hay cosas que tienen valor pero no precio?&lt;/p&gt;</content><category term="Linux" /><summary type="html">Efemerides 01 de Marzo</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Una Intro necesaria a Linux</title><link href="http://localhost:4000//blog/2022/03/26/Linux-Intro.html" rel="alternate" type="text/html" title="Una Intro necesaria a Linux" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//blog/2022/03/26/Linux-Intro</id><content type="html" xml:base="http://localhost:4000//blog/2022/03/26/Linux-Intro.html">&lt;h1 id=&quot;linux&quot;&gt;Linux&lt;/h1&gt;
+&lt;p&gt;Que es Linux&lt;/p&gt;
+
+&lt;h2 id=&quot;el-kernel&quot;&gt;El Kernel.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux Torval&lt;/strong&gt;, de  21 años en abril de 1991, empezó a escribir el primer kernel de Linux, intentando hacer un Minix (un Unix pequeño) desde cero, escribe su intención en un foro y pronto se suman muchos entusiastas.&lt;/p&gt;
+
+&lt;p&gt;El 14 de marzo de 1994, salió Linux 1.0.0, que constaba de 176.250 líneas de código, hoy tiene 25.5 M de líneas de código en el linux 5.12&lt;/p&gt;
+
+&lt;p&gt;Hoy es esponsoreado por las grandes corporaciones&lt;/p&gt;
+
+&lt;p&gt;La pieza de código que controla periféricos, controla los recursos, alrededor de esto se montan los otros programas, con una declaración de principios.  Cada programa hace una sola cosa, pero la hace bien y de documenta todo.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;en-principio-fue-la-línea-de-comandos&quot;&gt;En principio fue la línea de comandos.&lt;/h2&gt;
+
+&lt;p&gt;El escritor de Ciencia Ficción Neal Stephenson escribió este ensayo interesante, 
+&lt;a href=&quot;https://www.holaebook.com/book/neal-stephenson-en-el-principio-fue-la-linea-de-comandos.html&quot;&gt;Link para En Principio fue la línea de Comandos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La metáfora de la tienda de Deportivos italianos, frente a la de bicicletas con motor y la comunidad de hippies que arma tanques de última generación, que tienen la estética de los deportivos italianos (de hecho ultimamente los deportivos copian a Linux), gastan menos que la bicicleta y son &lt;strong&gt;gratis&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lo que comienza como una religión de hippies fundamentalistas termina el 9 de julio del 2019 cuando &lt;strong&gt;IBM&lt;/strong&gt; anuncia la compra de &lt;strong&gt;RedHat&lt;/strong&gt; en 34 mil millones de dólares. &lt;a href=&quot;https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future&quot;&gt;IBM compró RedHat&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;porqué-linux&quot;&gt;Porqué Linux&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Porque muchos servers a los que accedemos, corren &lt;strong&gt;apache&lt;/strong&gt;, o &lt;strong&gt;nginx&lt;/strong&gt;, y entramos por SSH a hacer cualquier tipo de tareas administrativas o de gestión.  Ver logs puede ser muy tedioso.  Con un par de combinaciones de comandos se simplifica mucho. Todas esas tareas vamos a tener que hacerlas desde la línea de comando.&lt;/li&gt;
+  &lt;li&gt;Pueden borrarse cientos de miles de archivos con un comando que cabe en una línea y luego dejarlo como tarea programada.&lt;/li&gt;
+  &lt;li&gt;Cuando se rompe un windows, podes bootear una llave USB con una distribución live y arreglar gran parte de los problemas.&lt;/li&gt;
+  &lt;li&gt;La filosofía de Linux es hacer programas muy &lt;strong&gt;simples&lt;/strong&gt;, muy &lt;strong&gt;específicos&lt;/strong&gt;, consumiendo muy &lt;strong&gt;pocos recursos&lt;/strong&gt;, que hacen una &lt;strong&gt;sola cosa&lt;/strong&gt;, pero &lt;strong&gt;bien&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Esto nos da combinaciones de programas que tienen como entradas la salida de otro.&lt;/li&gt;
+  &lt;li&gt;Programas que corren en serie (vía pipe) la salida del primer programa, es la entrada del siguiente y así sucesivamente.&lt;/li&gt;
+  &lt;li&gt;Programas que corren en paralelo (vía segundo plano)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Dentro de Bash tenemos cientos de programas instalados por defecto en todas las distribuciones [Li&lt;/td&gt;
+          &lt;td&gt;U]nix, dejamos un listado de apenas algunas.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;La analogía que me gusta mostrar siempre es intentar ver el contenido de un archivo .csv &lt;strong&gt;&lt;em&gt;-grande-&lt;/em&gt;&lt;/strong&gt; en la línea de comando y en Excel.&lt;/li&gt;
+  &lt;li&gt;Aparece nuevo Hard diariamente, micro computadoras como raspberry, o tvbox que utilizan microprocesadores de la familia ARM con menor consumo.&lt;/li&gt;
+  &lt;li&gt;Market share distinto para Desktop &lt;code&gt;3%&lt;/code&gt;, mobile, servers, supercomputadoras. &lt;a href=&quot;https://en.wikipedia.org/wiki/Usage_share_of_operating_systems&quot;&gt;Nota wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Licencias, no solo por costos, en linux la licencia GNU permite copiar, usar, distribuir y mejorar un programa, con la sola obligación de seguir el trace de los colaboradores.  Y &lt;strong&gt;costos&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Customización, no solo estética, que para usuarios de escritorio es muy importante, sino por hacer puntualemente una cosa bien.  Las imágenes para servers no incluyen configuraciones de sonido, ni impresoras, ni entornos gráficos.  Son mas eficientes.&lt;/li&gt;
+  &lt;li&gt;Encendes una pc con linux instalado hace 3 años y arranca como el primer día.&lt;/li&gt;
+  &lt;li&gt;Seguridad, la cuota de mercado de virus para linux es casi inexistente.&lt;/li&gt;
+  &lt;li&gt;El FBI, la NASA, la bolsa de NYC, Facebook, twitter, usan la mayoría red hat enterprise.  Google usa una versión de ubuntu.  El CERN Comisión Europea para la Investigación Nuclear, donde está el mayor colisionador de hadrones del mundo, usa tambien Red Hat Enterprise.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;listado-de-archivos&quot;&gt;Listado de Archivos&lt;/h2&gt;
+&lt;p&gt;Cuando listamos, podemos agregar parámetros al comando &lt;code&gt;ls&lt;/code&gt; archivos vemos algo parecido a esto, &lt;code&gt;-a&lt;/code&gt; agrega la posibilidad de ver ficheros ocultos.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[marco@marcocenturion Linux]$ ls -lsa
+total 356
+  4 drwxr-xr-x  8 marco marco   4096 mar 25 23:42 .git
+  4 drwxr-xr-x  2 marco marco   4096 mar 25 20:20 images
+296 -rw-r--r--  1 marco marco 302548 mar 25 23:23 index.html
+ 36 -rw-r--r--  1 marco marco  35149 mar 25 19:42 LICENSE
+  8 -rw-r--r--  1 marco marco   8179 mar 26 08:49 README.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;d = directorio
+ rwx = Permisos de lectura (r) escritura (w) y ejecución (x) del usuario marco
+    rwx = Permisos de lectura (r) escritura (w) y ejecución (x) del grupo marco
+        rwx = Permisos del resto de los usuarios
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;chmod o+wx README.md&lt;/code&gt; va a permitir que otros puedan leer y “ejecutar” README.md si fuera ejecutable&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;chmod g+rx&lt;/code&gt; Permite leer y escribir a este grupo&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;chmod g-r&lt;/code&gt; Quita permisos de lectura a este grupo&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;chmod g+r,o-rwx&lt;/code&gt; Agrega permiso de lectura al grupo y elimina todos al resto de los usuarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;chgrp juan README.md&lt;/code&gt; va a permitir que usuarios del grupo llamado juan puedan leer&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;find&quot;&gt;find&lt;/h2&gt;
+&lt;p&gt;Cuando listamos con &lt;code&gt;find&lt;/code&gt; podemos indicar que solo sean &lt;code&gt;-file&lt;/code&gt; o tipos puntuales de archivos como ejecutables.  &lt;code&gt;-name&lt;/code&gt; indica el nombre.  La lógica es la siguiente:&lt;/p&gt;
+
+&lt;p&gt;find &lt;directorio&gt; &lt;opciones&gt; &lt;parametros&gt;
+    Directorio actual `.` Todo el sistema `/` Desde el home `~`&lt;/parametros&gt;&lt;/opciones&gt;&lt;/directorio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;find . -name archivo.txt&lt;/code&gt; SI en lugar de -name ponemos -iname para omitir case sensitive.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;find . -type d&lt;/code&gt; (d=directorio f=archivo i=enlace)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;find . -atime 1&lt;/code&gt; (un día desde la última lectura o escritura -mtime desde la    última modificación)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;find . -f -mmin -10&lt;/code&gt; Encontrar un archvio que fue modificado hace menos de 10 minutos.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;find . -size 10M&lt;/code&gt; exactamente 10 megabites &lt;code&gt;+1G&lt;/code&gt; mas de un gigabite&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;find ~ -type f -size +1G&lt;/code&gt; todos los archivos de mas de 1G (para eliminar)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;finde ~ -executable&lt;/code&gt; buscar ejecutables&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;salida&lt;/strong&gt; del comando &lt;strong&gt;find&lt;/strong&gt; se la pasamos en este caso a &lt;strong&gt;cat&lt;/strong&gt; como &lt;strong&gt;argumento&lt;/strong&gt; y le pedimos que numere los renglones.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;find . -name READ*| xargs cat | grep archivos -n
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;arbol-de-carpetas-linux&quot;&gt;Arbol de carpetas linux&lt;/h2&gt;
+&lt;p&gt;En el árbol de directorios de linux, existen directorios a los que puede acceder un usuario sin privilegios y otros a los que solo puede acceder el super usuario &lt;strong&gt;root&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Usuarios sin permisos
+/home/usuario
+/var/logs
+/var/html
+/opt&lt;/p&gt;
+
+&lt;p&gt;Solo accede el superusuario o dándole permisos de superusuario a un usuario
+/etc
+/boot
+/root&lt;/p&gt;
+
+&lt;p&gt;Directorio Raiz
+/&lt;/p&gt;
+
+&lt;p&gt;Directorio de arranque, donde se almacenan los ejecutables para que arranque el sistema, la imagen del kernel
+/boot&lt;/p&gt;
+
+&lt;p&gt;Directorio donde se archivan los ejecutables de sistema
+/bin (ejecutables de todos los usuarios)
+/sbin (ejecutables solo por root)&lt;/p&gt;
+
+&lt;p&gt;Directorio de los dispositivos, ya que todos los dispositivos de linux, son tratados como un archivo, dependiendo de la distribución, estos archivos están dentro de 
+/dev&lt;/p&gt;
+
+&lt;p&gt;Directorio de configuración del sistema
+/etc&lt;/p&gt;
+
+&lt;p&gt;Directorio del usuario, por lo general, al crearse un usuario, Linux crea un entorno para ese usuario dentro del cual crea un directorio en 
+/home/usuario&lt;/p&gt;
+
+&lt;p&gt;Directorio de las librerías (por ejemplo java)
+/lib&lt;/p&gt;
+
+&lt;p&gt;Directorio de programas que no vienen por defecto en linux
+/opt&lt;/p&gt;
+
+&lt;p&gt;Directorio de los procesos que están corriendo
+/proc&lt;/p&gt;
+
+&lt;p&gt;Directorio de los logs
+/var/logs&lt;/p&gt;
+
+&lt;p&gt;Directorio de temporales
+/tmp&lt;/p&gt;
+
+&lt;p&gt;Directorio de los programas, los ejecutables, librerías, fuentes, man pages
+/usr&lt;/p&gt;
+
+&lt;p&gt;Directorio recuperado
+/lost+found&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;stderr-stdin-stdout-pipe-y-atajos-de-teclado&quot;&gt;stderr stdin stdout pipe y atajos de teclado&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|fsc &lt;code&gt;Tab&lt;/code&gt;|Completa predictivamente el comando fsck y muestra un listado de posibles comandos|
+|ls &amp;gt; &lt;code&gt;archivos.txt&lt;/code&gt;|Envía la salida del comando ‘ls’ a ‘archivos.txt’|
+|ls » &lt;code&gt;archivos.txt&lt;/code&gt;|Agrega a archivos.txt el resultado de ls|
+|cat &lt;code&gt;archivos.txt&lt;/code&gt; | grep linux|La salida de ‘cat’ es la entrada de ‘grep’|
+|apt update &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; apt upgrade |Hace un update del sistema y luego upgrade|
+|rm * || ls |Borra todos los archivos y si falla lista los archivos| 
+|Ctrl + 1|Cambia a la TTS 1 de las 7 que tiene|
+|Ctrl + c|Termina comando que se está ejecutando|
+|Ctrl + z|Suspende un proceso|
+|Ctrl + d|Muestra el final de un archivo|
+|Ctrl + Alt + t|Abre una nueva terminal|
+|&amp;amp;|Al final del comando lo hace correr en segundo plano|&lt;/p&gt;
+
+&lt;h2 id=&quot;system&quot;&gt;System&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|date|Despliega día y hora|
+|uname &lt;code&gt;-a&lt;/code&gt;|Toda la info del sistema|
+|screenfetch|descripción del sistema 2.0|
+|ls &lt;code&gt;-argumentos&lt;/code&gt;|Listado de archivos y directorios|
+|cd|Cambia de directorio, &lt;code&gt;~&lt;/code&gt; es el home|
+|pwd|Muestra el directorio actual|
+|man &lt;code&gt;cd&lt;/code&gt;|Manual del comando|
+|cd &lt;code&gt;--help&lt;/code&gt;|Ayuda rápida del comando cd|
+|mkdir|Crea un directorio|
+|mv &lt;code&gt;-argumentos&lt;/code&gt;|Mueve archivos y directorios o renombra|
+|cp &lt;code&gt;-argumentos&lt;/code&gt;|Copia archivos y directorios|
+|rm|Borra|
+|cal|Calendario|
+|file &lt;code&gt;archivo.txt&lt;/code&gt;|Muestra que tipo de archivo|
+|history|Historial de comandos en Bash &lt;code&gt;-n&lt;/code&gt; agrega el número de línea|
+|alias|Genera un enlace a un comando con un nombre distinto, puede agregar parámetros|
+|set|Información del entorno de usuario|
+|halt|Detiene el sistema|
+|reboot|Reinicia el sistema|
+|exit|Salida de la sesión de usuario|
+|free|Muestra la memoria libre de sistema|
+|env|Muestra las variables de entorno del usuario|
+|bc|Calculadora en línea de comando|
+|mc|Midnight Commander clone de Norton Commander|
+|tree|Muestra el Arbol de directorio desde donde está parado el usuario|
+|clear|Limpia la pantalla|
+|echo ‘Hola mundo’|Saca por pantalla hola mundo|&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|lscpu|Muestra info del Hard y Soft|
+|lsblk|Muestra los dispositivos y el punto de montaje|
+|lspci|Muestra periféricos conectados a la máquina|
+|lsusb|Muestra puertos usb|&lt;/p&gt;
+
+&lt;h2 id=&quot;sistema-de-paquetes&quot;&gt;Sistema de paquetes&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|yum rpm|Sistema de paquetes de Red hat, Suse, Centos|
+|apt deb|Sistema de paquetes Debian, Ubuntu y derivados|
+|slapt txz|Sistema de paquetes Slackware|
+|pacman|Sistema de paquetes de ArchLinux|
+|tar|Empaquedador de archivos sin comprimir|
+|gzip|Empaquetador y compresor de archivos|
+|7z|Compresor de archivos universal|&lt;/p&gt;
+
+&lt;h2 id=&quot;permisos&quot;&gt;Permisos&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|chmod o+x &lt;code&gt;archivo&lt;/code&gt;|Da permisos de ejecución a otros a este archivo|
+|chmod g-r &lt;code&gt;archivo&lt;/code&gt;|Elminia permisos de lectura al grupo para este archivo|
+|chown &lt;code&gt;usuario archivo&lt;/code&gt;|Cambia el usuario de un archivo|
+|chgrp|Cambia el grupo &lt;code&gt;marco&lt;/code&gt;|
+|sha256sum|Algoritmo sha-2 de hash seguro de 256 bits|&lt;/p&gt;
+
+&lt;h2 id=&quot;red&quot;&gt;Red&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|netstat|Muestra el estado de la red|
+|ifconfig|Muestra la configuración de la placa de ethernet|
+|iwconfig|Muestra la configuración de la placa de wifi|
+|nmap|Muestra los puertos|
+|netconf|Muestra la configuración de red|
+|ping &lt;code&gt;host&lt;/code&gt;|Envía una señal a google y espera el regreso|
+|ip addr show|Muestra todas las interfaces direcciones IP|
+|ip address add xxx.xxx.xxx.xxx dev etc0|Asinga una ip a una tarjeta de red|
+|wget file|Baja un archivo|
+|dig domino|Obtiene el DNS del dominio|&lt;/p&gt;
+
+&lt;h2 id=&quot;usuarios&quot;&gt;Usuarios&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|whoami|Que usuario estoy usando|
+|adduser o useradd|Agrega un nuevo usuario|
+|userdel|Borra usuario|
+|su|Cambia de usuario|
+|passwd|Cambia la contraseña|
+|who|Muestra los usuarios en el sistema|
+|id|Datos de identificación del usuario|
+|groupadd -|Agrega un grupo de usuario|
+|addgroup|Agrega un grupo|&lt;/p&gt;
+
+&lt;h2 id=&quot;gestión-de-archivos-búsquedas-flags&quot;&gt;Gestión de archivos, búsquedas, flags&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|&lt;em&gt;|Todos los archivos|
+|&lt;/em&gt;.txt|Todos los archivos con extension txt|
+|cat &lt;code&gt;archivo.txt&lt;/code&gt;|Muestra todo el contenido de archivo.txt|
+|more &lt;code&gt;archivo.txt&lt;/code&gt;|Muestra el contenido de archivo.txt por página|
+|head &lt;code&gt;archivo.txt&lt;/code&gt;|Muestra los 10 primeros renglones de archivo.txt|
+|tail &lt;code&gt;archivo.txt&lt;/code&gt;|Muestra los 10 últimos renglones de archivo.txt|
+|wc|Cuenta el contenido de un fichero &lt;code&gt;-l&lt;/code&gt; líneas &lt;code&gt;-c&lt;/code&gt; caracteres &lt;code&gt;-w&lt;/code&gt; palabras|
+|locale &lt;code&gt;file&lt;/code&gt;|Localizar un archivo en el sistema|
+|find &lt;code&gt;parámetros&lt;/code&gt;|Encontrar un archivo según los parámetros|
+|grep |Encontrar un patrón dentro de un archivo|
+|grep -E ‘rojo|negro’ | Expresiones regulares|
+|tr &lt;code&gt;'.' '\t'&lt;/code&gt; &lt;code&gt;archivo.txt&lt;/code&gt;|Cambiar todos los puntos del archivo.txt por tabulados|
+|cut &lt;code&gt;-d, -f4&lt;/code&gt;|Cortar el archivo segun las comas y mostrar el campo 4|
+|which &lt;code&gt;python&lt;/code&gt;|Muestra la versión de Python|
+|column|Encolumna los resultados|
+|sed ‘s/esto/aquello/g’|Cambia una cadena por otra|
+|sort &lt;code&gt;Parámetros&lt;/code&gt;|Ordena una lista de archivos sergún parámetros|
+|uniq|En un listado ordenado elimina las cadenas repetidas|
+|diff &lt;code&gt;archivo.txt&lt;/code&gt; &lt;code&gt;archivo1.txt&lt;/code&gt;|Muestra las diferencias entre dos archivos|
+|xargs|Ejecuta un comando tomando como entrada la salida de un comando anterior|
+|wget|Bajar el contenido de un sitio|
+|curl|Traer el codigo html de un sitio|&lt;/p&gt;
+
+&lt;h2 id=&quot;tareas-programadas&quot;&gt;Tareas programadas&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|cron|Se ejecuta un comando periodicamente un comando|
+|at|A determinado momento se ejecuta una sola vez este comando|&lt;/p&gt;
+
+&lt;h2 id=&quot;accesos-remotos&quot;&gt;accesos remotos&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|ssh &lt;code&gt;usuario@host -p&lt;/code&gt;|Entra a otra pc por SSH, como Putty en windows|
+|ftp|Entra a una pc por protocolo ftp|
+|rdesktop|Acceso a otra computadora por Remote Desktop de Windows|
+|vnc|Acceso por VNC|&lt;/p&gt;
+
+&lt;h2 id=&quot;procesos&quot;&gt;Procesos&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|htop|Listado ‘Friendly’ de procesos|
+|top|Listado de procesos por default en todas las distribuciones|
+|time|Mide el tiempo que tarda un proceso en ejecutarse|
+|kill|Mata un proceso|
+|killall|Mata al proceso por su nombre|
+|ps|procesos del usuario|&lt;/p&gt;
+
+&lt;h2 id=&quot;disco&quot;&gt;Disco&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|lsblk|Listado de dispositivos montados|
+|fdisk|Formatea particiones|
+|df &lt;code&gt;-h&lt;/code&gt;|Espacio en Disco ‘-h human readable’|
+|dd &lt;code&gt;if of&lt;/code&gt;|Copia todo el disco completo como imagen|
+|mount|Monta un sistema de archivos|
+|fsck &lt;code&gt;.fat .ext3&lt;/code&gt;|Estado y corrección del sistema de archivos|&lt;/p&gt;
+
+&lt;h2 id=&quot;editores-vi-emacs-nano-joe&quot;&gt;Editores: vi, emacs, nano, joe&lt;/h2&gt;
+&lt;p&gt;|Comando|Utilidad|
+|—|—|
+|touch|Crea un archivo|
+|vi &lt;code&gt;archivo.txt&lt;/code&gt;|Abre archivo.txt con vi, sale con &lt;code&gt;esc&lt;/code&gt; +wq|&lt;/p&gt;
+
+&lt;h2 id=&quot;awk&quot;&gt;awk&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Awk es todo un lenguaje que se ejecuta línea por línea&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;|Comando|Utilidad|
+|—|—|&lt;/p&gt;
+
+&lt;h2 id=&quot;scripting&quot;&gt;Scripting&lt;/h2&gt;</content><category term="Linux" /><summary type="html">Linux
+Que es Linux</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry><entry><title type="html">Viaje a Colombina 2018</title><link href="http://localhost:4000//blog/2022/03/26/Colombia.html" rel="alternate" type="text/html" title="Viaje a Colombina 2018" /><published>2022-03-26T16:41:34-03:00</published><updated>2022-03-26T16:41:34-03:00</updated><id>http://localhost:4000//blog/2022/03/26/Colombia</id><content type="html" xml:base="http://localhost:4000//blog/2022/03/26/Colombia.html">&lt;h1 id=&quot;cartagena-santa-marta-parque-tayrona&quot;&gt;Cartagena, Santa Marta, Parque Tayrona&lt;/h1&gt;
+
+&lt;p&gt;Las prácticas semibrujeriles de Remedios la bella -creo que se trataba de ella, o eso quiero pensar- no difieren mucho de las de &lt;strong&gt;la tía Elba&lt;/strong&gt; y sus curas de empacho, por citar la mas cercana en afectos.&lt;/p&gt;
+
+&lt;p&gt;No pretendo con esto colocarme en paridad al delirio místico de Carlos Castaneda, ni los literarios de Cortazar, o Cabrera Infante, conocedor de mis escasos recursos literarios, tengo pretenciones mas “&lt;strong&gt;de cabotaje&lt;/strong&gt;”, tampoco pretendo hacer una tesis doctoral sobre el caracter curativo de ciertas prácticas, solo hablar de magia, que ya es bastante.&lt;/p&gt;
+
+&lt;p&gt;Porque como ya anticipara el siglo pasado el genial Luis Althusser, “lo que no se puede explicar, se narra”&lt;/p&gt;
+
+&lt;h2 id=&quot;la-magia-ocurre-a-diario-pero-pasa-desapercibida-por-cotidiana&quot;&gt;La magia ocurre a diario, pero pasa desapercibida por cotidiana.&lt;/h2&gt;
+
+&lt;p&gt;Por algún extraño capricho de ingenieros industriales sádicos, los paquetes de galletitas continúan incluyendo una cinta roja -cual si perteneciera a la corona británica- para &lt;em&gt;facilitar&lt;/em&gt; el apertura del paquete, cosa que no solo nunca ocurre, sino que además, una vez abierto el paquete con un cuchillo -práctica esta de extensión mundial- ese mismo aditamento rojo solo sirve para dificultar aun mas la extracción del mencionado alimento.&lt;/p&gt;
+
+&lt;p&gt;Es mío, tengo derecho a reclamar regalías por el uso de la frase anterior, todo esto no es mas de un juego de palabras con pretenciones de comicidad.&lt;/p&gt;
+
+&lt;p&gt;Dicho esto, &lt;strong&gt;con ustedes, los actores&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tendemos a asignarle magia, o poderes sobrenaturales a aquello cuya complejidad nos abruma. Por lo general esto ocurre por desconocimiento de la “grilla de variables” que hacen a su funcionamiento.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo con ternura la apertura de una radio a transistores por parte de mi papá a mis cuatro años -para renovar las pilas seguramente- y la graciosa explicaciíon de este a mi consulta sobre su funcionamiento, para reirse él.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Los tipitos que hablan viven ahí adentro-&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gracias a esa curiosa variación de un sarcarmo, entiendo que mi aparato cognitivo tuvo una actitud puntual frente a las convenciones, las respuestas genéricas, la normalidad y tantos lugares comunes indiscutibles.  Tengo cierta incapacidad de tolerancia a la &lt;strong&gt;Normalidad.&lt;/strong&gt;  Descubrí de manera autodidacta -seguramente mal- conceptos como amplificador de baja frecuencia, de alta, el objeto de un capacitor en la pata de un transistor.&lt;/p&gt;
+
+&lt;p&gt;Hoy reconozco que era preferible la magia de gente pequeña.&lt;/p&gt;
+
+&lt;p&gt;El ejemplo de funcionamiento mágico que mas a mano tengo es el del vuelo de un avión de pasajeros.  Mágico al ojo indocto, cuando en realidad todo se reduce a un delicado equilibrio de variables, peso, empuje, superficie alar, densidad del aire, temperatura y un etc. muy pequeño de valores adicionales.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, el solo hecho de estar apoyados en tierra firme, hace que tengamos una sensación mayor de seguridad transitando en auto por Acceso Norte de la Ciudad Autónoma de Buenos Aires, que por comodidad y convención llamaremos simplemente CABA; confiando ciegamente en verdades tan dudosas como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Funcionamiento general y sincronización de semáforos.&lt;/li&gt;
+  &lt;li&gt;Averías - salu de trenes delanteros o frenos de los diez mil autos colindantes.&lt;/li&gt;
+  &lt;li&gt;Presencia o no de baches de diferentes tamaños.&lt;/li&gt;
+  &lt;li&gt;Grado de alcohol en sangre -u otros tóxicos- en conductores colindantes.&lt;/li&gt;
+  &lt;li&gt;Cumplimiento de protocolos en agentes del orden respecto de disparar armas de fuego.i&lt;/li&gt;
+  &lt;li&gt;Grado de alcohol en sangre -u otros tóxicos- en agentes del orden.&lt;/li&gt;
+  &lt;li&gt;Conocimiento y observancia de esos conductores colindantes de las normas de tránsito vigentes.&lt;/li&gt;
+  &lt;li&gt;Posibilidad de lleguada de un mensaje a ninguno de esos conductores de un tercer(e) sobre “salir esa noche”, que lo fuerce a lectura compulsiva, o video escatológico, o chiste, que quiten tres milisegundos sus ojos del “horizonte artificial”.&lt;/li&gt;
+  &lt;li&gt;Llamadas de ex de cualquiera de los anteriores.&lt;/li&gt;
+  &lt;li&gt;Llamadas de ex al conductor.&lt;/li&gt;
+  &lt;li&gt;Horas de sueño real de todos y cada uno de esos individuos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El Etc es demasiado largo y ya se dentra demasiado en terreno filosófico, como dice Darío Z, todos debemos pensar al menos una vez a la semana en nuestra finitud.&lt;/p&gt;
+
+&lt;p&gt;Entendemos luego la famosa frase que sostiene que &lt;strong&gt;“Dios está en todos lados pero atiende en Buenos Aires”&lt;/strong&gt; hace referencia a que como en la guerra de Troya, está mirando desde algún túmulo y corrigiendo imperfecciones sobre la marcha, otra explicación no existe a deseso diario de mil personas por accidentes.&lt;/p&gt;
+
+&lt;p&gt;Eso es mágico.  El aterrizaje de un Airbus 380 al lado de eso es un trámite.&lt;/p&gt;
+
+&lt;p&gt;Los que saben de aeronavegación sostienen con argumentos muy interesantes, que para que ocurra el accidente aéreo, se deben acumular una serie de coincidencias, para ello sugieren una imagen, las burbujas del queso gruyere.  Para que podamos ver de un lado a otro de la porción de gruyere, tienen que alinearse ocho burbujas.  Para un accidente aéreo, sostienen que tienen que darse ocho errores en línea.&lt;/p&gt;
+
+&lt;p&gt;Analizando el avión en vuelo y el viaje por el Acceso Norte en hora pico, cada uno haga sus cálculos de burbujas y magia.&lt;/p&gt;
+
+&lt;p&gt;Toda esta intro solo sirve de corolario para decir que en Colombia, esto se agrava.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-viaje-a-colombia&quot;&gt;El Viaje a Colombia&lt;/h3&gt;
+&lt;p&gt;Utilizamos Airbnb para tomar un dpto en Santa Marta.  Luis y Karen fueron cordiales, atentos y expeditivos al máximo.  Me sorprendió una ambiguedad en las respuestas a consultas de tiempos de viaje en colectivo de Santa Marta hasta el Parque Tayrona, que rompió esa lógica.&lt;/p&gt;
+
+&lt;p&gt;La sorpresa no viene de esa respuesta sola, sino que me alertó sobre respuestas similares sobre el mismo tema, un viaje por carretera no tiene una respuesta cierta.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Puede demorar dos horas o dos y media, o tres, tal vez mas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Al notar que el margen de error es muy por encima del 10% esperable y mas cercano al 100%, surge inmediatamente la pregunta.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;¿Porqué?&lt;/li&gt;
+  &lt;li&gt;Accidentes por lo general.  Fue la respuesta.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hasta no estar en la ruta, subidos a esa &lt;strong&gt;“Buseta”&lt;/strong&gt;, no entendimos cabalmente a que se refería.&lt;/p&gt;
+
+&lt;p&gt;Las normas de tránsito tal cual las conocemos, son ligeramente obviadas, digamos en honor a la poesía.  Es lógico y hasta esperable que en este rincón del mundo no se maneje con corrección.  Pero no a este extremo.  El derecho habla de &lt;strong&gt;“lagunas”&lt;/strong&gt; al existir legislación respecto de algo.&lt;/p&gt;
+
+&lt;p&gt;Aquí en cambio estamos en presencia de una suspensión temporal, como la que opera en los casorios sobre la prohibición del uso de armas de fuego, consumos tóxicos o sexo con consanguíneos en segundo grado.&lt;/p&gt;
+
+&lt;p&gt;Estamos en presencia de una Pausa, como la doble barra vertical en los dispositivos de música.&lt;/p&gt;
+
+&lt;p&gt;Subimos a un ómnibus pequeño, un bus, pero que los colombianos femeinizan por encontrarla mas pequeña -parecen machistas- y llaman tiernamente “buseta”&lt;/p&gt;
+
+&lt;p&gt;La buseta transita delante de la escuela a 20 km/h. lo que me llama la atención, pero sale de la ciudad y pareciera ponerse el pañuelo de rambo.  Descubrimos que suspension temporal de las leyes de tránsito opera en todos los órdenes, como tipos de vehículos, coniciones ambientales.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo que Ameli Poullon odia cuando los conductores de las películas, miran al costado mientras manejan, sabiendo que es una licencia del cine.  En Colombia esta actividad es literal.  El conductor habla riendo a carcajadas con su copiloto, mira hacia atras, y esporadicamente echa un vistazo al frente.&lt;/p&gt;
+
+&lt;p&gt;En Cartagena habíamos dado cuenta de cierta &lt;strong&gt;“polusión sonora”&lt;/strong&gt;, primero inadvertida por frecuente, luego evidente, el doble pitido tanto de taxis como de motocicletas.&lt;/p&gt;
+
+&lt;p&gt;Con el correr de las horas descubrimos que eran bienintencionada gente que ofrecía sus servicios.&lt;/p&gt;
+
+&lt;p&gt;Pareciera existir cierto código no escrito&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;pip pip&lt;/strong&gt; = Motociclista ofreciendo taxi&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;pip pip pip&lt;/strong&gt; = Idem anterior pero urgido economicamente&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;pip pip PEEEEE pip&lt;/strong&gt; = moto cruzando taxi, cercanos a la colisión&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PE PE&lt;/strong&gt;  = Taxi ofreciendo sus servicios&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;pip pip indefinido a eterno&lt;/strong&gt; = Entepreneur&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Con el paso de los días se adquiere un odio prolijo y negligente por esta actitud.  Está claro que matar a una de estas personas es delito.&lt;/p&gt;
+
+&lt;p&gt;Se agrava, puntualmente en &lt;strong&gt;Santa Marta&lt;/strong&gt;, ya que en el casco céntrico, las tiendas textiles parecieran competir por calidad y voluminosidad del volumen sonoro con el que ofrecen prendas, por caso, calzones, medias o jeans.&lt;/p&gt;
+
+&lt;p&gt;Juro haber visto personalmente una consola con un joven moreno disfrazado prolijamente con ropas de &lt;strong&gt;DJ&lt;/strong&gt;, intercalando increpaciones a comprar con ballenatos y bachatas.&lt;/p&gt;
+
+&lt;p&gt;El sonido este se superpone y convive con los anteriores, a los que se suma el diálogo de vendedores ambulantes y público general que debe interactuar con diálogos del tipo&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;¿De que sabor quiere el helado &lt;strong&gt;mi reina&lt;/strong&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pregunta el vendedor a una cliente femenina, que siempre es reina.&lt;/p&gt;
+
+&lt;p&gt;Uno puede sentirse tentado a pensar que esto dentro de la tienda mejora o se reduce.  Error.  Empeora.&lt;/p&gt;
+
+&lt;p&gt;Pareciera operar una competencia inter sectores dentro de la tienda:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sector Blanco&lt;/strong&gt; Vs. &lt;strong&gt;Ropa de dama&lt;/strong&gt;, o &lt;strong&gt;Juguetes&lt;/strong&gt; vs &lt;strong&gt;Bazar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ambos con su propia música, su propio DJ y arengas a compras.&lt;/p&gt;
+
+&lt;p&gt;Volviendo a la buseta que abandonó el casco céntrico, descubrimos con horror que al contrario de bip bip, cual correcaminos, su sonido por el contrario es mas parecido a BUUUU BUUU -posiblemente debido al tamaño-, y optar por hacer uso de tan noble dispositivo al pasar en &lt;strong&gt;&lt;em&gt;doble fila, en una curva, en una montaña, a dos camiones, acantilado, diez pasajeros&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;El mesanje oculto al que avanza de frente, en este extraño idioma morse es:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Corransé que todos vamos a morir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Llegamos al final de esos 2 segundos y no pasó nada, el chofer sigue charlando con su feliz acompañante, intercalando tres veces por frase la palabra &lt;strong&gt;“marica”&lt;/strong&gt;, ningún pasajero local parece temer a la muerte y lo mas extraño aún, tampoco ninguno de los prolijos europeos que son varios.&lt;/p&gt;
+
+&lt;p&gt;Miran hacia adelante, estiran cuello, se miran entre si, levantan los hombros “color local” pensarán.&lt;/p&gt;
+
+&lt;p&gt;Nadie grita, nadie lleva manos a la cabeza.&lt;/p&gt;
+
+&lt;p&gt;La magia existe. Como la lluvia de flores amarillas que nos contara Gabriel García Marquez cayeron cuando murió el mago Melquíadez.&lt;/p&gt;</content><category term="Linux" /><summary type="html">Cartagena, Santa Marta, Parque Tayrona</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000//images/default.jpg" /></entry></feed>

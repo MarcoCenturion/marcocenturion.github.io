@@ -8,9 +8,7 @@ image: '/images/default.jpg'
 lead_text: 'La sociedad de consumo.'
 ---
 
-
 ## Efemerides 29 de Julio
-
 
 No hablamos el lenguaje, la lengua es un virus que se propaga a través de los individuos.  Somos utilizados por la lengua y ella habla de nosotros.
 
