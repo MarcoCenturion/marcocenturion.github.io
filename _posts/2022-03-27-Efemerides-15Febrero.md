@@ -10,7 +10,7 @@ lead_text: 'Efemerides 15 de Febrero.'
 
 ## Efemerides 15 de Febrero
 
-1525 Herán Cortez ordena a ejecutar al útlimo emperador Azteca Cuautemoc.  Se toma el trabajo de quemarle pies y manos para confesar donde escondieron el los metales preciosos.  
+1525 Herán Cortez ordena la ejecución del útlimo emperador Azteca Cuautemoc.  Se toma el trabajo de quemarle pies y manos para confesar donde escondieron el los metales preciosos.  
 
 1806 luego de la victoria de Austerlitz Napoleón firma con Prusia el Tratado de Paris.  Lo realmente interesante de esta batalla, llamada "la de los tres  emperadores" es el genio militar de Napoleón, contra el Zar ruso y el emperador Austríco.  Previo a un gran e inminente enfrentamiento, Napoleón simula abandonar una posición ventajosa en la colina **convidando** al enemigo a atacarlo por el flanco derecho, debilitado ex profeso a la espera de refuerzos.  Cuenta la leyenda, que las piezas de artillería fueron colocadas en la colina apuntando al lago congelado, por donde atacaron los aliados, una vez que estuvieron todos cómodos comenzó el fuego, que no estbaba destinado a lastimar a las tropas enemigas, sino a **picar** el hielo, como hacemos frecuentemente con para el Fernet.  
 
