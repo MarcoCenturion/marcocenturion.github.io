@@ -8,11 +8,10 @@ image: '/images/default.jpg'
 lead_text: 'Bestiarios, fines del mundo y bellezas por el estilo.'
 ---
 
-#Mentira la verdad
+## Mentira la verdad
 
 
-En tiempos del engaño universal, decir la verdad  se convierte en un acto revolucionario.
-George Orwell
+En tiempos del engaño universal, decir la verdad  se convierte en un acto revolucionario.  ==George Orwell==
 
 Hay verdades absolutas que dejan de serlo por caprichos de la publicidad.¿O exactamente al revés?
 
@@ -42,15 +41,15 @@ El fin del mundo es bastante recurrente, hay algo de masoquismo en esta idea fij
 
 El fin del milenio parecía medio antojadizo, máxime si pensamos que la fecha de nacimiento de cristo parece discutible al menos en un radio de 100 años para arriba o abajo.
 
-Pero los paranoiqueros son inteligentes e inventaron el efecto Y2K. La explicación científica del fin del mundo que viene de la mano del chipset de dos dígitos para el año, no estaba previsto algo y que el mundo iba a colapsar el 31 de diciembre del 99, porque iban a caerse los ascensores, los edificios, los aviones iban a detener sus motores en el aire, los rifles iban a explotar en lugar de disparar, los relojes iban a empezar a contar para atrás y los muertos se iban a levantar de las tumbas.
+Pero los paranoiqueros son inteligentes e inventaron el efecto **Y2K**. La explicación científica del fin del mundo que viene de la mano del chipset de dos dígitos para el año, no estaba previsto algo y que el mundo iba a colapsar el 31 de diciembre del 99, porque iban a caerse los ascensores, los edificios, los aviones iban a detener sus motores en el aire, los rifles iban a explotar en lugar de disparar, los relojes iban a empezar a contar para atrás y los muertos se iban a levantar de las tumbas.  Recuerdo haber leido una nota sobre las Petronas en Malasia.  ¿O una peli?
 
 Pareciera que nada de eso pasó o tomamos la píldora equivocada de la matrix.
 
-Pero no, el fin del mundo mas copado era del calendario maya, el 12 del 12 del 2012. Parecía un poco mas creíble. Salvo por el pequeño detalle que los mayas no usaban el calendario gregoriano, porque sencillamente desconocían de la existencia de Europa y el papa Gregorio.
+Pero no, el fin del mundo mas copado era del calendario maya, el **12 del 12 del 2012**. Parecía un poco mas creíble. Salvo por el pequeño detalle que los mayas no usaban el calendario gregoriano, porque sencillamente desconocían de la existencia de Europa y el papa Gregorio.
 
 Papa que sostenía que el mundo tenía cinco mil años de antigüedad, como el resto del cristianismo. Verdad irrefutable so pena de achicharramiento en la hoguera.
 
-Sabemos que para los mayas el fin del mundo fué -paradojicamente- un 12, pero de octubre, cuando Cristóforo se arrodilló en un all inclusive caribeño, cuando bajó del Santa María of the Seas y reclamó todo lo que tocara a nombre de los reyes católicos, Perón e Isabelita.
+Sabemos que para los mayas el fin del mundo fué -paradojicamente- un 12, pero de octubre, cuando Cristóforo se arrodilló en un all inclusive caribeño, cuando bajó del crucero **Santa María of the Seas** y reclamó todo lo que tocara a nombre de los reyes católicos, Perón e Isabelita.
 
 En los Noventas rebosábamos de alegría porque USA no nos pedía Visa para ingresar a la Meca del capitalismo, después nos adecuamos a nuestra humilde condición de habitantes de “Costa Pobre” pero después de la visita del Barak, posiblemente volvamos a los “Años dorados”. No se.
 
