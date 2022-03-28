@@ -10,7 +10,7 @@ lead_text: 'Efemerides 16 de Junio.'
 
 ## Efemerides 16 de Junio
 
-La verde Irlanda tiene el honor de legar al mundo 8 premios Nobel de Literatura.
+La verde Irlanda tiene el honor de legar al mundo 8 premios Nobel de Literatura.  Una humilde narradora llega a decir:
 
 > Solo tenemos ovejas y duendes.
 
