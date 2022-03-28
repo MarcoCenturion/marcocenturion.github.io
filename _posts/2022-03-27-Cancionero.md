@@ -73,7 +73,7 @@ Esta idealizada vaca en cuestión, de hecho no nos **Dá** nada de motu propio, 
 
 Además, al agradecerle todo lo que nos dá, omitimos agradecerle el Vacío que nos deja. Nada que ver con el vacío que nos deja ella en esos casos que sugiere Sabina:
 
-“Lo malo no es que huyera,
+>>“Lo malo no es que huyera,
 con mi cartera y mi Gibbson Les Paul
 peor es que se fuera, llevandome ademas el corazón”
 
