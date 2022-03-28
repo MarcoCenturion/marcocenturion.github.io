@@ -13,18 +13,23 @@ lead_text: 'La derecha hace del ridículo una fortaleza política.'
 
 La derecha recicla periódicamente su catálogo de personajes que rayan el **ridículo**. 
 
-A simple vista, pareciera que lo hace para que riamos, como sugiere Homero en la Ilíada: "Los dioses traen penares a los hombres para que tengan motivo para cantar"
+A simple vista, pareciera que lo hace para que riamos, como sugiere Homero en la Ilíada: 
+
+> "Los dioses traen penares a los hombres para que tengan motivo para cantar"
 
 No es casual, no hay que caer en su trampa. 
 
-El mismísimo Joseph Goebels lo anticipaba: “Deben hablar de nosotros, aunque sea mal, criticándonos, pero algo deben decir”, ese mismo
-Goebels que guionaba -para quienes no lo recuerden- a un peiquenito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado y cuyo lema era:
+El mismísimo **Joseph Goebels** lo anticipaba: 
+
+> “Deben hablar de nosotros, aunque sea mal, criticándonos, pero algo deben decir”, 
+
+Ese mismo Goebels guionaba -para quienes no lo recuerden- a un peiqueñito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado y cuyo lema era:
 
 > "No fumadores, seguidme"-
 
 No es inimaginable una estrategia en la elección de estos impresentables.
 
-No pueden extraarnos hoy los bolsonaros ni los macris, ni las biblias en los golpes de estado.
+No pueden extrañarnos hoy los Bolsonaros ni los mafiosos disléxicos (innombrables por cábala), ni las biblias en los golpes de estado.
 
 No hace falta una herramienta de medición intelectual muy sofisticada, solo una inspección ocular nos llama a sonrisas culposas, porque nuestros padres nos inculcaron que no hay que reírse de los estúpidos, del color político que fueran.
 
@@ -35,6 +40,7 @@ Esto fue escrito en 2016 y da vértigo ver la cantidad de agregados de este psic
 Juli, de 4 años es mucho mas locuaz que ellos. Ambos.
 
 Recuerdo el primer ridículo que llega a mi recuerdo, el Capitán Ingeniero Álvaro Alsogaray.
+
 Ya el doble título nos anoticia de un indicio de pelotudez importante, hasta que un día se levanta y sugiere que debemos “pasar el invierno”.
 
 Sí lector desprevenido, esta frase famosa pertenecía a este ridículo.
@@ -61,9 +67,16 @@ Había un diputado de la UCD cuyo única virtud había sido ser cabo o sargento 
 
 Este impresentable levantaba la voz para argumentar una pelotudez, como Milei; tal vez en la creencia la voz alta le da validez como en los cuarteles y sin la peluca.
 
-Pinti decía que los argentinos en el counter del aeropuerto de New York gritan pensando que con el inglés de tercero comercial y hablando fuerte "zafan", pero los gringos terminan cagándote a tiros -y todos los que tenes alrededor- porque su actitud corresponde perfectamente con el entrenamiento que le dieron para reconocer una célula del Estado Islámico.  
+Enrique Pinti decía que los argentinos en el counter del aeropuerto de **New York** gritan pensando que con el inglés de tercero comercial y hablando fuerte "zafan", pero los gringos terminan cagándote a tiros -y todos los que tenes alrededor- porque su actitud corresponde perfectamente con el entrenamiento que le dieron para reconocer una célula del Estado Islámico.  
 
-Siguiendo ese hilo de pensamiento es posible que estos estúpidos crean que gritando imbecilidades se convierten en genialidades. "No se inunda mas", por ejemplo.
+Siguiendo ese hilo de pensamiento es posible que estos estúpidos crean que gritando imbecilidades se convierten en genialidades. 
+
+
+> "No se inunda mas"
+
+Por ejemplo, o ...
+
+> !Hay que pagar menos impuestos!  
 
 Otorgan demasiado valor a la voluntad, propio del Pensamiento Mágico, y confunden querer algo con hacerlo en los hechos (SIC)
 
@@ -79,9 +92,9 @@ Palito Ortega era otro patético, no porque lo veamos a la distancia con los ojo
 
 Palito después demostró quien es cuando fue gobernador de Tucumán.
 
-Casi me olvido de un patético, Francisco Franco. No solo su figura era risible, el título me mataba: “caudillo de España por la voluntad de dios”. ¡Negame que es una joda!
+Casi me olvido de un patético, **Francisco Franco**. No solo su figura era risible, el título me mataba: “caudillo de España por la voluntad de dios”. ¡Negame que es una joda!
 
-Susana Gimenez simula muy bien su patetismo, no es ninguna estúpida, pero su discurso pro pena de muerte es coherente con el personaje de “rubia pelotuda”, no con ella que es la única inteligente de todo esto conjunto apto para la carcajada. Mirta Legrand ya es otra cosa. Es inteligente y elige ser fascista.
+**Susana Gimenez** simula muy bien su patetismo, no es ninguna estúpida, pero su discurso pro pena de muerte es coherente con el personaje de “rubia pelotuda”, no con ella que es la única inteligente de todo esto conjunto apto para la carcajada. Mirta Legrand ya es otra cosa. Es inteligente y elige ser fascista.
 
 Por ahí a Mirta le quepa una disculpa. Solo si aceptamos la premisa que sostiene que nos derechizamos con la edad.
 
@@ -100,7 +113,7 @@ Un verdadero Ginnes.
 Error Tata. Ninguno de mis cercanos tuvo nada que ver con vos
 Ninguno de mis hermanos, tíos, padres, amigos, vecinos. No tengo nada que ver con vos.
 
-Mario Pereyra sacó un programa en la Tele que duró -afortunadamente- poco, después de décadas de radio. ¿Quien aparece en el primer programa? Luciano Benjamín Menendez. Parece una joda. No lo es.
+**Mario Pereyra** sacó un programa en la Tele que duró -afortunadamente- poco, después de décadas de radio. ¿Quien aparece en el primer programa? Luciano Benjamín Menendez. Parece una joda. No lo es.  El mismo Mario que militaba en contra de las vacunas y murió por COVID.
 
 Había un Peladito de ojos cocainómanos, que nos contó que regaló el país por nuestro bien, pero como lo decía en ingles no lo entendimos.
 
