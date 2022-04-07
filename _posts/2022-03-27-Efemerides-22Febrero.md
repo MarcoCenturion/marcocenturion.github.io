@@ -8,13 +8,14 @@ image: '/images/default.jpg'
 lead_text: 'La ley es el triunfo del status quo.'
 ---
 ## Efemerides 22 de Febrero
+
 Se instala en 1904 la Base Orcadas en la Antártida, la primera base permanente en el continente blanco.
 
 1945 los nazis ejecutan a los miembros de la Rosa Blanca, partidarios del pacifismo.
 
-1980 Leonid Bresnev y Jimmy Carter pactan la retirada sovietica de Afganistan, a condicion de la no ingerencia extranjera, cosa no comprendida 10 años después por George Bush, que procede a la invasión.  Poseer petroleo como recurso natural, cosa que no parece ser muy sana para los paises.  Los doble agentes la Cia se dan vuelta, aprovechan armamento y aprendizajes para usarlos contra los nuevos invasores.
+1980 **Leonid Bresnev** y **James Carter** pactan la retirada sovietica de Afganistan, a condiciónn de la no ingerencia extranjera, cosa no comprendida 10 años después por **George Bush**, que procede a la invasión.  Poseer petroleo como recurso natural, cosa que no parece ser muy sana para los paises.  Los doble agentes la Cia se dan vuelta, pasar a ser traidores de la traición, en un juego de muñecas rusas que se replican hasta el infinito, aprovechan armamento y aprendizajes para usarlos contra los nuevos invasores.
 
-1987 entra en vigor la ley de Punto Final. Que pone fin a las denuncias contra la dictadura cívico eclesiástica militar, por los delitos de tortura, muerte, persecusión, robo de bebés.  Digamos la parte especial del código penal completa, para abreviar.
+1987 entra en vigor la ley de **Punto Final**. Que pone fin a las denuncias contra la **dictadura cívico eclesiástica militar**, por los delitos de tortura, muerte, persecusión, robo de bebés, traición a la patria, entrega de activos a enemigos extranjeros, servilismo, gustos berretas, digamos toda la **parte especial** del **Código Penal** completa, para abreviar.
 
 1732 nace George Washington
 1788 nace Arthur Schopenhauer

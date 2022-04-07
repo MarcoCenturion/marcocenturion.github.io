@@ -13,35 +13,33 @@ lead_text: 'La derecha hace del ridículo una fortaleza política.'
 
 La derecha recicla periódicamente su catálogo de personajes que rayan el **ridículo**. 
 
-A simple vista, pareciera que lo hace para que riamos, como sugiere Homero en la Ilíada: 
+A simple vista, pareciera que lo hace para que riamos, como sugiere el rápsoda Homero en la Ilíada: 
 
 > "Los dioses traen penares a los hombres para que tengan motivo para cantar"
 
-No es casual, no hay que caer en su trampa. 
+No es casual, no hay que caer en su trampa, el ridículo no lo és, es un disfraz. 
 
-El mismísimo **Joseph Goebels** lo anticipaba: 
+Ya el mismísimo **Joseph Goebels** lo anticipaba: 
 
 > “Deben hablar de nosotros, aunque sea mal, criticándonos, pero algo deben decir”, 
 
-Ese mismo Goebels guionaba -para quienes no lo recuerden- a un peiqueñito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado y cuyo lema era:
+Ese mismo Goebels guionaba -para quienes no lo recuerden- a un pequeñito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado y cuyo lema era:
 
-> "No fumadores, seguidme"-
+> "¡No fumadores, seguidme!"-
 
-No es inimaginable una estrategia en la elección de estos impresentables.
+No es inimaginable una estrategia en la elección de estos **impresentables**.
 
-No pueden extrañarnos hoy los Bolsonaros ni los mafiosos disléxicos (innombrables por cábala), ni las biblias en los golpes de estado.
+No pueden asombrarnos hoy los **Bolsonaros** ni los mafiosos disléxicos (innombrables por cábala), ni las biblias en los golpes de estado.
 
-No hace falta una herramienta de medición intelectual muy sofisticada, solo una inspección ocular nos llama a sonrisas culposas, porque nuestros padres nos inculcaron que no hay que reírse de los estúpidos, del color político que fueran.
+No necesitamos de una herramienta de medición intelectual muy sofisticada, la sola inspección ocular nos llama a sonrisas culposas, porque nuestros padres nos inculcaron el respeto al prójimo, por estúpidos que fueran.
 
-En este muestrario resaltan varios hasta llegar a la platónica perfección, la pedorrada en su expresión mas acabada en la persona del ex presidente #MMLPQTP, con su bailecito, su balcón y su incapacidad para leer o hilar una oración de mas de cuatro palabras.  
+En este muestrario resaltan varios hasta llegar a la platónica perfección, la pedorrada en su expresión mas acabada en la persona del ex presidente #MMLPQTP, su bailecito en el histórico balcón, su lectura entrecortada o su dificultad para hacer armonizar verbalmente sujetos y predicados.  
 
 Esto fue escrito en 2016 y da vértigo ver la cantidad de agregados de este psicópata mal medicado y su vice presidenta incapaces ninguno de los dos de hilvanar una frase y hacer entendible su explicación a un tercero.  Aludiendo constantemente a metáforas difíciles de entender de ríos, montañas, mares, tormentas y luces al final de túneles. 
 
 Juli, de 4 años es mucho mas locuaz que ellos. Ambos.
 
-Recuerdo el primer ridículo que llega a mi recuerdo, el Capitán Ingeniero Álvaro Alsogaray.
-
-Ya el doble título nos anoticia de un indicio de pelotudez importante, hasta que un día se levanta y sugiere que debemos “pasar el invierno”.
+El primer ridículo que llega a mi recuerdo, el Capitán Ingeniero Álvaro Alsogaray.  Ya el doble título nos anoticia de un indicio de pelotudez importante, hasta el infausto día en que se levanta y sugiere que debemos “pasar el invierno”.
 
 Sí lector desprevenido, esta frase famosa pertenecía a este ridículo.
 

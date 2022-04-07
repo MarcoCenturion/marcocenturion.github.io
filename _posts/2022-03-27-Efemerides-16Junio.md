@@ -18,7 +18,9 @@ No por nada reservan un adjetivo -seannachie- para esos duendes contadores de hi
 
 > Inglaterra tiene solo 3 cosas buenas.  El té, el wisky y la literatura, pero el té es chino, el wisky escocés, y yo soy irlandes.
 
-Un 16 de junio de 1904 el ignoto irlandés James Augustine Aloysius Joyce, en adelante solo **James Joyce** conoce a **Aurora**.  Lo anterior no pretende ser una metáfora de su nacimiento, aludiendo a la homérica aurora de rosaseos dedos, sino de **Aurora Bernacle**, quien será la mujer que lo acompañará hasta el final de sus días.
+Un 16 de junio de 1904 el ignoto irlandés **James Augustine Aloysius Joyce**, en adelante solo **James Joyce** conoce a **Aurora**.  
+
+Lo anterior no pretende ser una metáfora sobre su nacimiento, podría pensarse que estamos aludiendo a la homérica aurora de rosaseos dedos, sino de **Aurora Bernacle**, quien será la mujer que lo acompañará hasta el final de sus días.
 
 Luego de una tormentosa juventud de hambre cantando en bares de europa, decide homenajear ese **16 de junio** en una novela que cambiará la literatura en adelante.  El **Ulises**.  Hay quienes sostienen que ya lo había hecho Macedonio.
 
@@ -26,7 +28,7 @@ Si el **Quijote de Cervantes** "marca la cancha" acerca de como debe ser una nov
 
 Ahora pareciera que la cancha es, o puede ser cónica, los jugadores cambian de equipo a mitad de juego y el partido no tiene final.  Pareciera que lo mas importante no ocurriera fuera de los personajes, sino adentro.
 
-Curiosamente, tanto el **Quijote** como el **Ulises** comparten extraños méritos.  Mucha gente los cita sin haberlos leído, ambos son íconos de sus lenguas y a la vez -lo que mas me gusta de ellos-, son detallados compendios de groserías y malas palabras.
+Curiosamente, el **Quijote** y el **Ulises** comparten extraños méritos.  Uno, no muy importnate, muchos eruditos los cita sin haberlos leído, ambos son íconos de sus lenguas y a la vez -lo que mas me gusta de ellos- son detallados compendios de groserías, malas palabras y escatológicas descripciones innecesarias.  
 
 En las 267000 palabras, de sus mil páginas, Joyce desde un exilio autoimpuesto, homenajea a Dublín con una presición obsesiva milimétrica.  
 
@@ -36,7 +38,9 @@ Me gusta imaginar que si el **Che Guevara** hubiera escrito un Ulises, estaría 
 
 Todos los 16 de Junio, **Dublin** estalla en festejos por el **Bloomday** homenajeando al trajicómico **Leopold Bloom**, antecedente directo de los actuales **Homero Simpsons** o **Torrente**.
 
-**Borges** sostiene que Joyce no tiene nada que envidiarle a Shakespeare en ese "colosal error" que es el Ulises, **Humberto Eco** en cambio va mas allá. sugiere que este micro y macrocosmos precede y anticipa la destrucción del mundo y que es como una vieja ciudad a la que queremos volver a beambular perdidos por la noche.  En una coferencia **Ernesto Sábato** confiesa no haber terminado la novela. 
+**Borges** sostiene que Joyce no tiene nada que envidiarle a Shakespeare en ese "colosal error" que es el Ulises, **Humberto Eco** en cambioi, va mas allá. Sugiere que este micro y macrocosmos **precede y anticipa** la destrucción del mundo y que es como una vieja ciudad a la que queremos volver a beambular perdidos por la noche.  
+
+En una coferencia sobre el Ulisses, **Ernesto Sábato** confiesa no haber terminado la novela. 
 
 Que es un homenaje a la Odisea homérica, que es una Rayuela de Cortazar, que está trazada como un rompecabezas.  Opresiva como el soliloquio de Molly del último capítulo, de varios miles de palabras sin una coma o un punto. 
 
