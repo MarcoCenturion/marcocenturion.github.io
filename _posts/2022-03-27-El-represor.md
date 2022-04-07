@@ -5,7 +5,7 @@ date: 2022-03-26 19:41:34
 categories: blog
 tags: Linux
 image: '/images/default.jpg'
-lead_text: 'La ley, el honor y la justicia.'
+lead_text: 'Dictadura.'
 ---
 
 # La Ley, el honor y la Justicia                 
