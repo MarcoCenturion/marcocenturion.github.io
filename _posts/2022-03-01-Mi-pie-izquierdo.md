@@ -19,7 +19,7 @@ Me gusta pensarlos como jazzeros que iban improvisando, una especie de flow actu
 >Helena, la mujer del Menelao, le dice que fué al mercao, pero to saben que se ha enfiestao,
 >con el coso de al lao.
 >Y el rey Agamenón, anda de bajón, por el fiestón, el fiestón, del bacilón,
->del bacilón, le va a hacer mal mucho mantecol, viejo fumón.
+>del bacilón, le va a hacer mal el mantecol, viejo fumón.
 >Odiseo, Odiseo. ¿Donde andai que no te veo?  Entregado a los brazos de Morfeo.
 
 Pero seguro se trata mas de una patología mía, poco verificable empíricamente con los datos arqueológicos.

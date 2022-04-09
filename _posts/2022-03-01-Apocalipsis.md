@@ -9,13 +9,17 @@ lead_text: 'Los miedos publicitarios.'
 ---
 
 
-# Apocalipsis
+## Apocalipsis
 
-Ya lo vimos en oportunidades anteriores, ya nos vaticinaban el fin del mundo con el **Y2K** o el apocalipsis del 2012 del calendario maya, por lo que estamos bastante acostumbrados a esperar en la reposera, con la lata de cerveza y las gafas de sol puestas (por las dudas). Asi dicen los panameños que esperan las hecatombes y me entusiasmo la idea.
+No es nuevo, ya lo vimos en oportunidades anteriores, vaticinaban el **fin del mundo** con el **Y2K** o el apocalipsis maya del 2012, por lo que estamos bastante acostumbrados a esperar en la reposera, con la lata de cerveza y las gafas de sol puestas (por las dudas). Asi dicen los panameños que esperan las hecatombes y me entusiasmo la idea.
 
 El ansiado apocalipsis, se caracteriza por demorarse mas de lo esperado.  Como el cuento del pastorcito que jodía con el lobo nos estamos acostumbrando a la paranoia.
 
-A la inversa de la utopía de **Eduardo Galeano** que sirve para algo -por lo menos para seguir caminando-, los apocalipsis supongo que pueden servir para vender libros onda Horangel o Ludovica.  Y no mucho mas que eso.
+A la inversa de la utopía de **Eduardo Galeano** que solo sirve 
+
+> "Para para seguir caminando" 
+
+Los apocalipsis supongo que pueden servir para vender libros onda Horangel o Ludovica.  Y algo mas que eso.
 
 Nos sorprendió la realidad el verano pasado, al prometernos la llegada un nuevo apocalipsis inverso, preñado de inversiones este, lluvias de capitales extranjeros para este segundo semestre del año.
 

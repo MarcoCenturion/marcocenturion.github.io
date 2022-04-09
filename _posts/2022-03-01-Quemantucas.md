@@ -8,11 +8,11 @@ image: '/images/default.jpg'
 lead_text: 'Inteligencia militar, un contrasentido interesante.'
 ---
 
-# Sarcasmo Castrense
+## Sarcasmo Castrense
 
 Altivos y valientes marchan los últimos hombres del general Jürgen Slamastik.
 
-Merma la soldadesca producto de la última hambruna.
+Merma la soldadesca de forma alarmante, producto de la última hambruna.
 
 Hambruna que algún sector atribuyó a una audaz iniciativa oficial, enfocada en reducir el peso corporal promedio de la tropa, cuando en realidad todo parece indicar que fue una **grave desinteligencia logística**.
 
