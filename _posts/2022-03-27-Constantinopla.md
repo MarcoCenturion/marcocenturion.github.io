@@ -8,26 +8,27 @@ image: '/images/default.jpg'
 lead_text: 'El comienzo de Constantinopla.'
 ---
 
-
 # Constantinopla
 
-Dice Eduardo Galeano, que andan diciendo por ahi que estamos hechos de átomos, pero que él está totalmente convencido que estamos hechos de historias.  No sé.  El sabrá.
+Dice **Eduardo Galeano**, que andan diciendo por ahi que estamos hechos de **átomos**, pero que él está totalmente convencido que estamos hechos de historias.  No sé.  El sabrá.
 
-Esta historia sigue la narración mucha mas bella de Isaac Asimov sobre "Constantinopla, el imperio olvidado". 
+Esta historia sigue la narración mucha mas bella de **Isaac Asimov**[^1] .  
 
-Se me ocurre a mi, que Constantinopla comenzó llamándose como se llamarban todas las ciudades de la Helade de aquel entonces: alguna cosa seguida del sufijo polis, como acostumbraban a hacerlo los griegos, ya que polis, significa ciudad, de allí la política es la ciencia que estudia las cosas de la ciudad.
+[^1]:"Constantinopla, el imperio olvidado". 
+
+Se me ocurre a mi, que Constantinopla comenzó llamándose como se llamarban todas las ciudades de la Helade de aquel entonces: algo seguido del sufijo **polis**, como acostumbraban a hacerlo los griegos, ya que polis, significa ciudad, de allí la política es la ciencia que estudia las cosas de la ciudad.
 
 Aristóteles -el estagirita- llegó a sostener que el único lugar donde había hombres era en la polis, fuera de esta solo había animales y dioses.
 
-Aquella sí era una época interesante para ponerle nombres a las cosas, puesto que no lo tenían, como en la Macondo inicial. 
+Aquella sí era una época interesante para ponerle nombres a las cosas, puesto que no lo tenían, como en la **Macondo** inicial.
 
-Ahora todo tiene nombre y se torna mucho mas difícil acostumbrar a la gente a cambiar de parecer y nombrar a la mariposa con el mucho mas bello nombre basko Pinpilimpausa, por solo citar un sustantivo entre miles o millones.
+Ahora que todo tiene nombre la gente es reacia a cambiar mariposa por el mucho mas bello nombre basko **Pinpilimpausa**, por solo citar un sustantivo entre miles o millones.
 
 En esas dos disciplinas, los antiguos griegos eran muy buenos, narrando y nombrando cosas.
 
 Lo cierto es que como la fundó el rey Bizas, no tardó en ser re bautizada Bizanzio, por estas rarezas de la historia.
 
-El pobre de don Bizas, se encontró en un difícil trance, la población de su ciudad natal Mégara estaba destinada al estancamiento al estar emplazada entre super ciduades de la época, Corinto y Atenas.
+Don Bizas el Rey, se encontró en un difícil trance, la población de su ciudad natal **Mégara** estaba destinada al estancamiento al estar emplazada entre super potencias de la época, Corinto y Atenas.
 
 La opción poco feliz hubiera sido trabarse en lucha con sus enemigos, pero como vislumbraba una derrota inminente la opción mas honrosa fue emigrar con los suyos, no sin antes acudir al oráculo de Apolo en Delfos. La pitonisa acostumbraba a encriptar bastante sus dichos, hay quien sostiene que lo hacía solo por diversion, aunque el revisionismo histórico parece otorgarle mas entidad a los tóxicos que ingería para establecer su comunicación con el mas allá.
 

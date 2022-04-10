@@ -13,29 +13,33 @@ Que es Linux
 
 ## El Kernel.
 
-**Linux Torval**, de  21 años en abril de 1991, empezó a escribir el primer kernel de Linux, intentando hacer un Minix (un Unix pequeño) desde cero, escribe su intención en un foro y pronto se suman muchos entusiastas.  
+El estudiante **Linux Torval** de la universidad de Helsinki, de  21 años en abril de 1991, empezó a escribir el primer kernel de Linux, intentando hacer un Minix (un Unix pequeño) desde cero, escribe su intención en un foro y pronto se suman muchos entusiastas.  En criollo: Hacer las pirámides de Giza, solo.  
 
 El 14 de marzo de 1994, salió Linux 1.0.0, que constaba de 176.250 líneas de código, hoy tiene 25.5 M de líneas de código en el linux 5.12
 
 Hoy es esponsoreado por las grandes corporaciones
 
-La pieza de código que controla periféricos, controla los recursos, alrededor de esto se montan los otros programas, con una declaración de principios.  Cada programa hace una sola cosa, pero la hace bien y de documenta todo.
+El Kernel es la pieza de código que controla periféricos, los recursos, arriba de él de esto se montan los otros programas, con una declaración de principios.  Cada programa hace una sola cosa, pero la hace bien y de documenta todo.
+
+Otro de los Principios es **KISS**[^1], por sus siglas en inglés.
+
+[^1]: Keep It Simple, Stupid.  Mantenelo simple, estúpido.
 
 ---
 ## En principio fue la línea de comandos.
 
-El escritor de Ciencia Ficción Neal Stephenson escribió este ensayo interesante, 
-[Link para En Principio fue la línea de Comandos](https://www.holaebook.com/book/neal-stephenson-en-el-principio-fue-la-linea-de-comandos.html)
+El escritor de Ciencia Ficción **Neal Stephenson** escribió este ensayo interesante, 
+[En Principio fue la línea de Comandos](https://www.holaebook.com/book/neal-stephenson-en-el-principio-fue-la-linea-de-comandos.html)
 
-La metáfora de la tienda de Deportivos italianos, frente a la de bicicletas con motor y la comunidad de hippies que arma tanques de última generación, que tienen la estética de los deportivos italianos (de hecho ultimamente los deportivos copian a Linux), gastan menos que la bicicleta y son **gratis**.
+Utiliza  una metáfora para explicar las diferencias entre sistemas operativos.  En una avenida hay una tienda de Deportivos italianos (Apple), frente a ella, una tienda de bicicletas con motor (Microsoft).  A las afueras de la ciudad se reune la comunidad de hippies (Linux, BSD, Solaris) que compiten por ver quien arma tanques de asalto soviéticos de última generación, que tienen la estética de los deportivos italianos (de hecho ultimamente los deportivos copian a Linux), gastan menos que la bicicleta y son **gratis**.
 
 Lo que comienza como una religión de hippies fundamentalistas termina el 9 de julio del 2019 cuando **IBM** anuncia la compra de **RedHat** en 34 mil millones de dólares. [IBM compró RedHat](https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future)
 
 ---
 ## Porqué Linux
-* Porque muchos servers a los que accedemos, corren **apache**, o **nginx**, y entramos por SSH a hacer cualquier tipo de tareas administrativas o de gestión.  Ver logs puede ser muy tedioso.  Con un par de combinaciones de comandos se simplifica mucho. Todas esas tareas vamos a tener que hacerlas desde la línea de comando.
+* Porque muchos servers a los que accedemos, corren **apache**, o **nginx**, y entramos por SSH a hacer cualquier tipo de tareas administrativas o de gestión.  Ver logs puede ser muy tedioso.  Con un par de combinaciones de comandos se simplifica mucho. Todas esas tareas vamos a tener que hacerlas desde la línea de comando desde la Terminal.
 * Pueden borrarse cientos de miles de archivos con un comando que cabe en una línea y luego dejarlo como tarea programada.
-* Cuando se rompe un windows, podes bootear una llave USB con una distribución live y arreglar gran parte de los problemas.
+* Cuando se rompe un windows, podes bootear una llave USB con una distribución *live* y arreglar gran parte de los problemas.
 * La filosofía de Linux es hacer programas muy **simples**, muy **específicos**, consumiendo muy **pocos recursos**, que hacen una **sola cosa**, pero **bien**.  
 * Esto nos da combinaciones de programas que tienen como entradas la salida de otro.  
 * Programas que corren en serie (vía pipe) la salida del primer programa, es la entrada del siguiente y así sucesivamente.
@@ -52,7 +56,10 @@ Lo que comienza como una religión de hippies fundamentalistas termina el 9 de j
 
 ---
 
-## Listado de Archivos
+## Comandos
+
+## Listado de archivos
+
 Cuando listamos, podemos agregar parámetros al comando `ls` archivos vemos algo parecido a esto, `-a` agrega la posibilidad de ver ficheros ocultos.
 
 ```
