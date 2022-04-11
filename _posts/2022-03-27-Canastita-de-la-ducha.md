@@ -1,4 +1,4 @@
----
+n--
 layout: blog
 title: 'Canastita de la ducha'
 date: 2022-03-26 19:41:34
@@ -10,7 +10,12 @@ lead_text: 'El objeto de la(s) canasta(s) de la ducha.'
 
 # La Canastita de la ducha.
 
-Escuchaba ayer a Joaquin Sabina cantando “Y no perdí una hija, gané un cuarto de baño” y me puse a reflexionar sobre el significado de todo aquello.
+Escuchaba ayer a Joaquin Sabina cantando:
+
+> “Y no perdí una hija, gané un cuarto de baño” 
+
+
+cayendo inmediatamente en reflexiones sobre el significado de todo aquello.
 
 Sabina no es de los mas crípticos, no es Spinetta. Tampoco es Arjona.
 
@@ -20,11 +25,11 @@ Mi amigo Sisoco García, creyó que poniendo una canastita adicional, solucionab
 
 Error, si pones siete canastitas en la ducha, la población femenina del hogar, que va de uno a N individuos, va a apoderarse del 9.5% del total de las canastas, es ley. Dejándole al/los masculinos el 5% restante para la afeitadora descartable de 6 hojas y ese minúsculo resto de jabón blanco que llegó -suponemos- para ser jabón para ropa interior, pero que sufrió una curiosa metamorfosis a: shampoó, crema de enjuague, crema de afeitar, jabón de tocador y treinta usos mas, tan nobles como extraños.
 
-El solo pensar una incursión en el otro 9.5 de el/los canastos ya mete miedito. Se me hace como asomarse por una puerta a un escenario no conocido del Call Of Dutty.
+El solo pensar una incursión en el otro 9.5 de el/los canastos ya mete miedito. Se me hace como asomarse por una puerta a un escenario no conocido del **Call Of Dutty**.
 
-Además del peligro de violar la prohibición tácita de tocar los envases femeninos, lo de verdad complicado es leerlos.
+Mas allá del peligro de violar la prohibición de tocar los envases femeninos, lo realmente complicado es **leerlos**.
 
-Hay una explicación por el lado de los costos. Eso que usa él, que viene normalmente en envases de cinco litros, botella o damajuana, cuesta veinte pesos, el de ella es un envase de 100 cc y cuesta doscientos veinte. 
+Hay una explicación por el lado de los costos. Eso que usa él, que viene normalmente en envases de **cinco litros**, botella o damajuana, cuesta veinte pesos, el de ella es un envase de 100 cc y cuesta doscientos veinte. 
 
 Es comprensible la prohibición bíblica.
 
@@ -36,19 +41,21 @@ Lo realmente interesante comienza al abrir los ojos. ¡Guau!
 
 La etiqueta -alguna de ellas, ya que tiene no menos de cinco- es prolífica en letras.  Generosa.  En cambios de  tipografía, color, tamaño, sentido.  Algo de esquizofrenia hay en esos diseñadores, no me jodan.
 
-El lee beneficios, sitios web, likes de facebook, twitter, otros medios sociales de los que no tiene ni idea, teléfonos del call center, **advertencias**, donde concurrir en caso de ingestión, recomendaciones de expertos, de otros usuarios, vemos que es para cabellos secos, con puntas floreadas, tratados con tintura, pero en ningún lugar dice si es shampoo, o crema de enjuague, o baño de crema, o savia para el cuerpo, o cabernet sauvignon. 
+Podes leer infinidad de -dudosos- beneficios, sitios web, likes de facebook, sugerencias de seguirlos en Instagram, participación en concursos en otros medios sociales de los que no tenemos noticias, teléfonos del call center, **advertencias**, donde concurrir en caso de ingestión, recomendaciones de expertos, de otros usuarios, vemos que es para cabellos secos, con puntas floreadas, tratados con tintura, pero en ningún lugar dice si es shampoo, o crema de enjuague, o baño de crema, o savia para el cuerpo, o cabernet sauvignon. 
 
 Por las dudas le mete un trago. 
 
--No Cavernet Sauvignón no es. 
+> No Cavernet Sauvignón no es.  Llega a la conclusión final.
 
 Hay una confabulación de todos los laboratorios. ¡A mi no me joden!
 
 Uno -ya de por sí paranoico- teme por algún elemento corrosivo, que entre en contacto con mucosas sensibles del cuerpo, del tipo ojos o lugares peores.
 
-Le lectura se dificulta por ingreso involuntario de jabón en los ojos y la pequeñez de las letras. Como cuento de Cortazar o temor a una cámara oculta.
+Le lectura se dificulta por ingreso involuntario de jabón en los ojos y la pequeñez de las letras. Como cuento de Cortazar [^1] o temor a una cámara oculta.
 
-Descubre el pobre gil la inutilidad del método de lectura elegido, el zigzagueante de izquierda a derecha, la elección de los títulos, la búsqueda de patrones.
+[^1]: Recomendable a esta altura "No se culpe a Nadie"
+
+Descubre el pobre mortal la inutilidad del método de lectura elegido, el zigzagueante de izquierda a derecha, la elección de los títulos, la búsqueda de patrones.
 
 Hay un placer enfermo al alcanzar la meta. Un:
 
@@ -66,7 +73,7 @@ Sabemos que imaginan que hacemos lo que Kevin Spacey en la primera escena de Ame
 
 Quedan no mas de treinta litros de agua en el termotanque, una variable que no pierde el bañohabiente, en ningún momento de vista, a pesar de realizar múltiples tareas simultaneas.
 
-Da vuelta el envase de la crema de enjuague y da con el segundo universal antropológico de los cestitos de ducha. El ochenta porciento de los envases están vacíos.
+Da vuelta el envase de la crema de enjuague y da con el segundo universal antropológico de los cestitos de ducha. El ochenta porciento de los envases están **vacíos**.
 
 Es mas, hay una tendencia a hacerlos cada vez mas grandes. Creo que hay ya damajuanas de crema enjuague. De existir estos, también estaría uno vacío al borde de la ducha.
 
@@ -74,7 +81,7 @@ En esa inspección bastante a disgusto, totalmente improvisada, en la convicció
 
 La economía mundial ha hecho un giro a la producción de mas artículos para el exterior que para el interior.
 
-Una inspección ocular por el super o el hipermercado nos anoticia de los dos metros cuadrados dedicados a los dentífricos versus los sesenta destinados a los cabellos.
+Una inspección ocular por el super o el hipermercado nos anoticia de los **dos metros cuadrados** dedicados a los dentífricos versus los **sesenta** destinados a los cabellos.
 
 Nos convencieron que el cabello es treinta veces mas importante que los dientes. Sospechan -acertadamente- que somos pelotudos. Nosotros ni siquiera tenemos esa virtud.
 
@@ -94,15 +101,21 @@ Hasta hace no mucho tiempo, había sectores arquitectónicos del hogar destinado
 
 **La Despensa**, era un resabio de la épocas en que la guerra era una posibilidad real.  Por ahí no está demas agregar que hoy tambien la posibilidad de una guerra es real.  Ingenuidad. 
 
-Otro sector topológico de un hogar era la biblioteca. Una casa sin biblioteca es como un “Rio sin puentes” al decir de Vinicius. Imagino un comedor sin una biblioteca y siento pena, como de desnudez involuntaria.
+Otro sector topológico de un hogar era la biblioteca. Una casa sin biblioteca es como un **Rio sin puentes** al decir de Vinicius. Imagino un comedor sin una biblioteca y siento pena, como de desnudez involuntaria.
 
 Ustedes podrán argumentar que no hay mas guerras y que toda la información ahora esta online.
 
-Yo soy de la vieja guardia, prefiero verlo al backup. Prefiero la tranquilidad de ver las latas de tomates apiladas y los libros a la vista. Puede que no vengan guerras a corto plazo, pero le tengo un miedo bastante fundado a que toda la info esté en manos de google, facebook, yahoo.
+Yo soy de la vieja guardia, prefiero verlo al backup. Prefiero la tranquilidad de ver las latas de tomates apiladas y los libros a la vista. Puede que no vengan guerras a corto plazo, pero le tengo un miedo bastante fundado a que toda la info esté en manos de google, facebook, Amazon.
 
-Leí en 1984 de Orwell que "aquel que maneje el presente, maneja el futuro y el pasado". El ministerio de la información donde trabaja el bueno de Smith.
+En **1984 de Orwell** reza textual:
+
+> "Aquel que maneje el presente, maneja el futuro y el pasado". 
+
+El ministerio de la información donde trabaja el bueno de Smith.
 
 Infojus esta borrando el trabajo de años, tal vez décadas. No estoy tan loco. Sabemos que las derechas siempre fueron afectas a incendiar bibliotecas. El emperador que unificó los nueve reinos de Qin (China) según Borges, ordenó borrar toda la historia para ocultar la infamia de su madre. La corona española y la iglesia católica, quemaron la biblioteca de Tenochtitlan, porque sus libros contradecían las enseñanzas de Jesús, los romanos, la de Alejandría donde se acumulaba todo el saber antiguo.
 
 Las nuevas autoridades de Infojus están “quemando” el pasado, porque los incrimina en causas penales y en bombardeos de plazas públicas en horas pico. Al ser una biblioteca virtual, el humo también es virtual, no se ve. Pero la información desaparece lo mismo.
+
+Hasta hace poco tiempo era posible encontrar fotos en internet del ex cardenal Pacelli -Luego papa Pio XII- caminando sonriente por el vaticano con Adolf Hitler, no se porque ya no.
 
