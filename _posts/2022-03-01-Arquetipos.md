@@ -10,9 +10,8 @@ lead_text: 'El origen de la cultura occidental.'
 
 ## Los Arquetipos
 
-```“How long shall will kill our prophets, while we stay aside and look?”
-Rendemption Song - Bob Marle soloy
-```
+> “How long shall will kill our prophets, while we stay aside and look?” *Rendemption Song - Bob Marley*
+
 
 Los que habitamos el lado occidental del globo, aceptamos como valedera la historia que da nacimiento a nuestra cultura, allá muchos miles de años antes del nacimiento de un palestino de barba y pelo largo que vino a cambiar el mundo.
 
