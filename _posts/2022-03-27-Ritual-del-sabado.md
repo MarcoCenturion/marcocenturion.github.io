@@ -10,24 +10,25 @@ lead_text: 'El ritual de los sábados.'
 
 # El ritual del sábado
 
-El ritual que intentaré narrar, entiendo, tenía lugar los sábados. 
+El ritual que intento narrar, entiendo, tenía lugar los sábados. 
 
 Esta "certeza temporal" no me llegó inmediatamente, digo mientras el ritual ocurría, sino muchas décadas después, cuando se metamorfoseó en recuerdo. Aunque bien sepamos amigos, que los recuerdos siempre "mienten un poco".
 
-Seguramente el detalle del día de la semana, no merecía dejar una mejor "huella mnémica", al decir freudiano, que los millones que pasaban por mi cabeza a esa edad: el surco zizagueante, caprichoso de las hormigas, otros caprichos estéticos de madre natura.  Recuerdo aún el miedo que producía el silbato agudo de las locomotoras a vapor o los millones y millones de otras curiosidades iguales o mejores en capacidad para producir asombro.
+Seguramente el detalle del día de la semana, no merecía dejar una mejor *huella mnémica*, que los millones que pasaban por mi cabeza a esa edad: el surco zizagueante, caprichoso de las hormigas, otras rarezas estéticas de madre natura.  Recuerdo aún el miedo que producía el silbato agudo de las locomotoras a vapor o los millones y millones de otras curiosidades iguales o mejores en capacidad para producir asombro.
 
-Lo importante, lo realmente maravilloso, era la llegada de dos ancianos tomados del brazo, ese día puntual de la semana, las categorías laborable o no, solo llegan al individuo, supongo, de la mano de las responsabilidades.
-Llegaban estos con una sonrisa amplia y franca. Eran felices, o simulaban muy bien la felicidad, o tenían motivos suficientes para creer que la felicidad ES caminar juntos del brazo.
+Importante, lo realmente maravilloso, era la llegada de dos ancianos tomados del brazo, ese día puntual de la semana, las categorías laborable o no, solo llegan al individuo, supongo, de la mano de las responsabilidades.
 
-Un espectador ajeno que observara hoy el "bullicioso recibimiento" del que eran objeto esos ancianos, dificilmente entendería que los abuelos vivían a menos de tres cuadras y que llegaban todos los sábados.  Tranquilamente podría imaginar que llevábamos meses y kilómetros sin verlos. 
+Arribaban con una sonrisa amplia y franca. Eran felices, o simulaban muy bien la felicidad, o tenían motivos suficientes para creer que la felicidad **es** caminar juntos del brazo.
 
-Aunque pensándolo bien, para la abuela Amanda y su femur defectuoso, esos pocos cientos de metros, bien pueden compararse al esfuerzo de categoría "epopeya homérica".
+Un espectador ajeno que observara hoy el **bullicioso recibimiento**" del que eran objeto, dificilmente entendería que los abuelos vivían a menos de tres cuadras y que llegaban todos los sábados.  Tranquilamente podría imaginar que llevábamos meses y kilómetros sin verlos. 
 
-Por aquel entonces, las distancias guardaban mucho de subjetividad, lo mismo que otras categorías kantianas, solo coexistían el "mucho" contrapuesto a "poco", o grande y pequeño, con fronteras bastante permeables entre ellos.  Dentro de esa lógica, mas allá de la esquina de veredas de ladrillo empieza Lo Otro; planetas, mares, calles, ciudades, idiomas, terrae incognita.
+Aunque pensándolo bien, para la abuela Amanda y su femur defectuoso, esos pocos cientos de metros, el esfuerzo calificaría para **epopeya homérica**.
+
+Por aquel entonces, las distancias guardaban mucho de subjetividad, lo mismo que otras categorías kantianas, solo coexistían el "mucho" contrapuesto a "poco", o grande y pequeño, con fronteras bastante permeables entre ellos.  Dentro de esa lógica, mas allá de la esquina de veredas de ladrillo empieza **Lo Otro**; planetas, mares, calles, ciudades, idiomas, terrae incognita.
 
 Justifica tal vez estas razones, el griterío y las respuestas de los ancianos, llenas de carcajadas, donde se confunden también, causa y consecuencia.  La condición de cotidiano no quitaba magia a su visita semanal, agregando contenido a una realidad de por sí bastante extensa en todos los sentidos.
 
-La viejita pequeñita, se auxiliaba de un bastón para trasladarse, pero se aseguraba colgándose del brazo de él para la travesía, a modo de "plan de contingencia"
+La viejita pequeñita, se auxiliaba de un bastón para trasladarse, pero se aseguraba colgándose del brazo de él para la travesía, a modo de **plan de contingencia**
 
 El abuelo abría la puerta del frente, que solo se cerraba con llave por las noches, aunque no todas; el pasillo oscuro se iluminaba con la luz del día y se recortaban las dos siluetas, el esfuerzo se hacía evidente en el rostro de doña Amanda, mi falta de auxilio para hacerla subir posiblemente requiera una justificación, agregar mi presencia a ese angostísimo pasillo, era agregar molestia. 
 
