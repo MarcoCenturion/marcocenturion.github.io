@@ -32,7 +32,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## J
 
-**Jefe** *Caput Lat.*  El periplo del sustantivo Latino Caput al castizo Jefe es, como mínimo, interesante.  Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el mediterraneo, en su subida pasa y a la altura de los Pirineos muta a *Capo*, que aún sobrevive en el italiano hablado, los pueblos galos lo transforman en *Chapo*, como Guzmán, muta a *Chepo* y de allí a *Cheff*, actual frances.  Cruza como *Chieff* el Canal de la Mancha, los pueblos catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC el final de su metamorfosis a *jefe*.
+**Jefe** *Caput Lat.*  El periplo del sustantivo Latino Caput al castizo Jefe es, como mínimo, interesante.  Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, Antes de cruzar los Apeninos ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, muta a *Chepo* y de allí a *Cheff*, actual frances.  Cruza como *Chieff* el Canal de la Mancha, los pueblos catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC el final de su metamorfosis a *jefe*.
 
 ## I
 
@@ -46,7 +46,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## M
 
-**Mariposa** *Sus.*  Tratar -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Cuando era niño era común ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
+**Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Cuando era niño era común ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
 
