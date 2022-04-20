@@ -22,7 +22,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Capicúa** *Catalán cabeza y cola*.
 
-**Chiquero** *Sus. Colectivo* Conjunto de chicos.| Situación en la que queda la casa visitada por estos últimos.
+**Chiquero** *Sus. Colectivo* Conjunto de chicos. Situación en la que queda la casa visitada por estos últimos.
 
 **Cigûeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigûeñas*.  La doctrina no es pacífica.
 
@@ -36,22 +36,21 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## I
 
-**Inquisición** *Santo Oficio de la.*  Sistema de adquisición forzada de un determinado sistema de creencias.  Aún conserva mucho de sus originales faltas estéticas y estilo, apenas camufladas detrás de modales amanerados y vestimentas .  Las cifras mas optimistas hablan de la quema de quinientas mil mujeres durante el medioevo por la falacia de volar en escobas.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatoria*.  
+**Inquisición** *Santo Oficio de la.*  Sistema de adquisición forzada de un determinado sistema de creencias.  Aún conserva mucho de sus originales faltas estéticas y de estilo, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como las corbatas.  Las cifras mas optimistas hablan de la quema de quinientas mil mujeres durante el medioevo por la falacia de volar en escobas.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  
 
 ## L
 
-**Lastrar** *Lat.*  Cargar lastre a la nave.
+**Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
 
 **Loco** *Lat. Locus*  Alguien que no teme propasarse o al ridículo.  El antropólogo polaco Bronislaw Malinowsky, en su visita a las islas Trobriand, descubre que allí los locales utilizan el vocablo loco para aludir a quien ríe cuando no hay motivo, como los estadounidenses.
 
 ## M
 
 **Mariposa** *Sus.*  Tiene la extraña facultad de tratar -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta virtud en muchos idiomas.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Cuando era niño era común ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
-insectos
 
-**Mercería** *Sus.*  Negocio de comercio dedicado a la venta de cosas mersas.
+**Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
 
-**Música** *Lat.* Según Roberto Goyeneche "Música es unos negritos saltando un alambrado"
+**Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado"
 
 ## N
 
@@ -63,9 +62,9 @@ insectos
 
 ## O
 
-**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Ponele.
+**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse poca onda.
 
-**Ojota** *Quichua Usuta*  Como dice el gato popular "...Y unas usutas viejas, que eran del tata" 
+**Ojota** *Quichua Usuta*  Como reza el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata" 
 
 ## P
 
