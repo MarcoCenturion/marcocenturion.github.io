@@ -20,11 +20,11 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Cancha** *Quichua*  Terreno plano y limpio.  Posiblemente la voz americana mas esparcida por el mundo a partir de Maradona y todo eso que vino después.
 
-**Capicúa** *Catalán cabeza y cola*
+**Capicúa** *Catalán cabeza y cola*.
 
 **Chiquero** *Sus. Colectivo* Conjunto de chicos.| Situación en la que queda la casa visitada por estos últimos.
 
-**Cigûeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjutnto de cigûeñas*.  La doctrina no es pacífica.
+**Cigûeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigûeñas*.  La doctrina no es pacífica.
 
 ## E
 
@@ -32,17 +32,17 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## J
 
-**Jefe** *Caput Lat.*  El periplo de Caput a Jefe es interesante.  Surge en Roma aprox. 300 AC.  A la altura de los Pirineos cambia a *Capo*, que aún conserva el italiano, los pueblos galos lo transforman en *Chapo*, como Guzmán, muta a *Chepo* y de allí a *Cheff*, actual frances.  Cruza como *Chieff* el Canal de la Mancha, los pueblos catalanes lo cambian a *Jef* y finalmente se transforma entre el 300 y 300 DC en el actual *jefe*.
+**Jefe** *Caput Lat.*  El periplo del sustantivo Latino Caput al castizo Jefe es, al menos, interesante.  Boges sugiere que toda etimología, es feliz per se.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza por todo el mediterraneo, en su subida pasa y a la altura de los Pirineos muta a *Capo*, que aún sobreviven en el italiano hablado, los pueblos galos lo transforman en *Chapo*, como Guzmán, muta a *Chepo* y de allí a *Cheff*, actual frances.  Cruza como *Chieff* el Canal de la Mancha, los pueblos catalanes lo cambian a *Jef* y finalmente se transforma entre el 300 y 400 DC en el actual *jefe*.
 
 ## I
 
-**Inquisición** *Santo oficio de.*  Sistema de conversión forzosa a la fé, que conserva mucho de sus originales faltas estéticas y estilo, camufladas detrás de buenos modales y corbatas.  Las cifras mas optimistas hablan de la quema de quinientas mil mujeres durante el medioevo por la falacia de volar en escobas.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatoria*.  
+**Inquisición** *Santo Oficio de la.*  Sistema de adquisición forzada de un determinado sistema de creencias.  Aún conserva mucho de sus originales faltas estéticas y estilo, apenas camufladas detrás de modales amanerados y vestimentas .  Las cifras mas optimistas hablan de la quema de quinientas mil mujeres durante el medioevo por la falacia de volar en escobas.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatoria*.  
 
 ## L
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.
 
-**Loco** *Lat. Locus*  Alguien que no teme propasarse o al ridículo.  Malinowsky en las islas Trobriand descubre que allí los locales llaman loco al que ríe cuando no hay motivo, como los estadounidenses.
+**Loco** *Lat. Locus*  Alguien que no teme propasarse o al ridículo.  El antropólogo polaco Bronislaw Malinowsky, en su visita a las islas Trobriand, descubre que allí los locales utilizan el vocablo loco para aludir a quien ríe cuando no hay motivo, como los estadounidenses.
 
 ## M
 
