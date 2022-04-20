@@ -46,7 +46,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## M
 
-**Mariposa** *Sus.*  Tiene la extraña facultad de tratar -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta virtud en muchos idiomas.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Cuando era niño era común ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
+**Mariposa** *Sus.*  Tratar -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Cuando era niño era común ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
 
@@ -54,17 +54,17 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## N
 
-**Negocio** *Lat. Nec Otium - nadie está ocioso* Poco comprendido en este tiempo de indivíduos que solo miran su ombligo, este concepto es tan antiguo como la civilización occidental.  No existen negocios unilaterales.
+**Negocio** *Lat. Nec Otium - nadie está ocioso* Poco comprendido en este tiempo de indivíduos que solo miran su ombligo, este concepto es tan antiguo como la civilización occidental.  No existen negocios unilaterales.  Un negocio donde solo una parte obtiene beneficios, luego, es una estafa.
 
 **Neutro** *Lat. Ni uno ni lo otro*  Concepto útil en política para medir el fascismo del interlocutor.  "Yo soy neutro, apolítico"   
 
-**Novio** *Lat. Nuevo*  Dícece de la nueva pareja.  Por recurso *ab negatio* viejo/a es el antónomo.  "Si el caballero baja del coche y abre la puerta desde donde baja una señorita, el auto es nuevo o ella es la nueva"
+**Novio** *Lat. Nuevo*  Dícece de la nueva pareja.  Por recurso *ab negatio* viejo/a es el antónomo.  "Si el caballero baja del coche y abre la puerta desde donde baja una señorita, el auto es nuevo o ella es la nueva".
 
 ## O
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse poca onda.
 
-**Ojota** *Quichua Usuta*  Como reza el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata" 
+**Ojota** *Quichua Usuta*  Como reza el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
 
 ## P
 
@@ -80,9 +80,9 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Pedante** *Lat.*  Soldado de a pié.  O infante.  Cuando el soldado es pequeño.
 
-**Pelo** *Lat. Pilum, lanza*  No parece haber mucha relación entre el cabello y una lanza, aunque he dado en el pasado con gente así.:w
+**Pelo** *Lat. Pilum, lanza*  No parece haber mucha relación entre el cabello y una lanza, aunque he dado en el pasado con gente así.
 
-**Pelotudo**  Léase Paciente
+**Pelotudo**  Léase Paciente.
 
 **Perverso** *Adj. ind.* Que sirve para hacer el verso.
 
@@ -90,7 +90,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## R
 
-**Risa** *Ver.*  En plena guerra fría, viaja el afamado director de cine ruso Seguei Einsenstein a Estados Unidos de América.  En una conferencia de prensa, un periodista pregunta: "Es cierto que los rusos no ríen?" El director responde afirmativamente con la cabeza y agrega: "Cuando vuelva y les cuente su pregunta, seguramente comenzarán a hacerlo.
+**Risa** *Ver.*  En plena guerra fría, viaja el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una conferencia de prensa, un periodista pregunta: "Es cierto que los rusos no ríen?" El serio Seguei responde afirmativamente con la cabeza y agrega: "Cuando vuelva y les cuente su pregunta, seguramente comenzarán a hacerlo".
 
 ## T
 
