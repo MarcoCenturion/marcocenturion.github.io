@@ -8,7 +8,6 @@ image: '/images/default.jpg'
 lead_text: 'La derecha hace del ridículo una fortaleza política.'
 ---
 
-
 # Ridículos
 
 La derecha recicla periódicamente su catálogo de personajes que rayan el **ridículo**. 
@@ -17,47 +16,47 @@ A simple vista, pareciera que lo hace para que riamos, como sugiere el rápsoda 
 
 > "Los dioses traen penares a los hombres para que tengan motivo para cantar"
 
-No es casual, no hay que caer en su trampa, el ridículo no lo és, es un disfraz. 
+No es casual, no hay que caer en su trampa, el **ridículo** no lo és, es solo apariencia, un personaje que arman para llamar la atención. 
 
 Ya el mismísimo **Joseph Goebels** lo anticipaba: 
 
 > “Deben hablar de nosotros, aunque sea mal, criticándonos, pero algo deben decir”, 
 
-Ese mismo Goebels guionaba -para quienes no lo recuerden- a un pequeñito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado y cuyo lema era:
+Ese mismo Goebels guionaba -como ministro de propaganda- a un pequeñito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado, cuyo lema era:
 
 > "¡No fumadores, seguidme!"-
 
 No es inimaginable una estrategia en la elección de estos **impresentables**.
 
-No pueden asombrarnos hoy los **Bolsonaros** ni los mafiosos disléxicos (innombrables por cábala), ni las biblias en los golpes de estado.
+No pueden asombrarnos hoy los **Bolsonaros** ni los mafiosos disléxicos (innombrables por cábala), las biblias en los golpes de estado, las mujeres que hacen la curiosa metamorfosis de **escorts de lujo** a legisladoras **fundamentalistas religiosas**.
 
 No necesitamos de una herramienta de medición intelectual muy sofisticada, la sola inspección ocular nos llama a sonrisas culposas, porque nuestros padres nos inculcaron el respeto al prójimo, por estúpidos que fueran.
 
-En este muestrario resaltan varios hasta llegar a la platónica perfección, la pedorrada en su expresión mas acabada en la persona del ex presidente #MMLPQTP, su bailecito en el histórico balcón, su lectura entrecortada o su dificultad para hacer armonizar verbalmente sujetos y predicados.  
+En este muestrario resaltan varios hasta llegar a la platónica perfección, la pedorrada en su expresión mas acabada en la persona del ex presidente **#MMLPQTP**, su bailecito en el histórico balcón, de lectura entrecortada, su dificultad para hacer armonizar verbalmente sujetos y predicados.  
 
-Esto fue escrito en 2016 y da vértigo ver la cantidad de agregados de este psicópata mal medicado y su vice presidenta incapaces ninguno de los dos de hilvanar una frase y hacer entendible su explicación a un tercero.  Aludiendo constantemente a metáforas difíciles de entender de ríos, montañas, mares, tormentas y luces al final de túneles. 
+Esto fue escrito en 2016 y da vértigo ver la cantidad de agregados de este **psicópata mal medicado** y su vice presidenta incapaces ninguno de los dos de hilvanar una frase y hacer entendible su explicación a un tercero.  Aludiendo constantemente a metáforas difíciles de entender de ríos, montañas, mares, tormentas y luces al final de túneles. 
 
-Juli, de 4 años es mucho mas locuaz que ellos. Ambos.
-
-El primer ridículo que llega a mi recuerdo, el Capitán Ingeniero Álvaro Alsogaray.  Ya el doble título nos anoticia de un indicio de pelotudez importante, hasta el infausto día en que se levanta y sugiere que debemos “pasar el invierno”.
+El primer ridículo que llega a mi recuerdo, el Capitán Ingeniero **Álvaro Alsogaray**.  Ya el doble título nos anoticia de un indicio de pelotudez importante, hasta el infausto día en que se levanta y sugiere que debemos “pasar el invierno”.
 
 Sí lector desprevenido, esta frase famosa pertenecía a este ridículo.
 
-Si bien el orden es aleatorio, lo sigue su descendencia, María Julia que prometió sanear el riachuelo en mil días. Lo mas interesante de esta piba es que recibió dinero público -mucho- para hacerlo y se fue a Las Leñas a hacerse un set fotográfico semidesnuda, lo que acarreó graves problemas de erección en la población masculina de nuestra amada patria. Tal vez este sea su pecado mas grave.
+Si bien el orden es aleatorio, lo sigue su descendencia, **María Julia** que prometió sanear el riachuelo en mil días. Lo mas interesante de esta piba es que recibió dinero público -mucho- para hacerlo y se fue a Las Leñas a hacerse un set fotográfico semidesnuda, lo que acarreó graves problemas de erección en la población masculina de nuestra amada patria. Tal vez este sea su pecado mas grave.
 
 Descenso brusco en la tasa de embarazos argentinos durante años por una tapa de revista de todos los kioscos.
 
 Ambos conservan ese aire de superioridad conservador (sic).
 
-Parte de la ridiculez de la derecha, es que ninguno de estos individuos reconoce abiertamente ser fascista. Se hacen llamar “centro” por la prensa obsecuente. Algunos hasta llegan a llamarse socialistas.
+Parte de la ridiculez de la derecha, es que ninguno de estos individuos reconoce abiertamente ser fascista. Se hacen llamar “centro” por la prensa obsecuente. Algunos hasta llegan a llamarse socialistas.  De hecho, el nombre técnico era **Nacional Socialismo**.
 
-De hecho, el nombre técnico del nazismo era nacional socialismo.
+Esta gente, como grupo humano o como individuos, por lo general, tienen un pasado por los cuarteles, como **Aldo Rico**. Si, aquel mismo Rico que calificaría de payaso del ejército por hacer pelear a su tropa en subida, de noche, enfrentándose a si mismo en Ganso Verde; sabiendo que los ingleses los esperan con visores infrarrojo en la cima.
 
-Esta gente, como grupo humano o como individuos, por lo general, tienen un pasado milicoide, un paso por los cuarteles, como Aldo Rico. Si, aquel mismo Rico que calificaría de payaso del ejército por hacer pelear a su tropa en subida, de noche, enfrentándose a si mismo en Ganso Verde; sabiendo que los ingleses los esperan con visores infrarrojo en la cima.
+Todo lo contrario del libro de **Tsun Tzu** [^1].
 
-Todo lo contrario del libro de Tsun Tzu.
+[^1]: General del emperador mítico chino, autor de "**El Arte de la Guerra**"
 
-Es llamativo como resaltan la virtud de la limpieza y el orden en sociedades foráneas.  Hay algo de TOC ahí.  Además de la pelotudez.
+Es llamativo como resaltan la virtud de la limpieza y el orden en sociedades foráneas.  Hay algo de TOC [^2] ahí.  Además de la pelotudez.
+
+[^2]: Trastorno obsesivo compulsivo.  Psicópatas, en definitiva, pastillas mas, pastillas menos.
 
 Payaso le cabría si no hubieran muerto niños de dieciocho años. Si lo pensamos bien optamos por imbécil mal nacido. Ya carapintada es sinónimo de payaso. Otro carapintada era Mohamed Alí Seineldin. El circo completo.
 
@@ -76,7 +75,7 @@ Por ejemplo, o ...
 
 > !Hay que pagar menos impuestos!  
 
-Otorgan demasiado valor a la voluntad, propio del Pensamiento Mágico, y confunden querer algo con hacerlo en los hechos (SIC)
+Otorgan demasiado valor a la voluntad, propio del **Pensamiento Mágico**, y confunden querer algo con hacerlo en los hechos (SIC), mucho de chamanismo.
 
 Había un comisario cuyo pasatiempo era usar a los detenidos de "sparrings involuntarios", con las manos atadas, Patti. Posiblemente Patti, provenga de Patético, pero para nada gracioso.
 
