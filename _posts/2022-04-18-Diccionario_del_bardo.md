@@ -10,11 +10,11 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aliño** *Lat. Líneas*  Aliñar la ensalada es enderezarla, de allí aderezo, ponerla en una línea.  Léase pauta en el mismo sentido.
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es enderezarla, de allí aderezo, ponerla en una línea.  Léase pauta en el mismo sentido.
 
 ## B
 
-**Boston** *Sus. Propio* Ciudad de Masachusets. USA.  En iroques de las tribus del norte, literalmente *Caca Grande*.
+**Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroques de las tribus del norte, literalmente *Caca Grande*.
 
 ## C
 
@@ -22,7 +22,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Capicúa** *Catalán cabeza y cola*.
 
-**Chiquero** *Sus. Colectivo* Conjunto de chicos. Situación en la que queda la casa visitada por estos últimos.
+**Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la casa visitada por estos últimos.
 
 **Cigûeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigûeñas*.  La doctrina no es pacífica.
 
@@ -44,7 +44,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
 
-**Loco** *Lat. Locus*  Alguien que no teme propasarse o al ridículo.  El antropólogo polaco Bronislaw Malinowsky, en su *"trabajo de campo"* a las islas Trobriand, descubre que allí los locales utilizan el vocablo loco para aludir a quien ríe cuando no hay motivo, como los estadounidenses.
+**Loco** *Lat. Locus.*  Alguien que no teme propasarse o al ridículo.  El antropólogo polaco Bronislaw Malinowsky, en su *"trabajo de campo"* a las islas Trobriand, descubre que allí los locales utilizan el vocablo loco para aludir a quien ríe cuando no hay motivo, como los estadounidenses.
 
 ## M
 
@@ -60,11 +60,11 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el fascismo del interlocutor.  "Yo soy neutro, apolítico"   
 
-**Novio** *Lat. Nuevo*  Dícece de la nueva pareja.  Por recurso *ab negatio* viejo/a es el antónomo.  "Si el caballero baja del coche y abre la puerta desde donde baja una señorita, el auto es nuevo o ella es la nueva".
+**Novio** *Lat. Nuevo.*  Dícece de la nueva pareja.  Por recurso *ab negatio* viejo/a es el antónomo.  "Si el caballero baja del coche y abre la puerta desde donde baja una señorita, el auto es nuevo o ella es la nueva".
 
 ## O
 
-**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse poca onda.
+**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse la mejor onda.
 
 **Ojota** *Quichua Usuta.*  Documentado tal cual reza el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
 
@@ -74,8 +74,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanàlisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.
 
-**Pauta** *Lat. Pacta*  Es el modelo, de los renglones en el cuaderno. Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
-
+**Pauta** *Lat. Pacta.*  Es el modelo, de los renglones en el cuaderno. Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
 
 **Payar** *Quichua recoger.*  De allí que payaador es que recoge (escoge) las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
 
