@@ -20,7 +20,7 @@ Esto hace que este componga la milonga "El violin de Becho" Tan famosa se hace l
 
 ---
 
-Un 27 de Mayor de 1894 nace Samuel Dashiell Hammett, agente de la legendaria atencia de detectives privados Pinkerton.  De allí que se hace escritor y da un giro a la novela negra del tipo del Halcón Maltes, Sam Spade, protagoizada en el cine por Humprey Bogart.  En los cincuenta fue perseguido y encarcelado durante las llamadas "caza de brujas" del senador Joseph Mac Arty.  Las crónicas cuentan que el senador preguntó a Hammet -palabras mas, palabras menos-
+Un 27 de Mayo de 1894 nace Samuel Dashiell Hammett, agente de la legendaria atencia de detectives privados Pinkerton.  De allí que se hace escritor y da un giro a la novela negra del tipo del Halcón Maltes, Sam Spade, protagoizada en el cine por Humprey Bogart.  En los cincuenta fue perseguido y encarcelado durante las llamadas "caza de brujas" del senador Joseph Mac Arty.  Las crónicas cuentan que el senador preguntó a Hammet -palabras mas, palabras menos-
 
 > Dígame, que opinaría ud si le dijera que el gobierno de los Estados Unidos de América gasta 50 millones de dólares anuales enviando libros al tercer mundo para luchar contra el comunismo, y que en entre esos libros haya autores comunistas?
 
@@ -37,7 +37,4 @@ un 28 de Mayo de 1938 nace Fuad Jorge Juri Oliveira en Las Catitas, Mendoza, Oli
 
 No solo fue el director cinematografico de culto de una época, también llevó a toda latinoamérica canciones propias o ajenas como "Chiquillada" del Sabalero Carabajal o "Para saber como es la soledad" del Flaco Spineta. A él pertenece la icónica frase "me hice peronista porque no se puede ser feliz en soledad"
 
-Un 29 de Mayo de 1969 en Córdoba, un pintor anónimo grabó en las cercanías de la Cevecería Córdoba, llegando al estadio de Belgrano la Frase "Alberdi, territorio libre de América"
-
-También un 29 de Mayo de 1892 nace Alfonsina Storni.
 

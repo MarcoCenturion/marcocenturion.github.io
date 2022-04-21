@@ -3,11 +3,10 @@ layout: blog
 title: 'Apocalipsis'
 date: 2022-03-26 19:41:34
 categories: blog
-tags: Linux
+tags: Linux, Ludovica, Horangel, Lluvias de inversiones.
 image: '/images/default.jpg'
 lead_text: 'Los miedos publicitarios.'
 ---
-
 
 ## Apocalipsis
 
@@ -25,8 +24,12 @@ Nos sorprendió la realidad el verano pasado, al prometernos la llegada un nuevo
 
 La imagen de la lluvia de libras esterlinas -como decía mi abuelo- no deja de llenarme de temor, por esta cuestión del peso, la aceleración de los cuerpos en caída libre, el volumen y densidad del oro, la diferencia de un electrón respecto del plomo y todo eso.
 
-Al decir peso estoy haciendo exclusiva referencia a la cualidad de los cuerpos, de ser pesados y no a la moneda argentina, que recuerda mucho al UAN PESO IS UAN DOLAR, pero eran otros ridículos.
+Al decir peso estoy haciendo exclusiva referencia a la cualidad de los cuerpos, de ser pesados y no a la moneda argentina, que recuerda mucho al:
+
+> Uan peso isss ehhh... uan dolar.  
+
+Pero eran otros los ridículos.
 
 Hoy me levanté esperanzado, caminé las calles de mi ciudad esperando encontrar extranjeros sonrientes con maletines llenos de dinero para invertir en mi amado pais.  Imaginé congestión en los aeropuertos y vías de acceso.  Imaginé el derrame de todo ese dinero, ayudándome para pagar las cuentas.
 
-Pasa el día y no veo todo eso, estoy entrando en panic attack. 
+Pasa el día y no veo todo eso, estoy entrando en *panic attack*. 

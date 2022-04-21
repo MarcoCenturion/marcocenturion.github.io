@@ -50,7 +50,7 @@ Pareciera -visto así- mucho mas cómodo hablar de curas pedófilos.
 
 Lo realmente interesante viene con el maquillaje que sufrió en: “porque no tiene, porque le falta” que raya lo macabro, al quitarle al pobre insecto 
 
-> "las dos patitasas de atrás”
+> "Las dos patitasas de atrás”
 
 Algo que nos recuerda a Kafka; todo esto para evitar la frase original: 
 
@@ -86,3 +86,14 @@ Nos referimos al corte de masa muscular que llamamos **Vacío**, por estos extra
 Es lógico ocultarle al niño este robo, puesto que entre la vaca pastando en el campo -como en un cuadro de Molina Campos- y el corte de -ponele- costilla, en la mesa del asado dominical, hay un homicidio -reconozcámoslo- y es el de la angelical e inocente vaca.
 
 No puedo evitar pensar en personajes del Rock convidados a la redacción de la archi escuchada composición tema: "La vaca".
+
+## La Vaca Lola
+
+Existe una verión mejorada de esta tierna canción infantil
+
+>> La vaca Lola, La vaca Lola
+se fuma un cueta y se toca sola
+La vaca Lola, La vaca Lola,
+cuando se enfiesta presta la cola.
+
+

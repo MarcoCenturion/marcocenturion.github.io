@@ -10,16 +10,15 @@ lead_text: 'Bestiarios, fines del mundo y bellezas por el estilo.'
 
 ## Mentira la verdad
 
+> En tiempos del engaño universal, decir la verdad  se convierte en un acto revolucionario.  *George Orwell*
 
-En tiempos del engaño universal, decir la verdad  se convierte en un acto revolucionario.  ==George Orwell==
+Hay verdades absolutas que dejan de serlo por caprichos de la publicidad.  ¿O exactamente al revés?
 
-Hay verdades absolutas que dejan de serlo por caprichos de la publicidad.¿O exactamente al revés?
-
-Hace escasos meses el Blue Ray iba a revolucionar la vida de la gente, o el mini disk, años atrás, o el magazine, décadas atrás, por solo nombrar los soportes para archivos musicales.
+Hace escasos meses, el **Blue Ray** revolucionaría la vida de la gente, o el **mini disk**, años atrás el **magazine**, décadas atrás la radio, por solo nombrar los soportes para archivos musicales.
 
 Inundan los manuales de verdades indiscutibles que pasan a ser verdades a medias y pronto terminan siendo mentiras.  Decimos "la puesta del sol" o "suena en el eter" sabiendo que no es el sol quien gira y quedó demostrada hace siglos la inexistencia del eter como componente del aire.
 
-Bestiarios en los que asistimos con asombro a descripciones de criaturas mitad humana y mitad animal, o animal y vegetal y todas las combinaciones posibles, con detalles de donde encontrarlas, sus peligros, sus propiedades, su fisonomía descripta al detalle por gente notable.  Los mismo observamos con los atlas de territorios como "eldorado", o el Olimpo.
+Abundan bestiarios donde asistimos con asombro a descripciones minuciosas de criaturas mitad humana y mitad animal, o animal y vegetal y todas las combinaciones posibles, con detalles de donde encontrarlas, sus peligros, sus propiedades, su fisonomía descripta al detalle por gente notable.  Los mismo observamos con los atlas de territorios como "eldorado", el Olimpo, Triángulos de las Bermudas, Campos Eliseos y Valhalas.   
 
 Estas cuestiones pueden no preocuparnos, pero en un mometo empezaron a entrometerse en la salud de la gente. Quien tenga mas de cuarenta y menos de setenta años, carecerá de amígdalas por estas curiosidades inexplicables de la ciencia.  Como una serie que salió fallada de fábrica.
 
@@ -31,7 +30,7 @@ Hay un pícaro que instala verdades indiscutibles que años mas tarde resultaron
 
 En los sesenta había grupos de gente que vino a decirnos que estábamos totalmente equivocados con nuestro “sistema de creencias”, tiramos a la mierda las biblias y las corbatas; vinieron después los yankees a salvarnos con nuestros militares de esa “equivocación” de un mundo de todos iguales y fumar porquerías. 
 
-Después nos dijeron que no estábamos tan equivocados con la idea de cambiar el mundo, ahora con MM aparentemente volvemos a la idea de la equivocación y que el mundo es lo que digan los gringos y los mormones. Por lo menos hay una buena, van a desclasificar información importante de los servicios de inteligencia norteamericanos, que algo de fidelidad a su nombre tendrán, deben ser serviciales e inteligentes.
+Después nos dijeron que no estábamos tan equivocados con la idea de cambiar el mundo, ahora con el **"Mafioso Disléxico"** de ojos claros, aparentemente volvemos a la idea de la equivocación y que el mundo es lo que digan los gringos y los mormones. Por lo menos hay una buena, van a desclasificar información importante de los servicios de inteligencia norteamericanos, que algo de fidelidad a su nombre tendrán, deben ser serviciales e inteligentes.
 
 Algunos dicen que no son tan inteligentes porque no tienen a nadie que hable árabe y que se enteraron de la caída del muro de Berlín por Fox News.  El paradigma de los demócratas, JFK ordenó mas de cien operaciones clandestinas de la CIA contra gobiernos constitucionales del mundo.
 
