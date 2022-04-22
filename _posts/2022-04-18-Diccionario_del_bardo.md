@@ -118,3 +118,9 @@ Luego de la pausa agrega:
 ## T
 
 **Tautología** *Lat.*  Bucle recursivo del idioma para hablar sin decir nada, de profusa utilización por parte de economistas de todos los tiempos.  Sin. de *Sanata* en las orillas del Río de la Plata.  "Desde lo profundo de Honduras" Sugiere bellamente Guillermo Cabrera Infante.
+
+## V
+
+**Vejez** *Lat. Vetus*.  Dejar libros por la mitad, no tomar ciertas bebidas, apagar el televisor sin culpa.  Suele darse en el caso de tramas que no cumplen el postulado de **Samuel Coleridge** a saber *suspender la incredulidad* [^3].  La edad parece ser inversamente proporcional a la credulidad.
+
+[^3]: Eg. Imposibles explosiones en el espacio, donde no hay oxígeno, o el clásico caso que sugiere Alejandro Dolina, que al salir del teatro el expectador se encuentra en la pizzería de la esquina, con el Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
