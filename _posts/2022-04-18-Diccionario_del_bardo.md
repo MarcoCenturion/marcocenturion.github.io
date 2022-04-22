@@ -20,6 +20,11 @@ Luego de la pausa agrega:
 
 > No como ustedes que matan millones y los dejan pudrirse en los campos de batalla.
 
+**Apolítico** *Lat. sufijo A dejota negación, Político es lo relativo a la Polis.*  Autodenominación de quienes reniegan de los partidos políticos.  Desconocen que el termino correcto debería ser **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
+
+[^2]: En su obra **La Política** Aristóteles señala una de las frases mas populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
+
+
 ## B
 
 **Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroques de las tribus del norte, literalmente *Caca Grande*.
