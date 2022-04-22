@@ -12,6 +12,14 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es enderezarla, de allí aderezo, ponerla en una línea.  Léase pauta en el mismo sentido.
 
+**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria que horroriza muy por encima de su calidad intrínseca.  Resulta útil para incrementar ventas en medios amarillos, como para forzar reflexiones sobre canibalismo al descubrir la cantidad de ADN que compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con sus limitaciones científicas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" un pariente.  Las reglas, prohibiciones y preceptos para la cocina parecieran extenderse al infinito.  En una se detiene, muy importante.
+
+> No podemos matar a otro para comer.
+
+Luego de la pausa agrega:
+
+> No como ustedes que matan millones y los dejan pudrirse en los campos de batalla.
+
 ## B
 
 **Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroques de las tribus del norte, literalmente *Caca Grande*.
@@ -32,11 +40,11 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## J
 
-**Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, Antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
+**Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
 
 ## I
 
-**Inquisición** *Santo Oficio de la.*  Sistema forzoso de imposición de un determinado sistema de creencias.  Aún conserva mucho de sus originales faltas estéticas y de estilo, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Las cifras mas optimistas estiman la quema de **quinientas mil mujeres** durante los mil años que duró el medioevo, por la inverosimil taréa de volar en escobas, o inventar cosas [^1] como María la alquimista.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  
+**Inquisición** *Santo Oficio de la.*  Sistema forzoso de imposición de un determinado conjunto de creencias.  Aún conserva mucho de sus originales faltas estéticas y de estilo, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Las cifras mas optimistas estiman la quema de **quinientas mil mujeres** durante los mil años que duró el medioevo, por la maravilla de volar en escobas, o inventar cosas [^1] como María la alquimista.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los Hnos. Wrhite.  Que no eran escritores, precisamente.  
 
 [^1]: María debía calentar materiales en un caldero, sin someterlo al fuego directo, so riesgo de explosiones.  Para ello sumergió un recipiente dentro de otro con agua hirviendo.  A nuestros días sobrevive como "el baño de María".  Ella fué quemada a fuego directo.
 
@@ -44,7 +52,9 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
 
-**Loco** *Lat. Locus.*  Alguien que no teme propasarse o al ridículo.  El antropólogo polaco Bronislaw Malinowsky, en su *"trabajo de campo"* a las islas Trobriand, descubre que allí los locales utilizan el vocablo loco para aludir a quien ríe cuando no hay motivo, como los estadounidenses.
+**Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o propasarse.  El antropólogo polaco **Bronislaw Malinowsky**, en su *"trabajo de campo"* en las islas Trobriand, da cuenta que allí los locales utilizan el vocablo loco para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
+
+**Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenia la existencia de palabras bellas per se.  Esta es una de ellas. El solo sonido de la palabra llovizna es bello.  Matilde había Traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la Editorial Minotauro, en los desdichados setentas.  Emigró a España huyendo del horror.  En los desdichados noventas, Minotauro fue vendida a una multinacional europea.  Entre las traducciones estaban dos de tres "El Señor de los Anillos" de Tolkien.  Por todo concepto le pagan Mil Euros.  Termina sus días en un geriátrico sostenido por el estado.      
 
 ## M
 
