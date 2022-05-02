@@ -66,28 +66,10 @@ Recuerdo otro barbudo que *se entregara voluntariamente a la pasión*, **Sócrat
 
 > ¿Te conoces a ti mismo?"
 
-Lo que nos devuelve a averiguar nuestro arquetipo.
+Ninguna de las preguntas de Sócrates era casual.  Todos nos topamos en la vida con seres luminosos.  Seres en los que algo de presencia corporea nos anuncian su caracter divinal.
 
-Siendo niño mi debut en las tablas fue interpretando al personaje mas importante que pudiera alguien imaginar, al **General San Martín**, especie de Terminator, pero de verdad.  Un **ateo** intelectual que se niega a pagar la deuda externa.  Mi ídolo.
+Soy de aquellos que creen que la Pasión de Sócrates, su elección de tomar la cicuta en lugar de elegir el destierro -solo para ejemplo de las generaciones que vienen- da comienzo a nuestro arraigado concepto del honor.  Solo algunos elegidos tienen la fortaleza anímica para enfrentar lo inevitable y hacerse cargo del arquetipo heroico.
 
-El guion indicaba que ingresaba un soldado **Sergio Fraga** indicándome que un niño se presentaba de voluntario, San Martín `yo` asombrado preguntaba:
+¿Quien será la futura reencarnación de **Santiago Maldonado** y toda esa larga lista de seres luminosos y sonrientes?  ¿Será una niña como la payasa de Santiago de Chile?
 
-> "Un niño, que pase"
-
-Pero mi voz salió un par de semitonos por encima de la normal, corregido por una sonora carraspera, cosa festejada por el público con estertoreas risas, sin imaginar que troncaban mi futuro como actor.
-
-Pasan los años y practicando basquetball hago mi primer doble, pero en el aro que debía defender, por lo que se repitió aquella vergonzosa carcajada global.
-
-Hace un par de años, hice un aviso publicitario deliberadamente cómico, inconscientemente orientado a despertar risas. El objetivo original era vender un auto verdaderamente cómico.
-
-Los datos mas optimistas hablan de cifras de siete dígitos de "visualizadores" de este aviso. Tapa dos días en Clarín online, hablan de mas de diez millones de visualizaciones.
-
-Asumo de todo esto que mi arquetipo no es heroico, por mucho que me esfuerce dejándome la barba.  Mi rol en esta historia cósmica pasa mas por el carril de la comedia que la tragedia.
-
-Si existiera un balance celestial del karma, en el que almacenáramos buenas y malas vibras, sería muy difícil establecer un tipo de cambio a monedas de uso legal y corriente, por caso **dólares estadounidenses**, de poder hacerlo, doce millones de usuarios riendo de esa publicidad a un centavo de dólar estadounidense cada uno, que seguramente hubieran pagado de buen grado por su risa, me hubieran convertido en millonario automaticamente.
-
-¿En quien reencarnará **Santiago Maldonado**?
-
-¿Estamos preparados los barbudos a hacernos cargo de ese Karma?
-
-Porque todos sabemos que ciertas políticas de seguridad nacional, en manos de intelectuales berretas, nos convierte en potenciales Santiagos Maldonados.
+¿Estamos preparados los barbudos a hacernos cargo de ese Karma?  Posiblemente lo nuestro no sea otra cosa que un personaje.
