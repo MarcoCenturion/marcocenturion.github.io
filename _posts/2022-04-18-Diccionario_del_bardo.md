@@ -31,7 +31,7 @@ Luego de la pausa agrega:
 
 ## C
 
-**Cancha** *Quichua*  Terreno plano y limpio.  Posiblemente la voz americana mas esparcida por el mundo a partir de Maradona y todo eso que vino después.
+**Cancha** *Quichua*  Terreno plano y limpio.  Posiblemente la voz americana mas esparcida por el mundo.   Maradona refuerza el concepto anterior y pasa a ser el segundo vocablo americanoque se esparce por el globo.
 
 **Capicúa** *Catalán cabeza y cola*.
 
@@ -49,9 +49,9 @@ Luego de la pausa agrega:
 
 ## I
 
-**Inquisición** *Santo Oficio de la.*  Sistema creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, **Terraplanismo** o el **Antivacunismo**, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de aquel, las cifras mas optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, incluso hay quien arriesga una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Writh.   
+**Inquisición** *Santo Oficio de la.*  Sistema creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, **Terraplanismo** o el **Antivacunismo**, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de aquel, las cifras mas optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, incluso hay quien arriesga una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh.   
 
-[^1]: María debía calentar materiales en un caldero, sin someterlo al fuego directo, so riesgo de explosiones.  Para ello sumergió un recipiente dentro de otro con agua hirviendo.  A nuestros días sobrevive como "el baño de María".  Ella fué quemada a fuego directo.
+[^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
 ## L
 
@@ -67,15 +67,17 @@ Luego de la pausa agrega:
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
 
-**Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado"
+**Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."
 
 ## N
 
-**Negocio** *Lat. Nec Otium - nadie está ocioso.* Poco comprendido en este tiempo de indivíduos que solo miran su ombligo, este concepto es tan antiguo como la civilización occidental.  No existen negocios unilaterales.  Un negocio donde solo una parte obtiene beneficios, luego, es una estafa.
+**Negocio** *Lat. Nec Otium - Nadie está ocioso.  Nadie puede hacer dinero sin hacer nada*  Concepto este incomprendido en tiempos de indivíduos que solo ven su ombligo, este concepto es tan antiguo como la civilización occidental.  No existen negocios unilaterales.  Un negocio con beneficios para una sola parte, luego, es una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
+
+[^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
 
 **Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el fascismo del interlocutor.  "Yo soy neutro, apolítico"   
 
-**Novio** *Lat. Nuevo.*  Dícece de la nueva pareja.  Por recurso *ab negatio* viejo/a es el antónomo.  "Si el caballero baja del coche y abre la puerta desde donde baja una señorita, el auto es nuevo o ella es la nueva".
+**Novio|a** *Lat. Nuevo.*  Dícece de la nueva pareja.  Por recurso *ab negatio* viejo/a es el antónomo.  "Si el caballero baja del coche y abre la puerta desde donde baja una señorita, el auto es nuevo o ella es la nueva".
 
 ## O
 
@@ -85,7 +87,7 @@ Luego de la pausa agrega:
 
 ## P
 
-**Paciente** *Lat.*  Dícese del indivíduo o indivídua que se sitúa, por lo general sentado, en una sala de espera de instituto de salud, frente a una foto de una mujer vestida de blanco y el dedo índice sobre los lábios.  Fotografía de los años cuarenta que extrañamente sobrevive hasta nuestros días.  Se le llama paciente porque se lo cita cinco horas antes de la real.  En realidad debería llamársele pelotudo.
+**Paciente** *Lat.*  Dícese del indivíduo o indivídua que se sitúa, por lo general sentado, en una sala de espera de instituto de salud, frente a la foto de una mujer vestida de blanco y el dedo índice sobre los lábios.  Fotografía de los años cuarenta que extrañamente sobrevive hasta nuestros días.  Se le llama paciente porque se lo cita cinco horas antes de la real.  En realidad debería llamársele pelotudo.
 
 **Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanàlisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.
 
@@ -95,11 +97,11 @@ Luego de la pausa agrega:
 
 **Pánico** *Lat.  Pan, el dios perruno.*  Al parecer el pánico era producido por los sonidos del bosque, ese en que convivían elfos, druidas, hadas, animales y gentes.  Entre todos los sonidos, uno en particular, era el más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.
 
-**Paradoja** *Gr. Para Doxa - Contrario a la opinion.* Usase para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger la integradad física de los conductores.  Suponemos.  Un policía dispara a uno de estos jóvenes por no detenerse ante el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
+**Paradoja** *Gr. Para Doxa - Contrario a la opinion.* Usase para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -asumimos erroneamente- la integradad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí Pedestre.  También infante, pero so en casos en que el soldado es pequeño.
 
-**Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque en el pasado crucé gente así.
+**Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque conozco gente así.
 
 **Pelotudo**  Léase Paciente.
 
@@ -121,6 +123,6 @@ Luego de la pausa agrega:
 
 ## V
 
-**Vejez** *Lat. Vetus*.  Dejar libros por la mitad, no tomar ciertas bebidas, apagar el televisor sin culpa.  Suele darse en el caso de tramas que no cumplen el postulado de **Samuel Coleridge** a saber *suspender la incredulidad* [^3].  La edad parece ser inversamente proporcional a la credulidad.
+**Vejez** *Lat. Vetus*.  Dejar libros por la mitad, no tomar ciertas bebidas, apagar el televisor ante series con demasiada prensa.  Decir: "tenes razón" sin dejos de culpa en ningúno de los casos anteriores.  Suele darse en el caso de tramas que no cumplen el postulado de **Samuel Coleridge** constitutivo del arte, a saber: *suspender la incredulidad* [^3].  La edad pareciera jugar en contra de la credulidad.
 
 [^3]: Eg. Imposibles explosiones en el espacio, donde no hay oxígeno, o el clásico caso que sugiere Alejandro Dolina, que al salir del teatro el expectador se encuentra en la pizzería de la esquina, con el Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
