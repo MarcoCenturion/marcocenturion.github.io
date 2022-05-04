@@ -12,7 +12,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es enderezarla, de allí aderezo, ponerla en una línea.  Léase pauta en el mismo sentido.
 
-**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria que horroriza muy por encima de su calidad intrínseca.  Resulta útil para incrementar ventas en medios amarillos, como para forzar reflexiones sobre canibalismo al descubrir la cantidad de ADN que compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con sus limitaciones científicas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" un pariente.  Las reglas, prohibiciones y preceptos para la cocina parecieran extenderse al infinito.  En una se detiene, muy importante.
+**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria que horroriza muy por encima de su calidad intrínseca.  Resulta útil para incrementar ventas en medios amarillos, como para forzar reflexiones sobre canibalismo al descubrir la cantidad de ADN que compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" un pariente.  Las reglas, prohibiciones y preceptos para la cocina parecieran extenderse al infinito.  En una parece detenerse, para tomar aire.
 
 > No podemos matar a otro para comer.
 
@@ -20,7 +20,7 @@ Luego de la pausa agrega:
 
 > No como ustedes que matan millones y los dejan pudrirse en los campos de batalla.
 
-**Apolítico** *Lat. sufijo A dejota negación, Político es lo relativo a la Polis.*  Autodenominación de quienes reniegan de los partidos políticos.  Desconocen que el termino correcto debería ser **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
+**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación de quienes reniegan de comulgar con las ideas de los partidos políticos.  Desconocen que el termino correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
 
 [^2]: En su obra **La Política** Aristóteles señala una de las frases mas populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
@@ -49,7 +49,7 @@ Luego de la pausa agrega:
 
 ## I
 
-**Inquisición** *Santo Oficio de la.*  Sistema forzoso de imposición de un determinado conjunto de creencias.  Aún conserva mucho de sus originales faltas estéticas y de estilo, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Las cifras mas optimistas estiman la quema de **quinientas mil mujeres** durante los mil años que duró el medioevo, por la maravilla de volar en escobas, o inventar cosas [^1] como María la alquimista.  Los pesimistas arriesgan una cifra de siete dígitos.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los Hnos. Wrhite.  Que no eran escritores, precisamente.  
+**Inquisición** *Santo Oficio de la.*  Sistema creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, **Terraplanismo** o el **Antivacunismo**, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de aquel, las cifras mas optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, incluso hay quien arriesga una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Writh.   
 
 [^1]: María debía calentar materiales en un caldero, sin someterlo al fuego directo, so riesgo de explosiones.  Para ello sumergió un recipiente dentro de otro con agua hirviendo.  A nuestros días sobrevive como "el baño de María".  Ella fué quemada a fuego directo.
 
