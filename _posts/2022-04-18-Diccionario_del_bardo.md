@@ -63,11 +63,11 @@ Luego de la pausa agrega:
 
 ## M
 
-**Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Cuando era niño era común ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
+**Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaranní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa para transferirle esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
 
-**Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."
+**Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."  De no llegar la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesaria la producción de risa.  
 
 ## N
 
@@ -119,10 +119,12 @@ Luego de la pausa agrega:
 
 ## T
 
-**Tautología** *Lat.*  Bucle recursivo del idioma para hablar sin decir nada, de profusa utilización por parte de economistas de todos los tiempos.  Sin. de *Sanata* en las orillas del Río de la Plata.  "Desde lo profundo de Honduras" Sugiere bellamente Guillermo Cabrera Infante.
+**Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sin. de *Sanata* en las orillas del Río de la Plata.  "Desde lo profundo de Honduras" Sugiere bellamente Guillermo Cabrera Infante.
 
 ## V
 
-**Vejez** *Lat. Vetus*.  Dejar libros por la mitad, no tomar ciertas bebidas, apagar el televisor ante series con demasiada prensa.  Decir: "tenes razón" sin dejos de culpa en ningúno de los casos anteriores.  Suele darse en el caso de tramas que no cumplen el postulado de **Samuel Coleridge** constitutivo del arte, a saber: *suspender la incredulidad* [^3].  La edad pareciera jugar en contra de la credulidad.
+**Válvula** *Lat. Valva, hoja de la puerta*  Multitud de disciplinas se valen del concepto de válvula para expresar un fuido, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología y el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios "punto de no retorno".  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón.  Cuando el subalterno se lo hace notar, nos regala la célebre frase "Alea jacta est".  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
+
+**Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inavitable, envejecer es optativo.  Mejora los comportamientos.  Abandonar libros por la mitad, no tomar ciertas bebidas, apagar el televisor ante series con exesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  Respecto del arte, y por influjo suyo, el resto de las actividades humanas, la vejez viene a calibrar la incredulidad, tal cual lo postulaba el británico **Samuel Coleridge** donde el arte necesita *suspender la incredulidad* [^3].
 
 [^3]: Eg. Imposibles explosiones en el espacio, donde no hay oxígeno, o el clásico caso que sugiere Alejandro Dolina, que al salir del teatro el expectador se encuentra en la pizzería de la esquina, con el Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
