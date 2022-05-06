@@ -10,13 +10,13 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es enderezarla, de allí aderezo, ponerla en una línea.  Léase pauta en el mismo sentido.
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
 **Antropofagia** *Ver.*  Tabú.  Costumbre culinaria que horroriza muy por encima de su calidad intrínseca.  Resulta útil para incrementar ventas en medios amarillos, como para forzar reflexiones sobre canibalismo al descubrir la cantidad de ADN que compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" un pariente.  Las reglas, prohibiciones y preceptos para la cocina parecieran extenderse al infinito.  En una parece detenerse, para tomar aire.
 
 > No podemos matar a otro para comer.
 
-Luego de la pausa agrega:
+Luego de una ligera pausa agrega:
 
 > No como ustedes que matan millones y los dejan pudrirse en los campos de batalla.
 
@@ -27,13 +27,17 @@ Luego de la pausa agrega:
 
 ## B
 
-**Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroques de las tribus del norte, literalmente *Caca Grande*.
+**Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
+
+**Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, mas precisamente en Tenochtitlan, antes de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior a de Europa, que paradojicamente queda al Oriente de América. [^3]
+
+[^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España sobre la gran ciudad y la calle de los herbolarios. Escribió: "hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
 
 ## C
 
-**Cancha** *Quichua*  Terreno plano y limpio.  Posiblemente la voz americana mas esparcida por el mundo.   Maradona refuerza el concepto anterior y pasa a ser el segundo vocablo americanoque se esparce por el globo.
+**Cancha** *Quichua*  Terreno plano y limpio.  Posiblemente la voz americana mas esparcida por el mundo.   Maradona refuerza el concepto anterior y pasa a ser el segundo vocablo americano que se esparce por el globo.
 
-**Capicúa** *Catalán cabeza y cola*.
+**Capicúa** *Catalán. Cap, cabeza y cúa, cola*.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la casa visitada por estos últimos.
 
@@ -41,11 +45,19 @@ Luego de la pausa agrega:
 
 ## D
 
-**Dios** **Daemon** 
+**Delgado** *Lat. Delicatus*  Fino, delgado, delicado.
 
-**Dosis** *Lat.  Dosis sola facit venenum*  "Historia de las plantas" del discípulo de Aristóteles Teofrasto (Lesbos 371 - 287 AC):  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
+**Demiurgo** *Gr.*  Demius, público y ergon, trabajo.  El que trabaja para el público. 
+
+**Demonio** *Daemonium*  Divinidad inferior. 
+
+**Derecho** *Lat. Derictus.*  Recto.  No parece tener conexión con justo.
+
+**Dosis** *Lat.  Dosis sola facit venenum.*  "Historia de las plantas" del discípulo de Aristóteles Teofrasto (Lesbos 371 - 287 AC):  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
 ## E
+
+**Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.
 
 **Especialista** *Adj.* Especie Lista.
 
@@ -105,6 +117,8 @@ Luego de la pausa agrega:
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinion.* Usase para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -asumimos erroneamente- la integradad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
+**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones esporádicas.  El nombre lo debe al sigilo con el que llega o se retira.  Solo deja muestras de su paso en prendas de vestir olvidads o sonrisas nuevas.  Se le adjutica prodigios como pago espontáneo de facturas de luz por vencer.
+
 **Pedante** *Lat.*  Soldado de a pié.  De allí Pedestre.  También infante, pero so en casos en que el soldado es pequeño.
 
 **Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque conozco gente así.
@@ -121,7 +135,7 @@ Luego de la pausa agrega:
 
 ## S
 
-**Sapere Aude** *Lat. Atrévete a Saber*
+**Sapere Aude** *Lat. Atré, público y ergon, trabajo.  El que trabaja para el público.*
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta mas sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
@@ -135,6 +149,6 @@ Luego de la pausa agrega:
 
 **Válvula** *Lat. Valva, hoja de la puerta*  Multitud de disciplinas se valen del concepto de válvula para expresar un fuido, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología y el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios "punto de no retorno".  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón.  Cuando el subalterno se lo hace notar, nos regala la célebre frase "Alea jacta est".  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inavitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  El arte, y por influjo suyo, el resto de las actividades humanas, la vejez viene a calibrar la incredulidad, tal cual lo postulaba el británico **Samuel Coleridge** donde el arte necesita *suspender la incredulidad* [^3].
+**Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inavitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  El arte, y por influjo suyo, el resto de las actividades humanas, la vejez viene a calibrar la incredulidad, tal cual lo postulaba el británico **Samuel Coleridge** donde el arte necesita *suspender la incredulidad* [^5].
 
-[^3]: Eg. explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que en la pizzería de la esquina del teatro, observan al Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
+[^5]: Eg. explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que en la pizzería de la esquina del teatro, observan al Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
