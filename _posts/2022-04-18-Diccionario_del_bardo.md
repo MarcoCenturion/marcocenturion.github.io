@@ -39,6 +39,12 @@ Luego de la pausa agrega:
 
 **Cigûeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigûeñas*.  La doctrina no es pacífica.
 
+## D
+
+**Dios** **Daemon** 
+
+**Dosis** *Lat.  Dosis sola facit venenum*  "Historia de las plantas" del discípulo de Aristóteles Teofrasto (Lesbos 371 - 287 AC):  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
+
 ## E
 
 **Especialista** *Adj.* Especie Lista.
@@ -115,6 +121,8 @@ Luego de la pausa agrega:
 
 ## S
 
+**Sapere Aude** *Lat. Atrévete a Saber*
+
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta mas sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
 ## T
@@ -123,8 +131,10 @@ Luego de la pausa agrega:
 
 ## V
 
+**Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad -valor- a las cosas, que suele llevar a la confución acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "pena" por la cosa.  Deberíamos Justipreciar las cosas y valorar las gentes, aunque lo normal sea lo inverso.
+
 **Válvula** *Lat. Valva, hoja de la puerta*  Multitud de disciplinas se valen del concepto de válvula para expresar un fuido, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología y el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios "punto de no retorno".  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón.  Cuando el subalterno se lo hace notar, nos regala la célebre frase "Alea jacta est".  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inavitable, envejecer es optativo.  Mejora los comportamientos.  Abandonar libros por la mitad, no tomar ciertas bebidas, apagar el televisor ante series con exesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  Respecto del arte, y por influjo suyo, el resto de las actividades humanas, la vejez viene a calibrar la incredulidad, tal cual lo postulaba el británico **Samuel Coleridge** donde el arte necesita *suspender la incredulidad* [^3].
+**Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inavitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  El arte, y por influjo suyo, el resto de las actividades humanas, la vejez viene a calibrar la incredulidad, tal cual lo postulaba el británico **Samuel Coleridge** donde el arte necesita *suspender la incredulidad* [^3].
 
-[^3]: Eg. Imposibles explosiones en el espacio, donde no hay oxígeno, o el clásico caso que sugiere Alejandro Dolina, que al salir del teatro el expectador se encuentra en la pizzería de la esquina, con el Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
+[^3]: Eg. explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que en la pizzería de la esquina del teatro, observan al Rey Lear, Cordelia y sus asesinos cenando y riendo juntos.
