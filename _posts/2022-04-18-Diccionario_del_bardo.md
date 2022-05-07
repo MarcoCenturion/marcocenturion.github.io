@@ -45,7 +45,7 @@ Luego de una ligera pausa agrega:
 
 ## D
 
-**Delgado** *Lat. Delicatus*  Fino, delgado, delicado.
+**Delgado** *Lat. Delicatus.*  Fino, delgado, delicado.
 
 **Demiurgo** *Gr.*  Demius, público y ergon, trabajo.  El que trabaja para el público. 
 
@@ -53,13 +53,21 @@ Luego de una ligera pausa agrega:
 
 **Derecho** *Lat. Derictus.*  Recto.  No parece tener conexión con justo.
 
-**Dosis** *Lat.  Dosis sola facit venenum.*  "Historia de las plantas" del discípulo de Aristóteles Teofrasto (Lesbos 371 - 287 AC):  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
+**Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
 ## E
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.
 
 **Especialista** *Adj.* Especie Lista.
+
+## F
+
+**Familia** *Lat. Famulus, sirviente, esclavos.*  En rigor, conjunto de esclavos, tengan o no el ADN del Caput Familiae.    
+
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso [^6].
+
+[^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joice. 
 
 ## J
 
