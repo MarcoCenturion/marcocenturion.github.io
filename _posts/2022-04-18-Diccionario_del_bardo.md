@@ -149,9 +149,13 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
 
+**Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
+
+**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre. 
+
 ## S
 
-**Sapere Aude** *Lat. Atrévete a Saber*.
+**Sapere Aude** *Lat. Atrévete a Saber*.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta mas sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
