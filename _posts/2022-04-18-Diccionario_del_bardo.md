@@ -12,7 +12,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
-**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria con capazidad de horrorizar muy por encima de su calidad intrínseca.  De alta efectividad para incrementar ventas en medios amarillos, sin el mismo resultado al mostrar cuanto ADN compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" un pariente.  Las reglas, prohibiciones y preceptos para la cocina parecieran extenderse al infinito.  En una parece detenerse, para tomar aire.
+**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria con capacidad de horrorizar muy por encima de su calidad intrínseca.  De alta efectividad para incrementar ventas en medios amarillos, sin el mismo resultado al mostrar cuanto ADN compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las reglas, prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una parece detenerse, tomar aire.
 
 > No podemos matar a otro para comer.
 
@@ -29,13 +29,13 @@ Luego de una ligera pausa agrega:
 
 **Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
-**Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, mas precisamente en Tenochtitlan, antes de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior a de Europa, que paradojicamente queda al Oriente de América. [^3]
+**Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, mas precisamente en Tenochtitlan, antes de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
 
-[^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España sobre la gran ciudad y la calle de los herbolarios. Escribió: "hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
+[^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
 
 ## C
 
-**Cancha** *Quichua.*  Terreno plano y limpio.  Posiblemente la voz americana mas esparcida por el mundo.   Maradona refuerza el concepto anterior y pasa a ser el segundo vocablo americano que se esparce por el globo.
+**Cancha** *Quichua.*  Terreno plano y limpio.  Voz americana esparcida por el mundo.  Maradona refuerza este concepto, desplaza el sustantivo anterior y pasa a ser el vocablo americano mas mas escrito, pintado, cantado, etc.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 

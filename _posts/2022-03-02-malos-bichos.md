@@ -12,56 +12,75 @@ lead_text: 'Los tomadores de créditos UVA y la sensatez.'
 
 # Los Malos Bichos
 
-“Y no era peor que otras vidas”
-Julio Cortazar
+*“Y no era peor que otras vidas”*  Julio Cortazar
 
-Vivimos en un mundo colonizado por malos bichos que se esconden en los lugares menos pensados, porque -convengamos- es cómodo y casi esperable imaginar al odontólogo sádico, pero no al heladero o el recepcionista del hotel. Primer y Gran Error, el heladero bien puede calificar en esta categoría. Lo entiendo, muchas veces tiene razón.
+Vivimos en un mundo colonizado por malos bichoss.  Se esconden en los lugares menos pensados, porque -convengamos- es cómodo y casi esperable asumir al odontólogo sádico, pero no al heladero o el recepcionista del hotel.  Primer y Gran Error, el heladero bien puede calificar en esta categoría. Lo entiendo, muchas veces tiene razón.
 
-Primer caso: el dueño de la Hostería un tercio de estrella, les habla en portugués -aprovechando que vivió un par de años en Pipa- pareciera un acto de amor, para que el “aterrizaje a la capa social inferior” no les duela tanto.
+**Primer caso**:  Dueño de la Hostería un tercio de estrella, contesta en portugués las consultas de sus huéspedes, pareciera un acto de amor, para que el “aterrizaje a la capa social inferior” no les duela tanto.
 
 -Olla -Dice señalando con el dedo- vocé tein que ...
 
--Na rua Das Chilampis -asiente con la cabeza autofestejándose el chiste- vocé vai trocar reais, o -Na Praia das Peteiras- tal otra cosa.
+Vivió unos meses en Pipa, o eso dice.  Ya incluso se lo cree.
 
-Afortunadamente, los clientes no entienden la gastada de nuestro primer mal bicho.  Mal bicho de los nuestros.
+> Na rua Das Chilampis -Asiente con la cabeza la cadencia carioca- vocé vai trocar reais 
 
-Plaza cheta de pueblo de calles de tierra (polvo, casi talco en realidad) Traslasierra, llena de artesanos con buen gusto.  Los nuevos pobres estacionan a cinco cuadras y caminan subidas interminables para ahorrar cien P.  A este público pedestre, le pegó la crisis, pero reprimen pensarlo o imaginarlo siquiera. 
+> Na Praia das Peteiras...
 
-Cierta inexplicable sobreestimación del Yo, hace que asuman similitudes entre Brochero y Buzios, seguramente debido a la “B”.  No estoy seguro. La salinididad del agua difiere. Bastante. De eso si estoy seguro.
+Afortunadamente, tampoco comprenden el castellano del anfitrión, sonríen todos.
 
-Cabecean al pasar frente a los lánguidos y leídos puesteros de la plaza con el latiguillo “estoy mirando” que utilizan a modo de punto final de la oración al escuchar Cinco Mil pesos.
+Plano global de plaza paqueta de pueblo de calles de tierra -polvo en realidad- en Traslasierra.  Superpoblada de artesanos con buen gusto.  Nuestros *nuevos pobres* estacionan a cinco cuadras y caminan subidas interminables para ahorrar cien P.  A este público pedestre, le pegó la crisis, pero reprimen pensarlo o imaginarlo siquiera. 
 
+Cierta inexplicable **sobreestimación del Yo**, hace que asuman similitudes entre **Brochero** y **Buzios**, seguramente debido a la coincidencia en la B o las palabras del hotelero.  No estoy seguro. La salinididad del agua difiere. Bastante. De eso si estoy seguro.
 
-El artesano lee una novela de Graham Green en inglés.  La mas pequeña lo nota.  Pasa totalmente desapercibida a los adultos, atinellizados.
+Cabecean de manera sobreactuada al pasar ante lánguidos y leídos puesteros, con el latiguillo “estoy mirando” que utilizan a modo de punto final de la oración al escuchar Cinco Mil pesos.
 
-Cruzan a la Heladería.  Quinientas personas en diez metros cuadrados, haciendo abuso del aire acondicionado.  Le toca al matrimonio con los seis gringuitos de publicidad de calditos.
+El artesano lee una novela de Graham Green en inglés.  La mas pequeña lo nota.  Pasa totalmente desapercibida a los adultos, inmigrantes gustosos de redes sociales, ese lugar donde nadie corrige ortografía o estilo.
 
--¿Que gustos? -Pregunta el mal bicho detrás del mostrador, después de hacer contacto visual con la flaquita inteligente, que da tratamiento muy concreto a “presiones oculares”, sonríe pensándolo.  Le chupa un huevo la cara del heladero.  Se lo hace saber con la mirada.
+Cruzan a la heladeríai artesanal.  Quinientas personas en diez metros cuadrados, haciendo abuso del aire acondicionado.  Le toca al matrimonio con los seis gringuitos de publicidad de calditos.
+
+> ¿Que gustos? 
+
+Pregunta el mal bicho detrás del mostrador.  Acaba de de establecer contacto visual con la flaquita inteligente, que da tratamiento muy concreto a “presiones oculares”, sonríe pensándolo ya que le chupa un huevo la cara del heladero.  Se encarga de hacérselo saber con la mirada y la sonrisa.
 
 Hemos creado una generación de monstruos egocéntricos inteligentísimos que gobernarán este planeta y nos eliminarán como carga innecesaria y costosa.  Y posiblemente sea lo mas correcto.  Lo se, lo vemos en sus sonrisas de cinco años cuando nos hablan.  Los liderarán niñas como esta.
 
-Uno se pregunta asumiendo el rol de el heladero y escuchando sus chistes pelotudos, hace veinticinco minutos que están   Pregunta obligatoria: ¿Podrían haber elegido?  
+Imagino, por piedad que el heladero está preguntándose: 
 
+> Hace veinticinco minutos que están ¿No eligieron el sabor? ¿Esto es lo mejor que pudieron criar esos dos padres?  
 
-Ocurre, lo sé en las heladerías de todo el planeta.
+Ocurre, lo sé, en las heladerías de todo el planeta.
 
--Que tiene el Sambayón Granizado -Pregunta una del medio del grupo de diez años temporales, pero mucho mayor IQ que la madre.  O el padre. O la suma de los IQ de ambos.
+> ¿Que tiene el **Sambayón Granizado**? 
 
--Es Sambayón con granizado -Agrega el heladero golpeando la tapa metálica y se silencia el salón-  Levanta las cejas y responde al “buen dia” que dice la pareja que entró con “La puerta. El aire. Gracias.  Mmnndía”, mantiene cinco conversaciones coherentes con cara de sota de espadas. A la nena, al que preguntó por el telecentro, a la jefa que le dice que no trajeron Sambayón Granizado y a la pregunta “¿Gol de quien? de alguien con casaca plástica del ascenso, conurbano, zona oeste, a lo que responde con sonrisa rara cercana a
+Pregunta una del grupo de los diez años temporales, pero mucho mayor **IQ** que la madre.  O el padre. O la suma de ambos.
 
--¿Que mierda puedo saber yo?
+> Es Sambayón con granizado 
 
-Mientras la nena primera de la fila dice
+Responde monocorde el heladero, golpeando la tapa metálica y se silencia el salón.  Levanta las cejas y responde al “buen dia” que soltó la pareja que entró, con 
 
--Ah! entonces, Locro con banana y sambayon granizado-
+> La puerta. El aire. Gracias.  Mmnndía. 
 
--Te cuento los gustos que quedan -por sabores- y enumera cuarenta.
+Mantiene cinco conversaciones coherentes con cara de sota de espadas. A la nena, al que preguntó por el telecentro, a la jefa que le dice que no trajeron Sambayón Granizado y a la pregunta 
+
+> ¿Gol de quien? 
+
+Pregunta alguien vistiendo casaca plástica del ascenso, conurbano, zona oeste.  Y crocs.   
+
+A lo que responde con sonrisa rara cercana a "¿Que mierda puedo saber yo?"
+
+Mientras la nena primera de la fila dice.
+
+> Ah! entonces, Locro con banana y sambayon granizado-
+
+> Te cuento los gustos que quedan -por sabores- y enumera cuarenta.
 
 Enumera en voz alta para que el resto escuche, algunos escuchan, alguno presta más atención al partido en segundo plano.  Nadie a sus respectivas parejas. Otro tipo de malos bichos.
 
 Paga el voluminoso papá con uno a upa.  Intuye que es más fácil con la de débito, pero también intuye el contenido de esa Caja de Ahorro Prestige o Infinia o Mega o Emperador o Black o Diamond o algún otro nombre que la haga parecer que ese banco que solo se llama por siglas, va a estar más adelante.  El pobre gordo cree esto gracias a su bajo IQ y a que un peladito de ojos claros decía:
 
--El que depositó dólares, recibirá dólares-  Y como decía en inglés alguna otra imbecilidad, quedaba re bien.
+> El que depositó dólares, recibirá dólares.  
+
+Y como decía en inglés alguna otra imbecilidad, quedaba re bien.
 
 El heladero multitarea entrega dos helados al padre, que ninguno reclama de la tribu porque están cagándose a trompadas, como corresponde a niños sanos y en el mismo acto, dos billetes de diez pesos y cuatro de cinco pesos, que en algún momento fueron de papel.  Los próceres y paisajes no mantienen una correlación, algo que molesta sensiblemente a la mama medio TOC y mira en segundo plano.
 
