@@ -27,6 +27,8 @@ Luego de una ligera pausa agrega:
 
 ## B
 
+**Bipolar** *Psic.*  Dícese de indivíduos neuróticos a quienes no le metieron una buena cagada de párvulos.  Lo único bipolar es una pila.
+
 **Boston** *Sus. Propio.* Ciudad de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
 **Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, mas precisamente en Tenochtitlan, antes de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
@@ -55,7 +57,13 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Lat. Draco*  Ser mitológico que comparte un extraño privilegio, se lo reconoce en oriente y occidente por igual.  Un diálogo reciente escuchado en la calle me llamó la atención.  Un joven dice a la que parece ser su novia: "Me dijeron que en el recital de la Renga estaba lleno de Dragones."  Al tiempo que ella lo corrige: "Drogones, boludo.  Drogones."
+**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se lo reconoce en oriente y occidente por igual.  Un diálogo reciente escuchado en la calle pareciera actualizar su veracidad, en estos nuevo medioevos digitales.  Un joven dialoga con la que parece ser su novia: 
+
+> En el noticiero dijeron que en recital de la Renga estaba lleno de Dragones.   
+
+Al tiempo que ella lo corrige: 
+
+> ¡Drogones! Boludo. Drogones.
 
 ## E
 
@@ -71,13 +79,21 @@ Luego de una ligera pausa agrega:
 
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joice. 
 
+**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, donde había un Idem.  En la mediterranea Córdoba, se construyó un faro, con abundantes dineros públicos.  Lo extraño no es la inexistencia de un mar a no menos de novecientos kilómetros a la redonda.  A juzgar por lo generoso que es el estado provincial con este tipo de gastos faraónicos alpédicos, el faro sería un gasto menor.  
+
+> Esperá que empiecen a dragar la provincia.  
+
+**Fe** *Lat. Fides.*  Confianza.  Puntual confianza en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re.  
+
+**Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
+
 ## J
 
 **Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
 
 ## I
 
-**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, **Terraplanismo** o el **Antivacunismo**, **Globertismos**, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de las principales taréas de aquella, figura la invención de un enemigo.  Las cifras mas optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh.   
+**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, **Terraplanismo** o el **Antivacunismo**, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de las principales taréas de aquella, figura la invención de un enemigo.  Las cifras mas optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh.   
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
@@ -91,7 +107,7 @@ Luego de una ligera pausa agrega:
 
 ## M
 
-**Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que creyeron en este tipo de prodicios, o anfisbenas o dragones.
+**Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este "valle de lágrimas" en la total crencia de estas, o anfisbenas o dragones.  Porque así lo afirmaban Plinio o Plutarco o algún otro famoso.  Luego, nuestras limitaciones intelectuales son solo las limitaciones de nuestra época.
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva pensamiento mágico, a traves del cual atribuimos cambios en la realidad producto de la voluntad.  La característica mas importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de la explicaciones*.  "Temo al hombre de un solo libro". 
 
@@ -131,7 +147,7 @@ Luego de una ligera pausa agrega:
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinion.* Usase para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -asumimos erroneamente- la integradad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
-**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones esporádicas.  El nombre lo debe al sigilo que observa al llegar o en su retirada.  Las muestras de su paso son igual de ambíguas, prendas de vestir olvidadas o sonrisas nuevas.  Se le adjutica prodigios como pago espontáneo de facturas de luz por vencer.
+**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patróns.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrilos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí edestre.  Igual origen suponemos para infante, aunque suponemos un soldado menor de edad.
 
@@ -141,7 +157,19 @@ Luego de una ligera pausa agrega:
 
 **Perverso** *Adj. ind.* Que sirve para hacer el verso.
 
+**Pilcha** *Mapuche.*   Vertimenta, recado.
+
 **Pirca** *Quichua*  Pared o mucho hecho con piedras apiladas.
+
+**Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora.  
+
+> Anda cruzando el invierno, con un ponchito de vino.
+
+**Positivo** *Elect. o Psic.*  Es cada vez mas común en el habla cotidiana la aberración del imperativo
+
+> Roberto, tenés que ser mas *positivo*.
+
+La única forma de ser mas positivo, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
 ## R
 
@@ -167,7 +195,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sin. de *Sanata* en las orillas del Río de la Plata.  "Desde lo profundo de Honduras" Sugiere bellamente Guillermo Cabrera Infante.
 
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Posiblemente debido a ingestas tóxicas, cierto poeta ha sugerido en una canción "Andando por el mundo en tero." algo poco probable. 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Posiblemente bajo el influjo de alguna ingesta tóxica, cierto poeta ha sugerido en una canción: 
+
+> Andando por el mundo en tero.
 
 ## V
 
