@@ -97,6 +97,8 @@ Al tiempo que ella lo corrige:
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
+**Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se ubicaban a la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración de Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, con la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia derecha.  Pueblo de llanura, su fortaleza era la lucha en el barro, por lo que "clavaban" el pié izquierdo, fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
+
 ## L
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
@@ -147,7 +149,7 @@ Al tiempo que ella lo corrige:
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
-**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patróns.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
+**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí edestre.  Igual origen suponemos para infante, aunque asumimos un soldado menor de edad.
 
@@ -171,9 +173,11 @@ Al tiempo que ella lo corrige:
 
 La única forma de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
+**Rojo** *Lat. Russeus.*  Pariente del italiano Rosso, el portugués Roxo, el francés Rouge aunque parece mas proveniente de Roux, el catalán Roig.  En todos los idiomas latinos conserva la rudeza de la sangre en su sonido.
+
 ## R
 
-**Risa** *Ver.*  Movimiento reflejo natural, de uso -casi- exclusivo al homo sappiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
+**Risa** *Sus. risus.*  Movimiento reflejo natural e involuntario, de uso -casi- exclusivo al homo sappiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
 
 > ¿Es cierto que los rusos no ríen? 
 
@@ -208,3 +212,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inevitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, la vejez viene a hacer más difícil *calibrar la incredulidad*.  Lo postulaba el británico *Samuel Coleridge* como requisito *sine qua non* del arte *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
+
+## Z
+
+**Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  
