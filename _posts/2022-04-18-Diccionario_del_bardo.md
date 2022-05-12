@@ -55,6 +55,8 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
+**Dragón** *Lat. Draco*  Ser mitológico que comparte un extraño privilegio, se lo reconoce en oriente y occidente por igual.  Un diálogo reciente escuchado en la calle me llamó la atención.  Un joven dice a la que parece ser su novia: "Me dijeron que en el recital de la Renga estaba lleno de Dragones."  Al tiempo que ella lo corrige: "Drogones, boludo.  Drogones."
+
 ## E
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.
@@ -88,6 +90,8 @@ Luego de una ligera pausa agrega:
 **Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenia la existencia de palabras intrínsecamente bellas.  Esta es una de ellas. El solo sonido de la palabra llovizna es bello.  Matilde había Traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la Editorial Minotauro, en los convulcionados setentas.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los desdichados noventas, Minotauro fue vendida a una editorial multinacional europea.  Entre las traducciones estaban dos de tres "El Señor de los Anillos" de Tolkien.  Por todo concepto le pagan Mil Euros.  Termina sus días en un geriátrico sostenido por el estado mientras la multinacional vende cientos de miles de sus traducciones.      
 
 ## M
+
+**Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que creyeron en este tipo de prodicios, o anfisbenas o dragones.
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva pensamiento mágico, a traves del cual atribuimos cambios en la realidad producto de la voluntad.  La característica mas importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de la explicaciones*.  "Temo al hombre de un solo libro". 
 
@@ -162,6 +166,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 ## T
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sin. de *Sanata* en las orillas del Río de la Plata.  "Desde lo profundo de Honduras" Sugiere bellamente Guillermo Cabrera Infante.
+
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Posiblemente debido a ingestas tóxicas, cierto poeta ha sugerido en una canción "Andando por el mundo en tero." algo poco probable. 
 
 ## V
 
