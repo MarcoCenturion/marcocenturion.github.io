@@ -1,4 +1,5 @@
 ---
+
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2022-03-26 19:41:34
@@ -37,6 +38,8 @@ Luego de una ligera pausa agrega:
 
 ## C
 
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la promesa de pago romana "para las calendas griegas", luego nunca.
+
 **Cancha** *Quichua.*  Terreno plano y limpio.  Voz americana esparcida por el mundo.  Maradona refuerza este concepto, desplaza el sustantivo anterior y pasa a ser el vocablo americano más escrito, pintado, cantado, etc.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
@@ -65,6 +68,10 @@ Al tiempo que ella lo corrige:
 
 > ¡Drogones! Boludo. Drogones.
 
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque son dos las opciones del que duda[^7].  
+
+[^7]: Hay una hermosa metáfora clásica *Dudoso como presente griego* en alusión al Caballo de Troya. 
+
 ## E
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.
@@ -83,7 +90,7 @@ Al tiempo que ella lo corrige:
 
 > Esperá que empiecen a dragar la provincia.  
 
-**Fe** *Lat. Fides.*  Confianza.  Puntual confianza en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re.  
+**Fe** *Lat. Fides.*  Confianza.  Puntual confianza en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re, que pareciera tratarse de Mi.  
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
@@ -212,6 +219,14 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inevitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, la vejez viene a hacer más difícil *calibrar la incredulidad*.  Lo postulaba el británico *Samuel Coleridge* como requisito *sine qua non* del arte *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
+
+**Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre implica una frente marchita.
+
+**Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
+
+**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando en realidad fueron los primeros en *aterrizar*.  2- Capacidad que se adquiere con gradeo de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^8].
+
+[^8]:  Ya lo sugirió el poeta con pluma mucho mas hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
 
 ## Z
 
