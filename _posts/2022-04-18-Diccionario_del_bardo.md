@@ -110,6 +110,10 @@ Al tiempo que ella lo corrige:
 
 [^10]: Sentenciado a tomar la cicuta, Sócrates reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
+## H
+
+**Hígado** *Lat. Ficus, de Jecur Ficatum.*   En la república romana, era costumbre saltar el jecur (hígado) en higos.  De allí que el adjetivo se convierte en sustantivo.
+
 ---
 
 ## J
@@ -120,13 +124,17 @@ Al tiempo que ella lo corrige:
 
 ## I
 
-**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, **Terraplanismo** o el **Antivacunismo**, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de las principales taréas de aquella, figura la invención de un enemigo.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh.   
+**Imberbe**  Que carece de barba.
+
+**Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente 'Yo rompo'.  Romper un ícono, en estos tiempos de medios digitales, pareciera enviar una figurita a la papelera de reciclaje.  En el siglo VIII, los Iconoclastas, eran los partidarios de destruir imágenes de santos.  De aquí que comparten esta bella costumbre varios credos, el islam aduce 'no podemos copiar la obra de dios' y solo permite el arte de dibujar palabras, que son obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conoce como idólatras a aquellos que veneran imágenes.  En la actualidad, vemos una encarnizada lucha por la supremacía de la imágen, llevando una delantera importante una manzanita mordida.   
+
+**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de las principales taréas de aquella, figura la invención de un enemigo.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh.   
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Invierno**  Hay que pasar el.
+**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Pasaje de un adjetivo a un sustantivo.  Lo vemos localmente en 'carne asada', luego sencillamente asado. Hay que pasar el.
 
-**Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se ubicaban a la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración de Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, con la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia derecha.  Pueblo de llanura, su fortaleza era la lucha en el barro, por lo que "clavaban" el pié izquierdo, fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
+**Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración a Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, el barro, por lo que literalmente "clavaban" el pié izquierdo y fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
 
 ---
 
@@ -295,13 +303,17 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
-**Vizcacha** *Amer. Quichua.*  Uiscacha.  Las enseñanzas del Viejo Vizcacha, fueron exportadas al viejo mundo.  
+**Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
 
 > Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.
 
+o 
+
+> Jamás llegues a parar, a donde veas perros flacos.
+
 Esta puntualmente es muy bonita. [^11].
 
-[^11]:  "I'll give you viscach on evening."  Paradise Lost.  John Milton.
+[^11]:  "I'll give you viscachs on evening."  Paradise Lost.  --John Milton.
 
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre implica una frente marchita.
 
