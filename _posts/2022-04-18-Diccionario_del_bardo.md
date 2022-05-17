@@ -13,7 +13,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
-**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria con capacidad de horrorizar muy por encima de su calidad intrínseca.  De alta efectividad para incrementar ventas en medios amarillos, sin el mismo resultado al mostrar cuanto ADN compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las reglas, prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una parece detenerse, tomar aire.
+**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria con capacidad de horrorizar muy por encima de su calidad intrínseca.  De alta efectividad para incrementar ventas en medios amarillos, sin el mismo resultado al mostrar cuanto ADN compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
 > No podemos matar a otro para comer.
 
@@ -25,7 +25,7 @@ Luego de una ligera pausa agrega:
 
 [^2]: En su obra **La Política** Aristóteles señala una de las frases más populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
-
+---
 ## B
 
 **Bipolar** *Psic.*  Dícese de individuos neuróticos a quienes que carecieron de lo que la clínica conoce como *una buena cagada*.  La voz popular sugiere: *Lo únco bipolar es una pila*.
@@ -35,6 +35,8 @@ Luego de una ligera pausa agrega:
 **Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en Tenochtitlan, antes de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
+
+---
 
 ## C
 
@@ -48,6 +50,8 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
+---
+
 ## D
 
 **Delgado** *Lat. Delicatus.*  Fino, delgado, delicado.
@@ -60,7 +64,7 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se lo reconoce en oriente y occidente por igual.  Un diálogo reciente escuchado en la calle pareciera actualizar su veracidad, en estos nuevo medioevos digitales.  Un joven dialoga con la que parece ser su novia: 
+**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se lo reconoce en oriente y occidente por igual.  Un diálogo reciente escuchado en la calle pareciera actualizar su veracidad, en estos nuevo medioevos digitales.  Un joven dialoga con una niña con la que pareciera tener confidencia de novia, o amante, o compañera de Call of Dutty: 
 
 > En el noticiero dijeron que en recital de la Renga estaba lleno de Dragones.   
 
@@ -68,9 +72,11 @@ Al tiempo que ella lo corrige:
 
 > ¡Drogones! Boludo. Drogones.
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque son dos las opciones del que duda[^7].  
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos las opciones del que duda[^7].  
 
 [^7]: Hay una hermosa metáfora clásica *Dudoso como presente griego* en alusión al Caballo de Troya. 
+
+---
 
 ## E
 
@@ -78,25 +84,39 @@ Al tiempo que ella lo corrige:
 
 **Especialista** *Adj.* Especie Lista.
 
+---
+
 ## F
 
-**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, tengan o no el ADN del Caput Familiae.    
+**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, conserven o no el ADN del Caput Familiae.    
 
 **Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso [^6].
 
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joice. 
 
-**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, donde había un Idem.  En la mediterránea Córdoba, se construyó un faro, con abundantes dineros públicos.  Lo extraño no es la inexistencia de un mar a no menos de novecientos kilómetros a la redonda.  A juzgar por lo generoso que es el estado provincial con este tipo de gastos faraónicos alpédicos, el faro sería un gasto menor.  
+**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría,  famosa por un Idem.  En la mediterránea Córdoba, construyose tiempo atrás un faro, con abundantes aportes de dineros públicos.  Lo extraño no es la inexistencia de un mar a no menos de novecientos kilómetros a la redonda.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
 > Esperá que empiecen a dragar la provincia.  
 
-**Fe** *Lat. Fides.*  Confianza.  Puntual confianza en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re, que pareciera tratarse de Mi.  
+**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re, todo parece indicar que se trata de Mi.  
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
+
+---
+
+## G
+
+**Gallo** *Lat. Galius.*  En tiempos de la república romana, los galos eran los pueblos transalpinos, tanto se hicieron cargo del nombre que el pueblo galo lleva un gallo como insignia.  Tarde entendimos que el gallo de Morón, no era de tal lugar, sino demorón.  Por haberse levantado tarde.  Otro gallo da comienzo a la filosofía de occidente[^10].
+
+[^10]: Sentenciado a tomar la cicuta, Sócrates reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
+
+---
 
 ## J
 
 **Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
+
+---
 
 ## I
 
@@ -104,29 +124,67 @@ Al tiempo que ella lo corrige:
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
+**Invierno**  Hay que pasar el.
+
 **Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se ubicaban a la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración de Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, con la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia derecha.  Pueblo de llanura, su fortaleza era la lucha en el barro, por lo que "clavaban" el pié izquierdo, fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
+
+---
+
+## J
+
+**Jabalí**
+
+**Jazmín**  *Ar.* 
+
+**Jubilo**  Jubilado.
+
+**Jueves**  Día de Júpiter.
+
+---
 
 ## L
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
 
+**Lápida**  Lápiz, piedra.
+
+**Lapso**  Colapso.
+
+**Lechuza** 
+
+**Lego**  Laico.
+
+**Lente** Lenteja por el mismo origen.
+
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan el vocablo loco para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
 
 **Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas.  Esta es una de ellas. El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la Editorial Minotauro, en los convulsionados setentas.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los desdichados noventas, Minotauro fue vendida a una editorial multinacional europea.  Entre las traducciones estaban dos de tres "El Señor de los Anillos" de Tolkien.  Por todo concepto le pagan Mil Euros.  Termina sus días en un geriátrico sostenido por el estado mientras la multinacional vende cientos de miles de sus traducciones.      
 
+---
+
 ## M
+
+**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.
 
 **Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este "valle de lágrimas" en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de la explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*. 
 
+**Manía** Manicomio.
+
 **Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa con el objeto de transferir esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
+
+**Marquez**  Marca, demarcación.
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
 
 **Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."  De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario.  
 
+---
+
 ## N
+
+**Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán.
 
 **Negocio** *Lat. Nec Otium - Nadie está ocioso.  Nadie puede obtener beneficios sin algo a cambio.*   Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de individuos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
 
@@ -136,17 +194,21 @@ Al tiempo que ella lo corrige:
 
 **Novio | a** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
+---
+
 ## O
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse la mejor onda.  
 
 **Ojota** *Quechua, Usuta.*  Documentado en el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
 
+---
+
 ## P
 
 **Paciente** *Lat.*  Dícese del individuo o individua que se sitúa, por lo general sentado, en una sala de espera de instituto de salud.  Se le llama paciente porque se lo cita cinco horas antes de la cita con su terapeuta.  El término adecuado o correcto para estos casos debería ser pelotudo.
 
-**Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanàlisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.
+**Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanálisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.
 
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
 
@@ -182,6 +244,8 @@ La única forma de ser *más positivo*, es ceder un electrón.   Por lo menos en
 
 **Rojo** *Lat. Russeus.*  Pariente del italiano Rosso, el portugués Roxo, el francés Rouge aunque parece mas proveniente de Roux, el catalán Roig.  En todos los idiomas latinos conserva la rudeza de la sangre en su sonido.
 
+---
+
 ## R
 
 **Risa** *Sus. risus.*  Movimiento reflejo natural e involuntario, de uso -casi- exclusivo al homo sappiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
@@ -196,11 +260,20 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre. 
 
+---
+
 ## S
 
-**Sapere Aude** *Lat. Atrévete a Saber*.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
+**Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
+
+[^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
+
+**Suerte** *Lat. Sor Surtis.*   Realmente interesante es Sortícula, que deviene en Sortija en las carreras.
+
+**Sufragio** *Lat. Votar por alguien*  En la Roma anterior al imperio solo tenían derecho a sufragar las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  De allí, fragor.
+---
 
 ## T
 
@@ -209,6 +282,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Posiblemente bajo el influjo de alguna ingesta tóxica, cierto poeta ha sugerido en una canción: 
 
 > Andando por el mundo en tero.
+
+---
 
 ## V
 
@@ -220,6 +295,14 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
+**Vizcacha** *Amer. Quichua.*  Uiscacha.  Las enseñanzas del Viejo Vizcacha, fueron exportadas al viejo mundo.  
+
+> Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.
+
+Esta puntualmente es muy bonita. [^11].
+
+[^11]:  "I'll give you viscach on evening."  Paradise Lost.  John Milton.
+
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre implica una frente marchita.
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
@@ -227,6 +310,18 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando en realidad fueron los primeros en *aterrizar*.  2- Capacidad que se adquiere con gradeo de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^8].
 
 [^8]:  Ya lo sugirió el poeta con pluma mucho mas hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
+
+---
+
+## Y
+
+**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano.  Al suponer su inmortalidad, quita protagonismo a los otros actores, el Superyo y el Ello, mucho mas interesantes en términos del drama.  Ríos de tinta sobre el tema.  Explicar, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
+
+> Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea.
+
+Simulando Ab Infinitum un discurso coherente. 
+
+---
 
 ## Z
 
