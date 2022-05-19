@@ -124,7 +124,9 @@ Al tiempo que ella lo corrige:
 
 ## I
 
-**Imberbe**  Que carece de barba.
+**Imberbe**  Que carece de barba.  A los fines poéticos, conviene maridar este adjetivo con marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano que tomaba lista y al final agregaba en tono cordial:
+
+Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente 'Yo rompo'.  Romper un ícono, en estos tiempos de medios digitales, pareciera enviar una figurita a la papelera de reciclaje.  En el siglo VIII, los Iconoclastas, eran los partidarios de destruir imágenes de santos.  De aquí que comparten esta bella costumbre varios credos, el islam aduce 'no podemos copiar la obra de dios' y solo permite el arte de dibujar palabras, que son obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conoce como idólatras a aquellos que veneran imágenes.  En la actualidad, vemos una encarnizada lucha por la supremacía de la imágen, llevando una delantera importante una manzanita mordida.   
 
@@ -164,6 +166,8 @@ Al tiempo que ella lo corrige:
 
 **Lente** Lenteja por el mismo origen.
 
+**Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con pelotudez.  
+
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan el vocablo loco para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
 
 **Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas.  Esta es una de ellas. El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la Editorial Minotauro, en los convulsionados setentas.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los desdichados noventas, Minotauro fue vendida a una editorial multinacional europea.  Entre las traducciones estaban dos de tres "El Señor de los Anillos" de Tolkien.  Por todo concepto le pagan Mil Euros.  Termina sus días en un geriátrico sostenido por el estado mientras la multinacional vende cientos de miles de sus traducciones.      
@@ -172,7 +176,7 @@ Al tiempo que ella lo corrige:
 
 ## M
 
-**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.
+**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
 **Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este "valle de lágrimas" en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
@@ -234,11 +238,11 @@ Al tiempo que ella lo corrige:
 
 **Pelotudo**  Léase Paciente.
 
-**Perverso** *Adj. ind.* Que sirve para hacer el verso.
+**Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  Que sirve para hacer el verso.
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.
 
-**Pirca** *Quichua*  Pared o mucho hecho con piedras apiladas.
+**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas.
 
 **Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora.  
 
