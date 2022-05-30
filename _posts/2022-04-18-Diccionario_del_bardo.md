@@ -280,6 +280,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 [^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
 
+**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
+
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
 **Suerte** *Lat. Sor Surtis.*   Realmente interesante es Sortícula, que deviene en Sortija en las carreras.
