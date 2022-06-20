@@ -28,7 +28,7 @@ Luego de una ligera pausa agrega:
 ---
 ## B
 
-**Bipolar** *Psic.*  Dícese de individuos neuróticos a quienes que carecieron de lo que la clínica conoce como *una buena cagada*.  La voz popular sugiere: *Lo únco bipolar es una pila*.
+**Bipolar** *Psic.*  Dícese de individuos neuróticos a quienes que carecieron de lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: *Lo únco bipolar es una pila*.
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -40,9 +40,9 @@ Luego de una ligera pausa agrega:
 
 ## C
 
-**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la promesa de pago romana "para las calendas griegas", luego nunca.
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la feliz promesa de pago, al tiempo de la república romana: "Para las calendas griegas", luego, nunca.
 
-**Cancha** *Quichua.*  Terreno plano y limpio.  Voz americana esparcida por el mundo.  Maradona refuerza este concepto, desplaza el sustantivo anterior y pasa a ser el vocablo americano más escrito, pintado, cantado, etc.
+**Cancha** *Quichua.*  Terreno plano y limpio.  Por mucho tiempo, la voz americana mas esparcida por el globo.  Un tal **Diego Maradona** refuerza este concepto, desplaza el sustantivo anterior y pasa a ser el vocablo americano más escrito, pintado, cantado, querido, etc.  |  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
