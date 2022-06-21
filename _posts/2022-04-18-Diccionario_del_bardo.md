@@ -58,7 +58,7 @@ Luego de una ligera pausa agrega:
 
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
 
-**Demonio** *Daemonium*  Divinidad inferior.  Dios y demonio parecieran provenir del mismo origen. 
+**Demonio** *Daemonium*  Divinidad inferior.  Dios y Demonio parecieran provenir del mismo origen etimológico. 
 
 **Derecho** *Lat. Directus.*  Recto.  No parece tener conexión con justo.
 
@@ -112,6 +112,8 @@ Al tiempo que ella lo corrige:
 
 ## H
 
+**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Para quien no lee japonés, solo unas imágenes curiosas en blanco y negro.  Para aquellos que leen este idioma, la imagen del dedo de un niño, embelezado señalando algo que capta su atención y desaparece.  Pasa desapercibida por exceso de simpleza.  Para una porción ínfima, el sentido de la vida.  Así de distinta es la condición humana.
+
 **Hígado** *Lat. Ficus, de Jecur Ficatum.*   En la república romana, era costumbre saltar el jecur (hígado) en higos.  De allí que el adjetivo se convierte en sustantivo.
 
 ---
@@ -164,7 +166,7 @@ Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Lego**  Laico.
 
-**Lente** Lenteja por el mismo origen.
+**Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con pelotudez.  
 
@@ -188,7 +190,7 @@ Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Marquez**  Marca, demarcación.
 
-**Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas.
+**Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas, o de escaso valor.
 
 **Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."  De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario.  
 
@@ -202,9 +204,13 @@ Barbudos, judíos o sin corbata, se pueden retirar.
 
 [^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
 
-**Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el fascismo del interlocutor.  "Yo soy neutro, apolítico"   
+**Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el grado de vascismo de tu interlocutor momentaneo.  Ante una pregunta politicamente comprometedora, si responde:
 
-**Novio | a** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
+> "Yo soy neutro, apolítico"
+
+Es un **fascista acomplejado**.
+
+**Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
 ---
 
@@ -218,7 +224,7 @@ Barbudos, judíos o sin corbata, se pueden retirar.
 
 ## P
 
-**Paciente** *Lat.*  Dícese del individuo o individua que se sitúa, por lo general sentado, en una sala de espera de instituto de salud.  Se le llama paciente porque se lo cita cinco horas antes de la cita con su terapeuta.  El término adecuado o correcto para estos casos debería ser pelotudo.
+**Paciente** *Lat.*  Dícese del individuo o individua que se sitúa, por lo general sentado, en una sala de espera de instituto de salud.  Se le llama paciente porque se lo cita cinco horas antes del turno con su terapeuta.  El término adecuado o correcto para estos casos debería ser pelotudo.
 
 **Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanálisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.
 
@@ -232,9 +238,9 @@ Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
 
-**Pedante** *Lat.*  Soldado de a pié.  De allí edestre.  Igual origen suponemos para infante, aunque asumimos un soldado menor de edad.
+**Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque asumimos un soldado menor de edad.
 
-**Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque se han documentado casos de gente así.
+**Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque se han documentado casos de gente con pelos así.
 
 **Pelotudo**  Léase Paciente.
 
@@ -254,7 +260,7 @@ Barbudos, judíos o sin corbata, se pueden retirar.
 
 La única forma de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
-**Rojo** *Lat. Russeus.*  Pariente del italiano Rosso, el portugués Roxo, el francés Rouge aunque parece mas proveniente de Roux, el catalán Roig.  En todos los idiomas latinos conserva la rudeza de la sangre en su sonido.
+**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, escasa relación con el insulso y desganado *red* inglés.
 
 ---
 
@@ -286,7 +292,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Suerte** *Lat. Sor Surtis.*   Realmente interesante es Sortícula, que deviene en Sortija en las carreras.
 
-**Sufragio** *Lat. Votar por alguien*  En la Roma anterior al imperio solo tenían derecho a sufragar las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  De allí, fragor.
+**Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  Se votaba al "fragor" de las masas.
+
 ---
 
 ## T
