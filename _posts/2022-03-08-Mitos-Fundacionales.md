@@ -10,9 +10,13 @@ lead_text: 'Mitos, leyendas, apostasías y otras delicias de esta corriente de p
 
 # Una introducción necesaria
 
-Esa compleja corriente de pensamiento, que por comodidad narrativa llamamos simplemente **Peronismo**, se comporta dentro de la sociedad como un *virus* dentro del cuerpo.  Su ansia proselitista observa la misma lógica que las iglesias, tentando a la feligresía con mística por sobre argumentos, para luego, concluida esta primera etapa de la captura del alma del individuo, pasar a la siguiente: salir de la mística para discutir argumentos.  Datos duros.  Dato mata relato.
+Esa compleja corriente de pensamiento, que por comodidad narrativa llamamos simplemente **Peronismo**, se comporta dentro de la sociedad como un *virus* dentro del cuerpo.  Su ansia proselitista observa la misma lógica que las iglesias, tienta a la feligresía con mística por sobre argumentos, para luego, concluida esta **primera etapa**, basada en la captura del alma del individuo, recién pasar a la siguiente: la prolija discusión argumentos.  Datos duros.  
 
-Esto es así por un motivo importante, el proto-peronista, ese individuo no asumido aun, no alcanzará a disfrutar de los argumentos, los números duros, ya que muchas veces -siempre- tiene activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá que esos datos lleguen al yo, por ello, los argumentos deben buscar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.
+> Dato mata relato.
+
+Esto es así por un motivo importante, ese/a proto-peronista, individuo no asumido aún, no alcanzará a disfrutar del sabor de los argumentos, los números duros, ya que muchas veces -siempre- tiene activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá que esos datos lleguen al yo, por ello, los argumentos deben buscar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.
+
+El antivirus basa su fortaleza en lo que conocemos como "sentido común".  La aberración al pensamiento crítico, mas dañina que todas las iglesias juntas.
 
 Algo tiene que ver aquí la re formulación que propusiera *Howard Gardner* de los conceptos “Verdad, Bondad y Belleza”.
 
@@ -34,9 +38,9 @@ o
 
 > "Bolivianos hinchas de boca" 
 
-Puede ser altamente probable que ese niño desarrollara a lo largo del tiempo, cierta inmunidad a la metáfora: **“la patria es el otro”**, bella per se y que esa belleza pueda conmover su corazón.
+Puede ser altamente probable que ese niño desarrollara a lo largo del tiempo, cierta inmunidad a la metáfora: **“la patria es el otro”**, bella *per sé* y que esa belleza pueda conmover su corazón.
 
-Puede que asi no alcance nunca la lectura del libro de Rodolfo Walsh sobre la masacre de José Leon Suarez y que eso despierte grandes sentimientos en su fuero mas íntimo.  Pero, por el contrario, ese corazón si es vulnerable a escuchar por error a León Gieco y su "el Angel de la Bicicleta".  Por simpatías estéticas.  
+Puede que asi no alcance nunca la lectura del libro de Rodolfo Walsh sobre la masacre de José Leon Suarez y que eso despierte grandes sentimientos en su fuero mas íntimo.  Pero, por el contrario, ese corazón si es vulnerable a escuchar por error a León Gieco y su "el Angel de la Bicicleta".  Por la suma de simpatías estéticas y errores espacio-temporales.  
 
 Llega a las últimas por comodidad, no hay tiempos de lecturas, si de escuchar por error una música e indagar porqués. 
  
@@ -58,7 +62,7 @@ El peronismo cuenta con toda la carga emotiva, los mitos fundacionales, la fratr
 
 Acá nos encontramos frente a una paradoja muy interesante.  
 
-Los mismos símbolos que sirven de aglutinante hacia adentro, funcionan como repelente hacia afuera.  La **"marchita"** (siempre en diminutivo) o **"el chori"** (también se le baja el precio con el despectivo acortamiento), cohesionan y amalgaman a la tropa propia, pero hacia afuera generan rechazo, precisamente en ese sector objetivo, la intelectualidad sensible clase media, los habitantes de Corea del Centro.
+Los mismos símbolos que sirven de aglutinante hacia adentro, funcionan como repelente hacia afuera.  La **"marchita"** -siempre en diminutivo- o **"el chori"** al que también se le baja el precio con el despectivo acortamiento-, cohesionan y amalgaman a la tropa propia, pero hacia afuera generan rechazo, precisamente en ese sector objetivo, la intelectualidad sensible clase media, los habitantes de esa zona que conocemos como **Corea del Centro**.
 
 ## El desafío
 
@@ -70,19 +74,25 @@ La derecha lleva una ventaja muy importante, ha berretizado de manera horrorosa 
 
 Quien se deja atrapar por el discurso bizarro, pronto termine conociendo mas del ascenso europeo de fútbol o el casamiento de la modelo, la vida del influencer, que del golpe de estado en Bolivia, el cambio climático o sobre la relación agrotoxicos y cáncer.
 
-Una industria del entretenimiento enfocada en la simpleza intelectual del individuo y su odio al otro, pugna del otro lado por llevarse las "almas" sensibles.
+Una industria del entretenimiento enfocada en la simpleza intelectual del individuo y su odio al otro, pugna del otro lado por llevarse las "almas" sensibles.  Ríos de tinta han corrido sobre la alienación del individuo[^1].
+
+[^1]: Sería interesante consultar a aquellos que saben como Marx y Foucault sobre un tema tan complejo.
 
 El resultado es depresión, ansiolíticos, alcohol, viajes para la selfie y compra compulsiva de dolar Blue. 
 
-Los viajes son larguísimos, en horas de vuelo y cuotas en la tarjeta, para la selfie en el lugar común.  No es casual que las muertes por Selfie en el 2019 fueron 19 veces mas que por ataques de tiburones.
+Los viajes son larguísimos, en horas de vuelo y cuotas en la tarjeta, para la selfie en el lugar común.  No es casual que las muertes por **Selfie** en el 2019 fueran 5 veces superiores a las producidas por ataques de tiburones [Nota Shark vs Selfies][2].
 
-Entre los miles argumentos en contra de políticas del populismo, encontramos la restricción a las importaciones, por caso: licuadora.  Si bien tenemos que atender a esas necesidades, también debemos trabajar desde los primeros momentos de la formación del niño en deconstruir ese egoísmo que llevará inexorablemente al mundo a la tercera, inevitable y última guerra mundial.
+[2]: https://www.newsweek.com/selfies-deadlier-shark-attacks-1446363
+
+Entre los miles argumentos en contra de políticas del populismo, encontramos la restricción a las importaciones, por caso: licuadora.  Si bien tenemos que atender a esas necesidades, también debemos trabajar desde los primeros momentos de la formación del niño en deconstruir ese egoísmo que llevará inexorablemente al mundo a la tercera, inevitable y última guerra mundial.  Evolutivamente, ninguna sociedad podria sobrevivir formada por indivíduos que solo se miraran el ombligo.
 
 ## Enlightenment
 
 Hay un momento de la **“Iluminación”** groncha, para lo cual nada mejor que mostrarlo en boca de sus conversos.
 
-Sostengo que capturando el alma de esos seres sensibles, pronto llegará la conversión.  Me viene a la memoria una joven llorando de alegría gritando su "iluminación" en un spot televisivo, gotitas de saliva al aire, lágrimas y palabras de agradecimiento a un hombre y una mujer.
+Sostengo que capturando el alma de esos seres sensibles, pronto llegará la conversión.  Me viene a la memoria una joven llorando de alegría gritando su "iluminación" en un spot televisivo, gotitas de saliva al aire, lágrimas y palabras de agradecimiento a un hombre llamado Nestor y una mujer llamada Cristina [^2].
+
+[^2]: Debo confesar que yo también lagriméo al nombrarlos.
 
 A diario damos con gente que argumenta en favor de tal o cual política económica, posición tomada respecto de la **“Res Publicae”**, la cosa de todos y descubrimos que es un peronista en pausa, que aún no tuvo su momento de iluminación, ese momento mágico que los doctos en matemática llaman el momento **¡Ahh!** que ocurre a la mitad de la ecuación, cuando se descubren a si mismos.
 
@@ -104,53 +114,61 @@ Y como en Alcohólicos Anónimos.  Hay testimonios, que colaboran en la producci
 
 Esto último termina de forzar al individuo a la conversión:
 
-> “Me hice peronista porque no se puede ser feliz en soledad” -Leonardo
-Fabio.
+> “Me hice peronista porque no se puede ser feliz en soledad” -- Leonardo Fabio.
 
-> "Soy peronista porque el primer pan dulce que hubo en mi casa me lo dió Evita" -Carlos Monzón.
+> "Soy peronista porque el primer pan dulce que hubo en mi casa me lo dió Evita" -- Carlos Monzón.
 
 > “El marxismo es la clase de educación sexual y el peronismo es cuando
-se coge.” Pedro Saborido.
+se coge.” -- Pedro Saborido.
 
 Ernesto Sábato recordaba una cena en el norte argentino, con anfitriones muy leídos y correctos, con muchos cubiertos a los costados del plato, brindando en la cena por la noticia del cáncer o la muerte de Evita, mientras observaba por una puerta entreabierta a la servidumbre llorando desconsoladamente.  Puerta que se convierte en espejo en la cabeza del escritor y lo comprendemos nosotros espectadores temporales de esos actos.
 
 Muchas veces es el espanto quien nos indica el camino a seguir, no la brújula del dolor -como indicara Freud- sino del Horror.
 
-> “Viva el Cancer, Escribió en un muro una mano enemiga al hacerse pública la enfermedad de Evita, en 1952.” Por Eduardo Galeano. 
+> “Viva el Cancer, Escribió en un muro una mano enemiga al hacerse pública la enfermedad de Evita, en 1952.”  -- Las Memorias del Fuego.  Eduardo Galeano. 
 
 O estas esclarecedoras palabras del contraalmirante Arturo Rial dijo a trabajadores municipales:
 
-> “Sepan ustedes que la Revolución Libertadora se hizo para que en este
-bendito país el hijo del barrendero muera barrendero”
+> “Sepan ustedes que la Revolución Libertadora se hizo para que en este bendito país el hijo del barrendero muera barrendero”
 
 O tal vez otro tipo de testimonios, los que explican el fenómeno desde afuera.
 
-> “No volví a creer en Perón, pero entiendo muy bien por qué otros necesitan hacerlo. Aunque el país sea distinto, y la felicidad esté tan lejana como el recuerdo de mi infancia al pie del limonero, en el patio de mi casa.” Osvaldo Soriano. (Gracias Manuel Andreatta)
+> “No volví a creer en Perón, pero entiendo muy bien por qué otros necesitan hacerlo. Aunque el país sea distinto, y la felicidad esté tan lejana como el recuerdo de mi infancia al pie del limonero, en el patio de mi casa.” -- Osvaldo Soriano. 
 
 Llegando finalmente a los clásicos: 
 
 > “Soy peronista mas que nada, porque somos gente a las que les cuesta ser dichosa cuando, a su alrededor, ven sufrimiento ajeno”
 
-> "El día que vi quienes eran los enemigos del peronismo, me hice peronista"
-Alejandro Dolina. (Gracias Silvia Maldonado) 
+> "El día que vi quienes eran los enemigos del peronismo, me hice peronista" -- Alejandro Dolina. (Gracias Silvia Maldonado)
 
-Sospecho en esta línea del tiempo como el periodismo, la historia y el mito, difieren las calidades de veracidad a medida se sucede la narración del hecho, aceptando siempre que la historia la escriben los que ganan y que los recuerdos **"mienten un poco, siempre fue asi"** como bien sugiere Carlos el "Indio" Solari.
+Y la frase con la que mas me identifico:
+
+> "Casi nunca soy peronista, hasta que escucho hablar a los antiperonistas"  -- Ivan Noble.
+
+Sospecho que existe la misma diferencia cualitativa que observamos entre **periodismo**, la **historia** y el **mito**.  En donde el factor *tiempo transcurrido* modifica de alguna manera el rigor de la verdad. Estos difieren en calidades de veracidad a medida que nos alejamos en el tiempo del hecho [^3].   
+
+
+[^3]: Aceptando siempre que la historia la escriben los que ganan y que los recuerdos **"mienten un poco, siempre fue asi"** como bien sugiere Carlos el "Indio" Solari.
 
 ## Enrique V
 
-Shakespeare narra la batalla de Agincourt, ocurrida el aciago día de san Crispín, en una obra que cierta doctrina cataloga como menor, pero que a mi me gustó mucho, Enrique V.  
+Shakespeare narra la batalla de **Agincourt**, ocurrida el aciago día de san Crispín, en una obra que cierta doctrina cataloga como menor, pero que a mi me gusta mucho, **Enrique V**.  
  
-En estos casos no nos interesa en el arte el rigor histórico, sino la belleza de las palabras.  Solamente la arenga del rey Henry a sus escasos y enfermos hombres, merece la lectura del clásico en versión libro, o ver la película de Kenneth Branagh o la concurrencia al teatro.
+En estos casos no nos interesa en el arte el rigor histórico, sino la belleza de las palabras [^4].  Solamente la arenga del rey Henry a sus escasos y enfermos hombres, merece la lectura del clásico en versión libro, o ver la película de Kenneth Branagh o la concurrencia al teatro.
+
+[^4]: "Cuando leemos el *'Decline and Fall de Gibbon'*, no buscamos certezas históricas, sino entender como veía un caballero londinense del siglo XVII a la Roma del Imperio tardío.  -- Jorge Luis Borges.
 
 Aquellos y aquellas sensibles, tragarán varias veces saliva en ese punto de la obra.  Sigo sosteniendo la necesidad del arte, la necesidad de forzar la sensibilidad y la belleza.
 
-En la obra entra en juego la distorsión selectiva del número de las tropas de uno y otro lado, algo que observamos frecuentemente, cuando la historia deja de ser historia y empieza a ser mitología, Leónidas y sus Trescientos en el paso de las Termópilas, es otro claro ejemplo.
+En la obra entra en juego cierta *distorsión selectiva* del número de las tropas de uno y otro lado, algo que observamos frecuentemente, cuando la historia deja de ser historia y empieza a ser mitología.  **Leónidas** y sus Trescientos en el paso de las Termópilas, es otro claro ejemplo.
 
 En Agincourt, Shakespeare sugiere que los ingleses eran apenas unos cientos y los franceses decenas de miles, que el rezo al santo Crispín -como Agamenón en Troya- ablandó el corazón del dios y les dio la victoria.
 
 Pensamiento mágico que no hace otra cosa que embellecer la narracion. Porque convengamos, nos gustan las historias fantásticas.
 
-Ademas del error numérico, el autor omite mencionar -sospecho que dolosamente- un detalle aparentemente menor.  Esta fue la primera batalla en la que se dispusieron arqueros detrás de las primeras filas de infatería, en este caso las británicas, hecho que hiciera estragos en las líneas francesas, tomando los ingleses tantos prisioneros heridos que estos -fieles a un estilo- llegaron en cierto punto de la batalla, en que asesinaron a esos prisioneros a sangre fría, para evitar incontrolables motines.  Tambien omitido por el Bardo en su narración.
+Ademas de este *error contable*, el autor omite mencionar -quizá dolosamente- un detalle aparentemente menor.  
+
+Esta fue la primera batalla en la que se dispusieron arqueros detrás de las primeras filas de infatería, en este caso las británicas, hecho que hiciera estragos en la infantería francesa, tomando los primeros tantos prisioneros heridos que estos -fieles a un estilo canallezco- en cierto punto de la batalla, empezaron a asesinar prisioneros a sangre fría, para evitar incontrolables motines.  Tambien omitido por el Bardo en su narración.
 
 Pasaron de la condición de **prisioneros** a **muertos** en un solo y mismo acto, no aclarado, como en la dictadura de Videla en los setentas o las democracias low cost de América Latina hoy.
 
@@ -158,9 +176,9 @@ Pasaron de la condición de **prisioneros** a **muertos** en un solo y mismo act
 
 Aporta, tal vez, uno de los símbolos mas fuertes: La **V**, el saludo a través del cual la fratria se reconoce.
 
-La mitología -a diferencia de la historia- no adquiere valor por cierta sino por bella. 
+La mitología -a diferencia de la historia- no adquiere valor por cierta, sino por bella. 
 
-No tiene mucho sentido discutir sobre la fuerza de Heracles, como la existencia o no de Jesucristo.  Discutimos le belleza de las historias que los nombran.
+No tiene mucho sentido discutir sobre la fuerza de Heracles, la existencia o no de Jesucristo o la altura de crucero de los vuelos en Dragones.  Disfrutamos la belleza de las historias que los nombran.
 
 Ponemos en valor sus metáforas, como **“la tierra para el que la trabaja”**.  
 
@@ -168,7 +186,9 @@ A menudo, la belleza del mito es demasiado perfecta, no se detiene en los detall
 
 Un Manuel Belgrano gay, como sugiere alguna doctrina con la intención de reducir su valor en la historia para el revisionismo siglo XXI, puede acercar una lectura distinta, mas amplia, mas bella, mas varonil incluso:
 
-> “Un abogado bien, de familia acomodada porteña, al que destinan con solo una pieza de artillería y no mucho mas de cien hombres a detener todo el ejército realista, que como táctica **Exige** a los lugareños que destruyan sus campos, quemen sus haciendas y marchen, porque lo mandan **los porteños**”.  Ningún héroe de Marvell le llega a los talones a Manuel.
+> “Un abogado bien, de familia acomodada porteña, al que destinan con solo una pieza de artillería y no mucho mas de cien hombres a detener todo el ejército realista, que como táctica **Exige** a los lugareños que destruyan sus campos, quemen sus haciendas y marchen, porque lo mandan **los porteños**”.  Ningún héroe de Marvell le llega a los talones al bueno de Manuel [^5].
+
+[^5]: La bisnieta Jessica lo reconoce, como el primer Kirchnerista.
 
 Mientras que los símbolos aportan a las causas la emoción y la belleza, las estadísticas acercan justificaciones lógicas. La política es un territorio a mitad de camino, no es lógica sino **El arte de lo posible** como decía Aristóteles. 
 
@@ -182,11 +202,12 @@ Luego, los arqueros ingleses sanos saludaban a las tropas enemigas con estos dos
 
 Una aparición temprana del posterior: 
 
-> “Vamo a volveeeeee”
+> “Vamo a volvé”
 
-Esto funciona a nivel simbólico, al resumir en una sola palabra -o solo un signo en este caso- procesos políticos, emociones, teorías económicas, prácticas, mitología, misticismo, arte, etc. 
+Esto funciona a nivel simbólico, al resumir en una sola palabra -o solo un signo en este caso- procesos políticos, emociones, teorías económicas, prácticas, mitología, misticismo, arte, etc [^6].  
 
+[^6]: Podemos servirnos de esto y comenzar un excelente libro llamado:  "Introducción al estructuralismo."
 
-En otras topologías, donde la **chusma** no cuenta con **aglutinantes** de este tipo, se nota la falta -brilla por la ausencia-, como el claro ejemplo de las protestas chilenas, donde faltan carteles, banderas, "mística" y esa señal homogénea y clara al enemigo de estar en pié.
+En otras topologías, donde la **chusma** carece de **aglutinantes** de este tipo, notamos cierta horfandad, cierto **brillo por la ausencia**, como el claro ejemplo de las protestas chilenas, donde faltan carteles, banderas, "mística" y esa señal homogénea y clara al enemigo de estamos en pié.
 
-La "V" es venceremos, es vamos a volver, o tal vez solo señalar que nos quedan mas dedos en las manos con los cuales presentar batalla.
+La "V" es **venceremos**, es **vamos a volver**, o solo mostrar este escudo, que por grande que sea el enemigo, por muchos y fuertes aún nos quedan índices y medios levantados, en las manos para tensar arcos y reconocernos en la fratria.
