@@ -3,7 +3,7 @@ layout: blog
 title: 'Peronismo asintomático'
 date: 2022-03-26 19:41:34
 categories: blog
-tags: Linux
+tags: Peronismo, Dolina, Shakespeare
 image: '/images/default.jpg'
 lead_text: 'Mitos, leyendas, apostasías y otras delicias de esta corriente de pensamiento nacional y popular.'
 ---
