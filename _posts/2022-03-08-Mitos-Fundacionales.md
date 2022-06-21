@@ -50,15 +50,15 @@ Solo hay que dejar que el tiempo obre su *milagro terapéutico*, para hacer apar
 
 El disparo final desgarra la garganta que termina con la vida del martir, que abandona el carácter humano y se convierte en símbolo, dibujo en las paredes y canción.   Y es desde allí las efemérides de las navidades nunca vuelven a ser lo mismo en la Argentina, después del 2001.
 
-Es muchísimo mas lógico rezarle a un _"flaco rosarino de barba al que mataron las fuerzas represivas por defender a los débiles"_, que a un _"flaco palestino de barba, al que mataron las fuerzas represivas por defender a los débiles"_.  Hasta borgiano parece dicho así.
+Pareciera mas lógico -por simpatía- rezarle a un _"flaco rosarino de barba al que mataron las fuerzas represivas por defender a los débiles"_, que a un _"flaco palestino de barba, al que mataron las fuerzas represivas por defender a los débiles"_.  
 
-La estupidez de creer que aquel es más dios que este.
+Si hasta borgiano queda escrito así.  Suponerlo a uno mas dios que al otro solo es un tema de mayor prensa.
 
-El final de la historia de Pocho nos muestra al policía que disparara en libertad, mititante de la derecha mas despreciable.  Como si faltaran símbolos.
+El final de la historia de Pocho nos muestra al policía autor del dispararo en libertad, mititante de la derecha mas despreciable.  Como si faltaran símbolos.
 
-No somos mas que la aceptación de símbolos. ¡Desde el estructuralismo para acá, por lo menos!
+No somos mas que la aceptación de símbolos, trapos debajo de los que nos cobijamos. 
 
-El peronismo cuenta con toda la carga emotiva, los mitos fundacionales, la fratria, su propia liturgia, sus símbolos, toneladas de ellos.  Hermandad que cohagula y que se reconoce en esos gestos, frases y símbolos.
+Si algo caracteriza al peronismo es el desborde de carga emotiva, mitos fundacionales, fratrernidad, liturgia propia, símbolos.  Toneladas de ellos.  Hermandad que cohagula y que se reconoce en esos gestos, frases y risas.
 
 Acá nos encontramos frente a una paradoja muy interesante.  
 
