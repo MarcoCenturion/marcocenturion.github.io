@@ -4,7 +4,7 @@ layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2022-03-26 19:41:34
 categories: blog
-tags: Linux
+tags: Diccionario, Bestiario
 image: '/images/default.jpg'
 lead_text: 'La lengua usada en __"La Docta"__'
 ---
@@ -24,6 +24,8 @@ Luego de una ligera pausa agrega:
 **Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación de quienes reniegan comulgar con ideas de los partidos políticos.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
 
 [^2]: En su obra **La Política** Aristóteles señala una de las frases más populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
+
+**Asado** *Sus.*  En un principio asado fué adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
 ---
 ## B
@@ -50,6 +52,8 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
+**Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, son "taréas culturales".   
+
 ---
 
 ## D
@@ -64,17 +68,17 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se lo reconoce en oriente y occidente por igual.  Un diálogo reciente escuchado en la calle pareciera actualizar su veracidad, en estos nuevo medioevos digitales.  Un joven dialoga con una niña con la que pareciera tener confidencia de novia, o amante, o compañera de Call of Dutty: 
+**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un curioso privilegio, se le reconocen sus virtudes tanto en oriente y como occidente por igual.  Un diálogo reciente, escuchado en la calle, pareciera actualizar aquella magia perdida en las lecturas de mi infancia, extraña a estos nuevo **medioevos digitales**.  Un joven dialogaba con una niña al caminar, con la que pareciera mantener confidencia de novia, o amante, o compañera de Call of Dutty: 
 
-> En el noticiero dijeron que en recital de la Renga estaba lleno de Dragones.   
+> En la radio dijeron que el recital de **la Renga** estaba ieno 'e Dragones.   
 
 Al tiempo que ella lo corrige: 
 
-> ¡Drogones! Boludo. Drogones.
+> ¡Drogones! Boludo. ¡Dro-gones!
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos las opciones del que duda[^7].  
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos son las opciones de quien duda[^7].  
 
-[^7]: Hay una hermosa metáfora clásica *Dudoso como presente griego* en alusión al Caballo de Troya. 
+[^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
 
 ---
 
@@ -90,13 +94,13 @@ Al tiempo que ella lo corrige:
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, conserven o no el ADN del Caput Familiae.    
 
-**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso [^6].
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].
 
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joice. 
 
 **Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría,  famosa por un Idem.  En la mediterránea Córdoba, construyose tiempo atrás un faro, con abundantes aportes de dineros públicos.  Lo extraño no es la inexistencia de un mar a no menos de novecientos kilómetros a la redonda.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
-> Esperá que empiecen a dragar la provincia.  
+> Esperá que ya van a dragar la provincia.  
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re, todo parece indicar que se trata de Mi.  
 
@@ -106,15 +110,17 @@ Al tiempo que ella lo corrige:
 
 ## G
 
-**Gallo** *Lat. Galius.*  En tiempos de la república romana, los galos eran los pueblos transalpinos, tanto se hicieron cargo del nombre que el pueblo galo lleva un gallo como insignia.  Tarde entendimos que el gallo de Morón, no era de tal lugar, sino demorón.  Por haberse levantado tarde.  Otro gallo da comienzo a la filosofía de occidente[^10].
+**Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tanto a gusto quedaron con el nombre, que lo llevan con orgullo, un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, por haberse despertado tarde.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  Las galias eran las tierras pasada la llanura del Po.  Debemos al historiador y filósofo Alejandro Dolina, la sentencia sobre el General Julio Cesar, que fué consul de la Galia Trasalpina y de la Galia Cisalpina, porque: 
 
-[^10]: Sentenciado a tomar la cicuta, Sócrates reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
+> Bien sabemos, que Julio Cesar atendía por las dos galias.
+
+[^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
 ## H
 
-**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Para quien no lee japonés, solo unas imágenes curiosas en blanco y negro.  Para aquellos que leen este idioma, la imagen del dedo de un niño, embelezado señalando algo que capta su atención y desaparece.  Pasa desapercibida por exceso de simpleza.  Para una porción ínfima, el sentido de la vida.  Así de distinta es la condición humana.
+**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Para quién no lee japonés, solo verá unas imágenes curiosas en blanco y negro.  Para quienes poseen la gracia de interpretar este idioma, entenderán "la imagen del dedo de un niño, embelezado señalando algo que capta su atención y desaparece, que puede ser una mariposa".  La poesía pasa desapercibida por exceso de simpleza.  Para una porción ínfima, el sentido de la vida.  Así de distinta es la condición humana.
 
-**Hígado** *Lat. Ficus, de Jecur Ficatum.*   En la república romana, era costumbre saltar el jecur (hígado) en higos.  De allí que el adjetivo se convierte en sustantivo.
+**Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, solo ficatum.  De allí que el adjetivo se convierte en sustantivo.  *Léase: Asado*  
 
 ---
 
@@ -126,9 +132,9 @@ Al tiempo que ella lo corrige:
 
 ## I
 
-**Imberbe**  Que carece de barba.  A los fines poéticos, conviene maridar este adjetivo con marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano que tomaba lista y al final agregaba en tono cordial:
+**Imberbe**  *Adj*  Que carece de barba.  A los fines poéticos, conviene maridar este adjetivo con marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
 
-Barbudos, judíos o sin corbata, se pueden retirar.
+> Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente 'Yo rompo'.  Romper un ícono, en estos tiempos de medios digitales, pareciera enviar una figurita a la papelera de reciclaje.  En el siglo VIII, los Iconoclastas, eran los partidarios de destruir imágenes de santos.  De aquí que comparten esta bella costumbre varios credos, el islam aduce 'no podemos copiar la obra de dios' y solo permite el arte de dibujar palabras, que son obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conoce como idólatras a aquellos que veneran imágenes.  En la actualidad, vemos una encarnizada lucha por la supremacía de la imágen, llevando una delantera importante una manzanita mordida.   
 
@@ -216,6 +222,8 @@ Es un **fascista acomplejado**.
 
 ## O
 
+**Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  "Todos los colectivos los dejan cerca".  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Posiblemente la sola enumeración nos exime de juicios de valor posteriores. 
+
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse la mejor onda.  
 
 **Ojota** *Quechua, Usuta.*  Documentado en el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
@@ -224,9 +232,9 @@ Es un **fascista acomplejado**.
 
 ## P
 
-**Paciente** *Lat.*  Dícese del individuo o individua que se sitúa, por lo general sentado, en una sala de espera de instituto de salud.  Se le llama paciente porque se lo cita cinco horas antes del turno con su terapeuta.  El término adecuado o correcto para estos casos debería ser pelotudo.
+**Paciente** *Lat.*  Interesante detalle del neutro sexual que designa al indivíduo en una sala de espera de instituto de salud.  La denominación "paciente" se origina en lo anticipada que es su cita con el terapeuta, por norma no menos de una hora.  El término adecuado o correcto para estos casos debería ser pelotudo.
 
-**Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanálisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.
+**Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanálisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.  *Ver Patria*.
 
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
 
@@ -237,6 +245,8 @@ Es un **fascista acomplejado**.
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
+
+**Patria**  *Sus.*  La tierra de los padres.  "Ver crecer el humo en la casa de su padre"  Ulises en la Odisea de Homero.  "Arda en mi ese fuego misterioso"  Sugiere Borges.
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque asumimos un soldado menor de edad.
 
@@ -254,13 +264,13 @@ Es un **fascista acomplejado**.
 
 > Anda cruzando el invierno, con un ponchito de vino.
 
-**Positivo** *Elect. o Psic.*  Desconocemos los motivos por los que es cada vez más común en el habla cotidiana la aberración del imperativo
+**Positivo** *Fís. o Psic.*  Desconocemos los motivos por los que es cada vez más común en el habla cotidiana la aberración del imperativo:
 
-> Roberto, tenés que ser más *positivo*.
+> ¡Roberto, tenés que ser más positivo!
 
-La única forma de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
+Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
-**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, escasa relación con el insulso y desganado *red* inglés.
+**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
 
 ---
 
