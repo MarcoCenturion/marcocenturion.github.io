@@ -13,13 +13,13 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
-**Antropofagia** *Ver.*  Tabú.  Costumbre culinaria con capacidad de horrorizar muy por encima de su calidad intrínseca.  De alta efectividad para incrementar ventas en medios amarillos, sin el mismo resultado al mostrar cuanto ADN compartimos con el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", al tiempo que se desataba la primera guerra mundial en la culta Europa.  El chamán explica al europeo detalladamente -con las limitaciones de su idioma- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
+**Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad de horrorizar muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera abismal, al enterarse el indivíduo la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
-> No podemos matar a otro para comer.
+> No matamos a nadie para comer.
 
 Luego de una ligera pausa agrega:
 
-> No como ustedes que matan millones y los dejan pudrirse en los campos de batalla.
+> Ustedes matan millones y los dejan pudrirse en los campos de batalla -Aludiendo a a Primera Guerra Mundial-
 
 **Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación de quienes reniegan comulgar con ideas de los partidos políticos.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
 
@@ -30,7 +30,7 @@ Luego de una ligera pausa agrega:
 ---
 ## B
 
-**Bipolar** *Psic.*  Dícese de individuos neuróticos a quienes que carecieron de lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: *Lo únco bipolar es una pila*.
+**Bipolar** *Psic.*  Aplícase a individuos neuróticos, a quienes no les fuera suministrado de niños lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: *Lo únco bipolar es una pila, vos sos pelotudo*.
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
