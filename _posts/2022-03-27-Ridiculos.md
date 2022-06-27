@@ -130,6 +130,10 @@ Nosotros vemos reciclarse esa masa donde aparecen Massott, Lilita, Negri, famoso
 
 Mi reconocimiento a estos estrategas que supieron convertir su patetismo en una fortaleza, un arma.  Que sigamos discutiendo su -aparente- imbecilidad y no la fuga de capitales mas grande de la historia.
 
-Ultimamente me llama poderosamente la atención la cantidad de seguidores que tiene un canal de youtube "Milei Presidente", 231 mil.  
+Ultimamente me llama poderosamente la atención la cantidad de seguidores que tiene un canal de youtube "Milei Presidente", 231 mil. El dato realmente preocupante no es la actitud de paciente psiquiátrico sin medicar, sino el público que cree que gente así puede hacerse cargo de un estado.
+
+Luis Juez pasó de ser hiper peronista a hiper antiperonista, de socialista a integrar las listas de la derecha mas repulsiva.  
+
+Este tipo de personas es capaz del milagro que pongamos para el fernet después del asado y nos vamos cansados de escuchar chistes machistas, xenófobos, homofóbicos, sin probar la bebida, sin siquera pensar en el dinero y mirando el teléfono. "Uh, la boni está teniendo cachorritos" o algo asi.
 
 Presten especial atención a las cabelleras de los fachos, Milei, Melconian, Alsogaray, algo a mitad de camino entre la ridiculez del Joker y la canchereada de Hitler. 

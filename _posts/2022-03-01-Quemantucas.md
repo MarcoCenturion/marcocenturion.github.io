@@ -3,7 +3,7 @@ layout: blog
 title: 'El asedio final a la amurallada fortaleza de los quemantucas'
 date: 2022-03-26 19:41:34
 categories: blog
-tags: Linux
+tags: Paradoja, Inteligencia Militar.
 image: '/images/default.jpg'
 lead_text: 'Inteligencia militar, un contrasentido interesante.'
 ---
