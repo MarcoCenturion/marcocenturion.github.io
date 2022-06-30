@@ -1,5 +1,4 @@
 ---
-
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2022-03-26 19:41:34
@@ -30,11 +29,15 @@ Luego de una ligera pausa agrega:
 ---
 ## B
 
-**Bipolar** *Psic.*  Aplícase a individuos neuróticos, a quienes no les fuera suministrado de niños lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: *Lo únco bipolar es una pila, vos sos pelotudo*.
+**Bipolar** *Psic.*  Aplícase a individuos neuróticos, a quienes no les fuera suministrado de niños lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: 
+
+> *Lo únco bipolar es una pila, vos sos pelotudo*.
+
+**Bisman**  *Superhéroe de Cabotaje*.  Luego de la proheza de pelear contra las corporaciones, cae asesinado por un comando mapucheiraní, en un baño sin ventanas, con la puerta de ingreso cerrada.  Enterada de su muerte, la primera acción de la madre fué vaciar todas las cajas de seguridad.
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
-**Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en Tenochtitlan, antes de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
+**Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en la Tenochtitlan anterior de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
 
@@ -42,9 +45,9 @@ Luego de una ligera pausa agrega:
 
 ## C
 
-**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la feliz promesa de pago, al tiempo de la república romana: "Para las calendas griegas", luego, nunca.
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la feliz promesa de pago, al tiempo de la república romana: "Para las calendas griegas",  léase nunca.
 
-**Cancha** *Quichua.*  Terreno plano y limpio.  Por mucho tiempo, la voz americana mas esparcida por el globo.  Un tal **Diego Maradona** refuerza este concepto, desplaza el sustantivo anterior y pasa a ser el vocablo americano más escrito, pintado, cantado, querido, etc.  |  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
+**Cancha** *Quichua.*  Terreno plano y limpio.  Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona** quien refuerza este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  |  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
@@ -52,7 +55,7 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
-**Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, son "taréas culturales".   
+**Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "taréas culturales".   
 
 ---
 
@@ -68,7 +71,7 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un curioso privilegio, se le reconocen sus virtudes tanto en oriente y como occidente por igual.  Un diálogo reciente, escuchado en la calle, pareciera actualizar aquella magia perdida en las lecturas de mi infancia, extraña a estos nuevo **medioevos digitales**.  Un joven dialogaba con una niña al caminar, con la que pareciera mantener confidencia de novia, o amante, o compañera de Call of Dutty: 
+**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se le reconocen sus virtudes tanto en oriente y como occidente, por igual.  Un diálogo reciente, da cuenta reactualiza aquella magia perdida en las lecturas de mi infancia, extraña a estos nuevo **medioevos digitales**.  Un joven dialogaba con una niña al caminar, con la que pareciera mantener confidencia de novia, o amante, o compañera de Call of Dutty: 
 
 > En la radio dijeron que el recital de **la Renga** estaba ieno 'e Dragones.   
 
@@ -76,9 +79,11 @@ Al tiempo que ella lo corrige:
 
 > ¡Drogones! Boludo. ¡Dro-gones!
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos son las opciones de quien duda[^7].  
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos son las opciones de quien duda[^7]. 
 
 [^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
+
+> Yo antes dudaba, ahora no sé.
 
 ---
 
@@ -102,19 +107,31 @@ Al tiempo que ella lo corrige:
 
 > Esperá que ya van a dragar la provincia.  
 
+**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido, 
+
+[^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."
+
+> ¿Saben que es el Fascismo?  
+
+El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
+
+> ¿Estamos hablando del faso?
+
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re, todo parece indicar que se trata de Mi.  
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
+
+**Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de ciertos vegetales, compuesto de hojas especializadas.  *Chupino.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
+
+> Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskis baratos y rock and roll.
 
 ---
 
 ## G
 
-**Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tanto a gusto quedaron con el nombre, que lo llevan con orgullo, un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, por haberse despertado tarde.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  Las galias eran las tierras pasada la llanura del Po.  Debemos al historiador y filósofo Alejandro Dolina, la sentencia sobre el General Julio Cesar, que fué consul de la Galia Trasalpina y de la Galia Cisalpina, porque: 
+**Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  
 
-> Bien sabemos, que Julio Cesar atendía por las dos galias.
-
-[^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
+[^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
 ## H
 
@@ -132,7 +149,7 @@ Al tiempo que ella lo corrige:
 
 ## I
 
-**Imberbe**  *Adj*  Que carece de barba.  A los fines poéticos, conviene maridar este adjetivo con marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
+**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
@@ -142,7 +159,7 @@ Al tiempo que ella lo corrige:
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Pasaje de un adjetivo a un sustantivo.  Lo vemos localmente en 'carne asada', luego sencillamente asado. Hay que pasar el.
+**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra metamorfosis de adjetivo a sustantivo.  
 
 **Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración a Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, el barro, por lo que literalmente "clavaban" el pié izquierdo y fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
 
@@ -174,7 +191,7 @@ Al tiempo que ella lo corrige:
 
 **Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
 
-**Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con pelotudez.  
+**Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan el vocablo loco para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
 
@@ -270,7 +287,6 @@ Es un **fascista acomplejado**.
 
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
-**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
 
 ---
 
@@ -284,7 +300,11 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
 
+**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  1- Por su rareza o extravagancia, puede mover a risa.  Ridiculez, Unica virtud de un fascista.
+
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
+
+**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
 
 **Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre. 
 
