@@ -185,6 +185,8 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Lapso**  Colapso.
 
+**Larva** *Biol.*  Estado de ciertos organismos antes de la vida adulta.  En el homo sappiens, alcanza la adolescencia.  En casos puntuales, la supera.
+
 **Lechuza** 
 
 **Lego**  Laico.
@@ -211,7 +213,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa con el objeto de transferir esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
 
-**Marquez**  Marca, demarcación.
+**Marquez**  Marca, comarca, demarcación, delimitación.  Confin, confinar.  Las marcas delimitaban las tierras de un señor feudal -nunca una señora-  Ducado y condado provienen del mismo origen.
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas, o de escaso valor.
 
@@ -244,6 +246,8 @@ Es un **fascista acomplejado**.
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse la mejor onda.  
 
 **Ojota** *Quechua, Usuta.*  Documentado en el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
+
+**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteina que pasa del estado líquido al sólido mas sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
 
 ---
 
@@ -287,7 +291,6 @@ Es un **fascista acomplejado**.
 
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
-
 ---
 
 ## R
@@ -306,7 +309,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
 
-**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre. 
+**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos. 
 
 ---
 
@@ -338,13 +341,15 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 ## V
 
-**Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.
+**Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "cantidad de pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *punto de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
 **Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inevitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, la vejez viene a hacer más difícil *calibrar la incredulidad*.  Lo postulaba el británico *Samuel Coleridge* como requisito *sine qua non* del arte *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
+
+**Vida**  *Biol.*   Dícese de eso que vemos pasar al tiempo que corremos detrás de cambiar el auto o comprar una casa. 
 
 **Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
 
@@ -362,7 +367,7 @@ Esta puntualmente es muy bonita. [^11].
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
 
-**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando en realidad fueron los primeros en *aterrizar*.  2- Capacidad que se adquiere con gradeo de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^8].
+**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^8].
 
 [^8]:  Ya lo sugirió el poeta con pluma mucho mas hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
 
@@ -370,9 +375,9 @@ Esta puntualmente es muy bonita. [^11].
 
 ## Y
 
-**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano.  Al suponer su inmortalidad, quita protagonismo a los otros actores, el Superyo y el Ello, mucho mas interesantes en términos del drama.  Ríos de tinta sobre el tema.  Explicar, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
+**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el Superyó y el Ello.  Al asumir su inmortalidad, quita protagonismo a los otros actores, mucho mas interesantes en términos del drama.  Ríos de tinta sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
 
-> Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea.
+> Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
 Simulando Ab Infinitum un discurso coherente. 
 
