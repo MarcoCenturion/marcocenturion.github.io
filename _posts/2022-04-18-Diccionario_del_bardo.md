@@ -33,7 +33,7 @@ Luego de una ligera pausa agrega:
 
 > *Lo únco bipolar es una pila, vos sos pelotudo*.
 
-**Bisman**  *Superhéroe de Cabotaje*.  Luego de la proheza de pelear contra las corporaciones, cae asesinado por un comando mapucheiraní, en un baño sin ventanas, con la puerta de ingreso cerrada.  Enterada de su muerte, la primera acción de la madre fué vaciar todas las cajas de seguridad.
+**Bisman**  *Superhéroe de Cabotaje*.  Luego de la proheza de pelear contra las corporaciones, lo asesina un comando mapucheiraní, en un baño sin ventanas, en un piso veinte, con la puerta de ingreso cerrada.  Enterada de su muerte, la primera acción de la madre fué vaciar todas las cajas de seguridad.  La hazaña anterior había sido cajonear una causa por diez años, manejando un presupuesto abultado en dólares, viajando por cuenta del estado con un séquito abundante en auxiliares de afecto rentado.
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
