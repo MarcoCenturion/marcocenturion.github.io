@@ -20,6 +20,8 @@ Luego de una ligera pausa agrega:
 
 > Ustedes matan millones y los dejan pudrirse en los campos de batalla -Aludiendo a a Primera Guerra Mundial-
 
+**Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
+
 **Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación de quienes reniegan comulgar con ideas de los partidos políticos.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
 
 [^2]: En su obra **La Política** Aristóteles señala una de las frases más populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
@@ -28,6 +30,8 @@ Luego de una ligera pausa agrega:
 
 ---
 ## B
+
+**Bardo**  *Lat.  Bardus*  Poeta.  
 
 **Bipolar** *Psic.*  Aplícase a individuos neuróticos, a quienes no les fuera suministrado de niños lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: 
 
@@ -173,6 +177,8 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Jubilo**  Jubilado.
 
+**Juez**  *Lat. Iudex*. Quien indica como proseguir en una disputa.  Ultimo refugio monárquico dentro de las democracias occidentales.   
+
 **Jueves**  Día de Júpiter.
 
 ---
@@ -187,11 +193,13 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Larva** *Biol.*  Estado de ciertos organismos antes de la vida adulta.  En el homo sappiens, alcanza la adolescencia.  En casos puntuales, la supera.
 
-**Lechuza** 
+**Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
-**Lego**  Laico.
+**Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
 
 **Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
+
+**Ley*** Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que decapita instituciones y a menudo, los cuerpos de los monarcas.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
 
@@ -217,6 +225,10 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas, o de escaso valor.
 
+**Muerte, Pena de**  *Derecho Penal.*  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos mas optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario en las cifras de homicidios violentos, estados que mantienen la pena de muerte tienen igual o mayor tasa a los que la abolieron.
+
+[^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
+
 **Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."  De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario.  
 
 ---
@@ -225,15 +237,15 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán.
 
-**Negocio** *Lat. Nec Otium - Nadie está ocioso.  Nadie puede obtener beneficios sin algo a cambio.*   Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de individuos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
+**Negocio** *Lat. Nec Otium - Nadie está ocioso.* Nadie puede obtener beneficios sin algo a cambio.i  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de individuos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
 
 [^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
 
-**Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el grado de vascismo de tu interlocutor momentaneo.  Ante una pregunta politicamente comprometedora, si responde:
+**Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el grado de fascismo de tu interlocutor momentaneo.  Ante una pregunta politicamente comprometedora, responderá
 
 > "Yo soy neutro, apolítico"
 
-Es un **fascista acomplejado**.
+Síntoma irrefutable del **fascista culposo**.
 
 **Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
@@ -280,6 +292,8 @@ Es un **fascista acomplejado**.
 **Pilcha** *Mapuche.*   Vestimenta, recado.
 
 **Pirca** *Quichua*  Pared o muro hecho con piedras apiladas.
+
+**Poeta**  *Gr.* Hacedor, orfebre.
 
 **Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora.  
 
@@ -379,7 +393,11 @@ Esta puntualmente es muy bonita. [^11].
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
-Simulando Ab Infinitum un discurso coherente. 
+Simulando Ab Infinitum un discurso coherente. El proto, fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuando debe escuchar el universo su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
+
+> Yo te explico...
+
+Asumiendo una idiotez ajena que extrañamente no repara en sí.
 
 ---
 
