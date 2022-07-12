@@ -73,6 +73,8 @@ Luego de una ligera pausa agrega:
 
 **Derecho** *Lat. Directus.*  Recto.  No parece tener conexión con justo.
 
+**Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego de religiones que sostienen la existencia de la tierra por solo cinco mil años.  El sostenimiento de tales tesituras, los coloca intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
+
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
 **Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se le reconocen sus virtudes tanto en oriente y como occidente, por igual.  Un diálogo reciente, da cuenta reactualiza aquella magia perdida en las lecturas de mi infancia, extraña a estos nuevo **medioevos digitales**.  Un joven dialogaba con una niña al caminar, con la que pareciera mantener confidencia de novia, o amante, o compañera de Call of Dutty: 
