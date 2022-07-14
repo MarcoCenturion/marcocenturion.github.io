@@ -59,6 +59,14 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
+**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Tarde descubrimos que las cosas mas importantes de la vida no son cosas.
+
+**Coso**  *Adv. de berretitud*   Especie de vocablo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* del sofista.  Cierta doctrina sugiere su utilización a fin de incrementar la tensión narrativa, emotividad al relato[^16].  
+
+[^16]: Véase en este sendito *Opera Aperta* -- Humberto Eco.
+
+> ... entonces, de la nada, cuando menos lo esperábamos, apareció un **coso**.
+
 **Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "taréas culturales".   
 
 ---
@@ -236,6 +244,8 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 ---
 
 ## N
+
+**Nada**  *Lat. nata. nacimiento.*   Verdaderos ríos de tinta han corrido sobre este sustantivo, atravesando corrientes de pensamiento dispares en el tiempo y el espacio.  Es al menos curioso que el vocablo provenga etimologicamente de *nacimiento*.  Experimenta una curiosa metamorfosis en el siglo XXI a modo de punto final de toda oración, tal vez emulando el *punto final* de la vida.  Sugiérese maridarlo con Osea:  `O sea, Nada`.  Triste final le tenían deparado los dioses a una palabra con semejante potencial. 
 
 **Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán.
 
