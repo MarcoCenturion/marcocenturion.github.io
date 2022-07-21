@@ -61,7 +61,7 @@ Luego de una ligera pausa agrega:
 
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Tarde descubrimos que las cosas mas importantes de la vida no son cosas.
 
-**Coso**  *Adv. de berretitud*   Especie de vocablo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* del sofista.  Cierta doctrina sugiere su utilización a fin de incrementar la tensión narrativa, emotividad al relato[^16].  
+**Coso**  *Adv. de berretitud*   Especie de vocablo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* del sofista.  Cierta doctrina sugiere su utilización a fin de incrementar la tensión narrativa, emotividad al relato al darle libertad de interpretación al lector [^16].  
 
 [^16]: Véase en este sendito *Opera Aperta* -- Humberto Eco.
 
@@ -85,11 +85,11 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un extraño privilegio, se le reconocen sus virtudes tanto en oriente y como occidente, por igual.  Un diálogo reciente, da cuenta reactualiza aquella magia perdida en las lecturas de mi infancia, extraña a estos nuevo **medioevos digitales**.  Un joven dialogaba con una niña al caminar, con la que pareciera mantener confidencia de novia, o amante, o compañera de Call of Dutty: 
+**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto la mitología de oriente y como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta a una niña con la que caminan juntos a la par Córdoba Centro.  Parecieran mantener confidencia de novios, amantes, o compañeros ocasionales de Call of Dutty: 
 
-> En la radio dijeron que el recital de **la Renga** estaba ieno 'e Dragones.   
+> En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones.   
 
-Al tiempo que ella lo corrige: 
+Al tiempo que ella lo corrige, ojos entrecerrados: 
 
 > ¡Drogones! Boludo. ¡Dro-gones!
 
@@ -97,7 +97,7 @@ Al tiempo que ella lo corrige:
 
 [^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
 
-> Yo antes dudaba, ahora no sé.
+> Yo antes dudaba.  Ahora no sé.
 
 ---
 
@@ -105,7 +105,7 @@ Al tiempo que ella lo corrige:
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.
 
-**Especialista** *Adj.* Especie Lista.
+**Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
 ---
 
@@ -201,7 +201,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Lapso**  Colapso.
 
-**Larva** *Biol.*  Estado de ciertos organismos antes de la vida adulta.  En el homo sappiens, alcanza la adolescencia.  En casos puntuales, la supera.
+**Larva** *Biol.*  Estado de ciertos organismos antes de la vida adulta.  En el homo sappiens, alcanza la adolescencia.  En casos excepcionales, la supera holgadamente.
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
@@ -345,7 +345,13 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 [^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
 
-**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
+**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.isla
+
+**Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Verdadera tautología recursiva.  Encontrar el significado de significado, ya sugiere muchas cosas.  Se complica a extremos intolerables al sucederlo con el término **significante**.
+
+**Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera mucho de mejor calidad poética que el excesivamente utilizado siestero.
+
+**Siempre**  *Lat.  Semper.*  Sempiterno.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
@@ -356,6 +362,10 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 ---
 
 ## T
+
+**Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo fuerza a los indivíduos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a otros indivíduos a los que no les importa.  
+
+> Mate la angustia existencial llenándose de cosas ahora, para tener verdaderos motivos para el corchazo mas adelante.
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  *Desde lo profundo de Honduras* Sugiere bellamente Guillermo Cabrera Infante.
 
