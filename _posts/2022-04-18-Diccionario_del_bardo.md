@@ -55,6 +55,8 @@ Luego de una ligera pausa agrega:
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
+**Chacra**  *Quechua.  Granja.*
+
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
@@ -147,6 +149,8 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
+**Guagua**  *Quechua. bebé*
+
 ## H
 
 **Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Requiere paciencia y segundas oportunidades, como el cilandro, o ciertas personas.  Espero ser perdonado por esta comparación, el haiku es a la poesía lo que el bonsai a la jardinería.  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de Rolan Barthes: 
@@ -172,6 +176,8 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente 'Yo rompo'.  Romper un ícono, en estos tiempos de medios digitales, pareciera enviar una figurita a la papelera de reciclaje.  En el siglo VIII, los Iconoclastas, eran los partidarios de destruir imágenes de santos.  De aquí que comparten esta bella costumbre varios credos, el islam aduce 'no podemos copiar la obra de dios' y solo permite el arte de dibujar palabras, que son obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conoce como idólatras a aquellos que veneran imágenes.  En la actualidad, vemos una encarnizada lucha por la supremacía de la imágen, llevando una delantera importante una manzanita mordida.   
+
+**Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.  
 
 **Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos que no pueden nombrar la palabra Bruja, sin agregar:
 
@@ -291,7 +297,11 @@ Síntoma irrefutable del **fascista culposo**.
 
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
 
-**Payar** *Quichua recoger.*  De allí payador es que recoge -escoge, selecciona- las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
+**Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores. 
+
+**Papa** *Quechua. tubérculo comestible.*  Base de la alimentación de las culturas andinas pre hispánicas.  Teníamos mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en un mundo blanco.   
+
+**Payar** *Quechua recoger.*  De allí payador es que recoge -escoge, selecciona- las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
 
 **Pánico** *Lat.  Pan, el dios perruno.*  En tiempos de la república romana, el pánico era producido por los sonidos del bosque, donde conviven elfos, druidas, hadas, animales y otros seres.  Entre todos los sonidos, uno en particular, resultaba más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.
 
