@@ -1,4 +1,4 @@
----
+--
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2022-03-26 19:41:34
@@ -67,7 +67,7 @@ Luego de una ligera pausa agrega:
 
 > ... entonces, de la nada, cuando menos lo esperábamos, apareció un **coso**.
 
-**Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "taréas culturales".   
+**Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", destinadas a los cultivos.   
 
 ---
 
@@ -85,7 +85,7 @@ Luego de una ligera pausa agrega:
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto la mitología de oriente y como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta a una niña con la que caminan juntos a la par Córdoba Centro.  Parecieran mantener confidencia de novios, amantes, o compañeros ocasionales de Call of Dutty: 
+**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto la mitología de oriente y como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta a una niña con la que caminan *juntos a la par*, Córdoba Centro.  Parecieran mantener confidencia de novios, amantes, o compañeros ocasionales de juego en linea tipo shot them: 
 
 > En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones.   
 
@@ -149,7 +149,11 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 ## H
 
-**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Para quién no lee japonés, solo verá unas imágenes curiosas en blanco y negro.  Para quienes poseen la gracia de interpretar este idioma, entenderán "la imagen del dedo de un niño, embelezado señalando algo que capta su atención y desaparece, que puede ser una mariposa".  La poesía pasa desapercibida por exceso de simpleza.  Para una porción ínfima, el sentido de la vida.  Así de distinta es la condición humana.
+**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Requiere paciencia y segundas oportunidades, como el cilandro, o ciertas personas.  Espero ser perdonado por esta comparación, el haiku es a la poesía lo que el bonsai a la jardinería.  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de Rolan Barthes: 
+
+> El haiku reproduce el gesto indicativo del niño que muestra con el dedo alguna cosa, diciendo tan solo: ¡esto!, ¡mirá allá!, ¡oh!, ¡ah!
+
+La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida.  Otros no.  Así de maravillosa es la condición humana.
 
 **Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, solo ficatum.  De allí que el adjetivo se convierte en sustantivo.  *Léase: Asado*  
 
@@ -169,7 +173,11 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente 'Yo rompo'.  Romper un ícono, en estos tiempos de medios digitales, pareciera enviar una figurita a la papelera de reciclaje.  En el siglo VIII, los Iconoclastas, eran los partidarios de destruir imágenes de santos.  De aquí que comparten esta bella costumbre varios credos, el islam aduce 'no podemos copiar la obra de dios' y solo permite el arte de dibujar palabras, que son obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conoce como idólatras a aquellos que veneran imágenes.  En la actualidad, vemos una encarnizada lucha por la supremacía de la imágen, llevando una delantera importante una manzanita mordida.   
 
-**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, como es el caso de las corbatas.  Acerca de las principales taréas de aquella, figura la invención de un enemigo.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una de **siete dígitos**.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de ese *empujoncito disciplinatorio*.  La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh.   
+**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos que no pueden nombrar la palabra Bruja, sin agregar:
+
+> Pero que las hay, las hay.
+
+La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh. 
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
