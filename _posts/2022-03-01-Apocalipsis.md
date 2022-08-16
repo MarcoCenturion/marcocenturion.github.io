@@ -24,7 +24,7 @@ Así me lo contaron los panameños
 
 > Que se viene el huracán directo hacia nosotros...
 
-La actitud aconsejada en el itrsmo, en todos los casos es: estirar las reposeras, poner música fuerte, heladera con cervezas frías a mano y disfrutar del espectáculo.
+La actitud aconsejada en el itsmo, en todos los casos es: estirar las reposeras, poner música fuerte, heladera con cervezas frías a mano y disfrutar del espectáculo.
 
 El ansiado apocalipsis, se caracteriza **Siempre** por demorarse mas de lo esperado.  Como el cuento del pastorcito mentiroso el lobo nos estamos acostumbrando a la paranoia.
 
