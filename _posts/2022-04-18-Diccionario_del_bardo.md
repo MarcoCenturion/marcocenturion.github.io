@@ -61,15 +61,19 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
+**Comué**  Sus.  Úsase en las provincias del norte argentino en lugar del rioplatense "el coso".
+
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Tarde descubrimos que las cosas mas importantes de la vida no son cosas.
 
-**Coso**  *Adv. de berretitud*   Especie de vocablo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* del sofista.  Cierta doctrina sugiere su utilización a fin de incrementar la tensión narrativa, emotividad al relato al darle libertad de interpretación al lector [^16].  
+**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un sustantivo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina estám quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
 [^16]: Véase en este sendito *Opera Aperta* -- Humberto Eco.
 
 > ... entonces, de la nada, cuando menos lo esperábamos, apareció un **coso**.
 
-**Culto**  *Adj.*  Quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", destinadas a los cultivos.   
+Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo*, para quitarle entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: "Los cosos de al Lao", de Canet y Larrosa.   Tengo entendido que en la década del cuarenta, un joven anónimo, cercano a Macedonio, intentara un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
+
+**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", destinadas a los cultivos.   
 
 ---
 
@@ -85,9 +89,11 @@ Luego de una ligera pausa agrega:
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego de religiones que sostienen la existencia de la tierra por solo cinco mil años.  El sostenimiento de tales tesituras, los coloca intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
-**Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en "La Historia de las Plantas" sugiere:  "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
+**Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su ``"La Historia de las Plantas"`` sugiere:  
 
-**Dragón** *Mit. Lat. Draco*  Ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto la mitología de oriente y como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta a una niña con la que caminan *juntos a la par*, Córdoba Centro.  Parecieran mantener confidencia de novios, amantes, o compañeros ocasionales de juego en linea tipo shot them: 
+> "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
+
+**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  Ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto la mitología de oriente y como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta a una niña con la que caminan *juntos a la par*, Córdoba Centro.  Parecieran mantener confidencia de novios, amantes, o compañeros ocasionales de juego en linea tipo **shot them**: 
 
 > En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones.   
 
@@ -113,11 +119,11 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 ## F
 
-**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, conserven o no el ADN del Caput Familiae.    
+**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
 **Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].
 
-[^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joice. 
+[^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
 
 **Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría,  famosa por un Idem.  En la mediterránea Córdoba, construyose tiempo atrás un faro, con abundantes aportes de dineros públicos.  Lo extraño no es la inexistencia de un mar a no menos de novecientos kilómetros a la redonda.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
