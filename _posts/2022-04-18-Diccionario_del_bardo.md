@@ -31,7 +31,7 @@ Luego de una ligera pausa agrega:
 ---
 ## B
 
-**Bardo**  *Lat.  Bardus*  Poeta.  
+**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo Quilombo, de origen africano. 
 
 **Bipolar** *Psic.*  Aplícase a individuos neuróticos, a quienes no les fuera suministrado de niños lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: 
 
@@ -51,7 +51,7 @@ Luego de una ligera pausa agrega:
 
 **Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la feliz promesa de pago, al tiempo de la república romana: "Para las calendas griegas",  léase nunca.
 
-**Cancha** *Quichua.*  Terreno plano y limpio.  Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona** quien refuerza este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  |  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
+**Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
@@ -63,7 +63,7 @@ Luego de una ligera pausa agrega:
 
 **Comué**  Sus.  Úsase en las provincias del norte argentino en lugar del rioplatense "el coso".
 
-**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Tarde descubrimos que las cosas mas importantes de la vida no son cosas.
+**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
 
 **Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un sustantivo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina estám quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
