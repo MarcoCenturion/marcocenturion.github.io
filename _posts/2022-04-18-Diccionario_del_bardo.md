@@ -37,7 +37,7 @@ Luego de una ligera pausa agrega:
 
 > *Lo únco bipolar es una pila, vos sos pelotudo*.
 
-**Bisman**  *Superhéroe de Cabotaje*.  Luego de la proheza de pelear contra las corporaciones, lo asesina un comando mapucheiraní, en un baño sin ventanas, en un piso veinte, con la puerta de ingreso cerrada.  Enterada de su muerte, la primera acción de la madre fué vaciar todas las cajas de seguridad.  La hazaña anterior había sido cajonear una causa por diez años, manejando un presupuesto abultado en dólares, viajando por cuenta del estado con un séquito abundante en auxiliares de afecto rentado.
+**Bisman**  *Extraño Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -49,7 +49,7 @@ Luego de una ligera pausa agrega:
 
 ## C
 
-**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la feliz promesa de pago, al tiempo de la república romana: "Para las calendas griegas",  léase nunca.
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, al tiempo de la república romana: "Para las calendas griegas",  léase nunca.
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
@@ -67,7 +67,7 @@ Luego de una ligera pausa agrega:
 
 **Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un sustantivo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina estám quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
-[^16]: Véase en este sendito *Opera Aperta* -- Humberto Eco.
+[^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
 
 > ... entonces, de la nada, cuando menos lo esperábamos, apareció un **coso**.
 
