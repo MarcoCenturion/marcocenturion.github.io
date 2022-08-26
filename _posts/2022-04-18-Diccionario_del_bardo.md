@@ -89,7 +89,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego de religiones que sostienen la existencia de la tierra por solo cinco mil años.  El sostenimiento de tales tesituras, los coloca intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
-**Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su ``"La Historia de las Plantas"`` sugiere:  
+**Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *"La Historia de las Plantas"* sugiere:  
 
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
@@ -358,6 +358,10 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
 
 **Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
+
+**Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  **Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
+
+> Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.
 
 **Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos. 
 
