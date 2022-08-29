@@ -22,7 +22,7 @@ Luego de una ligera pausa agrega:
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación de quienes reniegan comulgar con ideas de los partidos políticos.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló Aristóteles, vivir en sociedad nos hace políticos. [^2]
+**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló **Aristóteles**, hace 2500 años, vivir en sociedad nos hace políticos. [^2]
 
 [^2]: En su obra **La Política** Aristóteles señala una de las frases más populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
@@ -40,7 +40,7 @@ Luego de una ligera pausa agrega:
 **Bisman**  *Extraño Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
-
+:
 **Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en la Tenochtitlan anterior de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
@@ -61,7 +61,7 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
-**Comué**  Sus.  Úsase en las provincias del norte argentino en lugar del rioplatense "el coso".
+**Comué**  Sus.  Úsase en las provincias del norte argentino, en reemplazo del elegante rioplatense **"el coso"**.
 
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
 
@@ -181,7 +181,7 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
-**Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente 'Yo rompo'.  Romper un ícono, en estos tiempos de medios digitales, pareciera enviar una figurita a la papelera de reciclaje.  En el siglo VIII, los Iconoclastas, eran los partidarios de destruir imágenes de santos.  De aquí que comparten esta bella costumbre varios credos, el islam aduce 'no podemos copiar la obra de dios' y solo permite el arte de dibujar palabras, que son obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conoce como idólatras a aquellos que veneran imágenes.  En la actualidad, vemos una encarnizada lucha por la supremacía de la imágen, llevando una delantera importante una manzanita mordida.   
+**Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente *Yo rompo*.  Romper un ícono.  La modernidad líquida sugiere felizmente una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, eran los partidarios de destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  Nos trae a la actualidad, donde observamos una encarnizada lucha por la supremacía de imágenes sagradas, llevando una delantera importante una manzanita mordida y una M amarilla.   
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.  
 
