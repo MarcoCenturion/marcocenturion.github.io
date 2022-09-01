@@ -155,6 +155,8 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
+**Gota**  *Lat. Gutta*  Porción pequeña de un líquido.  Se asocia, por desde antaño, con una patología de ricos, por el exceso de comidas y bebidas que provocan en el ácido úrico.  Hasta la llegada de Silvio Rodriguez, que canta en un estadio "La Gota de Rocío" y la multitud corea una segunda voz faltante, momento en que gota, pasa a convertirse en algo totalmente distinto.
+
 **Guagua**  *Quechua. bebé*
 
 ## H
