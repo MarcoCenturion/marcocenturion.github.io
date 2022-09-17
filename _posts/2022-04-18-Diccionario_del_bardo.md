@@ -61,7 +61,7 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
-**Comué**  Sus.  Úsase en las provincias del norte argentino, en reemplazo del elegante rioplatense **"el coso"**.
+**Comué**  *Sus masc*.  Úsase en las provincias del norte argentino, en reemplazo del elegante rioplatense **"el coso"**.
 
 **Confesión**  *Lat con, todo; fessus, admitir; y sión, acción*.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
 
