@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: 'El medio de transporte anda diciendo'
-date: 2023-01-21 19:41:34
+date: 2023-01-21 11:41:34
 categories: blog
-tags: idioma, castellano, cordobés.
+tags: idioma, castellano, cordobes.
 image: '/images/default.jpg'
 lead_text: 'Los miedos publicitarios.'
 ---
@@ -49,7 +49,7 @@ Los ochentas "la Villa" ostentaba una bien ganada fama de peligrosa, y su nombre
 
 Con el tiempo, aprendemos a perdonarle al 11 ciertos errores, como la lluvia[^3], que pase lleno y no se detenga por mas pasajeros.  Esto molesta sobremanera cuando es uno el que queda en tierra, no al revés.
 
-Otra molestia periódica era cierta caricia por dentro de los bolsillos, de pantalones, camperas, sacos, etc.
+Otra molestia periódica era cierta caricia por dentro de los bolsillos, de pantalones, camperas, sacos, etc. de parte de manos diligentes que pretendían alivianarnos de cargas innecesarias.
 
 Miento si digo muchísimas, pero si varias, un roce innecesario -recuerdo ahora- tanto táctil como visual, de alguna adolescente con cara extremadamente pícara.  Esto ocurría al mismo tiempo en que se incrementaban las manos extrañas inspeccionadoras de bolsillos.  Como en los actos de magia, uno presta atención a la señorita sonriente mientras el mago muestra una mano y con la otra nos "limpia".  
 
@@ -72,6 +72,21 @@ Un viernes de partido volvía a la villa el 11 completo de hinchas, mi amigo con
 > Porque está entre **pata** y **culo**.  -Al tiempo que dibujaba una recta horizontal imaginaria en el aire, con la mano que había soltado el volante.
 
 ## Ropa Prestada
+
+Subo al Sarmiento que va para Alta Gracia en Maestro Vidal, luego de dejar mi bicicleta encadenada a un galpón donde duerme, gracias a manos amigas que la cuidan.  Los 10 Km diarios de ida y vuelta, me reservan unos días mas de sobrevida -quiero creer-
+
+En la parada siguiente sube una nena muy pequeña.  Como voy leyendo mi libro, no puedo precisar edad, ni tamaño.  Con el rabillo del ojo descubro que no supera el metro cincuenta de Lucy, la homínida de la cantera de Oduvay.
+
+La homínida en cuestión habla con alguien por teléfono desde que subió.  Al sentarse delante mío, no me queda alternativa, estoy obligado a escuchar y leer mi novela de ciencia ficción.  El tono general del diálogo que por momentos es monólogo, pasa de confidencia, a acentuar demasiado ciertos adjetivos.  Está muy enojada.  Existe un problema con una campera.
+
+> Ió le uá dá aesa gorda shropa[^5] prestada,  tirale onda al braian.
+
+[^6]: Ropa.  La acentuación palatal mantiene una diferencia cualitativa respecto de la orgullosa R del Río de la Plata.
+
+Algo pareciera escuchar, el diálogo agrega condimentos varios.  Los adjetivos pasan a ser soeces.
+
+> Gorda Culiaaaada, shropa prestada.  "Prestame la campera Braian"  -Simula voz de gorda ropa prestada.
+
 
 ## Poiera bien turrona
 
