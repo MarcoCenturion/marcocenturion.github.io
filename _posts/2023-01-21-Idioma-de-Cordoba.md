@@ -81,7 +81,7 @@ La homínida en cuestión habla con alguien por teléfono desde que subió.  Al 
 
 > Ió le uá dá aesa gorda shropa[^5] prestada,  tirale onda al braian.
 
-[^6]: Ropa.  La acentuación palatal mantiene una diferencia cualitativa respecto de la orgullosa R del Río de la Plata.
+[^5]: Ropa.  La acentuación palatal mantiene una diferencia cualitativa respecto de la orgullosa R del Río de la Plata.
 
 Algo pareciera escuchar, el diálogo agrega condimentos varios.  Los adjetivos pasan a ser soeces.
 
@@ -89,6 +89,22 @@ Algo pareciera escuchar, el diálogo agrega condimentos varios.  Los adjetivos p
 
 
 ## Poiera bien turrona
+
+Una señora grande daba consejos telefónicos a lo que pareciera ser la hija.  Si fueran varones, parecerían los consejos del Viejo Viscacha.
+
+> No ioré, no ioré.
+
+Silencio mientras la niña inexperta narra situación pidiendo consejo.  La señora toma aire al tiempo que suelta varios "Ah".
+
+> Sabé que tené que hacé vó?  --Pregunta y se contesta
+
+> Te poné una poiera bien turrona y te va al baile.  Te volvé bien culiada y se lo contá.
+
+Pareciera haber algún tipo de queja del otro lado.
+
+> Para eso é, que te cague bien a boio y lo denunciá.  Lo meten en cana y no te va a tocá nunca má ese hijo de puta.
+
+
 
 ## El 600
 
