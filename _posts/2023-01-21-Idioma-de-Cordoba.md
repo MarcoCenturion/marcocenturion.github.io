@@ -138,9 +138,11 @@ Votar a las alianzas antiperonistas, funciona en la sociedad de la misma manera 
 
 Esto explica en gran parte su poderío electoral.
 
-Que objeto tiene esta desmedida banalización del buen gusto, o esta "bajada de precio" al buen gusto y que aparezcan las Patos Bullrich y los Waldos. Esta bajada de precio al saber y la lectura, contrario a la opinión de Sócrates [^1] quien no es sabio, quien no cultiva el saber no será nunca bueno.  Si los conceptos de la economía o el derecho penal, son aprendidos en un tictoc de 15 segundos, dudo seriamente que sea el aprendizaje adecuado.  El inconveniente real es que otorgan al indivíduo una erronea sensación de saber, otorgando al Ego un punto de vista algo distorsionado, una **"Bulimia del conocimiento"**.  Pinterest es una imagen del marxismo con los hermanos Marx, en tictoc un estúpido con peluca grita en contra del estado, simulando un neoanarquismo extraño, Facebook es una cloaca donde el odio puede expresarse tranquilamente sin la odiosa necesidad de ir en cana, como debería ser.
+Que objeto tiene esta desmedida banalización del buen gusto, o esta "bajada de precio" al buen gusto y que aparezcan las Patos Bullrich y los Waldos. Esta bajada de precio al saber y la lectura, contrario a la opinión de Sócrates [^5] quien no es sabio, quien no cultiva el saber no será nunca bueno.  Si los conceptos de la economía o el derecho penal, son aprendidos en un tictoc de 15 segundos, dudo seriamente que sea el aprendizaje adecuado.  El inconveniente real es que otorgan al indivíduo una erronea sensación de saber, otorgando al Ego un punto de vista algo distorsionado, una **"Bulimia del conocimiento"**.  Pinterest es una imagen del marxismo con los hermanos Marx, en tictoc un estúpido con peluca grita en contra del estado, simulando un neoanarquismo extraño, Facebook es una cloaca donde el odio puede expresarse tranquilamente sin la odiosa necesidad de ir en cana, como debería ser.
 
-[^1]: El sabio es bueno.
+[^5]: El sabio es bueno.
+
+
 
 
 
