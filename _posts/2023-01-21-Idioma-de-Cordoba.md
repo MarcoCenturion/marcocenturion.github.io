@@ -85,8 +85,19 @@ La homínida en cuestión habla con alguien por teléfono desde que subió.  Al 
 
 Algo pareciera escuchar, el diálogo agrega condimentos varios.  Los adjetivos pasan a ser soeces.
 
-> Gorda Culiaaaada, shropa prestada.  "Prestame la campera Braian"  -Simula voz de gorda ropa prestada.
+> Gorda Culiaaaada, shropa prestada.  "Prestame la campera Braian"  -Simula voz de gorda ropa prestada.  
 
+Interjecciones mas o menos, el discurso continúa haciendo catarsis acerca de "tirale onda al braian" durante todo el trayecto que el colectivo resta por llegar a mi destino que son no menos de 50'.  Finalmente parece estar mas tranquila, agrega a modo de remedio:
+
+> Decì que ahora iego a las casa y me fumo un **carafelí** [^2] y listo.
+
+[^2]: Carafelí pareciera aludir a un cigarrillo de marihuana.
+
+Agrega un par de adjetivos para referirse a la señora cuya ropa (vestimenta), no le pertenece, porque no es de su propiedad.  Me voy con la duda porqué tiene "ropa prestada", mi hijo adolescente en ese momento, con mucha mas calle que yo me aclara.
+
+> ¿Ropa prestada, no te das cuenta?  Es cana la gorda.
+
+Lo mas triste del caso es que la amenaza de "cagala a puntazo" pareciera del todo verosimil, a juzgar por el tono de voz.
 
 ## Poiera bien turrona
 
@@ -104,12 +115,33 @@ Pareciera haber algún tipo de queja del otro lado.
 
 > Para eso é, que te cague bien a boio y lo denunciá.  Lo meten en cana y no te va a tocá nunca má ese hijo de puta.
 
-
-
 ## El 600
 
 > Diabla, la vida es un búmerang.
 
 Sentí un miedo que se me pararon los pelitos de los brazos.  Yo no soy creyente, pero por las dudas, le mandé los cuernitos para abajo.
+
+
+## La paradoxa del Coso 
+
+## El fascismo 
+
+Su extraña involución de Heidegger y Borges a El Dipi y Luis Juez
+
+## La Luz al final del Tunel y el Coso
+
+Y otras interesantes figuras de ficción de la derecha argentina 
+
+## Eufemismos paradójicos del coso.
+
+Votar a las alianzas antiperonistas, funciona en la sociedad de la misma manera que los mocos y la caca.  Sabemos perfectamente lo que son, pero existe una pulsión malsana en mirar al inodoro y al pañuelo, por muy claro que tengamos que ya salieron.  Hay una extraña pulsión por lo escatológico.  De otra forma no podemos explicar los DeLaRúas y los Macris.
+
+Esto explica en gran parte su poderío electoral.
+
+Que objeto tiene esta desmedida banalización del buen gusto, o esta "bajada de precio" al buen gusto y que aparezcan las Patos Bullrich y los Waldos. Esta bajada de precio al saber y la lectura, contrario a la opinión de Sócrates [^1] quien no es sabio, quien no cultiva el saber no será nunca bueno.  Si los conceptos de la economía o el derecho penal, son aprendidos en un tictoc de 15 segundos, dudo seriamente que sea el aprendizaje adecuado.  El inconveniente real es que otorgan al indivíduo una erronea sensación de saber, otorgando al Ego un punto de vista algo distorsionado, una **"Bulimia del conocimiento"**.  Pinterest es una imagen del marxismo con los hermanos Marx, en tictoc un estúpido con peluca grita en contra del estado, simulando un neoanarquismo extraño, Facebook es una cloaca donde el odio puede expresarse tranquilamente sin la odiosa necesidad de ir en cana, como debería ser.
+
+[^1]: El sabio es bueno.
+
+
 
 
