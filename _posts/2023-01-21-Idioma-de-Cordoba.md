@@ -51,7 +51,9 @@ En los ochentas, el 11 iba del centro, entraba por la avenida **Congreso**, hast
 
 Los ochentas "la Villa" ostentaba una bien ganada fama de peligrosa, y su nombre aludía a un círculo mas amplio que incluía barrios como Comercial, Mirizzi y su halo de misterio cubría parte de Santa Isabel.  
 
-Con el tiempo, aprendemos a perdonarle al 11 ciertos errores, como la lluvia[^3], que pase lleno y no se detenga por mas pasajeros.  Esto molesta sobremanera cuando es uno el que queda en tierra, no al revés.
+Aprendemos a perdonarle al 11 ciertos errores, como la inutil espera bajo la lluvia[^3], que pase lleno y no se detenga por mas pasajeros.  Esto molesta sobremanera cuando es uno el que queda en tierra, no al revés.  El escritor cubano Carlos Puebla sentenció para estos casos un:
+
+> Aprendimos a quererte.
 
 [^3]: "Some people feel the rain, other only get wet"  --Bob Marley.
 
@@ -59,13 +61,13 @@ Otra molestia periódica era cierta inspección involuntaria de terceros hacia a
 
 Miento si digo muchísimas, pero si varias, un roce innecesario -recuerdo ahora- contacto táctil y visual, de alguna joven de expersión extremadamente pícara en el rostro.  
 
-Cuando algo así le ocurría a Odiseo Torres solía reflexionar:
+Al ser objeto de este tipo de miradas y conciente de sus pocos atributos, solía reflexionar en voz alta:
 
 > ¿Tendré un moco?  -Tocándose la nariz para inspeccionar que la niña estuviera observando ese error estético.
 
 Poco tardabamos en darnos cuenta que en paralelo, se incrementaban las manos extrañas inspeccionadoras de bolsillos, en calidad y cantidad.  Como en los actos de magia, uno presta atención a la señorita sonriente mientras el mago muestra una mano y con la otra nos *limpia*.  
 
-> Pestañaste, se dice ahora. 
+> Pestañaste, reza la advertencia contemporánea. 
 
 La habitualidad hacía que la conversación con el conductor se acercara a la confidencia, que sigue al saludo franco.  Pero solo con aquellos que parecieran merecerlo, con los sonrientes, los saludadores, buena onda.
 
