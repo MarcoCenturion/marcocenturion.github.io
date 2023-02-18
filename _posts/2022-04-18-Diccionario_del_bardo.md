@@ -260,7 +260,11 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Marquez**  Marca, comarca, demarcación, delimitación.  Confin, confinar.  Las marcas delimitaban las tierras de un señor feudal -nunca una señora-  Ducado y condado provienen del mismo origen.
 
+**Matrix**  Cine.  Film SciFi que el tiempo ha otorgado ribetes de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Lugo el guión supera esa primera impresión.  Lugares comunes se incorporan al imaginario colectivo, como las píldoras azul y roja, o la visión de los humanos como virus del planeta.  La la capa de guion que recubre la realidad, resulta ser mucho mas burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelear el status quo, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales brindan ficticia densidad a vidas transparentes y homogéneas.
+
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas, o de escaso valor.
+
+**Mito**  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repertirse.  Es por ello que lo repetimos sin tener certeza.  Mas que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, preferimos una respuesta tranquilizadora a una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido. 
 
 **Muerte, Pena de**  *Derecho Penal.*  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos mas optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario en las cifras de homicidios violentos, estados que mantienen la pena de muerte tienen igual o mayor tasa a los que la abolieron.
 
@@ -292,13 +296,17 @@ Síntoma irrefutable del **fascista culposo**.
 
 ## O
 
-**Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  "Todos los colectivos los dejan cerca".  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Posiblemente la sola enumeración nos exime de juicios de valor posteriores. 
+**Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  "Todos los colectivos los dejan cerca".  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores. 
 
-**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puse la mejor onda.  
+**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  
 
 **Ojota** *Quechua, Usuta.*  Documentado en el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
 
 **Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteina que pasa del estado líquido al sólido mas sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
+
+**OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atras fuera el demonio[^8].
+
+[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, a la vez que la carrera espacial y armamentista contra la URS data cada vez vehículos mas secretos y extraños.  En lo profundo de los estados centrales, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, como corresponde a cualquier establecimiento de Texas que se precie.  
 
 ---
 
