@@ -12,6 +12,12 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
+**Amor** *V. Lat. Sin muerte.*  Inmortal. 
+
+> ¿Mamá, porqué te enamoraste de papá si es muy desagradable?.
+
+> La primera vez que salimos -responde la madre con cierto brillo malintencionado en los ojos- me llevó a tomar un helado y no nos dieron cucharita.
+
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad de horrorizar muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera abismal, al enterarse el indivíduo la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
 > No matamos a nadie para comer.
