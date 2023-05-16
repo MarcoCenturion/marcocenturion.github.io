@@ -12,7 +12,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
-**Amor** *V. Lat. Sin muerte.*  Inmortal. 
+**Amor** *V. Lat. Sin mors, muerte.*  Inmortal. 
 
 > ¿Mamá, porqué te enamoraste de papá si es muy desagradable?.
 
@@ -196,7 +196,9 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente *Yo rompo*.  Romper un ícono.  La modernidad líquida sugiere felizmente una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, eran los partidarios de destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  Nos trae a la actualidad, donde observamos una encarnizada lucha por la supremacía de imágenes sagradas, llevando una delantera importante una manzanita mordida y una M amarilla.   
 
-**Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.  
+**Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
+
+**Informar** *Del Lat. dar forma*  Luego, informar es exactamente lo opuesto a la formación de los individuos, tal cual la entendemos.
 
 **Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos que no pueden nombrar la palabra Bruja, sin agregar:
 
