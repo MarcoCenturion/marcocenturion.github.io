@@ -12,7 +12,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
 
-**Amor** *V. Lat. Sin mors, muerte.*  Inmortal. 
+**Amor** *V. del Lat Mors. mors, muerte.*  Inmortal.  Que vence la muerte. 
 
 > ¿Mamá, porqué te enamoraste de papá si es muy desagradable?.
 
@@ -76,7 +76,7 @@ Luego de una ligera pausa agrega:
 
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
 
-**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un sustantivo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina estám quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
+**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un sustantivo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
 [^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
 
@@ -84,7 +84,7 @@ Luego de una ligera pausa agrega:
 
 Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo*, para quitarle entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: "Los cosos de al Lao", de Canet y Larrosa.   Tengo entendido que en la década del cuarenta, un joven anónimo, cercano a Macedonio, intentara un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
 
-**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", destinadas a los cultivos.   
+**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", destinadas a los cultivos. Luego los que no son cultos, son bárbaros.
 
 ---
 
