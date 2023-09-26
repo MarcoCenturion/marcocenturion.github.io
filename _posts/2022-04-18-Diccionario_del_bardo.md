@@ -16,7 +16,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 > ¿Mamá, porqué te enamoraste de papá si es muy desagradable?.
 
-> La primera vez que salimos -responde la madre con cierto brillo malintencionado en los ojos- me llevó a tomar un helado y no nos dieron cucharita.
+> Un día salimos de picnic al campo, llevamos yogurt -responde la madre con cierto brillo malintencionado en los ojos- nos olvidamos las cucharitas.  Lo ví.
 
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad de horrorizar muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera abismal, al enterarse el indivíduo la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
@@ -28,9 +28,9 @@ Luego de una ligera pausa agrega:
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es totalmente inexistente, ya que como bien señaló **Aristóteles**, hace 2500 años, vivir en sociedad nos hace políticos. [^2]
+**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace mas de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
 
-[^2]: En su obra **La Política** Aristóteles señala una de las frases más populares de la filosofía, "el hombre es un animal político", vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
+[^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
 **Asado** *Sus.*  En un principio asado fué adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
