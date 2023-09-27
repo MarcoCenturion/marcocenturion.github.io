@@ -67,6 +67,10 @@ Luego de una ligera pausa agrega:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
+**Coco** Fruta.  Es la palmera mas cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
+
+[^18]: En realidad utilizó la frase "Cornudos Cobardes" con un poder de síntesis nunca visto en estas latitudes.
+
 **Comué**  *Sus masc*.  Úsase en las provincias del norte argentino, en reemplazo del elegante rioplatense **"el coso"**.
 
 **Confesión**  *Lat con, todo; fessus, admitir; y sión, acción*.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
