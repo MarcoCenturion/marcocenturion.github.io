@@ -154,7 +154,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 > ¿Estamos hablando del faso?
 
-**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas sugieren una conjunción entre dos notas musicales, Fa y Re, todo parece indicar que se trata de Mi.  
+**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**.  Nos fuerza a pensar que la nota se trata de **Mi**.  
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
@@ -176,13 +176,15 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 ## H
 
-**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Requiere paciencia y segundas oportunidades, como el cilandro, o ciertas personas.  Espero ser perdonado por esta comparación, el haiku es a la poesía lo que el bonsai a la jardinería.  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de Rolan Barthes: 
+**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Como toda experiencia interesante, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y muchas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
+
+[^20]:  Ciertos personajes de Derechas son a la política, lo que el Reguetón a la música o la pornografía al sexo.  Como el catch al boxeo.  Una puesta en escena.
 
 > El haiku reproduce el gesto indicativo del niño que muestra con el dedo alguna cosa, diciendo tan solo: ¡esto!, ¡mirá allá!, ¡oh!, ¡ah!
 
-La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida.  Otros no.  Así de maravillosa es la condición humana.
+La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana.
 
-**Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, solo ficatum.  De allí que el adjetivo se convierte en sustantivo.  *Léase: Asado*  
+**Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
 ---
 
