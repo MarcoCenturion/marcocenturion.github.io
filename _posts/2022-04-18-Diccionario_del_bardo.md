@@ -250,7 +250,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
 
-**Ley*** Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que decapita instituciones y a menudo, los cuerpos de los monarcas.
+**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que decapita instituciones y a menudo, los cuerpos de los monarcas.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
 
