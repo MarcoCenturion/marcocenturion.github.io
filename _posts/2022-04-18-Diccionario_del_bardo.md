@@ -284,7 +284,11 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
-**Música** *Lat.* Según Roberto Goyeneche "La música son unos negritos saltando un alambrado."  De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario.  
+**Música** *Lat.* Según la autorizada voz de Roberto Goyeneche 
+
+> "La música son unos negritos saltando un alambrado."
+
+De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  
 
 ---
 
