@@ -10,13 +10,15 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí aderezo, enderezo, enderezar.  Léase pauta en el mismo sentido.
+**Aliño** *Lat. poner en línea.*  Aliñar, alinear la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo alineamiento es ofensivo al indivíduo.
 
-**Amor** *V. del Lat Mors. mors, muerte.*  Inmortal.  Que vence la muerte. 
+**Amor** *V. del Lat. Mors. muerte.*  A mors, luego, inmortal.  Que vence la muerte. 
 
-> ¿Mamá, porqué te enamoraste de papá si es muy desagradable?.
+> ¿Mamá, porqué te enamoraste de papá? ¿Qué le viste?
 
-> Un día salimos de picnic al campo, llevamos yogurt -responde la madre con cierto brillo malintencionado en los ojos- nos olvidamos las cucharitas.  Lo ví.
+> Un día salimos de picnic al campo, llevamos yogurt -responde la madre con cierto brillo malintencionado en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
+
+[^22]: Estílase concluir las frases con el advervio nada, a modo de punto y aparte.  Nada.
 
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad de horrorizar muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera abismal, al enterarse el indivíduo la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
