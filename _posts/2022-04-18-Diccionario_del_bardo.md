@@ -350,21 +350,33 @@ Síntoma irrefutable del **fascista culposo**.
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
 
-**Patria**  *Sus.*  La tierra de los padres.  "Ver crecer el humo en la casa de su padre"  Ulises en la Odisea de Homero.  "Arda en mi ese fuego misterioso"  Sugiere Borges.
+**Patria**  *Lat.*  Textualmente, la tierra de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los mas débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años de anhelos de:  
 
-**Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque asumimos un soldado menor de edad.
+> "Ver crecer el humo en la casa de su padre" - Ulises en la Odisea de Homero.  
+
+O la ya mas reciente, de **Jorge Luis Borges**, al que acusamos injustamente de anglófilo, en su **Oda de 1966**: 
+
+> "Arda en mì ese fuego misterioso".
+
+La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la mas noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *"Todos tenemos derecho a vivir"*, es ligeramente superior a *"yo tengo derecho a andar en moto"* o *"Yo quiero un Iphone"*. 
+
+**Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque nos sintamos tentados a asumir un soldado menor de edad.
 
 **Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque se han documentado casos de gente con pelos así.
 
 **Pelotudo**  Léase Paciente.
 
-**Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  Que sirve para hacer el verso.
+**Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *"Per il verso"* Que sirve para hacer el verso.
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.
 
 **Pirca** *Quichua*  Pared o muro hecho con piedras apiladas.
 
-**Poeta**  *Gr.* Hacedor, orfebre.
+**Poeta**  *Gr.* Hacedor, orfebre.  Las cosas no son hasta que son nombradas.  La biblia sugiere: 
+
+> In principio erat Verbum, et Verbum erat apud Deum. 
+
+La palabra es un milagro, máxime si adjudicamos la frase a un pescador.
 
 **Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora.  
 
@@ -388,7 +400,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
 
-**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  1- Por su rareza o extravagancia, puede mover a risa.  Ridiculez, Unica virtud de un fascista.
+**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  1- Por su rareza o extravagancia, puede mover a risa.  
+
+**Ridiculez**. Unica virtud de un fascista.
 
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
 
