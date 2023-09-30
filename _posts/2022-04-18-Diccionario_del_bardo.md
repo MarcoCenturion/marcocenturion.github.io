@@ -1,4 +1,4 @@
----
+--
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2022-03-26 19:41:34
@@ -41,11 +41,11 @@ Luego de una ligera pausa agrega:
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo Quilombo, de origen africano. 
 
-**Bipolar** *Psic.*  Aplícase a individuos neuróticos, a quienes no les fuera suministrado de niños lo que la clínica documenta como: "*una buena cagada en su momento"*.  La voz popular sugiere: 
+**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Pareciera haber un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena cagada en su momento"*.  Cierta voz popular amonesta: 
 
-> *Lo únco bipolar es una pila, vos sos pelotudo*.
+> *No pibe, Lo únco bipolar es una pila, vos sos pelotudo*.
 
-**Bisman**  *Extraño Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
+**Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -57,7 +57,9 @@ Luego de una ligera pausa agrega:
 
 ## C
 
-**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, al tiempo de la república romana: "Para las calendas griegas",  léase nunca.
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, al tiempo de la república romana: 
+
+> Para las calendas griegas.  Léase nunca.
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
@@ -79,10 +81,9 @@ Luego de una ligera pausa agrega:
 
 [^17]:"Cuando la derecha acusa, en realidad confiesa"
 
-
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
 
-**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un sustantivo comodín.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
+**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  :Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
 [^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
 
@@ -102,21 +103,21 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Demonio** *Daemonium*  Divinidad inferior.  Dios y Demonio parecieran provenir del mismo origen etimológico. 
 
-**Derecho** *Lat. Directus.*  Recto.  No parece tener conexión con justo.
+**Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
-**Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego de religiones que sostienen la existencia de la tierra por solo cinco mil años.  El sostenimiento de tales tesituras, los coloca intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
+**Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del monoteismo judeocristiano, que sostiene fervientemente la existencia de la tierra por solo cinco mil años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
 **Dosis** *Lat.  Dosis sola facit venenum.*  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *"La Historia de las Plantas"* sugiere:  
 
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  Ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto la mitología de oriente y como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta a una niña con la que caminan *juntos a la par*, Córdoba Centro.  Parecieran mantener confidencia de novios, amantes, o compañeros ocasionales de juego en linea tipo **shot them**: 
+**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juego en linea del tipo **shot them**: 
 
-> En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones.   
+> En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -Acompañado de asombrosa cara de incredulidad puesta a prueba.  
 
 Al tiempo que ella lo corrige, ojos entrecerrados: 
 
-> ¡Drogones! Boludo. ¡Dro-gones!
+> ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de "¿Que hice para merecer esto?".
 
 **Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos son las opciones de quien duda[^7]. 
 
