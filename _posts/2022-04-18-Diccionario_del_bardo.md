@@ -22,7 +22,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad de horrorizar muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera abismal, al enterarse el indivíduo la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de "caníbales", a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Las prohibiciones y preceptos para la cocina amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
-> No matamos a nadie para comer.
+> No matamos a nadie para comerlo.
 
 Luego de una ligera pausa agrega:
 
@@ -191,12 +191,6 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 ---
 
-## J
-
-**Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
-
----
-
 ## I
 
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
@@ -213,7 +207,7 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 > Pero que las hay, las hay.
 
-La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh. 
+la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh. 
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
@@ -225,11 +219,13 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 ## J
 
-**Jabalí**
+**Jabalí** / **Jabalina**. *Ar*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  
 
-**Jazmín**  *Ar.* 
+**Jazmín**  *Ar.* Flor Blanca.
 
-**Jubilo**  Jubilado.
+**Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
+
+**Júbilo**.  *Lat. Iubilum* Alegría, conteto.  De aquí la alegría del jubilado, hasta que recibe el primer haber.
 
 **Juez**  *Lat. Iudex*. Quien indica como proseguir en una disputa.  Ultimo refugio monárquico dentro de las democracias occidentales.   
 
@@ -245,7 +241,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lapso**  Colapso.
 
-**Larva** *Biol.*  Estado de ciertos organismos antes de la vida adulta.  En el homo sappiens, alcanza la adolescencia.  En casos excepcionales, la supera holgadamente.
+**Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la vida adulta.  En el homo sappiens, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente.
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
@@ -253,7 +249,9 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
 
-**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que decapita instituciones y a menudo, los cuerpos de los monarcas.
+**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y a menudo, separa cabezas de troncos de los monarcas.  Es por esto que a menudo las movilizaciones en Francia son acompañadas por guillotinas, como un recuerdo:
+
+> Sabemos como usarla.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
 
