@@ -215,6 +215,8 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
+**Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
+
 **Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración a Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, el barro, por lo que literalmente "clavaban" el pié izquierdo y fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
 
 ---
@@ -451,6 +453,11 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Andando por el mundo en tero.
 
+
+## U 
+
+**Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  No parece muy saludable al intelecto a simple vista.
+
 ---
 
 ## V
@@ -459,7 +466,11 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *punto de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Vejez** *Lat. Vetus*.  Estado volitivo de la vida.  Crecer es inevitable, envejecer es optativo.  Refinamiento conductual. Eg. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  Decir: "tenes razón", sin dejos de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, la vejez viene a hacer más difícil *calibrar la incredulidad*.  Lo postulaba el británico *Samuel Coleridge* como requisito *sine qua non* del arte *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
+**Vejez** *Lat. Vetus*.  Estado volitivo de la vida que acostumbramos confundir con la senectud.  Crecer es inevitable, envejecer es optativo.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  El último de los aprendizajes para aquirir este tículo es poder soltar: 
+
+> ¡Tenes razón! 
+
+Sin el menor dejo de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la incredulidad*.  Lo postulaba el británico *Samuel Coleridge* como requisito *sine qua non* del arte *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
@@ -467,11 +478,11 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
 
-> Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.
+> *Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.*
 
 o 
 
-> Jamás llegues a parar, a donde veas perros flacos.
+> *Jamás llegues a parar, a donde veas perros flacos*.
 
 Esta puntualmente es muy bonita. [^11].
 
