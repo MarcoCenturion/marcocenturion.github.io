@@ -1,4 +1,4 @@
---
+---
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2022-03-26 19:41:34
@@ -16,7 +16,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 > ¿Mamá, porqué te enamoraste de papá? ¿Qué le viste?
 
-> Un día salimos de picnic al campo, llevamos yogurt -responde la madre con cierto brillo malintencionado en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
+> Un día salimos de picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
 
 [^22]: Estílase concluir las frases con el advervio nada, a modo de punto y aparte.  Nada.
 
