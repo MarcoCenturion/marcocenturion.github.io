@@ -10,13 +10,13 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aliño** *Lat. poner en línea.*  Aliñar, alinear la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo alineamiento es ofensivo al indivíduo.
+**Aliño** *Lat. poner en línea.*  Aliñar, alinear la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al indivíduo.  
 
-**Amor** *V. del Lat. Mors. muerte.*  A mors, luego, inmortal.  Que vence la muerte. 
+**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte, inmortal. 
 
-> ¿Mamá, porqué te enamoraste de papá? ¿Qué le viste?
+> ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
 
-> Un día salimos de picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
+> Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
 
 [^22]: Estílase concluir las frases con el advervio nada, a modo de punto y aparte.  Nada.
 
@@ -201,7 +201,9 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
-**Informar** *Del Lat. dar forma*  Luego, informar es exactamente lo opuesto a la formación de los individuos, tal cual la entendemos.
+**Informar** *Del Lat. dar forma*  Luego, informar es exactamente lo opuesto a la formación de los individuos, tal cual la entendemos[^25].
+
+[^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
 
 **Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recien entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos que no pueden nombrar la palabra Bruja, sin agregar:
 
@@ -211,7 +213,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra metamorfosis de adjetivo a sustantivo.  
+**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
 **Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración a Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, el barro, por lo que literalmente "clavaban" el pié izquierdo y fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
 
