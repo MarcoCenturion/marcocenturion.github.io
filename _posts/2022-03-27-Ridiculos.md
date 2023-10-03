@@ -14,17 +14,17 @@ La derecha recicla periódicamente su catálogo de personajes que rayan el **rid
 
 A simple vista, pareciera que lo hace para que riamos, como sugiere el rápsoda Homero en la Ilíada: 
 
-> "Los dioses traen penares a los hombres para que tengan motivo para cantar"
+> Los dioses solo traen penares a los hombres para que tengan motivo para cantar.
 
 No es casual, no hay que caer en su trampa, el **ridículo** no lo és, es solo apariencia, un personaje que arman para llamar la atención. 
 
 Ya el mismísimo **Joseph Goebels** lo anticipaba: 
 
-> “Deben hablar de nosotros, aunque sea mal, criticándonos, pero algo deben decir”, 
+> Deben hablar de nosotros, aunque sea mal, criticándonos, pero algo deben decir, 
 
 Ese mismo Goebels guionaba -como ministro de propaganda- a un pequeñito vegetariano, que no había probado el cigarrillo ni el alcohol, artista plástico frustrado, cuyo lema era:
 
-> "¡No fumadores, seguidme!"-
+> ¡No fumadores, seguidme!
 
 No es inimaginable una estrategia en la elección de estos **impresentables**.
 

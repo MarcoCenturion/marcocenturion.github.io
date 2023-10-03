@@ -37,6 +37,7 @@ Luego de una ligera pausa agrega:
 **Asado** *Sus.*  En un principio asado fué adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
 ---
+
 ## B
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo Quilombo, de origen africano. 
@@ -70,6 +71,8 @@ Luego de una ligera pausa agrega:
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
+
+**Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona mas perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto mas último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún mas numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.
 
 **Coco** Fruta.  Es la palmera mas cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
 
@@ -379,7 +382,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > In principio erat Verbum, et Verbum erat apud Deum. 
 
-La palabra es un milagro, máxime si adjudicamos la frase a un pescador.
+La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador.
 
 **Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora.  
 
