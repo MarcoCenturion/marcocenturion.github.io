@@ -10,9 +10,9 @@ lead_text: 'La derecha hace del ridículo una fortaleza política.'
 
 # Ridículos
 
-La derecha recicla periódicamente su catálogo de personajes que rayan el **ridículo**. 
+Debemos reconocerle a la derecha su capacidad para reciclar periódicamente su catálogo de personajes que rayan el **ridículo**. 
 
-A simple vista, pareciera que lo hace para que riamos, como sugiere el rápsoda Homero en la Ilíada: 
+A simple vista, pareciera que lo hace para que riamos, como sugiere el rápsoda Homero en la **Ilíada**: 
 
 > Los dioses solo traen penares a los hombres para que tengan motivo para cantar.
 
@@ -26,23 +26,25 @@ Ese mismo Goebels guionaba -como ministro de propaganda- a un pequeñito vegetar
 
 > ¡No fumadores, seguidme!
 
+Cuenta la leyenda que ese vegano antitabaco, cabo de la wermach en la primera guerra mundial, se ganaba la vida apostando dinero.  Su contrincante debía situarse a cierta distancia y acertarle un escupitajo.  Si acertaba ganaba la apuesta, si Adolf lo esquivaba, era él quien se quedaba con el billete.  Todos reían y aplaudían.
+
 No es inimaginable una estrategia en la elección de estos **impresentables**.
 
-No pueden asombrarnos hoy los **Bolsonaros** ni los mafiosos disléxicos (innombrables por cábala), las biblias en los golpes de estado, las mujeres que hacen la curiosa metamorfosis de **escorts de lujo** a legisladoras **fundamentalistas religiosas**.
+No pueden asombrarnos hoy los **Bolsonaros** ni los mafiosos disléxicos (innombrables por cábala), las biblias en los golpes de estado, las mujeres que hacen la curiosa metamorfosis de **escorts de lujo** a legisladoras pro vida, **fundamentalistas religiosas**.
 
 No necesitamos de una herramienta de medición intelectual muy sofisticada, la sola inspección ocular nos llama a sonrisas culposas, porque nuestros padres nos inculcaron el respeto al prójimo, por estúpidos que fueran.
 
-En este muestrario resaltan varios hasta llegar a la platónica perfección, la pedorrada en su expresión mas acabada en la persona del ex presidente **#MMLPQTP**, su bailecito en el histórico balcón, de lectura entrecortada, su dificultad para hacer armonizar verbalmente sujetos y predicados.  
+En este muestrario resaltan varios hasta llegar a la platónica perfección, la pedorrada en su expresión mas acabada en la persona del ex presidente de los ojitos celestes, bailecito en el histórico balcón, de lectura entrecortada, su predisposición al *amor rentado*, su dificultad para armonizar verbalmente sujetos y predicados.  
 
 Esto fue escrito en 2016 y da vértigo ver la cantidad de agregados de este **psicópata mal medicado** y su vice presidenta incapaces ninguno de los dos de hilvanar una frase y hacer entendible su explicación a un tercero.  Aludiendo constantemente a metáforas difíciles de entender de ríos, montañas, mares, tormentas y luces al final de túneles. 
 
-El primer ridículo que llega a mi recuerdo, el Capitán Ingeniero **Álvaro Alsogaray**.  Ya el doble título nos anoticia de un indicio de pelotudez importante, hasta el infausto día en que se levanta y sugiere que debemos “pasar el invierno”.
+El primer ridículo que llega a mi recuerdo, el Capitán Ingeniero **Álvaro Alsogaray**.  Ya el doble título nos anoticia de un indicio de estupidez importante, hasta el infausto día en que se levanta y sugiere que debemos “pasar el invierno”.
 
-Sí lector desprevenido, esta frase famosa pertenecía a este ridículo.
+Sí desprevenido lector, esta frase famosa pertenecía a este ridículo.
 
 Si bien el orden es aleatorio, lo sigue su descendencia, **María Julia** que prometió sanear el riachuelo en mil días. Lo mas interesante de esta piba es que recibió dinero público -mucho- para hacerlo y se fue a Las Leñas a hacerse un set fotográfico semidesnuda, lo que acarreó graves problemas de erección en la población masculina de nuestra amada patria. Tal vez este sea su pecado mas grave.
 
-Descenso brusco en la tasa de embarazos argentinos durante años por una tapa de revista de todos los kioscos.
+
 
 Ambos conservan ese aire de superioridad conservador (sic).
 
