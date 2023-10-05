@@ -10,7 +10,7 @@ lead_text: 'Inteligencia militar, un contrasentido interesante.'
 
 ## Sarcasmo Castrense
 
-Altivos y valientes marchan los últimos hombres del general Jürgen Slamastik.
+Altivos y valientes marchan los últimos hombres del general **Jürgen Slamastik**.
 
 Merma la soldadesca de forma alarmante, producto de la última hambruna.
 
