@@ -176,13 +176,17 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
+**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval, en el se nara una expedición de un general Cartaginés, antes del siglo V AC. *"Mas allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a los habitantes de los parajes tierra adentro de Africa:
+
+> *Vagos, planeros o negros de mierda.* 
+
 **Gota**  *Lat. Gutta*  Porción pequeña de un líquido.  Se asocia, por desde antaño, con una patología de ricos, por el exceso de comidas y bebidas que provocan en el ácido úrico.  Hasta la llegada de Silvio Rodriguez, que canta en un estadio "La Gota de Rocío" y la multitud corea una segunda voz faltante, momento en que gota, pasa a convertirse en algo totalmente distinto.
 
 **Guagua**  *Quechua. bebé*
 
 ## H
 
-**Haiku**  *Jap.*  Conjunto de ideogramas verticales.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Como toda experiencia interesante, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y muchas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
+**Haiku**  *Jap.*  Conjunto de ideogramas dispuestos de manera vertical.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Como toda experiencia interesante, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y muchas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
 
 [^20]:  Ciertos personajes de Derechas son a la política, lo que el Reguetón a la música o la pornografía al sexo.  Como el catch al boxeo.  Una puesta en escena.
 
@@ -252,6 +256,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
+
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
 
 **Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
@@ -261,6 +266,8 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 > Sabemos como usarla.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
+
+**Libertario[a,e]**  *Mit.*  Extraño homínido de características humanas.  Por muy extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual, salvo las sacrosantas de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la esclavitud, su par antagónico perfecto.  
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
 
@@ -353,6 +360,8 @@ Síntoma irrefutable del **fascista culposo**.
 **Pánico** *Lat.  Pan, el dios perruno.*  En tiempos de la república romana, el pánico era producido por los sonidos del bosque, donde conviven elfos, druidas, hadas, animales y otros seres.  Entre todos los sonidos, uno en particular, resultaba más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
+
+> Ayer se me golpeó un libro en la cabeza y perdí el conocimiento.
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
 
