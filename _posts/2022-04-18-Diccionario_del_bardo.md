@@ -132,7 +132,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 ## E
 
-**Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.
+**Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea. 
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
@@ -142,15 +142,15 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
-**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  De aquí la condición de afantasmado.
 
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
 
-**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría,  famosa por un Idem.  En la mediterránea Córdoba, construyose tiempo atrás un faro, con abundantes aportes de dineros públicos.  Lo extraño no es la inexistencia de un mar a no menos de novecientos kilómetros a la redonda.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
+**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por un contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
 > Esperá que ya van a dragar la provincia.  
 
-**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido, 
+**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido:
 
 [^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."
 
