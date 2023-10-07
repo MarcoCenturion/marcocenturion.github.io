@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 'El asedio final a la amurallada fortaleza de los quemantucas'
-date: 2022-03-26 19:41:34
+date: 2023-10-06 19:41:34
 categories: blog
 tags: Paradoja, Inteligencia Militar.
 image: '/images/default.jpg'
