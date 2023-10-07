@@ -220,6 +220,10 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
+**Insensatez**  En esta canción de Vinicius de Moraes y Carlos Antonio Jobimi[^24], podemos prescindir de la letra y entender a través de la música, ese amor insensato,  Me sugiere un embarazo no deseado, un llanto compartido, un dolor mas profundo que la pérdida de un ser querido.
+
+[^24]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.
+
 **Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
