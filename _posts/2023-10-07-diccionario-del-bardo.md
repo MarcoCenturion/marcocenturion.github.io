@@ -194,6 +194,12 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana.
 
+**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Creencia controversial que entra en conflico directo con el Dogma Establecido.  Observamos a lo largo de los siglos genocidios a partir de este conflicto con verdades establecidas.  Por lo general monoteistas.  La explicación a estos sacrificios de vidas humanas, es que accedan al mundo de los cielos, como todos sabemos.
+
+> "Toda Verdad es la verdad del poder." [^20]
+
+[^20]: Michael Foucault.
+
 **Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
 ---
