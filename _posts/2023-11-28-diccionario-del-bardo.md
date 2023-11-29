@@ -200,7 +200,7 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 > "Toda Verdad es la verdad del poder." [^20]
 
-[^20]: Michael Foucault.
+[^20]: La Hermneutica del Sujeto --Michael Foucault.
 
 **Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
