@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
-date: 2023-10-05 19:41:34
+date: 2024-11-29 19:41:34
 categories: blog
 tags: Diccionario, Bestiario
 image: '/images/default.jpg'
