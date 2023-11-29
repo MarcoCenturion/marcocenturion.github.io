@@ -192,7 +192,9 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 > El haiku reproduce el gesto indicativo del niño que muestra con el dedo alguna cosa, diciendo tan solo: ¡esto!, ¡mirá allá!, ¡oh!, ¡ah!
 
-La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana.
+La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana[^24].
+
+[^24]: “Some people feel the rain; others just get wet.” --Roger Miller.
 
 **Hereje** *Gr. Haireticus*.  El que es libre de elegir. Creencia controversial que entra en conflico directo con el Dogma Establecido.  Observamos a lo largo de los siglos genocidios a partir de este conflicto con verdades establecidas.  Por lo general monoteistas.  La explicación a estos sacrificios de vidas humanas, es que accedan al mundo de los cielos, como todos sabemos.
 
