@@ -401,7 +401,9 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.
 
-**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas.
+**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. 
+
+[^29]:"Vengo desde Aimogasta pa las pirquitas" --Coplas del valle.  Ramón Navarro .
 
 **Poeta**  *Gr.* Hacedor, orfebre.  Las cosas no son hasta que son nombradas.  La biblia sugiere: 
 
@@ -494,7 +496,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *punto de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Vejez** *Lat. Vetus*.  Estado volitivo de la vida que acostumbramos confundir con la senectud.  Crecer es inevitable, envejecer es optativo.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  El último de los aprendizajes para aquirir este tículo es poder soltar: 
+**Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  El último de los aprendizajes para aquirir este tículo es poder soltar: 
 
 > ¡Tenes razón! 
 
@@ -532,11 +534,11 @@ Esta puntualmente es muy bonita. [^11].
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
-Simulando Ab Infinitum un discurso coherente. El proto, fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuando debe escuchar el universo su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
+Suele Simular *Ab Infinitum* un discurso con visos de coherencia, posiblemente embelezado por el sonido de su propia voz. El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuando debe escuchar el universo su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
 
 > Yo te explico...
 
-Asumiendo una idiotez ajena que extrañamente no repara en sí.
+Asumiendo una estupidez en el prójimo que extrañamente no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
 
 ---
 
