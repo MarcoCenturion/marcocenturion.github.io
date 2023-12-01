@@ -355,7 +355,7 @@ Síntoma irrefutable del **fascista culposo**.
 
 > Encuentran Oro en Panamá.
 
-Sobra agregar que no encontraron un solo gramo de oro.
+Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco mas cálidad y húmeda.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña.
 
 **Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteina que pasa del estado líquido al sólido mas sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
 
