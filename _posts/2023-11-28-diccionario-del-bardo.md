@@ -351,6 +351,12 @@ Síntoma irrefutable del **fascista culposo**.
 
 **Ojota** *Quechua, Usuta.*  Documentado en el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
 
+**Oro** *Lat Aurun*  La mayor y mas feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  EL rey Midas solicita auxilio celestial para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la etupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero.  Para resolverlo de manera simple inventan una nota en el New York Times, por unos pocos miles de dólares lo que les hubiera costado millones.
+
+> Encuentran Oro en Panamá.
+
+Sobra agregar que no encontraron un solo gramo de oro.
+
 **Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteina que pasa del estado líquido al sólido mas sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atras fuera el demonio[^8].
