@@ -32,6 +32,8 @@ Responde otro levantando el cuello y simulando un pañuelo con círculos concent
 
 No menos nocivos son el *Netflix* o el *Candycrush*, distraedores de los buenos hombres haciendo guardia.
 
+A esto se debe -indudablemente- que no sean tropas regulares, sino directamente malas.
+
 A las frecuentes deserciones, se sumó días atrás el grave incidente del batallón perdido en la espesura del monte jugando a **La Escondida**. 
 
 Serios informes de auditoría, adjudicaron -urgidos tal vez por esbozar una teoría- el error al excesivo alarde del uso del camuflaje.  El sector antagónico, a una impericia cartográfica, cuando lo mas probable fuera abuso de tóxicos lúdicos de parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incljuso disfrutada.  
