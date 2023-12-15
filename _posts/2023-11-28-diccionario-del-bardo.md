@@ -423,6 +423,8 @@ La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador
 
 > Anda cruzando el invierno, con un ponchito de vino.
 
+En los ingenios yerbateros, adultos y niños juntaban y andaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
+
 **Positivo** *Fís. o Psic.*  Desconocemos los motivos por los que es cada vez más común en el habla cotidiana la aberración del imperativo:
 
 > ¡Roberto, tenés que ser más positivo!
