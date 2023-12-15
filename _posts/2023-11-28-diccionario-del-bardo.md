@@ -467,13 +467,13 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.isla
 
-**Sentido**  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Las aproximaciones que mas me seducen son las que vienen por el lado del arte.  Un Haiku encierra el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por la existencia ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha de que ocurrirá al encontrarlo.
+**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen mas que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Verdadera tautología recursiva.  Encontrar el significado de significado, ya sugiere muchas cosas.  Se complica a extremos intolerables al sucederlo con el término **significante**.
 
 **Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera mucho de mejor calidad poética que el excesivamente utilizado siestero.
 
-**Siempre**  *Lat.  Semper.*  Sempiterno.
+**Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
