@@ -142,7 +142,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
-**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  De aquí la condición de afantasmado.
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  De aquí la condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
 
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
 
