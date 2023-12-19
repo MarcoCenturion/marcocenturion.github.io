@@ -240,7 +240,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 > Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del telèfono que me pidió acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
 
-**Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, hecho que les da nombre, pero no comienza allí nuestra historia.  En la castración a Urano de manos (sic) de su hijo Zeus, este toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, el barro, por lo que literalmente "clavaban" el pié izquierdo y fijaban el escudo en la izquierda.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  Si en cambio, los desfiles militares, símbolos de otras agresividades, milenios después de Jasón, inician con el pié izquierdo, en todo el planeta.  Véase Zurdo.   
+**Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, lo que los bautiza topológiciamente, pero nuestra historia comienza mucho antes.  En la castración a Urano de manos de su hijo Zeus, este último toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey Jasón, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, **el barro**, por lo que literalmente *clavaban* el pié izquierdo y fijaban el escudo en el flanco izquierdo.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  En cambio, los desfiles militares, milenios después del mítico Jasón, aun inician con el pié izquierdo su marcha, en todo el planeta.  Pareciera el origen de una costumbre humana de gran arraigo, la estandarización de los distintos. Véase Zurdo.   
 
 ---
 
@@ -248,7 +248,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Jabalí** / **Jabalina**. *Ar*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  
 
-**Jazmín**  *Ar.* Flor Blanca.
+**Jazmín**  *Ar. yamasim a su vez del persa.* Flor Blanca.
 
 **Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
 
@@ -256,7 +256,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Juez**  *Lat. Iudex*. Quien indica como proseguir en una disputa.  Ultimo refugio monárquico dentro de las democracias occidentales.   
 
-**Jueves**  Día de Júpiter.
+**Jueves**  *Lat. dies iovis.*  Día de Júpiter, dios de todos los dioses.
 
 ---
 
@@ -519,6 +519,8 @@ Sin el menor dejo de culpa como punto final de todas las discusiones.  En el art
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
 **Vida**  *Biol.*   Dícese de eso que vemos pasar al tiempo que corremos detrás de cambiar el auto o comprar una casa. 
+
+**Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
 
 **Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
 
