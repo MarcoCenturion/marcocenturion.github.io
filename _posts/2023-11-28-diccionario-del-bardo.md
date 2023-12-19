@@ -34,15 +34,15 @@ Luego de una ligera pausa agrega:
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
-**Asado** *Sus.*  En un principio asado fué adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
+**Asado** *Sus.*  En sus inicios como palabra, asado fué el adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
 ---
 
 ## B
 
-**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo Quilombo, de origen africano. 
+**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano. 
 
-**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Pareciera haber un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena cagada en su momento"*.  Cierta voz popular amonesta: 
+**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Pareciera haber un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada* en su momento"*.  Cierta voz popular amonesta: 
 
 > *No pibe, Lo únco bipolar es una pila, vos sos pelotudo*.
 
@@ -58,7 +58,7 @@ Luego de una ligera pausa agrega:
 
 ## C
 
-**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, al tiempo de la república romana: 
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana: 
 
 > Para las calendas griegas.  Léase nunca.
 
@@ -331,7 +331,7 @@ De no acceder de inmediato a la magia de la imagen anterior, se recomienda repet
 
 **Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán.
 
-**Negocio** *Lat. Nec Otium - Nadie está ocioso.* Nadie puede obtener beneficios sin algo a cambio.i  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de individuos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
+**Negocio** *Lat. Nec Otium - Nadie está ocioso.* Nadie puede obtener beneficios sin algo a cambio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de individuos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
 
 [^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
 
