@@ -353,7 +353,9 @@ Síntoma irrefutable del **fascista culposo**.
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  
 
-**Ojota** *Quechua, Usuta.*  Documentado en el gato popular del Chango Farias Gomez: "...Y unas usutas viejas, que eran del tata".
+**Ojota** *Quechua, Usuta.*  Documentado en el gato popular
+
+> ...Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
 
 **Oro** *Lat Aurun*  La mayor y mas feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  EL rey Midas solicita auxilio celestial para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la etupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero.  Para resolverlo de manera simple inventan una nota en el New York Times, por unos pocos miles de dólares lo que les hubiera costado millones.
 
