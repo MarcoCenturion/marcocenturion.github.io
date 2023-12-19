@@ -550,11 +550,11 @@ Esta puntualmente es muy bonita. [^11].
 
 ## Y
 
-**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el Superyó y el Ello.  Al asumir su inmortalidad, quita protagonismo a los otros actores, mucho mas interesantes en términos del drama.  Ríos de tinta sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
+**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el **Superyó** y el **Ello**.  Al asumir su inmortalidad, quita protagonismo por completo a los otros actores, mucho mas interesantes en términos del drama.  Ríos de tinta han corrido sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
-Suele Simular *Ab Infinitum* un discurso con visos de coherencia, posiblemente embelezado por el sonido de su propia voz. El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuando debe escuchar el universo su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
+Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por  completo de significado. El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuando debe escuchar el universo su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
 
 > Yo te explico...
 
