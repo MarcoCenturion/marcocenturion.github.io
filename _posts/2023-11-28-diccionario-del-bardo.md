@@ -108,6 +108,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
+**Diletante *Ital. Diletante*  Que se deleita con su arte.
+
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del monoteismo judeocristiano, que sostiene fervientemente la existencia de la tierra por solo cinco mil años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *"La Historia de las Plantas"* sugiere:  
