@@ -86,7 +86,7 @@ Luego de una ligera pausa agrega:
 
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
 
-**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  :Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
+**Coso**  *Adv. de berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos griegos llamaron los sofistas.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
 [^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
 
