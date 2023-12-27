@@ -317,7 +317,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Mito**  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repertirse.  Es por ello que lo repetimos sin tener certeza.  Mas que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, preferimos una respuesta tranquilizadora a una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido. 
 
-**Muerte, Pena de**  *Derecho Penal.*  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos mas optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario en las cifras de homicidios violentos, estados que mantienen la pena de muerte tienen igual o mayor tasa a los que la abolieron.
+**Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma mas extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos mas optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario en las cifras de homicidios violentos, estados que mantienen la pena de muerte tienen igual o mayor tasa a los que la abolieron.
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
@@ -331,7 +331,13 @@ De no acceder de inmediato a la magia de la imagen anterior, se recomienda repet
 
 ## N
 
-**Nada**  *Lat. nata. nacimiento.*   Verdaderos ríos de tinta han corrido sobre este sustantivo, atravesando corrientes de pensamiento dispares en el tiempo y el espacio.  Es al menos curioso que el vocablo provenga etimologicamente de *nacimiento*.  Experimenta una curiosa metamorfosis en el siglo XXI a modo de punto final de toda oración, tal vez emulando el *punto final* de la vida.  Sugiérese maridarlo con Osea:  `O sea, Nada`.  Triste final le tenían deparado los dioses a una palabra con semejante potencial. 
+**Nada**  *Lat. nata. nacimiento.*   Verdaderos ríos de tinta han corrido sobre este sustantivo, atravesando corrientes de pensamiento dispares en el tiempo y el espacio.  Es al menos curioso que el vocablo provenga etimologicamente de *nacimiento*.  Experimenta una curiosa metamorfosis en el siglo XXI a modo de punto final de toda oración, tal vez emulando el *punto final* de la vida.  Sugiérese maridarlo con el bello *Osea*, qudando de la siguiente forma:  
+
+> O sea, Nada.
+
+Triste final tenían deparado los dioses a una palabra con tamaño potencial. 
+
+**Nadería**  Nieta de la palabra anterior.  Úsase para menospreciar argumentos contrarios.
 
 **Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán.
 
@@ -339,11 +345,15 @@ De no acceder de inmediato a la magia de la imagen anterior, se recomienda repet
 
 [^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
 
-**Neutro** *Lat. Ni uno ni lo otro.*  Concepto útil en política para medir el grado de fascismo de tu interlocutor momentaneo.  Ante una pregunta politicamente comprometedora, responderá
+**Neutro** *Lat. Neuter.  Ni uno ni lo otro.*  Concepto útil en política para medir el grado de fascismo de tu interlocutor momentaneo.  Ante una pregunta politicamente comprometedora, responderá
 
 > "Yo soy neutro, apolítico"
 
-Síntoma irrefutable del **fascista culposo**.
+Síntoma irrefutable del **fascista en pausa** [^40].
+
+[^4]: “El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales.” — Bertolt Brecht
+
+Fuente: https://citas.in/autores/bertolt-brecht/
 
 **Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
