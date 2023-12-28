@@ -200,7 +200,7 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 [^34]: “Some people feel the rain; others just get wet.” --Roger Miller.
 
-**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Creencia controversial que entra en conflico directo con el Dogma Establecido.  Observamos a lo largo de los siglos genocidios a partir de este conflicto con verdades establecidas.  Por lo general monoteistas.  La explicación a estos sacrificios de vidas humanas, es que accedan al mundo de los cielos, como todos sabemos.
+**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Creencia controversial que entra en conflico directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos genocidios repetitivos y recurrentes a partir de este conflicto con verdades establecidas.  Por lo general monoteistas.  La explicación a estos sacrificios de vidas humanas, es que puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio no solicitado.
 
 > "Toda Verdad es la verdad del poder." [^20]
 
