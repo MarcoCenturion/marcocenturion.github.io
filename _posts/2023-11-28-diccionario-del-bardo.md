@@ -180,7 +180,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
-**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval, en el se nara una expedición de un general Cartaginés, antes del siglo V AC. *"Mas allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a los habitantes de los parajes tierra adentro de Africa:
+**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Está da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Mas allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
 
 > *Vagos, planeros o negros de mierda.* 
 
