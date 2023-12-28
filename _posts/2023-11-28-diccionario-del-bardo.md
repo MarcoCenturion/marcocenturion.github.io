@@ -309,7 +309,7 @@ la falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Marquez**  Marca, comarca, demarcación, delimitación.  Confin, confinar.  Las marcas delimitaban las tierras de un señor feudal -nunca una señora-  Ducado y condado provienen del mismo origen.
 
-**Matrix**  Cine.  Film SciFi que el tiempo ha otorgado ribetes de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Lugo el guión supera esa primera impresión.  Lugares comunes se incorporan al imaginario colectivo, como las píldoras azul y roja, o la visión de los humanos como virus del planeta.  La la capa de guion que recubre la realidad, resulta ser mucho mas burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelear el status quo, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales brindan ficticia densidad a vidas transparentes y homogéneas.
+**Matrix**  Film de SciFi de les hermanes Wachowski, al que el tiempo ha otorgado ribetes de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Lugo el guión supera esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo, como las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guion que recubre la realidad, resulta ser mucho mas burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelear el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales brindan ficticia densidad a vidas transparentes y homogéneas.
 
 **Mercería** *Sus.*  Comercio dedicado a la venta de cosas mersas, o de escaso valor.
 
@@ -479,7 +479,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 [^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
 
-**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.isla
+**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
 
 **Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen mas que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
@@ -490,6 +490,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera mucho de mejor calidad poética que el excesivamente utilizado siestero.
 
 **Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
+
+**Socialismo**  Sistema político económico que pone su énvasis en un mayor control solcial de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan con razón la poca libertad de los indivíduos.  Los mas interesantes son argumentos en contra provienen de indivíduos que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir prendas de moda y venerar los mismos dioses de manera homogenea.  
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
