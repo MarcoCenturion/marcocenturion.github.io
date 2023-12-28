@@ -12,7 +12,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar, alinear la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al indivíduo.  
 
-**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte, inmortal. 
+**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
 
@@ -190,7 +190,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 ## H
 
-**Haiku**  *Jap.*  Conjunto de ideogramas dispuestos de manera vertical.  Da el lector con unas imágenes curiosas en blanco y negro.  Al igual que toda experiencia interesante, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
+**Haiku**  *Jap.*  Ideogramas dispuestos felizmente de manera vertical.  Da el lector con unas imágenes curiosas en blanco y negro.  Al igual que toda experiencia interesante de la vida, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
 
 [^20]:  Ciertos personajes de Derechas son a la política, lo que el Reguetón a la música o la pornografía al sexo.  Como el catch al boxeo.  Una puesta en escena.
 
@@ -200,13 +200,13 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 [^34]: “Some people feel the rain; others just get wet.” --Roger Miller.
 
-**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Creencia controversial que entra en conflico directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos genocidios repetitivos y recurrentes a partir de este conflicto con verdades establecidas.  Por lo general monoteistas.  La explicación a estos sacrificios de vidas humanas, es que puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio no solicitado.
+**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Proviene este de Herejía: creencia controversial que entra en conflico directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y recurrentes a partir de este conflicto con verdades establecidas.  Por lo general de manos de piadosos monoteistas.  El motivo de estos sacrificios de vidas humanas, es que estas puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio no solicitado.
 
 > "Toda Verdad es la verdad del poder." [^20]
 
 [^20]: La Hermneutica del Sujeto --Michael Foucault.
 
-**Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se tenįa por costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
+**Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, llamándose luego *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
 ---
 
