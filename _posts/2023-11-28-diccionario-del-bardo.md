@@ -206,13 +206,13 @@ La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una s
 
 [^20]: La Hermneutica del Sujeto --Michael Foucault.
 
-**Hígado** *Lat. Ficus, de Jecur Ficatum.*   En los tempranos tiempos de la república romana, era costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
+**Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se tenįa por costumbre saltar el jecur -hígado- en higos, llamándose *jecur ficatum*.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
 ---
 
 ## I
 
-**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: marxistas y homosexuales.  En la la carrera de abogacía de la Universidad de Buenos Aires, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
+**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  En la la carrera de abogacía de la *Universidad de Buenos Aires*, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
