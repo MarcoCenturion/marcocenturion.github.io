@@ -190,13 +190,13 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 ## H
 
-**Haiku**  *Jap.*  Conjunto de ideogramas dispuestos de manera vertical.  Puede el lector ver unas imágenes curiosas en blanco y negro.  Como toda experiencia interesante, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y muchas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
+**Haiku**  *Jap.*  Conjunto de ideogramas dispuestos de manera vertical.  Puede el lector ver o notar solo unas imágenes curiosas en blanco y negro.  Como toda experiencia interesante, requiere paciencia y segundas oportunidades, como el cilandro, la cerveza y muchas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
 
 [^20]:  Ciertos personajes de Derechas son a la política, lo que el Reguetón a la música o la pornografía al sexo.  Como el catch al boxeo.  Una puesta en escena.
 
 > El haiku reproduce el gesto indicativo del niño que muestra con el dedo alguna cosa, diciendo tan solo: ¡esto!, ¡mirá allá!, ¡oh!, ¡ah!
 
-La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien puede alcanzar el Satori al leer el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana[^34].
+La poesía ingresa al yo por exceso de simpleza, por economía de medios.  Una sintesis del pensar japonés.  Alguien hallar el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana[^34].
 
 [^34]: “Some people feel the rain; others just get wet.” --Roger Miller.
 
