@@ -146,9 +146,9 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Falacia** Manera elegante de llame mentiroso a un antagonista de pocas luces:
 
-" Temo que si argumento es falaz"
+> "Temo que su argumento es falaz"
 
-**Falo** Par antagónico del vocablo anterior, pero masculino. Mentira con mayor énfasis.
+**Falo** Par antagónico del vocablo anterior, pero masculino.  Pareciera una mentira con mayor énfasis, a simple vista.
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
@@ -188,7 +188,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 **Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Está da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Mas allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
 
-> *Vagos, planeros o negros de mierda.* 
+> Vagos, planeros o negros de mierda.
 
 **Gota**  *Lat. Gutta*  Porción pequeña de un líquido.  Se asocia, por desde antaño, con una patología de ricos, por el exceso de comidas y bebidas que provocan en el ácido úrico.  Hasta la llegada de Silvio Rodriguez, que canta en un estadio "La Gota de Rocío" y la multitud corea una segunda voz faltante, momento en que gota, pasa a convertirse en algo totalmente distinto.
 
@@ -281,7 +281,6 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la vida adulta.  En el homo sappiens, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente.
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
-
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
 
@@ -415,7 +414,7 @@ Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco mas 
 
 O la ya mas reciente, de **Jorge Luis Borges**, al que acusamos injustamente de anglófilo, en su **Oda de 1966**: 
 
-> "Arda en mì ese fuego misterioso".
+> "...Arda en mì ese fuego misterioso".
 
 La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la mas noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *"Todos tenemos derecho a vivir"*, es ligeramente superior a *"yo tengo derecho a andar en moto"* o *"Yo quiero un Iphone"*. 
 
@@ -499,7 +498,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los indivíduos.  mención especial merecen las vestimentas.  Los mas curiosos argumentos en contra provienen de indivíduos que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea.  
 
-" Se vistan todas de azul, cómo en China..." Recetade mujer, Vinicius de Moraes.
+> "ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" Receita de mulher, Vinicius de Moraes.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
