@@ -164,7 +164,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 > ¿Estamos hablando del faso?
 
-**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**.  Nos fuerza a pensar que la nota se trata de **Mi**.  
+**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
