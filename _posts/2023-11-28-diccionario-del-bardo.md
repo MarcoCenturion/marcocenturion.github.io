@@ -582,6 +582,6 @@ Asumiendo una estupidez en el prójimo que extrañamente no repara en sí, en vi
 
 ## Z
 
-**Zodíaco** *Gr. Zoo animal, kyclos rueda*  Refiere al movimiento circular de los animales en la esfera celeste.  Este pensamiento mágico sugierea cierta influencia de la posición planetaria en la personalidad de los individuos, sin tener en cuenta que estos, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
+**Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los individuos, sin tener en cuenta que estos, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
 
 **Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  
