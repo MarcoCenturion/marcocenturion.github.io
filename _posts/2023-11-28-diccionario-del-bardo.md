@@ -498,10 +498,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los indivíduos.  mención especial merecen las vestimentas.  Los mas curiosos argumentos en contra provienen de indivíduos que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea.  
 
-> "ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" Receita de mulher, Vinicius de Moraes.
+> "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher, Vinicius de Moraes.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
-
 **Suerte** *Lat. Sor Surtis.*   Realmente interesante es Sortícula, que deviene en Sortija en las carreras.
 
 **Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  Se votaba al "fragor" de las masas.
