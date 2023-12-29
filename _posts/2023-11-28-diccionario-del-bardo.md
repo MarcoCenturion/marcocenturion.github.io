@@ -144,6 +144,12 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 ## F
 
+**Falacia** Manera elegante de llame mentiroso a un antagonista de pocas luces:
+
+" Temo que si argumento es falaz"
+
+**Falo** Par antagónico del vocablo anterior, pero masculino. Mentira con mayor énfasis.
+
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
 **Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  De aquí la condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
@@ -491,7 +497,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
 
-**Socialismo**  Sistema político económico que pone su énvasis en un mayor control solcial de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan con razón la poca libertad de los indivíduos.  Los mas interesantes son argumentos en contra provienen de indivíduos que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir prendas de moda y venerar los mismos dioses de manera homogenea.  
+**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los indivíduos.  mención especial merecen las vestimentas.  Los mas curiosos argumentos en contra provienen de indivíduos que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea.  
+
+" Se vistan todas de azul, cómo en China..." Recetade mujer, Vinicius de Moraes.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
 
