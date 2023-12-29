@@ -148,7 +148,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > "Temo que su argumento es falaz"
 
-**Falo** Par antagónico del vocablo anterior, pero masculino.  Pareciera una mentira con mayor énfasis, a simple vista.
+**Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
