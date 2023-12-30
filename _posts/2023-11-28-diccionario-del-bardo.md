@@ -10,7 +10,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aliño** *Lat. poner en línea.*  Aliñar, alinear la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al indivíduo.  
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al indivíduo.  
 
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
@@ -30,7 +30,7 @@ Luego de una ligera pausa agrega:
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **apolítica** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace mas de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
+**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace mas de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
@@ -396,7 +396,7 @@ Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco mas 
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores. 
 
-**Papa** *Quechua. tubérculo comestible.*  Base de la alimentación de las culturas andinas pre hispánicas.  Teníamos mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en un mundo blanco.   
+**Papa** *Quechua. tubérculo comestible.*  Base de la alimentación de las culturas andinas pre hispánicas.  Teníamos mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.   
 
 **Payar** *Quechua recoger.*  De allí payador es que recoge -escoge, selecciona- las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
 
@@ -462,7 +462,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
 
-**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  1- Por su rareza o extravagancia, puede mover a risa.  
+**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  
 
 **Ridiculez**. Unica virtud de un fascista.
 
@@ -474,8 +474,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la gorda ropa prestada, tirarle onda al bryan.  La voy a hartar a puntasos.]
 
-**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos. 
-
+**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cocechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos.  Eufemismo entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al Dólar Paralelo, también llamado *blue* por similares motivos.
+ 
 ---
 
 ## S
@@ -493,6 +493,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
 
 **Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera mucho de mejor calidad poética que el excesivamente utilizado siestero.
+
+> Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
 
 **Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
 
@@ -515,10 +517,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  *Desde lo profundo de Honduras* Sugiere bellamente Guillermo Cabrera Infante.
 
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Posiblemente bajo el influjo de alguna ingesta tóxica, cierto poeta ha sugerido en una canción: 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajoe el influjo de que tóxicos, pudo alguien sugerir en una cacanción: 
 
 > Andando por el mundo en tero.
-
 
 ## U 
 
@@ -540,7 +541,7 @@ Sin el menor dejo de culpa como punto final de todas las discusiones.  En el art
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
-**Vida**  *Biol.*   Dícese de eso que vemos pasar al tiempo que corremos detrás de cambiar el auto o comprar una casa. 
+**Vida**  *Biol.*  Antónimo de Muerte.  Dícese de eso que vemos pasar al tiempo que corremos detrás de cambiar el auto o comprar una casa. 
 
 **Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
 
