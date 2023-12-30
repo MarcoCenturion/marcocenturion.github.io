@@ -480,6 +480,10 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 ## S
 
+**Salud** 1. Par antagónico de enfermedad.  2. La mejor de las utilidades del vocablo, conjuro para comenzar una borrachera.
+
+> No parece muy saludable adaptarse a una sociedad tan enferma.  --Jiddu Krishnamurti. 
+
 **Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
 
 [^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
@@ -497,6 +501,14 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 > Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
 
 **Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
+
+**Smith** 1. Joseph Smith. Fundador de la religión de los **Santos de los Ultimos Dias**, conocidos por su normbre artístico *los mormones*. 2. Personaje central de **Matrix** su superpoder era la capacidad de poseer indivíduos y cambiarles la forma de ser.  Al igual que las religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el Sr. Smith toma posesión de su cuerpo y espíritu.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
+
+> Estoy harto de vagos que viven del estado y no hacen nada  --Smith dentro de un cuerpo cualquiera.
+
+> Estamos de acuerdo.  Militares, Jueces, Obispos --Neo.
+
+> Corré que vienen los cuetazos --Morpheus.
 
 **Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los ûltimos.  Mención especial merecen las vestimentas.  Los mas curiosos argumentos en contra provienen de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea, guardando una curiosa sensación de libertad.  
 
