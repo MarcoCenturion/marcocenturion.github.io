@@ -10,7 +10,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al indivíduo.  
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al ser.  
 
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
@@ -18,7 +18,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 > Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
 
-[^22]: Estílase concluir las frases con el advervio nada, a modo de punto y aparte.  Nada.
+[^22]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad innata para horrorizar, muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera logarítmica, cuando el indivíduo valida la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Bronislaw Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de *caníbales*, a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Narra prohibiciones y preceptos para la cocina que amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
