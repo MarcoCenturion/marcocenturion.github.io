@@ -354,7 +354,7 @@ Triste final tenían deparado los dioses a una palabra con tamaño potencial.
 
 > "Yo soy neutro, apolítico"
 
-Síntoma irrefutable del **fascista en pausa** [^40].
+Síntoma irrefutable del **fascista en asintomático** [^40].
 
 [^40]: “El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales.” — Bertolt Brecht
 
