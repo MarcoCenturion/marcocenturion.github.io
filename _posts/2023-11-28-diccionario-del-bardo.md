@@ -62,11 +62,13 @@ Luego de una ligera pausa agrega:
 
 >Gobiernos progresistas hacen buenos tiempos, ergo personas felices.
 
->Buenos tiempos hacen votantes estúpidos.
+>Personas felices == votantes estúpidos.
 
 >Votantes estúpidos hacen gobiernos fascistas.
 
 >Gobiernos fascistas hacen tiempos dificiles.  Vuelve al comienzo.
+
+Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  El regetón es producto de épocas felices.
 
 ---
 
