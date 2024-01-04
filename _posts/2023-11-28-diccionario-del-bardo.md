@@ -54,6 +54,14 @@ Luego de una ligera pausa agrega:
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
 
+**Bucle** *Programación*. 
+Tiempos difíciles hacen votantes inteligentes.
+Votantes inteligentes hacen gobiernos peronistas.
+Gobiernos peronistas hacen buenos tiempos.
+Buenos tiempos hacen votantes estúpidos.
+Votantes estúpidos hacen gobiernos fachos.
+Gobiernos fachos hacen tiempos dificiles
+
 ---
 
 ## C
