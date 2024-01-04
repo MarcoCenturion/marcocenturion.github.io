@@ -68,7 +68,7 @@ Luego de una ligera pausa agrega:
 
 >Votantes estúpidos hacen gobiernos fascistas.
 
->Gobiernos fascistas hacen tiempos dificiles.  Vuelve al comienzo.
+>Gobiernos fascistas hacen tiempos difíciles.  Vuelve al comienzo.
 
 Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  El regetón es producto de épocas felices.
 
