@@ -54,13 +54,19 @@ Luego de una ligera pausa agrega:
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
 
-**Bucle** *Programación wile, for*. 
->Tiempos difíciles hacen votantes inteligentes.
->Votantes inteligentes hacen gobiernos peronistas.
->Gobiernos peronistas hacen buenos tiempos.
+**Bucle** *Programación wile, for*.  Ciclo infinito que se dá a lo largo de la historia, documentado en la antigua Grecia por el genial Sócrates.
+
+>Tiempos difíciles hacen personas inteligentes. 
+
+>Votantes inteligentes hacen gobiernos progresistas.
+
+>Gobiernos progresistas hacen buenos tiempos, ergo personas felices.
+
 >Buenos tiempos hacen votantes estúpidos.
->Votantes estúpidos hacen gobiernos fachos.
->Gobiernos fachos hacen tiempos dificiles
+
+>Votantes estúpidos hacen gobiernos fascistas.
+
+>Gobiernos fascistas hacen tiempos dificiles.  Vuelve al comienzo.
 
 ---
 
