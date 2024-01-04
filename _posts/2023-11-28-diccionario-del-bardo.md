@@ -330,7 +330,9 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Mago** Antónimo masculino de sustantivo anterior, con mucha menos magia.
 
-> Saque una carga y muéstresela al público
+> Saque una carga y muéstresela al público.
+
+...
 
 > La carta.  ¡La carta señor!
 
