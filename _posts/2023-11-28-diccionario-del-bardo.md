@@ -54,7 +54,9 @@ Luego de una ligera pausa agrega:
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
 
-**Bucle** *Programación wile, for*.  Ciclo infinito que se dá a lo largo de la historia, documentado en la antigua Grecia por el genial Sócrates.
+**Bucle** *Programación, recursividad: while, for*.  Ciclo infinito que se puede traspolar al estudio de la historia, documentado en la antigua Grecia por el genial Sócrates o el teórico británico Arnold Toynbee [^33]
+
+[^33]: Este teórico estudia el ascenso y declive de 26 civilizaciones, pero no alcanza a predecir la llegada de los envases de champú con instrucciones en el siglo XXI.
 
 >Tiempos difíciles hacen personas inteligentes. 
 
