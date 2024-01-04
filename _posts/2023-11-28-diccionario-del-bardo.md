@@ -474,6 +474,8 @@ La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador
 
 En los ingenios yerbateros, adultos y niños juntaban y andaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
 
+**Porno**  Primer puesto en el buscador global Google.  Le sigue inmediatamente después **Ponro**. Explicaría, en gran medida, la ola de triunfos de derecha en el mundo.
+
 **Positivo** *Fís. o Psic.*  Desconocemos los motivos por los que es cada vez más común en el habla cotidiana la aberración del imperativo:
 
 > ¡Roberto, tenés que ser más positivo!
