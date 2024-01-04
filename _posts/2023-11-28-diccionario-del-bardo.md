@@ -324,6 +324,16 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este "valle de lágrimas" en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
+**Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
+
+> Proque no leer Rayuela, aunque sea nuevamente.
+
+**Mago** Antónimo masculino de sustantivo anterior, con mucha menos magia.
+
+> Saque una carga y muéstresela al público
+
+> La carta.  ¡La carta señor!
+
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de la explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*. 
 
 **Manía** Manicomio.
