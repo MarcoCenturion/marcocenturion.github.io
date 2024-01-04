@@ -528,7 +528,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Corré que vienen los cuetazos --Morpheus.
 
-**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los ûltimos.  Mención especial merecen las vestimentas.  Los mas curiosos argumentos en contra provienen de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea, guardando una curiosa sensación de libertad.  
+**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los ûltimos.  Mención especial merecen las vestimentas.  Los mas curiosos argumentos en contra provienen de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea, conservando, sin embargo, una curiosa sensación de libertad.  
 
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher, Vinicius de Moraes.
 
