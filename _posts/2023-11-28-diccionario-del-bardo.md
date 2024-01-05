@@ -298,6 +298,14 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la vida adulta.  En el homo sappiens, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente.
 
+**Lealtad**  Etimologicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, mas que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presento ante Julio Cesar pidiendo cierto importe por delatar sus propias fuerzas.
+
+> Maten a este hombre, Roma no paga traidores.
+
+Tal vez las historias mas bellas de la humanidad hablen de este intangible tan valioso, los protagonistas de estas historias por lo general ignoran su condición de héroes, como los negros de las patas en la fuente. [^35]
+
+[^35]: "Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
+
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
