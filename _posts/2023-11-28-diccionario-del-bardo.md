@@ -236,7 +236,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 ## I
 
-**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  En la la carrera de abogacía de la *Universidad de Buenos Aires*, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
+**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  En la carrera de abogacía de la *Universidad de Buenos Aires*, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
@@ -343,6 +343,10 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 **Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en frances.   *Mariposa marrón de madera* dice Alfredo Zitarrosa con el objeto de transferir esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
 
 **Marquez**  Marca, comarca, demarcación, delimitación.  Confin, confinar.  Las marcas delimitaban las tierras de un señor feudal -nunca una señora-  Ducado y condado provienen del mismo origen.
+
+**Marte** *Astron.*  Nuestro vecino celeste más cercano.  Pasaría tranquilamente al olvido si en los cincuentas el buen Ray Douglas Bradbury no hubiera escrito sus cuentos hilvanados bajo el título "Crónicas Marcianas".
+
+**Martes** Día de la semana que utilizamos para honrar al dios de la guerra Marte, de una religión que supo sincretizarse en el cristianismo, de alguna extraña forma.
 
 **Matrix**  Film de SciFi de les hermanes Wachowski, al que el tiempo ha otorgado el honor de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guion que recubre la realidad, resulta ser mucho mas burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelear el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
 
