@@ -76,7 +76,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 ## C
 
-**Cábala** Es dentro del judaísmo, la justificación es de la existencia divina a partir de los números presentes en la naturaleza.  Tal vez el hallazgo más curioso sea el del estornudo, que se presenta en tríadas o múltiplos de tres.
+**Cábala** En el judaísmo, estudios que deducen la existencia divina a partir de los números presentes en la naturaleza.  no son parte de esto, la secuencia de Fibonacci, el número Pi, el teorema de Sheldon Cooper. Tal vez el hallazgo más curioso sea el del estornudo, que se presenta en tríadas o múltiplos de tres.
 
 **Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana: 
 
