@@ -298,13 +298,13 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lapso**  Colapso.
 
-**Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la vida adulta.  En el homo sappiens, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente.
+**Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el *homo sappiens*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente.
 
-**Lealtad**  Etimologicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, mas que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presento ante Julio Cesar pidiendo cierto importe por delatar sus propias fuerzas.
+**Lealtad**  Etimologicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, mas que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propios aliados.
 
-> Maten a este hombre, Roma no paga traidores.
+> "Maten a este hombre, Roma no paga traidores".  -Una de sus célebres frases.
 
-Tal vez las historias mas bellas de la humanidad hablen de este intangible tan valioso, los protagonistas de estas historias por lo general ignoran su condición de héroes, como los negros de las patas en la fuente. [^35]
+Las narraciones mas bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. [^35]
 
 [^35]: "Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
 
@@ -312,19 +312,19 @@ Tal vez las historias mas bellas de la humanidad hablen de este intangible tan v
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
 
-**Lente** *Sus.*  Lenteja por el formato parecido a un lente de cristal.
+**Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.
 
-**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y a menudo, separa cabezas de troncos de los monarcas.  Es por esto que a menudo las movilizaciones en Francia son acompañadas por guillotinas, como un recuerdo:
+**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y a menudo, separa cabezas de troncos de los monarcas.  Es por esto que a menudo las movilizaciones en Francia son acompañadas por guillotinas a modo de carrozas de carnaval, especie de recuerdo:
 
 > Sabemos como usarla.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
 
-**Libertario[a,e]**  *Mit.*  Extraño homínido de características humanas.  Por muy extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual, salvo las sacrosantas de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la esclavitud, su par antagónico perfecto.  
+**Libertario [a,e]**  *Mit.*  Extraño homínido de características semi humanas.  Por muy extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual, salvo las sacrosantas de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la esclavitud, su par antagónico perfecto.  
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
 
-**Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas.  Esta es una de ellas. El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la Editorial Minotauro, en los convulsionados setentas.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los desdichados noventas, Minotauro fue vendida a una editorial multinacional europea.  Entre las traducciones estaban dos de tres "El Señor de los Anillos" de Tolkien.  Por todo concepto le pagan Mil Euros.  Termina sus días en un geriátrico sostenido por el estado mientras la multinacional vende cientos de miles de sus traducciones.      
+**Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas.  Menciona esta en particular.  El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la mítica *Editorial Minotauro*, en los *convulsionados setentas*.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los *desdichados noventas*, Minotauro fue vendida a una editorial multinacional europea, como parte de un saqueo mayor.  Entre las traducciones estaban dos de tres **El Señor de los Anillos** de Tolkien.  Por todo concepto le pagan **Mil Euros**.  Termina sus días en un geriátrico sostenido por la generosiad del estado español, al tiempo que la multinacional vende cientos de miles de sus traducciones.      
 
 ---
 
@@ -575,7 +575,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  *Desde lo profundo de Honduras* Sugiere bellamente Guillermo Cabrera Infante.
 
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajoe el influjo de que tóxicos, pudo alguien sugerir en una cacanción: 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una cacanción: 
 
 > Andando por el mundo en tero.
 
@@ -591,17 +591,21 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *punto de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Verdad** *Lat Veritas | Gr Aletheia*  En griego es literalmente sin velos, desvelada.  
+**Verdad** *Lat Veritas | Gr Aletheia*  En griego es literalmente sin velos, desvelada, no está cubierta por nada.[^40]
+
+[^40]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
 
 **Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  El último de los aprendizajes para aquirir este tículo es poder soltar: 
 
 > ¡Tenes razón! 
 
-Sin el menor dejo de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la incredulidad*.  Lo postulaba el británico *Samuel Coleridge* como requisito *sine qua non* del arte *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
+Sin el menor dejo de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la fe en nuestros sentidos*.  Lo postulaba bellamente el británico *Samuel Coleridge* como requisito *sine qua non* del arte es precisamente *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
-**Vida**  *Biol.*  Antónimo de Muerte.  Dícese de eso que vemos pasar al tiempo que corremos detrás de cambiar el auto o comprar una casa. 
+**Vida**  *Biol.*  Antónimo de Muerte.  El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
+
+[^51]: "Mira de cuantas cosas prescindo" -Sugirió Sócrates a un alumno caminando por el mercado.
 
 **Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
 
