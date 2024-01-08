@@ -486,7 +486,7 @@ La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador
 
 > Anda cruzando el invierno, con un ponchito de vino.
 
-En los ingenios yerbateros, adultos y niños juntaban y andaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
+En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
 
 **Porno**  Primer puesto en el buscador global Google.  Le sigue inmediatamente después **Ponro**. Explicaría, en gran medida, la ola de triunfos de derecha en el mundo.
 
