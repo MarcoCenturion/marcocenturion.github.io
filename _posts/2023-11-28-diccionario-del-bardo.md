@@ -575,7 +575,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  *Desde lo profundo de Honduras* Sugiere bellamente Guillermo Cabrera Infante.
 
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una cacanción: 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
 > Andando por el mundo en tero.
 
