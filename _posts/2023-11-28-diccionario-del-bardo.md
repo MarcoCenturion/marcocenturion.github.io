@@ -12,6 +12,10 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al ser.  
 
+**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas sin que se corrompan.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  
+
+**Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi.**
+
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
@@ -86,6 +90,12 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
+**Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de canabis centroamericanos.   
+
+**Cerveza sin Alcohol**.  Extraña bebida de la que no tenemos registros estadísticos por falta de datos. [^44] 
+
+[^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre en virtud del escaso valor de marketing del original **Fanta Maiz**.
+
 **Chacra**  *Quechua.  Granja.*
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
@@ -132,6 +142,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del monoteismo judeocristiano, que sostiene fervientemente la existencia de la tierra por solo cinco mil años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
+**Diverticulitis**  Divertirse con el culitis.
+
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *"La Historia de las Plantas"* sugiere:  
 
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
@@ -164,9 +176,9 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 ## F
 
-**Falacia** Manera elegante de llame mentiroso a un antagonista de pocas luces:
+**Falacia** Mentira.  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
 
-> "Temo que su argumento es falaz"
+> Temo que su argumento es falaz, mi buen amigo.
 
 **Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
 
@@ -238,13 +250,13 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 ## I
 
-**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, conviene maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  En la carrera de abogacía de la *Universidad de Buenos Aires*, en los olvidables ochentas, había un venerable anciano en la cátedra de Derecho Constitucional, que finalizaba la toma de lista con una sonrisa y una invitación cordial:
+**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación cordial:
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente *Yo rompo*.  Romper un ícono.  La modernidad líquida sugiere felizmente una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, eran los partidarios de destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  Nos trae a la actualidad, donde observamos una encarnizada lucha por la supremacía de imágenes sagradas, llevando una delantera importante una manzanita mordida y una M amarilla.   
 
-**Iglesia** *Gr. Ekklesia.*   Asamblea de hombres libres.  Pareciera tener muy poco que ver con el concepto que llega a nosotros.
+**Iglesia** *Gr. Ekklesia.*   En la Atenas de Sócrates, asamblea de hombres libres.  Es al menos cuirioso que en la Judea contemporánea a Jesucristo, coexistían tres instituciones, el **templo**, la **sinagoga** y la **asamblea** -o iglesia-, siendo solo esta última de caracter laico y las primeras, de orden religioso.  El caracter democrático original, puede haberle otorgado cierto respeto a esta institución sobre los anteriores, sobreviviendolas al tiempo que fuera perdiendo ese caracter abierto y fraterno original.
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
@@ -600,6 +612,10 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  El último de los aprendizajes para aquirir este tículo es poder soltar: 
 
 > ¡Tenes razón! 
+
+El buen Eduard Gibbon se refierió a la **Universidad de Oxford** en términos poco felices, relacionados con esta condición:
+
+> *Posee todos los achaques de la vejez y ninguna de sus virtudes.*
 
 Sin el menor dejo de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la fe en nuestros sentidos*.  Lo postulaba bellamente el británico *Samuel Coleridge* como requisito *sine qua non* del arte es precisamente *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
