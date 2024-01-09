@@ -10,9 +10,12 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
+
+**Aberración**  Óptica.  Imagen defectuosa producto del sistema óptico utilizado.  Aberración Musical que llega al oido producto del sistema de ritmo y melodía utilizado, como es el caso del reguetón. 
+
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al ser.  
 
-**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas sin que se corrompan.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  
+**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  
 
 **Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi.**
 
