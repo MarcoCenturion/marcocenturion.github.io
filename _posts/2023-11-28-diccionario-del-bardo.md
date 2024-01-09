@@ -244,6 +244,8 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literlamente *Yo rompo*.  Romper un ícono.  La modernidad líquida sugiere felizmente una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, eran los partidarios de destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  Nos trae a la actualidad, donde observamos una encarnizada lucha por la supremacía de imágenes sagradas, llevando una delantera importante una manzanita mordida y una M amarilla.   
 
+**Iglesia** *Gr. Ekklesia.*   Asamblea de hombres libres.  Pareciera tener muy poco que ver con el concepto que llega a nosotros.
+
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
 **Informar** *Del Lat. dar forma*  Luego, informar es exactamente lo opuesto a la formación de los individuos, tal cual la entendemos[^25].
