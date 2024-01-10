@@ -49,7 +49,7 @@ Luego de una ligera pausa agrega:
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano. 
 
-**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada* en su momento"*.  Cierta voz popular amonesta: 
+**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
 > *No pibe, Lo únco bipolar es una pila, vos sos pelotudo*.
 
