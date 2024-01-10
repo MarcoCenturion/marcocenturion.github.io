@@ -105,7 +105,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
-**Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona mas perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto mas último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún mas numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.
+**Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona mas perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto mas último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún mas numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.  Especie de metáfora para adoptar el método *Think out the box*.
 
 **Coco** Fruta.  Es la palmera mas cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
 
