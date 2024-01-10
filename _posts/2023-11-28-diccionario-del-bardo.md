@@ -11,7 +11,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 ## A
 
 
-**Aberración**  Óptica: imagen defectuosa producto del sistema óptico utilizado.  Musical: es aquella que llega al oido producto del sistema ritmico y melódico utilizado,  tal el caso del reguetón. 
+**Aberración**  En óptica, imagen defectuosa producto del sistema óptico utilizado, en el ámbito musical, aquella que llega al oido producto de erróneo sistema ritmico y melódico utilizado,  tal el caso del reguetón. 
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al ser.  
 
