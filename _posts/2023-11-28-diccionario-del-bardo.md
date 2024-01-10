@@ -175,6 +175,8 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
+**Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una es abusar del bello arte de la *sordera selectiva*. 
+
 ---
 
 ## F
