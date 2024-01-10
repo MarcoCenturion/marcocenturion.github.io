@@ -640,6 +640,8 @@ El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan 
 
 **Virgo** *Zodiaco*  1. Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágnes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2.  Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 
 
+- One peso Is one dólar.  --Domingo Felipe Cavallo.
+
 **Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
 
 > *Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.*
