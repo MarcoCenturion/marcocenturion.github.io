@@ -49,7 +49,7 @@ Luego de una ligera pausa agrega:
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano. 
 
-**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Pareciera haber un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada* en su momento"*.  Cierta voz popular amonesta: 
+**Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada* en su momento"*.  Cierta voz popular amonesta: 
 
 > *No pibe, Lo únco bipolar es una pila, vos sos pelotudo*.
 
@@ -516,6 +516,10 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 ---
 
 ## R
+
+**República**  *Lat. Res Cosa - Publicae de todos*  La cosa de todos, literalmente.  Existe la creencia que la cosa pública no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo indican. [^45]
+
+[^45]: El Estado es impersonal; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
 
 **Risa** *Sus. risus.*  Movimiento reflejo natural e involuntario, de uso -casi- exclusivo al homo sappiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
 
