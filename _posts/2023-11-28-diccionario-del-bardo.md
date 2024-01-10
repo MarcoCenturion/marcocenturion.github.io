@@ -616,7 +616,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 [^40]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
 
-**Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas bebidas, apagar el televisor ante series con excesiva prensa.  El último de los aprendizajes para aquirir este tículo es poder soltar: 
+**Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título es poder soltar sin esfuerzo un: 
 
 > ¡Tenes razón! 
 
@@ -624,11 +624,15 @@ El buen Eduard Gibbon se refierió a la **Universidad de Oxford** en términos p
 
 > *Posee todos los achaques de la vejez y ninguna de sus virtudes.*
 
-Sin el menor dejo de culpa como punto final de todas las discusiones.  En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la fe en nuestros sentidos*.  Lo postulaba bellamente el británico *Samuel Coleridge* como requisito *sine qua non* del arte es precisamente *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
+En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la fe en nuestros sentidos*.  Lo postulaba bellamente el británico *Samuel Coleridge* como requisito *sine qua non* del arte es precisamente *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
 
-**Vida**  *Biol.*  Antónimo de Muerte.  El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
+**Vida**  *Biol.*  Antónimo de Muerte.  
+
+- "Una chispa entre dos nadas" --Jorge Luis Borges.
+
+El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
 
 [^51]: "Mira de cuantas cosas prescindo" -Sugirió Sócrates a un alumno caminando por el mercado.
 
