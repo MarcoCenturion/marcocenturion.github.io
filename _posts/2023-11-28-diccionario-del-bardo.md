@@ -13,11 +13,13 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aberración**  En óptica, imagen defectuosa producto del sistema óptico utilizado, en el ámbito musical, aquella que llega al oido producto de erróneo sistema ritmico y melódico utilizado,  tal el caso del reguetón. 
 
-**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, todo intento de orden es ofensivo al ser.  
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
 **Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  
 
-**Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi.**
+**Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi.
+
+> Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
@@ -65,29 +67,23 @@ Luego de una ligera pausa agrega:
 
 [^33]: Este teórico estudia el ascenso y declive de 26 civilizaciones, pero no alcanza a predecir la llegada de los envases de champú con instrucciones en el siglo XXI.
 
->Tiempos difíciles hacen personas inteligentes. 
+> Tiempos difíciles > Votantes inteligentes > Gobiernos progresistas > Buenos tiempos > Personas felices > Votantes estúpidos > Gobiernos fascistas > Vuelve al comienzo.
 
->Votantes inteligentes hacen gobiernos progresistas.
-
->Gobiernos progresistas hacen buenos tiempos, ergo personas felices.
-
->Personas felices == votantes estúpidos.
-
->Votantes estúpidos hacen gobiernos fascistas.
-
->Gobiernos fascistas hacen tiempos difíciles.  Vuelve al comienzo.
-
-Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  El regetón es producto de épocas felices.
+Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  Ningún clásico sale de edades de Oro económicas.  Luego el regetón es producto de épocas felices.
 
 ---
 
 ## C
 
-**Cábala** En el judaísmo, estudios que deducen la existencia divina a partir de los números presentes en la naturaleza.  no son parte de esto, la secuencia de Fibonacci, el número Pi, el teorema de Sheldon Cooper. Tal vez el hallazgo más curioso sea el del estornudo, que se presenta en tríadas o múltiplos de tres.
+**Cábala** En el judaísmo, estudios que deducen la existencia divina a partir de los números presentes en la naturaleza.  no son parte de esto, la secuencia de Fibonacci, el número Pi y el teorema de Sheldon Cooper. Tal vez el hallazgo más curioso sea la *constante del estornudo*, que se presenta en los homínidos avanzados en tríadas o múltiplos de tres.
 
-**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana: 
+**Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana:  
 
-> Para las calendas griegas.  Léase nunca.
+> Para las calendas griegas.  
+
+El equivamente contemporáneo es:
+
+> Buscalo en la segunda página de Google.
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
@@ -95,7 +91,9 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de canabis centroamericanos.   
 
-**Cerveza sin Alcohol**.  Extraña bebida de la que no tenemos registros estadísticos por falta de datos. [^44] 
+**Cerveza sin Alcohol**.  Al Carecer de registros de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol en la tienda de **Apu** que da a la terraza, al consultarle **Lisa** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
+
+> Eso nunca ha ocurridos  --Apu.
 
 [^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre en virtud del escaso valor de marketing del original **Fanta Maiz**.
 
@@ -109,13 +107,13 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Coco** Fruta.  Es la palmera mas cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
 
-[^18]: En realidad utilizó la frase "Cornudos Cobardes" con un poder de síntesis nunca visto en estas latitudes.
+[^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
 
-**Comué**  *Sus masc*.  Úsase en las provincias del norte argentino, en reemplazo del elegante rioplatense **"el coso"**.
+**Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
 
 **Confesión**  *Lat con, todo; fessus, admitir; y sión, acción*.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
 
-[^17]:"Cuando la derecha acusa, en realidad confiesa"
+[^17]: Cuando la derecha acusa, en realidad confiesa.
 
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
 
@@ -247,9 +245,9 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hereje** *Gr. Haireticus*.  El que es libre de elegir. Proviene este de Herejía: creencia controversial que entra en conflico directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y recurrentes a partir de este conflicto con verdades establecidas.  Por lo general de manos de piadosos monoteistas.  El motivo de estos sacrificios de vidas humanas, es que estas puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio no solicitado.
 
-> "Toda Verdad es la verdad del poder." [^20]
+> "Toda Verdad es la verdad del poder." [^60]
 
-[^20]: La Hermneutica del Sujeto --Michael Foucault.
+[^60]: La Hermneutica del Sujeto --Michael Foucault.
 
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
@@ -493,7 +491,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.
 
-**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. 
+**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea datando las piedas, de ello deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes.
 
 [^29]:"Vengo desde Aimogasta pa las pirquitas" --Coplas del valle.  Ramón Navarro .
 
@@ -604,6 +602,10 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Andando por el mundo en tero.
 
+**Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos veneno y fármaco, en muchos casos, difieren solo en dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del canabis[^61].
+
+[^61]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro inyectaron el equivalente a cuarenta dosis de Canabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar lo anterior.
+
 ## U 
 
 **Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  No parece muy saludable al intelecto a simple vista.
@@ -616,15 +618,15 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *punto de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Verdad** *Lat. Veritas del Gr. Aletheia*  En griego es literalmente sin velos, desvelada, no está cubierta por nada.[^40]
+**Verdad** *Lat. Veritas del Gr. Aletheia*  En griego es literalmente sin velos, desvelada, no está cubierta por nada.[^49]
 
-[^40]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
+[^49]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
 
 **Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título es poder soltar sin esfuerzo un: 
 
 > ¡Tenes razón! 
 
-El buen Eduard Gibbon se refierió a la **Universidad de Oxford** en términos poco felices, relacionados con esta condición:
+El buen Edward Gibbon se refierió a la **Universidad de Oxford** en términos poco felices, relacionados con esta condición temporal:
 
 > *Posee todos los achaques de la vejez y ninguna de sus virtudes.*
 
@@ -634,7 +636,7 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 
 **Vida**  *Biol.*  Antónimo de Muerte.  
 
-- "Una chispa entre dos nadas" --Jorge Luis Borges.
+> "Una chispa entre dos nadas" --Jorge Luis Borges.
 
 El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
 
