@@ -87,7 +87,7 @@ Símil contemporáneo de:
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
-**Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  La actividad laica que refuerce la esperanza en la humanidad, bastenos escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo hubiera sido una secta menor que se perdía en la edad media.  Al carecer de notaciøn musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
+**Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que otorga cierta esperanza en la humanidad.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
