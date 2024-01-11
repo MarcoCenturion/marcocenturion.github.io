@@ -15,7 +15,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  
+**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.
 
 **Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi.
 
@@ -89,7 +89,9 @@ El equivamente contemporáneo es:
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
-**Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de canabis centroamericanos.   
+**Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de canabis centroamericanos. 
+
+- Cerveza, origen y solución a todos mis problemas. --Homero
 
 **Cerveza sin Alcohol**.  Al Carecer de registros de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol en la tienda de **Apu** que da a la terraza, al consultarle **Lisa** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
 
