@@ -39,7 +39,7 @@ Luego de una ligera pausa agrega:
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace mas de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
+**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace más de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
@@ -49,11 +49,11 @@ Luego de una ligera pausa agrega:
 
 ## B
 
-**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en caracter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano. 
+**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano. 
 
 **Bipolar** *Psic.*  Aplícase erroneamente, a individuos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
-> *No pibe, Lo únco bipolar es una pila, vos sos pelotudo*.
+> *No pibe, Lo único bipolar es una pila, vos sos pelotudo*.
 
 **Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
@@ -85,7 +85,7 @@ Símil contemporáneo de:
 
 > Buscalo en la segunda página de Google.
 
-**Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana mas esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
+**Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana más esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
 **Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que otorga cierta esperanza en la humanidad.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
@@ -109,9 +109,9 @@ Símil contemporáneo de:
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
-**Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona mas perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto mas último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún mas numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.  Especie de metáfora para adoptar el método *Think out the box*.
+**Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona más perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún más numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.  Especie de metáfora para adoptar el método *Think out the box*.
 
-**Coco** Fruta.  Es la palmera mas cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
+**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
 
@@ -121,7 +121,7 @@ Símil contemporáneo de:
 
 [^17]: Cuando la derecha acusa, en realidad confiesa.
 
-**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas mas importantes de la vida no son precisamente cosas.
+**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas.
 
 **Coso**  *Berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos atenienses llamaron **sofistas**.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
@@ -159,7 +159,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
 
-> "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
+> "Se administrará una dragma si el paciente debe solo animarse y pensar bien de sí mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
 Del mismo origen proviene don, algo que le fue dado a alguien. 
 
@@ -171,7 +171,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de "¿Que hice para merecer esto?".
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen provine dos, porque dos son las opciones de quien duda[^7]. 
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda[^7]. 
 
 [^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
 
@@ -189,7 +189,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Experiencia**  *Lat. Prueba, ensayo*  La felicidad está en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
-> Es el peine que te llega cuando ya no tenes mas pelo --Oscar "Ringo" Bonavena.
+> Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
 
 ---
 
@@ -207,7 +207,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
 
-**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por un contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
+**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
 > Esperá que ya van a dragar la provincia.  
 
@@ -217,7 +217,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > ¿Saben que es el Fascismo?  
 
-El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
+El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
 
 > ¿Estamos hablando del faso?
 
@@ -237,7 +237,7 @@ El mas inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr�
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
-**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Está da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Mas allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
+**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Está da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Más allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
 
 > Vagos, planeros o negros de mierda.
 
@@ -293,7 +293,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Insensatez**  En esta canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], podemos prescindir de la letra y entender a través de la música, ese amor insensato,  Me sugiere un embarazo no deseado, un llanto compartido, un dolor mas profundo que la pérdida de un ser querido.
+**Insensatez**  En esta canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], podemos prescindir de la letra y entender a través de la música, ese amor insensato,  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
 
 [^24]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.
 
@@ -301,9 +301,9 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
 
-**Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender mas allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
+**Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
 
-**IQ**  Cociente intelectual, por sus siglas en inglés.  Indice de medición de ciertas cualidades cognitivas.  Las neurociencias sugieren entrado el siglo XXI que hay mas de una inteligencia, por lo que derivar *la inteligencia* del IQ es equivalente a deducir la salud, de la falta de fiebre.  
+**IQ**  Cociente intelectual, por sus siglas en inglés.  Indice de medición de ciertas cualidades cognitivas.  Las neurociencias sugieren entrado el siglo XXI que hay más de una inteligencia, por lo que derivar *la inteligencia* del IQ es equivalente a deducir la salud, de la falta de fiebre.  
 
 > Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del telèfono que me pidió acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
 
@@ -337,14 +337,15 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el bestiario argentino cierto *homínido*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente. Conserva el mismo nombre -dato curioso- para ambos géneros, además de ser odiado por igual por todo el espectro político.  La izquierda, por falta de compromiso social y la derecha guarda hacia el/la larga un sentimiento a mitad de camino entre el odio y la repugnancia. 
 
-**Lealtad**  Etimologicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, mas que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propios aliados.
+**Lealtad**  Etimologicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, más que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propios aliados.
 
 > "Maten a este hombre, Roma no paga traidores".  -Una de sus célebres frases.
 
 > "El traidor no sirve para ningún bando, la lealtad es admirada hasta por el enemigo" --Simón Bolivar.
 
+Tal vez el secreto radique en la fidelidad a los ideales propios y hacerlos coincidir con los de un tercero.
 
-Las narraciones mas bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. [^35]
+Las narraciones más bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. [^35]
 
 [^35]: "Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
 
@@ -354,7 +355,7 @@ Las narraciones mas bellas de la humanidad hablen de este intangible tan valioso
 
 **Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.
 
-**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los mas débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y a menudo, separa cabezas de troncos de los monarcas.  Es por esto que a menudo las movilizaciones en Francia son acompañadas por guillotinas a modo de carrozas de carnaval, especie de recuerdo:
+**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y a menudo, separa cabezas de troncos de los monarcas.  Es por esto que a menudo las movilizaciones en Francia son acompañadas por guillotinas a modo de carrozas de carnaval, especie de recuerdo:
 
 > Sabemos como usarla.
 
@@ -398,15 +399,15 @@ Las narraciones mas bellas de la humanidad hablen de este intangible tan valioso
 
 **Martes** Día de la semana que utilizamos para honrar al dios de la guerra Marte, de una religión que supo sincretizarse en el cristianismo, de alguna extraña forma.
 
-**Matrix**  Film de SciFi de les hermanes Wachowski, al que el tiempo ha otorgado el honor de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guion que recubre la realidad, resulta ser mucho mas burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelear el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
+**Matrix**  Film de SciFi de les hermanes Wachowski, al que el tiempo ha otorgado el honor de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guion que recubre la realidad, resulta ser mucho más burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelear el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
 
 **Mercería** *Sus.*  Comercio minomista dedicado a la venta de cosas mersas, esto es, de escaso valor.
 
 **Miércoles**  *Lat. Mercurio* El día que honramos a Mercurio.  De este vocablo provienen todas las palabras relacionadas con el comercio, mercancía, mercado.  Freud instaura las reuniones de los miércoles, simbólicamnte, como método para que los pacientes paguen por su salud mental.
 
-**Mito**  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repertirse.  Es por ello que lo repetimos sin tener certeza.  Mas que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, preferimos una respuesta tranquilizadora a una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido. 
+**Mito**  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repertirse.  Es por ello que lo repetimos sin tener certeza.  Más que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, preferimos una respuesta tranquilizadora a una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido. 
 
-**Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma mas extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos mas optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario en las cifras de homicidios violentos, estados que mantienen la pena de muerte tienen igual o mayor tasa a los que la abolieron.
+**Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma más extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos más optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario en las cifras de homicidios violentos, estados que mantienen la pena de muerte tienen igual o mayor tasa a los que la abolieron.
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
@@ -456,17 +457,17 @@ Síntoma irrefutable del **fascista en asintomático** [^40].
 
 > ...Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
 
-**Oro** *Lat Aurun*  La mayor y mas feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  EL rey Midas solicita auxilio celestial para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la etupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero.  Para resolverlo de manera simple inventan una nota en el New York Times, por unos pocos miles de dólares lo que les hubiera costado millones.
+**Oro** *Lat Aurun*  La mayor y más feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  EL rey Midas solicita auxilio celestial para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la etupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero.  Para resolverlo de manera simple inventan una nota en el New York Times, por unos pocos miles de dólares lo que les hubiera costado millones.
 
 > Encuentran Oro en Panamá.
 
-Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco mas cálidad y húmeda.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña.
+Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco más cálidad y húmeda.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña.
 
-**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteina que pasa del estado líquido al sólido mas sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
+**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteina que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atras fuera el demonio[^8].
 
-[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, a la vez que la carrera espacial y armamentista contra la URS data cada vez vehículos mas secretos y extraños.  En lo profundo de los estados centrales, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, como corresponde a cualquier establecimiento de Texas que se precie.  
+[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, a la vez que la carrera espacial y armamentista contra la URS data cada vez vehículos más secretos y extraños.  En lo profundo de los estados centrales, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, como corresponde a cualquier establecimiento de Texas que se precie.  
 
 ---
 
@@ -480,7 +481,7 @@ Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco mas 
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores. 
 
-**Papa** *Quechua. tubérculo comestible.*  Base de la alimentación de las culturas andinas pre hispánicas.  Teníamos mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.   
+**Papa** *Quechua. tubérculo comestible.*  Base de la alimentación de las culturas andinas pre hispánicas.  Teníamos más de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.   
 
 **Payar** *Quechua recoger.*  De allí payador es que recoge -escoge, selecciona- las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
 
@@ -492,15 +493,15 @@ Decenas de miles de hombres, reviven la epopeya de Alasca, solo que un poco mas 
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudica prodigios como pago espontáneo de facturas de luz por vencer.
 
-**Patria**  *Lat.*  Textualmente, la tierra de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los mas débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años de anhelos de:  
+**Patria**  *Lat.*  Textualmente, la tierra de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años de anhelos de:  
 
 > "Ver crecer el humo en la casa de su padre" - Ulises en la Odisea de Homero.  
 
-O la ya mas reciente, de **Jorge Luis Borges**, al que acusamos injustamente de anglófilo, en su **Oda de 1966**: 
+O la ya más reciente, de **Jorge Luis Borges**, al que acusamos injustamente de anglófilo, en su **Oda de 1966**: 
 
 > "...Arda en mì ese fuego misterioso".
 
-La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la mas noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *"Todos tenemos derecho a vivir"*, es ligeramente superior a *"yo tengo derecho a andar en moto"* o *"Yo quiero un Iphone"*. 
+La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la más noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *"Todos tenemos derecho a vivir"*, es ligeramente superior a *"yo tengo derecho a andar en moto"* o *"Yo quiero un Iphone"*. 
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque nos sintamos tentados a asumir un soldado menor de edad.
 
@@ -558,7 +559,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
 
-**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece mas proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
+**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece más proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
 
 **Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  **Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
 
@@ -580,7 +581,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
 
-**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen mas que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
+**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
 > ¡Sentime! --Iniciaba oraciones mi amigo Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
 
@@ -600,7 +601,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Corré que vienen los cuetazos --Morpheus.
 
-**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los mas curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea, conservando, sin embargo, una tan curiosa como ilógica sensación de libertad.  
+**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los individuos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogenea, conservando, sin embargo, una tan curiosa como ilógica sensación de libertad.  
 
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher, Vinicius de Moraes.
 
@@ -615,7 +616,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo fuerza a los indivíduos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a otros indivíduos a los que no les importa.  
 
-> Mate la angustia existencial llenándose de cosas ahora, para tener verdaderos motivos para el corchazo mas adelante.
+> Mate la angustia existencial llenándose de cosas ahora, para tener verdaderos motivos para el corchazo más adelante.
 
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  *Desde lo profundo de Honduras* Sugiere bellamente Guillermo Cabrera Infante.
 
@@ -645,7 +646,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título es poder soltar sin esfuerzo un: 
 
-> ¡Tenes razón! 
+> ¡Tenés razón! 
 
 El buen Edward Gibbon se refierió a la **Universidad de Oxford** en términos poco felices, relacionados con esta condición temporal:
 
@@ -687,13 +688,13 @@ Esta puntualmente es muy bonita. [^11].
 
 **Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^41].
 
-[^41]:  Ya lo sugirió el poeta con pluma mucho mas hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
+[^41]:  Ya lo sugirió el poeta con pluma mucho más hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
 
 ---
 
 ## Y
 
-**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el **Superyó** y el **Ello**.  Al asumir su inmortalidad, quita protagonismo por completo a los otros actores, mucho mas interesantes en términos del drama.  Ríos de tinta han corrido sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
+**Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el **Superyó** y el **Ello**.  Al asumir su inmortalidad, quita protagonismo por completo a los otros actores, mucho más interesantes en términos del drama.  Ríos de tinta han corrido sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
