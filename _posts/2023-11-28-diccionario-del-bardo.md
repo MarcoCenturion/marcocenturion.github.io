@@ -11,7 +11,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 ## A
 
 
-**Aberración**  Error en la percepción.  En óptica, imagen defectuosa producto del sistema óptico utilizado.  Tal es el cromatismo en Astronomía.  En el ámbito musical, aquella que llega al oido producto de erróneo sistema ritmico y melódico utilizado,  cómo el caso del reguetón. 
+**Aberración**  Error en la percepción.  En óptica, imagen defectuosa producto del sistema óptico utilizado.  Tal es el cromatismo en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  cómo el caso del reguetón. 
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
