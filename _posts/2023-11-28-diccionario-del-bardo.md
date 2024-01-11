@@ -269,7 +269,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaismo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
-**Informar** *Del Lat. dar forma*  Luego, informar es exactamente lo opuesto a la formación de los individuos, tal cual la entendemos[^25].
+**Informar** *Del Lat. dar forma*  Pareiera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los individuos, tal cual la entendemos[^25].
 
 [^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
 
