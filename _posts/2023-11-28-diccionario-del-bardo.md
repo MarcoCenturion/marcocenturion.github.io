@@ -141,19 +141,23 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
-**Diletante** *Ital. Diletante*  Que se deleita con su arte.
+**Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasadao:  
 
-**Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del monoteismo judeocristiano, que sostiene fervientemente la existencia de la tierra por solo cinco mil años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
+> Se delitaba, antes.
 
-**Diverticulitis**  Divertirse con el culitis.
+**Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
-**Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *"La Historia de las Plantas"* sugiere:  
+**Diverticulitis**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
+
+> ¡Divertirte con el culitis!
+
+**Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
 
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de si mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
-Del mismo origen proviene don, 
+Del mismo origen proviene don, algo que le fue dado a alguien. 
 
-**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juego en linea del tipo **shot them**: 
+**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta tipo **shot them**: 
 
 > En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -Acompañado de asombrosa cara de incredulidad puesta a prueba.
 
@@ -175,7 +179,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
-**Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una es abusar del bello arte de la *sordera selectiva*. 
+**Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
 
 ---
 
