@@ -341,6 +341,9 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 > "Maten a este hombre, Roma no paga traidores".  -Una de sus célebres frases.
 
+> "El traidor no sirve para ningún bando, la lealtad es admirada hasta por el enemigo" --Simón Bolivar.
+
+
 Las narraciones mas bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. [^35]
 
 [^35]: "Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
