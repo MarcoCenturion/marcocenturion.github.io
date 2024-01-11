@@ -81,7 +81,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > Para las calendas griegas.  
 
-El equivamente contemporáneo es:
+Símil contemporáneo de:
 
 > Buscalo en la segunda página de Google.
 
@@ -89,13 +89,13 @@ El equivamente contemporáneo es:
 
 **Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  La actividad laica que refuerce la esperanza en la humanidad, bastenos escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo hubiera sido una secta menor que se perdía en la edad media.  Al carecer de notaciøn musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
-- Los dioses traen desdichas a los hombres, solo para hacerlos cantar.  --Ulyses. La Odisea de Homero.
+> Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
 
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de canabis centroamericanos. 
 
-- Cerveza, origen y solución a todos mis problemas. --Homero
+> Cerveza, origen y solución a todos mis problemas. --Homero
 
 **Cerveza sin Alcohol**.  Al Carecer de registros de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol en la tienda de **Apu** que da a la terraza, al consultarle **Lisa** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
 
