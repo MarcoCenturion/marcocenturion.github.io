@@ -259,6 +259,8 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 [^60]: La Hermneutica del Sujeto --Michael Foucault.
 
+**Héroe** Contrario al caracter semidivino de los clásicos, tanto héroes como heroinas -menos contabilizadas pero no por ello menos valiosas- de estas latitudes, suelen ser ignorantes de su condición y mantener una heroicidad latente, a la espera del hecho que los convoca.  Se cuentan por cientos de miles.
+
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
 ---
@@ -327,7 +329,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lapso**  Colapso.
 
-**Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el *homo sappiens*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente.
+**Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el bestiario argentino cierto *homínido*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente. Conserva el mismo nombre -dato curioso- para ambos géneros, además de ser odiado por igual por todo el espectro político.  La izquierda, por falta de compromiso social y la derecha guarda hacia el/la larga un sentimiento a mitad de camino entre el odio y la repugnancia. 
 
 **Lealtad**  Etimologicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, mas que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propios aliados.
 
