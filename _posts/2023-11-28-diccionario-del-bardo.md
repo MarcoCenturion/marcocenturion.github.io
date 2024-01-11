@@ -187,6 +187,10 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
 
+**Experiencia**  *Lat. Prueba, ensayo*  La felicidad está en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
+
+> Es el peine que te llega cuando ya no tenes mas pelo --Oscar "Ringo" Bonavena.
+
 ---
 
 ## F
@@ -296,6 +300,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 **Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
+
+**Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender mas allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
 
 **IQ**  Cociente intelectual, por sus siglas en inglés.  Indice de medición de ciertas cualidades cognitivas.  Las neurociencias sugieren entrado el siglo XXI que hay mas de una inteligencia, por lo que derivar *la inteligencia* del IQ es equivalente a deducir la salud, de la falta de fiebre.  
 
