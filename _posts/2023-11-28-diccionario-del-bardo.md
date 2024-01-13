@@ -43,11 +43,11 @@ Luego de una ligera pausa agrega:
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
-**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, se trataba de un aprendizaje técnico, como limpiar un caburador o soldar un enchufe.
+**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.
 
 > "Ningún artista tolera la realidad"  --Friedrich Niesztche.
 
-Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* recuerda a su abuelo, pero no a la persona sino a todas las cosas que pierde el mundo con su muerte.
+Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* recuerda a su abuelo, pero no a la persona sino a todas las cosas que perdio el mundo con su muerte.
 
 >  "... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on."  --Ray Bradbury.
 
