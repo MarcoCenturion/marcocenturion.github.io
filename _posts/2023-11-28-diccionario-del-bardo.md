@@ -43,6 +43,16 @@ Luego de una ligera pausa agrega:
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
+**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, que nos aleja de los primates.  En la antigua polis, se trataba de un aprendizaje técino, como limpiar un caburador o arreglar un enchufe.
+
+> "Ningún artista tolera la realidad"  --Friedrich Niesztche.
+
+Un memorioso, al final de la distópica Farenheith 451 recuerda a su abuelo, pero no a la persona sino a todas las cosas que pierde el mundo con su muerte.
+
+>  "... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on."  --Farenheith 451.  Ray Bradbury.
+
+Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Montag** que no recuerda nada de Molly, su ex mujer.
+
 **Asado** *Sus.*  En sus inicios como palabra, asado fué el adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
 ---
@@ -92,6 +102,8 @@ Símil contemporáneo de:
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
+
+**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado.
 
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de cannabis centroamericanos. 
 
@@ -225,7 +237,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
-**Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de ciertos vegetales, compuesto de hojas especializadas.  *Chupino.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
+**Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
 > Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
 
@@ -255,7 +267,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una síntesis del pensar japonés.  Alguien puede hallar el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana[^34].
 
-[^34]: “Some people feel the rain; others just get wet.” --Roger Miller.
+[^34]: “Some people feel the rain; others just get wet.” --Roger Miller.  Erroneamente adjudicado a dos Bobs, Marley y Dylan.
 
 **Hereje** *Gr. Haireticus*.  El que es libre de elegir. Proviene este de Herejía: creencia controversial que entra en conflicto directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y recurrentes a partir de este conflicto con verdades establecidas.  Por lo general de manos de piadosos monoteístas.  El motivo de estos sacrificios de vidas humanas, es que estas puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio no solicitado.
 
@@ -263,7 +275,11 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 [^60]: La Hermneutica del Sujeto --Michael Foucault.
 
-**Héroe** Contrario al caracter semidivino de los clásicos, tanto héroes como heroínas -menos contabilizadas pero no por ello menos valiosas- de estas latitudes, suelen ser ignorantes de su condición y mantener una heroicidad latente, a la espera del hecho que los convoca.  Se cuentan por cientos de miles.
+**Hermano/a**  *Lat. frati germani*  No tiene su origen, como podría pensarse, en los naturales de Germania, sino en el sentido de *Germen*.  Persiste en Fratria, fraterno, cófrade, fraile, etc.  
+
+> "Yo tengo tantos hermanos, que no los puedo contar"  --Atahualpa Yupanqui.  (No confundirse con los niños del opus dei)
+
+**Héroe** Contrario al caracter semidivino de los clásicos, tanto héroes como heroínas -menos contabilizadas, no por ello menos valiosas, sino al contrario- de estas latitudes, suelen ser ignorantes de su condición y mantener una heroicidad latente, a la espera del hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes argumentan contra porteros de edificios partidarios del fascismo.
 
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
