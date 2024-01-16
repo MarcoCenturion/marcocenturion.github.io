@@ -153,7 +153,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Delgado** *Lat. Delicatus.*  Fino, delgado, delicado.
 
-**Delito** *Lat. Delictus.*  Por alguna extraña razón, el argentino clase media alta, entiende que defraudar -como la evasión fiscal- al estado es una *picardía* y no un Delito.
+**Delito** *Lat. sustantivo Delictum.*  Del verbo *Delinquere* no hacer.  El origen del vocablo alude a una falta por omisión.  Por alguna extraña razón, el argentino clase media alta, entiende que defraudar -como la evasión fiscal- al estado es una *picardía* y no un Delito, existe una explicación muy inteligente por parte de Borges[^49].
+
+[^49]: El Estado es impersonal: el argentino sólo concibe una relación personal. Por eso, para él, robar dineros públicos no es un crimen. Compruebo un hecho, no lo justifico o excuso. --Jorge Luis Borges.
 
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
 
