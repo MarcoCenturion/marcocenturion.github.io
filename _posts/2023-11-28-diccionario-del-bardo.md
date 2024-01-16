@@ -660,9 +660,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *puntos de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
 
-**Verdad** *Lat. Veritas del Gr. Aletheia*  En griego es literalmente sin velos, desvelada, no está cubierta por nada.[^49]
+**Verdad** *Lat. Veritas del Gr. Aletheia*  En griego es literalmente sin velos, desvelada, no está cubierta por nada.[^50]
 
-[^49]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
+[^50]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
 
 **Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título es poder soltar sin esfuerzo un: 
 
