@@ -153,6 +153,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Delgado** *Lat. Delicatus.*  Fino, delgado, delicado.
 
+**Delito** *Lat. Delictus.*  Por alguna extraña razón, el argentino clase media alta, entiende que defraudar -como la evasión fiscal- al estado es una *picardía* y no un Delito.
+
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
 
 **Demonio** *Daemonium*  Divinidad inferior.  Dios y Demonio parecieran provenir del mismo origen etimológico. 
