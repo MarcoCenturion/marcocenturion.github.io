@@ -17,7 +17,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.
 
-**Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi.
+**Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
