@@ -718,16 +718,16 @@ Esta puntualmente es muy bonita. [^11].
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
-Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por  completo de significado. El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuando debe escuchar el universo su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
+Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por  completo de significado. El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuanto debe el entorno sufrir el sostenimiento de su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
 
 > Yo te explico...
 
-Asumiendo una estupidez en el prójimo que extrañamente no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
+Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
 
 ---
 
 ## Z
 
-**Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los indivíduos, sin tener en cuenta que estos, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
+**Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los indivíduos, sin tener en cuenta que aquellos -los planetas-, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
 
 **Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  
