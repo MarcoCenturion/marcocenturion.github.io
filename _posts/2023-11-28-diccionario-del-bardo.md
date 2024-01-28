@@ -15,9 +15,11 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.
+**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal,el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
 
-**Algoritmo**  Retruécano a mitad de camino entre la logica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.
+- Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
+
+**Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
