@@ -395,7 +395,9 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 **Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
-**Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este "valle de lágrimas" en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
+**Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por muerto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil donde *No vuelve para pascuas ni para trinidad*.  Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que abre una tabaquería y dedica a ello su fortuna.
+
+**Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
 **Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
 
