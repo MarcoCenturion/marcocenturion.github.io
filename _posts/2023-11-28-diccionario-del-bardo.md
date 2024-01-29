@@ -413,7 +413,7 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*. 
 
-**Manía** Manicomio.
+**Manía** *Gr. Adicción*  Lo documentan Heródoto e Hipócrates.  De aquí tambien provienen manicomio, piromaníaco, mitómano, etc.  Trastorno mental violento, profusión de palabras en tono elevado, asociada a cierta hiperactividad motora.
 
 **Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en francés.   *Mariposa marrón de madera* dice Alfredo Zitarrosa con el objeto de transferir esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
 
