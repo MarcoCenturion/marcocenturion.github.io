@@ -61,7 +61,11 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 ## B
 
-**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano. 
+**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano.
+
+**Barro** Según el génesis, materia prima de los hombres. Según **Graves** en *Los Mitos Griegos* también, pasado el diluvio de Deucalión.  Curioso sincretismo.
+
+> En un mundo de plástico y ruido, prefiero ser barro y silencio.  --Eduardo Galeano.
 
 **Bipolar** *Psic.*  Aplícase erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
@@ -608,6 +612,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
 > ¡Sentime! --Iniciaba oraciones mi amigo Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
+
+**Sincretismo** Plagio de mitos que operas nivel religiones. En lugar de inventar dioses nuevos, valerse de otros que vienen dando buenos resultados.
 
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
 
