@@ -151,7 +151,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
-> La Cucaracha ya no tiene mariguana pa fumar --Corrido popular mejicano de la época de Pancho Villa.  El decoro y la moral, cambiaron el tóxico por "la patita de atrás"
+> La Cucaracha ya no tiene mariguana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico por "la patita de atrás"
 
 **Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  
 
