@@ -149,6 +149,10 @@ Símil contemporáneo de:
 
 Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo*, para quitarle entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: **"Los cosos de al Lao"**, de Canet y Larrosa.   En la década del cuarenta, un investigador anónimo, cercano a Macedonio, experimentó con un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
 
+**Cucaracha**. Insecto horripilante en el que se conviritió Gragorio Samsa.  El sucesor de la estirpe humana.  Difiere poco de la mariposa, por lo que afirma Nietche que la bondad o maldad e un concepto estético.  No confundir con **Kukas** que estar cosa.
+
+> "ya no tiene mariguana pa fumar" corrido mejicano popular.
+
 **Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  
 
 [^47]:Por lo general, estas posturas desnudan las pujas de distintos modelos productivos, como en este caso, ganaderos contra agricultores.  La triunfante se jacta de su triunfo cultural, como la civilización porteña frente a la barbarie del interior, la industrialización del norte frente a la esclavitud del sur.  El nazismo es el unico caso de predominio del pensamiento del vencido en la cultura del vencedor. 
