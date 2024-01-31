@@ -149,9 +149,9 @@ Símil contemporáneo de:
 
 Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo*, para quitarle entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: **"Los cosos de al Lao"**, de Canet y Larrosa.   En la década del cuarenta, un investigador anónimo, cercano a Macedonio, experimentó con un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
 
-**Cucaracha**. Insecto horripilante en el que se conviritió Gragorio Samsa.  El sucesor de la estirpe humana.  Difiere poco de la mariposa, por lo que afirma Nietche que la bondad o maldad e un concepto estético.  No confundir con **Kukas** que estar cosa.
+**Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
-> "ya no tiene mariguana pa fumar" corrido mejicano popular.
+> La Cucaracha ya no tiene mariguana pa fumar --Corrido popular mejicano de la época de Pancho Villa.  El decoro y la moral, cambiaron el tóxico por "la patita de atrás"
 
 **Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  
 
