@@ -255,8 +255,6 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 > Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
 
----
-
 ## G
 
 **Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  
