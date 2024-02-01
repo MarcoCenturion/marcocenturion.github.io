@@ -57,8 +57,6 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Asado** *Sus.*  En sus inicios como palabra, asado fué el adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
----
-
 ## B
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a Shakespeare en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, infructuosamente buscan la conexión con el vocablo **Quilombo**, de origen africano.
@@ -86,8 +84,6 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 > Tiempos difíciles > Votantes inteligentes > Gobiernos progresistas > Buenos tiempos > Personas felices > Votantes estúpidos > Gobiernos fascistas > Vuelve al comienzo.
 
 Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  Ningún clásico sale de edades de Oro económicas.  Luego el regetón es producto de épocas felices.
-
----
 
 ## C
 
@@ -157,8 +153,6 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 [^47]:Por lo general, estas posturas desnudan las pujas de distintos modelos productivos, como en este caso, ganaderos contra agricultores.  La triunfante se jacta de su triunfo cultural, como la civilización porteña frente a la barbarie del interior, la industrialización del norte frente a la esclavitud del sur.  El nazismo es el unico caso de predominio del pensamiento del vencido en la cultura del vencedor. 
 
----
-
 ## D
 
 **Delgado** *Lat. Delicatus.*  Fino, delgado, delicado.
@@ -203,8 +197,6 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > Yo antes dudaba.  Ahora no sé.
 
----
-
 ## E
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea. 
@@ -216,8 +208,6 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 **Experiencia**  *Lat. Prueba, ensayo*  La felicidad está en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
 > Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
-
----
 
 ## F
 
@@ -295,8 +285,6 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
----
-
 ## I
 
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación cordial:
@@ -337,8 +325,6 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, lo que los bautiza topológiciamente, pero nuestra historia comienza mucho antes.  En la castración a Urano de manos de su hijo Zeus, este último toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey **Jasón**, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, **el barro**, por lo que literalmente *clavaban* el pié izquierdo y fijaban el escudo en el flanco izquierdo.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  En cambio, los desfiles militares, milenios después del mítico Jasón, aún inician con el pié izquierdo su marcha, en todo el planeta.  Pareciera el origen de una costumbre humana de gran arraigo, la estandarización de los distintos. Véase Zurdo.   
 
----
-
 ## J
 
 **Jabalí** / **Jabalina**. *Ar*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  
@@ -352,8 +338,6 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 **Juez**  *Lat. Iudex*. Quien indica como proseguir en una disputa.  Último refugio monárquico dentro de las democracias occidentales.   
 
 **Jueves**  *Lat. dies iovis.*  Día de Júpiter, dios de todos los dioses.
-
----
 
 ## L
 
@@ -395,8 +379,6 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 **Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas.  Menciona esta en particular.  El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la mítica *Editorial Minotauro*, en los *convulsionados setentas*.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los *desdichados noventas*, Minotauro fue vendida a una editorial multinacional europea, como parte de un saqueo mayor.  Entre las traducciones estaban dos de tres **El Señor de los Anillos** de Tolkien.  Por todo concepto le pagan **Mil Euros**.  Termina sus días en un geriátrico sostenido por la generosidad del estado español, al tiempo que la multinacional vende cientos de miles de sus traducciones.      
 
----
-
 ## M
 
 **Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
@@ -413,9 +395,9 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 > Saque una carga y muéstresela al público.
 
-...
+> ...
 
-> La carta.  ¡La carta señor!
+> La carta.  ¡La carta, señor!
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*. 
 
@@ -447,8 +429,6 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  
 
----
-
 ## N
 
 **Nada**  *Lat. nata. nacimiento.*   Verdaderos ríos de tinta han corrido sobre este sustantivo, atravesando corrientes de pensamiento dispares en el tiempo y el espacio.  Es al menos curioso que el vocablo proveniene etimológicamente de *nacimiento*.  Experimenta una curiosa metamorfosis en el siglo XXI a modo de punto final de toda oración, tal vez emulando el *punto final* de la vida.  Sugiérese maridarlo con el bello *Osea*, qudando de la siguiente forma:  
@@ -475,8 +455,6 @@ Síntoma irrefutable del **fascista en asintomático** [^40].
 
 **Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
----
-
 ## O
 
 **Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  "Todos los colectivos los dejan cerca".  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores. 
@@ -498,8 +476,6 @@ Decenas de miles de hombres, reviven la epopeya de Alaska, solo que un poco más
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atrás fuera el demonio[^8].
 
 [^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, a la vez que la carrera espacial y armamentista contra la URS data cada vez vehículos más secretos y extraños.  En lo profundo de los estados centrales, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, como corresponde a cualquier establecimiento de Texas que se precie.  
-
----
 
 ## P
 
@@ -567,8 +543,6 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
----
-
 ## R
 
 **República**  *Lat. Res Cosa - Publicae de todos*  La cosa de todos, literalmente.  Existe la creencia que la cosa pública no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo indican. [^45]
@@ -596,8 +570,6 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 > Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la gorda ropa prestada, tirarle onda al bryan.  La voy a hartar a puntasos.]
 
 **Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cosechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos.  Eufemismo entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al Dólar Paralelo, también llamado *blue* por similares motivos.
- 
----
 
 ## S
 
@@ -642,8 +614,6 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  Se votaba al "fragor" de las masas.
 
----
-
 ## T
 
 **Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  
@@ -663,8 +633,6 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 ## U 
 
 **Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  No parece muy saludable al intelecto a simple vista.
-
----
 
 ## V
 
@@ -722,8 +690,6 @@ Esta puntualmente es muy bonita. [^11].
 
 [^41]:  Ya lo sugirió el poeta con pluma mucho más hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
 
----
-
 ## Y
 
 **Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el **Superyó** y el **Ello**.  Al asumir su inmortalidad, quita protagonismo por completo a los otros actores, mucho más interesantes en términos del drama.  Ríos de tinta han corrido sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
@@ -735,8 +701,6 @@ Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pe
 > Yo te explico...
 
 Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
-
----
 
 ## Z
 
