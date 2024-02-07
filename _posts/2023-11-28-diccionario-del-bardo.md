@@ -163,6 +163,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
 
+**Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^57].  
+
+[^57]: Ocurre lo mismo con la frase "viento en popa" que exacamente lo opuesto a "viento en papo."
+
 **Demonio** *Daemonium*  Divinidad inferior.  Dios y Demonio parecieran provenir del mismo origen etimológico. 
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
@@ -244,6 +248,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
 > Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
+
+**Flúor**  En la tabla de Mendeleiev ocupa el número 9.  Por cacofonía se confunde este elemento con el adjetivo **Flúo** que destaca la vivacidad de los colores.  Ambos términos observan el mismo patrón que otros en el habla cotidiana.
 
 ## G
 
@@ -542,6 +548,8 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 > ¡Roberto, tenés que ser más positivo!
 
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
+
+**Proteico**  Relativo a *Proeus* el maestro del disfraz.  Erroneamente es utilizado para calificar algo rico en proteínas, adjetivo que debería ser proteínico.
 
 ## R
 
