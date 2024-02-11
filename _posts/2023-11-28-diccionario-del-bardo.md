@@ -467,15 +467,17 @@ Síntoma irrefutable del **fascista en asintomático** [^40].
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  
 
-**Ojota** *Quechua, Usuta.*  Documentado en el gato popular
+**Ojota** *Quechua, Usuta.*  Calzado simple documentado en el gato popular:
 
 > ...Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
 
-**Oro** *Lat Aurun*  La mayor y más feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  El rey Midas solicita auxilio celestial para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la estupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero.  Para resolverlo de manera simple inventan una nota en el New York Times, por unos pocos miles de dólares lo que les hubiera costado millones.
+**Oro** *Lat Aurun*  La mayor y más feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  El rey **Midas** solicita a los dioses que lo auxilien para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la estupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero -muchísimo-.  Para resolverlo de manera simple inventan, o pagan, o ambas cosas, una nota en el **New York Times**.  Por una ínfima parte de de los millones de dólares prespuestados el periódico titula en tapa.
 
 > Encuentran Oro en Panamá.
 
-Decenas de miles de hombres, reviven la epopeya de Alaska, solo que un poco más calidad y húmeda.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña.
+Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un poco más calidad y húmeda ral vez.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña[^55].
+
+[^55]: En el momento que la noticia se convirtió en un negocio, la verdad empezó a tener poca importancia.  --Rysard Kapuściński.
 
 **Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteína que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
 
@@ -573,9 +575,15 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece más proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
 
-**Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  **Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
+**Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  Según esta corriente, toda prenda de vestir nos es ajena, para concluir felizmente en el siguiente concepto.
+
+**Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
 
 > Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la gorda ropa prestada, tirarle onda al bryan.  La voy a hartar a puntasos.]
+
+Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos en la obra y sino el que nos gustaría.  El buen **Theodore Sturgeon** se ofuscaba cuando alguien iba a verlo a su cuchitril del Bronx, sosteniendo su enojo en la obligación de adoptar normas del mundo exterior -por caso vestirse- en su micro mundo de desnudez.
+
+> Es muy difícil mentir desnudo.  Se puede, pero es riesgso.  --Theodore Sturgeon. 
 
 **Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cosechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos.  Eufemismo entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al Dólar Paralelo, también llamado *blue* por similares motivos.
 
@@ -604,6 +612,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 > Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
 
 **Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
+
+**Sincero**  *Lat. sin (simple) y crescere*  Referían de esta manera a los germanos, de crecimiento simple, sin cultivar.  Hoy la sociedad utiliza esta herramienta intelectual para referirse al peronismo.  Son lo que son.  Una segunda corriente alude a errores en esculturas, tapados con cera. 
 
 **Smith** 1. Joseph Smith. Fundador de la religión de los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *los mormones*. 2. Personaje central de **Matrix** su superpoder era la capacidad de poseer individuos y cambiarles la forma de ser.  Al igual que las religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el Sr. Smith toma posesión de su cuerpo y espíritu.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
 
