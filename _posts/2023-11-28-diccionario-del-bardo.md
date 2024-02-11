@@ -207,6 +207,12 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea. 
 
+**Envidia**  Pecado capital para el **cristianismo**.  Evolucionó en los primates avanzados, hasta convertirse en el mayor sustento de la religión que reemplaza a la anterior, es su salto cuántico evolutivo, el capitalismo.
+
+> La envidia es una declaración de inferioridad.  --Napoleón Bonaparte.
+
+**Envido**  Palabra reservada con caracter de conjuro, al igual que **Truco** en el conocido juego de mesa rioplatense.  Su sola mención dispara miradas en todas direcciones, al igual que la envidia, lo que nos inclina a pensar su relación etimológica.
+
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
 **Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
@@ -244,6 +250,10 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 > ¿Estamos hablando del faso?
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
+
+**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.
+
+> En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
