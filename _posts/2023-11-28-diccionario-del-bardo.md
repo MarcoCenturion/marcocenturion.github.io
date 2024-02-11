@@ -181,6 +181,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 > ¡Divertirte con el culitis!
 
+**Dios** Curioso ser sobrenatural, que inventa el universo en una semana, porque nos *ama*, pero a pesar de ese amor, deja que ocurra el reguetón.  Embaraza a una virgen para que engendre un hijo que solo tendrá cromosomas de mujer, lo que técnicamente es una mujer, con la muerte violenta de ese ser, redimiremos el pecado que nunca cometimos, siempre con reguetón, tzunamis y sojeros evasores como telón de fondo.   
+
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
 
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de sí mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
@@ -479,7 +481,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un 
 
 [^55]: En el momento que la noticia se convirtió en un negocio, la verdad empezó a tener poca importancia.  --Rysard Kapuściński.
 
-**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteína que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro.  
+**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteína que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro para que la deshonra fuerta pública.  Especie de *Lista negra de deudores* del bar de doña Tile en el pueblo.
+
+> Fulano no paga, es un tramposo.  --Tía Tile, bar de copas en **Cañada Rosquìn**.
 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atrás fuera el demonio[^8].
 
@@ -725,3 +729,4 @@ Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en 
 **Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los indivíduos, sin tener en cuenta que aquellos -los planetas-, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
 
 **Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  
+
