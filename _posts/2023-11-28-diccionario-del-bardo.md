@@ -137,6 +137,8 @@ Símil contemporáneo de:
 
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas.
 
+> El amor a las cosas es triste, porque las cosas no saben que existimos.  --Jorge Luis Borges.
+
 **Coso**  *Berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos atenienses llamaron **sofistas**.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
 [^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
@@ -174,6 +176,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 **Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasadao:  
 
 > Se delitaba, antes.
+
+**Dinero**  Llamado plata por el vulgo, cuando esto es un elemento mas de la tabla periódica.  Objeto de culto de la religión que conocemos como **Capitalismo**.  Es muy barato lo que puedas comprar con él.
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
@@ -313,6 +317,8 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Iglesia** *Gr. Ekklesia.*   En la Atenas de Sócrates, asamblea de hombres libres.  Es al menos cuirioso que en la Judea contemporánea a Jesucristo, coexistían tres instituciones, el **templo**, la **sinagoga** y la **asamblea** -o iglesia-, siendo solo esta última de carácter laico y las primeras, de orden religioso.  El carácter democrático original, puede haberle otorgado cierto respeto a esta institución sobre los anteriores, sobreviviendolas al tiempo que fuera perdiendo ese modo abierto y fraterno original.
 
+**Impuestos**  Todos somos alcanzados por la ley para el pago de tributo, de allí su nombre.  Salvo las fuerzas del cielo, esto es: sojeros evasores e iglesias.
+
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
 **Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^25].
@@ -394,6 +400,8 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 **Libertario [a,e]**  *Mit.*  Extraño homínido de características semi humanas.  Por muy extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual, salvo las sacrosantas de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la esclavitud, su par antagónico perfecto.  
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
+
+**Llanto**  Primera actividad humana.  Nos recuerda la condición de viviente al ocurrir, por alegría o tristeza.
 
 **Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas.  Menciona esta en particular.  El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la mítica *Editorial Minotauro*, en los *convulsionados setentas*.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los *desdichados noventas*, Minotauro fue vendida a una editorial multinacional europea, como parte de un saqueo mayor.  Entre las traducciones estaban dos de tres **El Señor de los Anillos** de Tolkien.  Por todo concepto le pagan **Mil Euros**.  Termina sus días en un geriátrico sostenido por la generosidad del estado español, al tiempo que la multinacional vende cientos de miles de sus traducciones.      
 
@@ -613,6 +621,8 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 **Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
 
+**Secular**  *Lat. Seculum*  Que no tiene nada que ver con ninguna religión.  Pareciera bastante sano a simple vista.
+
 **Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
 > ¡Sentime! --Iniciaba oraciones mi amigo Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
@@ -668,6 +678,8 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 ## V
 
+**Vago**  Uno de los doce pares de nervios craneanos.  El único que sale del cráneo y se pierde en el cuerpo, siendo una especie de chiste de madre natura.  **Vagos** individuos que viven del estado sin ofrecer contraparte laboral, como obispos, militares o jueces.
+
 **Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "cantidad de pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *puntos de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
@@ -697,6 +709,8 @@ El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan 
 [^51]: "Mira de cuantas cosas prescindo" -Sugirió Sócrates a un alumno caminando por el mercado.
 
 **Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
+
+**Violación**  Hasta entrado el siglo XXI el código penal argentino perdonaba al violador en caso de casarse con la violada.  Hecho de cumplimiento imposible en caso de monaguillos.
 
 **Virgo** *Zodiaco*  1. Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2.  Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 
 
