@@ -47,7 +47,7 @@ Luego de una ligera pausa agrega:
 
 **Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.
 
-> "Ningún artista tolera la realidad"  --Friedrich Niesztche.
+> Ningún artista tolera la realidad  --Friedrich Niesztche.
 
 Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* recuerda a su abuelo, pero no a la persona sino a todas las cosas que perdio el mundo con su muerte.
 
@@ -56,6 +56,10 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Montag** que no recuerda nada de Molly, su ex mujer.
 
 **Asado** *Sus.*  En sus inicios como palabra, asado fué el adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
+
+**Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de siglo XX, donde se llevaron adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo. **  
+
+> Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  1982.  Clase magistral sobre la invención del maiz híbrido. 
 
 ## B
 
@@ -135,7 +139,7 @@ Símil contemporáneo de:
 
 [^17]: Cuando la derecha acusa, en realidad confiesa.
 
-**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas.
+**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
 
 > El amor a las cosas es triste, porque las cosas no saben que existimos.  --Jorge Luis Borges.
 
@@ -177,7 +181,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 > Se delitaba, antes.
 
-**Dinero**  Llamado plata por el vulgo, cuando esto es un elemento mas de la tabla periódica.  Objeto de culto de la religión que conocemos como **Capitalismo**.  Es muy barato lo que puedas comprar con él.
+**Dinero**  *Lat. Denarius diez unidades de una moneda en el imperio*  El dinero es mal Llamado *plata* por el vulgo, cuando bien sabemos que esto es un elemento más de la tabla periódica.  Precioso objeto de culto de la religión que conocemos como **Capitalismo**.  Es barato lo que puedas comprar con dinero.
+
+> De cuantas cosas prescindo.  --Sócrates caminando por el mercado, asombrado le muestra a un discípulo.
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
@@ -678,7 +684,7 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 ## V
 
-**Vago**  Uno de los doce pares de nervios craneanos.  El único que sale del cráneo y se pierde en el cuerpo, siendo una especie de chiste de madre natura.  **Vagos** individuos que viven del estado sin ofrecer contraparte laboral, como obispos, militares o jueces.
+**Vago**  *Lat. vacuus, vacío*  Uno de los doce pares de nervios craneanos, siendo este el único que sale de la frontera del  cráneo y se pierde -vaga- por el cuerpo, siendo una especie de chiste de madre natura.  **Vagos** individuos que viven del estado sin ofrecer contraparte laboral, tal como obispos, militares o jueces.
 
 **Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "cantidad de pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.
 
@@ -710,7 +716,7 @@ El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan 
 
 **Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
 
-**Violación**  Hasta entrado el siglo XXI el código penal argentino perdonaba al violador en caso de casarse con la violada.  Hecho de cumplimiento imposible en caso de monaguillos.
+**Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio.
 
 **Virgo** *Zodiaco*  1. Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2.  Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 
 
