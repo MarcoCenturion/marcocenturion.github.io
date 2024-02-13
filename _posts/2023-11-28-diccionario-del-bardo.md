@@ -191,7 +191,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 > ¡Divertirte con el culitis!
 
-**Dios** Curioso ser sobrenatural, que inventa el universo en una semana, porque nos *ama*, pero a pesar de ese amor, deja que ocurra el reguetón.  Embaraza a una virgen para que engendre un hijo que solo tendrá cromosomas de mujer, lo que técnicamente es una mujer, con la muerte violenta de ese ser, redimiremos el pecado que nunca cometimos, siempre con reguetón, tzunamis y sojeros evasores como telón de fondo.   
+**Dios** Curioso ser sobrenatural, que inventa el universo en una semana, porque nos *ama*, pero a pesar de ese amor, permite que ocurra el reguetón.  Embaraza -seguramente por error- a una virgen para que engendre un hijo que solo tendrá cromosomas de mujer, por lo que técnicamente es una mujer, con la muerte violenta de ese ser, redimir así el pecado que nunca cometimos, siempre con reguetón, tzunamis y sojeros evasores como telón de fondo, males que no puede evitar a pesar de su omnipotencia. 
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
 
