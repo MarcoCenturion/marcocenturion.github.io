@@ -339,7 +339,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Insensatez**  En esta canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], podemos prescindir de la letra y entender a través de la música, ese amor insensato,  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
+**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
 
 [^24]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.
 
@@ -379,17 +379,19 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el bestiario argentino cierto *homínido*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente. Conserva el mismo nombre -dato curioso- para ambos géneros, además de ser odiado por igual por todo el espectro político.  La izquierda, por falta de compromiso social y la derecha guarda hacia el/la larga un sentimiento a mitad de camino entre el odio y la repugnancia. 
 
-**Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien preciado, más que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propios aliados.
+**Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien mas preciado que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propias tropas.
 
-> "Maten a este hombre, Roma no paga traidores".  -Una de sus célebres frases.
+> Maten a este hombre, Roma no paga traidores.  -Dijo Julio Cesar una de sus célebres frases.
 
-> "El traidor no sirve para ningún bando, la lealtad es admirada hasta por el enemigo" --Simón Bolivar.
+No menos emotiva es esta mas cercana en lo temporal y topologico.
+
+> El traidor no sirve para ningún bando, la lealtad es admirada hasta por el enemigo --Simón Bolivar.
 
 Tal vez el secreto radique en la fidelidad a los ideales propios y hacerlos coincidir con los de un tercero.
 
-Las narraciones más bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. [^35]
+Las narraciones más bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. 
 
-[^35]: "Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
+> Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
@@ -397,15 +399,17 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 **Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.
 
-**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y a menudo, separa cabezas de troncos de los monarcas.  Es por esto que a menudo las movilizaciones en Francia son acompañadas por guillotinas a modo de carrozas de carnaval, especie de recuerdo:
+**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es un acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y -a menudo- separa cabezas de troncos de monarcas.  Quiza aludiendo esto es que a menudo las movilizaciones en Francia, son acompañadas por guillotinas, simulando carrozas de carnaval, con una leyenda tacita:
 
 > Sabemos como usarla.
 
-**Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez.  
+**Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez, proclives como son a caer en los embrujos de esta ultima.  
 
-**Libertario [a,e]**  *Mit.*  Extraño homínido de características semi humanas.  Por muy extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual, salvo las sacrosantas de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la esclavitud, su par antagónico perfecto.  
+**Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
 
-**Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las islas Trobriand, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo*, como los estadounidenses.
+**Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las *Islas Trobriand*, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo* 
+
+> Como los estadounidenses.
 
 **Llanto**  Primera actividad humana.  Nos recuerda la condición de viviente al ocurrir, por alegría o tristeza.
 
@@ -415,7 +419,11 @@ Las narraciones más bellas de la humanidad hablen de este intangible tan valios
 
 **Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
-**Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por muerto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil donde *No vuelve para pascuas ni para trinidad*.  Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que abre una tabaquería y dedica a ello su fortuna.
+**Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por muerto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
+
+> No vuelve para pascuas ni para trinidad.  
+
+Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que abre una tabaquería y dedica a ello su fortuna.
 
 **Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
