@@ -11,15 +11,15 @@ lead_text: 'La lengua usada en __"La Docta"__'
 ## A
 
 
-**Aberración**  Error en la percepción.  En óptica, imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberraciøn cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  cómo es el caso del reguetón. 
+**Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  tal es el caso del reguetón. 
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  El crecimiento demográfico llevó a los alquimistas a encontrar métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal,el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
+**Alcohol**  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
 
 > Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
 
-**Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.
+**Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
@@ -153,9 +153,11 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
-> La Cucaracha ya no tiene mariguana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico por "la patita de atrás"
+> La Cucaracha ya no tiene mariguana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico lúdico por la frase inentendible: "la patita de atrás."
 
-**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  
+**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  Adivinamos formas de producir y acumular riqueza en los rincones mas escondidos del habla.
+
+> Todo preso, es político.  --Vencedores Vencidos.  Carlos Soari.
 
 [^47]:Por lo general, estas posturas desnudan las pujas de distintos modelos productivos, como en este caso, ganaderos contra agricultores.  La triunfante se jacta de su triunfo cultural, como la civilización porteña frente a la barbarie del interior, la industrialización del norte frente a la esclavitud del sur.  El nazismo es el unico caso de predominio del pensamiento del vencido en la cultura del vencedor. 
 
@@ -187,11 +189,11 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
-**Diverticulitis**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
+**Diverticulo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
-> ¡Divertirte con el culitis!
+> ¡Divertirse contra natura!
 
-**Dios** Curioso ser sobrenatural, que inventa el universo en una semana, porque nos *ama*, pero a pesar de ese amor, permite que ocurra el reguetón.  Embaraza -seguramente por error- a una virgen para que engendre un hijo que solo tendrá cromosomas de mujer, por lo que técnicamente es una mujer, con la muerte violenta de ese ser, redimir así el pecado que nunca cometimos, siempre con reguetón, tzunamis y sojeros evasores como telón de fondo, males que no puede evitar a pesar de su omnipotencia. 
+**Dios** Curioso ser sobrenatural común a todas las culturas.  El judeocristiano diseña y fabrica el universo en una semana.   Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar de ese amor, permite que ocurra el reguetón.  Embaraza a una niña virgen -15 años- para que engendre un hijo varón, que solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* que nunca nadie en los siglos posteriores cometió.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una puteada por martillarnos un dedo, nos envía al infierno por *toda la eternidad*.
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
 
