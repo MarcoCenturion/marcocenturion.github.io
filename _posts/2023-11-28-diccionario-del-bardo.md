@@ -315,6 +315,8 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
+**Hoja** La más perfecta máquina de la naturaleza, el prodigio energético que convierte la luz solar en vida.  El intelecto humano intenta copiar está eficacia con resultados magros.  Cualquier invento de madre natura es un milagro de economía de medios y eficiencia.
+
 ## I
 
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación cordial:
