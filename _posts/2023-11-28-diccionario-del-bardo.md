@@ -10,7 +10,6 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-
 **Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  tal es el caso del reguetón. 
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
@@ -315,7 +314,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
-**Hoja** La más perfecta máquina de la naturaleza, el prodigio energético que convierte la luz solar en vida.  El intelecto humano intenta copiar está eficacia con resultados magros.  Cualquier invento de madre natura es un milagro de economía de medios y eficiencia.
+**Hoja** *Lat. Folia*.  La más perfecta máquina de la naturaleza, el prodigio energético que convierte la luz solar en vida.  El intelecto humano intenta copiar está eficacia con resultados magros.  Cualquier invento de madre natura es un milagro de economía de medios y eficiencia.
 
 ## I
 
