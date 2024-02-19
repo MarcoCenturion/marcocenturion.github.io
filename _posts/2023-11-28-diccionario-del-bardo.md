@@ -1,5 +1,4 @@
----
-layout: blog
+---layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2023-11-28 19:41:34
 categories: blog
@@ -542,7 +541,7 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un 
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
-> Ayer se me golpeó un libro en la cabeza y perdí el conocimiento.
+> Ayer me golpeó un libro en la cabeza y perdí el conocimiento.
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.
 
