@@ -601,6 +601,10 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 [^45]: El Estado es impersonal; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
 
+**Revolución** Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor se espanta y pregunta:
+
+> ¿Mujeres fumando en la ópera?
+
 **Risa** *Sus. risus.*  Movimiento reflejo natural e involuntario, de uso -casi- exclusivo al homo sapiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
 
 > ¿Es cierto que los rusos no ríen? 
