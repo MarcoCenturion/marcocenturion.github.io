@@ -1,4 +1,5 @@
----layout: blog
+---
+layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2023-11-28 19:41:34
 categories: blog
@@ -187,14 +188,17 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
+**Dios** Curioso ser sobrenatural común a varias culturas.  El judeocristiano, diseña y fabrica el universo en una semana. La premura explicaría la carencia de alguno de sus inventos[^45].  Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar de ese amor, permite que ocurra el reguetón.  Embaraza a una niña virgen -15 años- para que engendre un hijo varón, que solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* que nunca nadie en los siglos posteriores cometió.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una puteada por martillarnos un dedo, nos envía al infierno por *toda la eternidad*.
+
+[^45]: La coincidencia espacial de los retretes con la sala de juegos es, al menos, llamativa.  
+
 **Diverticulo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
-> ¡Divertirse contra natura!
+> ¡Divertirse contra natura! [^46]
 
-**Dios** Curioso ser sobrenatural común a todas las culturas.  El judeocristiano diseña y fabrica el universo en una semana.   Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar de ese amor, permite que ocurra el reguetón.  Embaraza a una niña virgen -15 años- para que engendre un hijo varón, que solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* que nunca nadie en los siglos posteriores cometió.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una puteada por martillarnos un dedo, nos envía al infierno por *toda la eternidad*.
+[^46]: Todo parece indicar que el sabbath, a modo de festejo el señor se clavó un par de claritos, y de puro jodón dijo "les voy a poner el punto G justo adentro del upite" y terminado de decir eso escupió la bebida en medio de la risa festejándose el chiste.
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
-
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de sí mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
 
 Del mismo origen proviene don, algo que le fue dado a alguien. 
@@ -641,9 +645,9 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 **Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
-> ¡Sentime! --Iniciaba oraciones mi amigo Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
+> ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
 
-**Sincretismo** Plagio de mitos que operas nivel religiones. En lugar de inventar dioses nuevos, valerse de otros que vienen dando buenos resultados.
+**Sincretismo** Plagio de mitos que operas nivel religiones.  En lugar de inventar dioses nuevos, esta doctrina elige valerse de otros anteriores, de probada eficacia.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores. 
 
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
 
@@ -655,7 +659,7 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 **Sincero**  *Lat. sin (simple) y crescere*  Referían de esta manera a los germanos, de crecimiento simple, sin cultivar.  Hoy la sociedad utiliza esta herramienta intelectual para referirse al peronismo.  Son lo que son.  Una segunda corriente alude a errores en esculturas, tapados con cera. 
 
-**Smith** 1. Joseph Smith. Fundador de la religión de los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *los mormones*. 2. Personaje central de **Matrix** su superpoder era la capacidad de poseer individuos y cambiarles la forma de ser.  Al igual que las religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el Sr. Smith toma posesión de su cuerpo y espíritu.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
+**Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  2- Personaje central del film **Matrix.**  ``Alert Spoiler``  Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
 
 > Estoy harto de vagos que viven del estado y no hacen nada  --Smith dentro de un cuerpo cualquiera.
 
@@ -663,34 +667,39 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 > Corré que vienen los cuetazos --Morpheus.
 
-**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los indivíduos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogénea, conservando, sin embargo, una tan curiosa como ilógica sensación de libertad.  
+**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los indivíduos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogénea, conservando, sin embargo, una tan absurda como ingénua sensación de libertad.  
 
-> "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher, Vinicius de Moraes.
+> "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
 
-**Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  
+**Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.
+
 **Suerte** *Lat. Sor Surtis.*   Realmente interesante es Sortícula, que deviene en Sortija en las carreras.
 
-**Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  Se votaba al "fragor" de las masas.
+**Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  El voto se llevaba a cabo al "fragor" de las masas.
 
 ## T
 
-**Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  
+**Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo ofrece una segunda identidad al indivíduo.  Mas acorde a su ego. 
+
+> Fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  --Fight Club.  
 
 > Mate la angustia existencial llenándose de cosas ahora, para tener verdaderos motivos para el corchazo más adelante.
 
-**Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  *Desde lo profundo de Honduras* Sugiere bellamente Guillermo Cabrera Infante.
+**Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  
+
+> Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
 
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
 > Andando por el mundo en tero.
 
-**Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, veneno y fármaco, en muchos casos, difieren solo en dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^61].
+**Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^61].
 
 [^61]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro inyectaron el equivalente a cuarenta dosis de Cannabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar lo anterior.
 
 ## U 
 
-**Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  No parece muy saludable al intelecto a simple vista.
+**Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante indagar que patología puede llevar a un individuo encontrar placer en esta repetición.
 
 ## V
 
@@ -730,7 +739,7 @@ El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan 
 
 **Virgo** *Zodiaco*  1. Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2.  Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 
 
-- One peso Is one dólar.  --Domingo Felipe Cavallo.
+> One peso Is one dólar.  --Domingo Felipe Cavallo.
 
 **Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
 
@@ -758,7 +767,7 @@ Esta puntualmente es muy bonita. [^11].
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
-Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por  completo de significado. El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene una inexplicable fé acerca de cuanto debe el entorno sufrir el sostenimiento de su *endeble sistema de creencias*  Suele tomar la palabra en las conversaciones con frases que comienzan con:
+Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por completo de significado.  El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene envidiable fé sobre de cuanto debe el entorno sufrir el sostenimiento de su *endeble sistema de creencias*.  Suele tomar la palabra en las conversaciones con frases que comienzan con:
 
 > Yo te explico...
 
