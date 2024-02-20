@@ -190,7 +190,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dios** Curioso ser sobrenatural común a varias culturas.  El judeocristiano, diseña y fabrica el universo en una semana. La premura explicaría la carencia de alguno de sus inventos[^65].  Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar de ese amor, permite que ocurra el reguetón.  Embaraza a una niña virgen -15 años- para que engendre un hijo varón, que solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* que nunca nadie en los siglos posteriores cometió.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una puteada por martillarnos un dedo, nos envía al infierno por *toda la eternidad*.
 
-[^65]: La coincidencia espacial de los retretes con la sala de juegos es, al menos, llamativa.  
+[^65]: La coincidencia espacial de los retretes con la sala de juegos es, al menos, llamativa en el diseño del homo sappiens.  
 
 **Diverticulo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
