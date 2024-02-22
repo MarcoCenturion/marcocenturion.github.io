@@ -74,6 +74,8 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
+**Blasfemia**  Crimen por uso de la palabra que se pagó con la vida -y tortura- durante todo el medioevo.  En algunas mentes sensibles, ese medioevo aun no ha finalizado.  No antagoniza cualquier concepto.  Son totalmente inexistentes en filosofía o ciencias en general, solo operan contra religiones.  Operan con igual eficacia a lo largo de los siglos.  El santo oficio quemó miles de personas, entre otras cosas por nimiedaddes como sostener la esfericidad del globo terráqueo o que este no tiene cinco mil años como sostiene el viejo testamento.  Hoy aplicaría contra cualquiera que argumente contra el libre mercado o ponga en duda la virtudes del iphone. 
+
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
 **Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en la Tenochtitlan anterior de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
