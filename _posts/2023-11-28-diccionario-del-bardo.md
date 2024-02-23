@@ -599,6 +599,10 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 ## R
 
+**Reguetón**. Género musical que, a pesar de su nombre, no guarda vínculo alguno con el Reggae.  Pareciera diseñado para el ámbito del casorio a las 0300, a efectos que los asistentes sigan sus pegadizos y repetitivos compases, gastando alcohol y otros tóxicos presentes en sangre.  Fuera de ese ámbito controlado, otorga inimputabilidad penal a quien utilice todos los medios a su alcance para mitigar el daño por polusión sonora.   Eg. Vecinos en fiesta, putearle toda las generaciones presentes y colaterales; auto en el río, descarga de cargador completo en la cabeza sin mediar aviso.
+
+- El reguetón es a la música lo que los libertarios a la política. 
+
 **República**  *Lat. Res Cosa - Publicae de todos*  La cosa de todos, literalmente.  Existe la creencia que la cosa pública no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo indican. [^45]
 
 [^45]: El Estado es impersonal; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
