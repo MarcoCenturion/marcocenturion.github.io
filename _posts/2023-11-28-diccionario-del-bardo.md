@@ -711,6 +711,10 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 **Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante indagar que patología puede llevar a un individuo encontrar placer en esta repetición.
 
+**Uo**  Onomatopeya exclamativa, agrega -en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza aislada, en pares o tríadas, dependiendo de las necesidades estéticas.
+
+> Dale pelado se vino la pachanga, uo uo uo
+
 ## V
 
 **Vago**  *Lat. vacuus, vacío*  Uno de los doce pares de nervios craneanos, siendo este el único que sale de la frontera del  cráneo y se pierde -vaga- por el cuerpo, siendo una especie de chiste de madre natura.  **Vagos** individuos que viven del estado sin ofrecer contraparte laboral, tal como obispos, militares o jueces.
