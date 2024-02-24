@@ -70,9 +70,11 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 > Me estoy volviendo canción, barro tal vez.  --Luis Alberto Spineta.  a los 19 años.
 
-**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a juzgar por el aroma de su transporte público.  Debe su nombre al sustantivo utilizado en Francia para al pony, o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
+**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^48], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
 
-> Dice que va a salir con amigas, pero hace diez minutos que se escucha el golpeteo de la trac contra el bidet.
+[^48]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
+
+> Asegura que salrá con amigas, pero van diez minutos del familiar sonido de la *track* contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
 **Bipolar** *Psic.*  Aplícase erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
@@ -80,9 +82,9 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
-**Blasfemia**  Crimen por uso de la palabra que se pagó con la vida -y tortura- durante todo el medioevo.  En algunas mentes sensibles, ese medioevo aun no ha finalizado.  No antagoniza cualquier concepto.  Son totalmente inexistentes en filosofía o ciencias en general, solo operan contra religiones.  Operan con igual eficacia a lo largo de los siglos.  El santo oficio quemó miles de personas, entre otras cosas por nimiedaddes como sostener la esfericidad del globo terráqueo o que este no tiene cinco mil años como sostiene el viejo testamento.  Hoy aplicaría contra cualquiera que argumente contra el libre mercado o ponga en duda la virtudes del iphone. 
+**Blasfemia**  Se pagó con la vida -previa tortura- durante todo el medioevo, el uso libre de la palabra, que pusiera en juego ciertas.  Aún persiste este noble deporte en gran parte del mundo monoteista, ya que en algunas mentes sensibles, ese medioevo aun no ha finalizado, para nuestra desgracia.  El problema pareciera que no es poner en duda cualquier concepto.  Estas -las blasfemias- son totalmente desconocidas, tanto en filosofía como en ciencias en general, solo operan contra religiones.  El *santo oficio* asó varios miles de personas, por nimiedaddes tales como sostener la esfericidad del globo terráqueo o que este no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy modificamos algunos artículos de fe, estas operan contra herejes que argumenten contra el libre mercado, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del iphone. 
 
-**Boludo**  Durante las guerras de la independencia, las primeras líneas de infantería patritas estaban pobladas por humildes indivíduos que debían enfrentar la carga de caballería enemiga -provistos de armas de fuego, bayonetas y espadas- equipados por todo armamento con boleadoras, esto es un rústico implemento de bolas de piedra atadas con tientos de cuero, las que arrojadas debían hacer rodar -bolear- el caballo enemigo.  Muy pocos, sino ninguno, sobrevía a la primera carga.  Unos verdaderos boludos, máxime si pensamos que las generaciones posteriores se vuelven libertarios.  No confundir **boludo** con su símil fónico **Pelotudo.**     
+**Boludo**  Durante las guerras de la independencia, las primeras líneas de la infantería patriota, estaban pobladas por humildes indivíduos que debían enfrentar la carga de caballería enemiga -provistos estos de armas de fuego, bayonetas y espadas- equipados por todo armamento de **boleadoras**, esto es un rústico implemento de bolas de piedra atadas con tientos de cuero-   Arrojadas contra la carga, debían hacer rodar -bolear- el caballo enemigo al enredar las patas delantera.  Muy pocos, sino ninguno, sobrevía a la primera carga.  Las generaciones del siglo XXI se vuelven libertarios y rinden culto a monarquías europeas.  No confundir **boludo** con su símil fónico **Pelotudo.**     
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -106,7 +108,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > Para las calendas griegas.  
 
-Símil contemporáneo de:
+Símil del contemporáneo:
 
 > Buscalo en la segunda página de Google.
 
