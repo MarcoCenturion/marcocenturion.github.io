@@ -68,6 +68,12 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 > En un mundo de plástico y ruido, prefiero ser barro y silencio.  --Eduardo Galeano.
 
+> Me estoy volviendo canción, barro tal vez.  --Luis Alberto Spineta.  a los 19 años.
+
+**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a juzgar por el aroma de su transporte público.  Debe su nombre al sustantivo utilizado en Francia para al pony, o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
+
+> Dice que va a salir con amigas, pero hace diez minutos que se escucha el golpeteo de la trac contra el bidet.
+
 **Bipolar** *Psic.*  Aplícase erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
 > *No pibe, Lo único bipolar es una pila, vos sos pelotudo*.
@@ -75,6 +81,8 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 **Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
 **Blasfemia**  Crimen por uso de la palabra que se pagó con la vida -y tortura- durante todo el medioevo.  En algunas mentes sensibles, ese medioevo aun no ha finalizado.  No antagoniza cualquier concepto.  Son totalmente inexistentes en filosofía o ciencias en general, solo operan contra religiones.  Operan con igual eficacia a lo largo de los siglos.  El santo oficio quemó miles de personas, entre otras cosas por nimiedaddes como sostener la esfericidad del globo terráqueo o que este no tiene cinco mil años como sostiene el viejo testamento.  Hoy aplicaría contra cualquiera que argumente contra el libre mercado o ponga en duda la virtudes del iphone. 
+
+**Boludo**  Durante las guerras de la independencia, las primeras líneas de infantería patritas estaban pobladas por humildes indivíduos que debían enfrentar la carga de caballería enemiga -provistos de armas de fuego, bayonetas y espadas- equipados por todo armamento con boleadoras, esto es un rústico implemento de bolas de piedra atadas con tientos de cuero, las que arrojadas debían hacer rodar -bolear- el caballo enemigo.  Muy pocos, sino ninguno, sobrevía a la primera carga.  Unos verdaderos boludos, máxime si pensamos que las generaciones posteriores se vuelven libertarios.  No confundir **boludo** con su símil fónico **Pelotudo.**     
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -190,9 +198,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
-**Dios** Curioso ser sobrenatural común a varias culturas.  El judeocristiano, diseña y fabrica el universo en una semana. La premura explicaría la carencia de alguno de sus inventos[^65].  Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar de ese amor, permite que ocurra el reguetón.  Embaraza a una niña virgen -15 años- para que engendre un hijo varón, que solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* que nunca nadie en los siglos posteriores cometió.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una puteada por martillarnos un dedo, nos envía al infierno por *toda la eternidad*.
+**Dios** Curioso ser sobrenatural común a varias culturas.  El judeocristiano, diseña y fabrica el universo en una semana. La premura explicaría la carencia de alguno de sus inventos[^65].  Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar tan inmenso amor, permite que ocurra el reguetón.  Crea a Adán y de una costilla de este hace, no un asado, sino a Eva su mujer-mascota.  Tienen tres hijos varones de los que desciende toda la humanidad.  Ateos incluídos.  Aburrito en su eternidad, embaraza a una niña virgen para que engendre un hijo varón.   Pero ese embrión solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* a todas las poblaciones en los siglos posteriores cometió, incluidos ateos.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una blasfemia por martillazo en un dedo, condena al pecador al infierno por *toda la eternidad*.
 
-[^65]: La coincidencia espacial de los retretes con la sala de juegos es, al menos, llamativa en el diseño del homo sappiens.  
+[^65]: La coincidencia espacial de los retretes -ano- con la sala de juegos -genitales- alerta sobre el poco conocimiento de arquitectura, por lo menos en homo sappiens.  
 
 **Diverticulo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
@@ -566,6 +574,8 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 **Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque se han documentado casos de gente con pelos así.
 
 **Pelotudo**  Léase Paciente.
+
+**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe obligar a otros a compartirlo contigo, especialmente si son niños, por lo menos en el caso del pene.  
 
 **Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *"Per il verso"* Que sirve para hacer el verso.
 
