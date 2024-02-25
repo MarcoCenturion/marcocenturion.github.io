@@ -84,7 +84,7 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Blasfemia**  Se pagó con la vida -previa tortura- durante todo el medioevo, el libre uso de la palabra que pusiera en juego ciertas creencias.  Aún persiste tan noble deporte en gran parte del mundo monoteista, ya que en algunas mentes sensibles, ese medioevo aun no ha finalizado.  No toda controversia de ideas es blasfemia, estas son totalmente desconocidas en filosofía como en ciencias en general, solo operan contra los sistemas de creencias que conocemos usualmente como religiones.  El *santo oficio* asó varios miles de personas, por nimiedades tales como sostener la esfericidad del globo terráqueo, el eliocentrismo, que el universo no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy corregimos esta desviación afortunadamente y reconocemos como blasfemos a quienes argumenten contra el **sacrosanto libremercado**, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del **iphone**. 
 
-**Boludo**  Durante las guerras de la independencia, las primeras líneas de la infantería patriota, estaban pobladas por humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero-   Asi debían enfrentar la bien pertrechada carga de caballería enemiga.  Gritando arrojaban diestramente las bolas contra el caballo enemigo al enredar las patas delantera, haciendo rodar al jinete y los posteriores.  Los gritos en muchos casos resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A esos patriotas debemos la libertad.  Las generaciones del siglo XXI se vuelven libertarios y rinden culto a monarquías europeas, a esto se debe que adquieran la calificación de Boludos no al uso de las boleadoras.  No confundir **boludo** con su símil fónico **Pelotudo.**     
+**Boludo**  Durante las guerras de la independencia, las primeras líneas de la infantería patriota, estaban pobladas por humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero-   Asi debían enfrentar la bien pertrechada carga de caballería enemiga.  Gritando arrojaban diestramente las bolas contra el caballo enemigo al enredar las patas delantera, haciendo rodar al jinete y los posteriores.  Los gritos en muchos casos resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A esos patriotas debemos la libertad.  Las generaciones del siglo XXI se vuelven libertarios y rinden culto a monarquías europeas, a esto se debe que adquieran la calificación de Boludos no al uso de las boleadoras como podría pensarse.  No confundir **boludo** con su símil fónico **Pelotudo.**     
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -184,7 +184,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^57].  
 
-[^57]: Ocurre lo mismo con la frase "viento en popa" que exacamente lo opuesto a "viento en papo."
+[^57]: Ocurre lo mismo con la frase *viento en popa* que exacamente lo opuesto a *viento en papo*.
 
 **Demonio** *Daemonium*  Divinidad inferior.  Dios y Demonio parecieran provenir del mismo origen etimológico. 
 
@@ -194,7 +194,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 > Se delitaba, antes.
 
-**Dinero**  *Lat. Denarius diez unidades de una moneda en el imperio*  El dinero es mal Llamado *plata* por el vulgo, cuando bien sabemos que esto es un elemento más de la tabla periódica.  Precioso objeto de culto de la religión que conocemos como **Capitalismo**.  Es barato lo que puedas comprar con dinero.
+**Dinero**  *Lat. Denarius diez ases, unidad monetaria en tiempos del imperio romano*.  Moneda, guita[^59].  El dinero, es mal Llamado *plata* por el vulgo, cuando bien sabemos que esto es un elemento más de la tabla periódica.  Precioso objeto de culto de la religión que conocemos como **Capitalismo**.  Es barato lo que puedas comprar con dinero.
+
+[^59]: ¿E Amice, sobrarum um ase, sobrarum?  --Metamorfosis.  Ovidio.
 
 > De cuantas cosas prescindo.  --Sócrates caminando por el mercado, asombrado le muestra a un discípulo.
 
@@ -763,7 +765,7 @@ El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan 
 
 **Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio.
 
-**Virgo** *Zodiaco*  1. Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2.  Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 
+**Virgo** *Zodiaco*  1- Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2- Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 3- Aquellos no alcanzados por el amor de onda, solo accedieron al amor rentado.  Los libervirgos son una variate actual de esta última categoría.
 
 > One peso Is one dólar.  --Domingo Felipe Cavallo.
 
