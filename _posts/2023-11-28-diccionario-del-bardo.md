@@ -164,11 +164,11 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
-> La Cucaracha ya no tiene mariguana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico lúdico por la frase inentendible: "la patita de atrás."
+> La Cucaracha ya no tiene marigüana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico lúdico por la frase inentendible: "La patita de atrás."
 
 **Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  Adivinamos formas de producir y acumular riqueza en los rincones mas escondidos del habla.
 
-> Todo preso, es político.  --Vencedores Vencidos.  Carlos Soari.
+> Todo preso, es político.  --Vencedores Vencidos.  Carlos Solari.
 
 [^47]:Por lo general, estas posturas desnudan las pujas de distintos modelos productivos, como en este caso, ganaderos contra agricultores.  La triunfante se jacta de su triunfo cultural, como la civilización porteña frente a la barbarie del interior, la industrialización del norte frente a la esclavitud del sur.  El nazismo es el unico caso de predominio del pensamiento del vencido en la cultura del vencedor. 
 
