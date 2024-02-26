@@ -563,13 +563,13 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un 
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.
 
-**Patria**  *Lat.*  Textualmente, la tierra de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años de anhelos de:  
+**Patria**  *Lat.*  Textualmente, la tierra patria, o de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años anhelando:  
 
 > "Ver crecer el humo en la casa de su padre" - Ulises en la Odisea de Homero.  
 
-O la ya más reciente, de **Jorge Luis Borges**, al que acusamos injustamente de anglófilo, en su **Oda de 1966**: 
+O la ya más reciente, de **Jorge Luis Borges**, al que acusamos de anglófilo, en su **Oda de 1966**: 
 
-> "...Arda en mì ese fuego misterioso".
+> "Nadie es la Patria ... Arda en mí ese fuego misterioso".
 
 La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la más noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *"Todos tenemos derecho a vivir"*, es ligeramente superior a *"yo tengo derecho a andar en moto"* o *"Yo quiero un Iphone"*. 
 
@@ -579,11 +579,13 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pelotudo**  Léase Paciente.
 
-**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe obligar a otros a compartirlo contigo, especialmente si son niños, por lo menos en el caso del pene.  
+**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe obligar a otros a compartirlo contigo, especialmente si son niños.  4- No conviene alardear de tenerlo, por lo menos en el caso del pene.  
+
+> Solo voy con mi pene --Manu Chao
 
 **Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *"Per il verso"* Que sirve para hacer el verso.
 
-**Pilcha** *Mapuche.*   Vestimenta, recado.
+**Pilcha** *Mapuche.*   Vestimenta, recado.  De aquí surge el argentinismo *bien empilchado*.  
 
 **Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea datando las piedras, de ello deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes.
 
