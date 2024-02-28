@@ -563,9 +563,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un 
 
 > Ayer me golpeó un libro en la cabeza y perdí el conocimiento.
 
-**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX los vendedores ambulantes que circulaban por los barrios llevando soda, garrafas de gas, plumeros.  Se fué perdiendo, quedan pocas profesiones.
+**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX, los vendedores ambulantes que circulaban por los barrios llevaban agua, soda, garrafas de gas, plumeros.  Se fué perdiendo, quedan pocas profesiones con este carácter social.
 
-> ¿Quiere que se la ponga?  --Pregunta obligada del garrafero, que analiza las sonrisas de las viejas al bajar las garrafas mostrando los biceps.
+> ¿Quiere que se la ponga?  --Pregunta el garrafero, que analiza las respuestas *no verbales* de las señoras, al bajar las garrafas mostrando los biceps de musculosa transpirada.
 
 **Patria**  *Lat.*  Textualmente, la tierra patria, o de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años anhelando:  
 
@@ -616,6 +616,8 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
 **Proteico**  Relativo a *Proeus* el maestro del disfraz.  Erroneamente es utilizado para calificar algo rico en proteínas, adjetivo que debería ser proteínico.
+
+**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.
 
 ## R
 
