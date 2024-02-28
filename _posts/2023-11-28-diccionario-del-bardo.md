@@ -413,7 +413,7 @@ No menos emotiva es esta mas cercana en lo temporal y topologico.
 
 Tal vez el secreto radique en la fidelidad a los ideales propios y hacerlos coincidir con los de un tercero.
 
-Las narraciones más bellas de la humanidad hablen de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. 
+Las narraciones más bellas de la humanidad hablan de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. 
 
 > Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
 
