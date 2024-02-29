@@ -317,7 +317,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 [^34]: “Some people feel the rain; others just get wet.” --Roger Miller.  Erroneamente adjudicado a dos Bobs, Marley y Dylan.
 
-**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Proviene este de Herejía: creencia controversial que entra en conflicto directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y recurrentes a partir de este conflicto con verdades establecidas.  Por lo general de manos de piadosos monoteístas.  El motivo de estos sacrificios de vidas humanas, es que estas puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio no solicitado.
+**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Proviene de Herejía: creencia controversial que entra en conflicto directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y originados recurrentes en este conflicto con verdades establecidas a manos de piadosos monoteístas.  El motivo de estos sacrificios de vidas humanas, es que puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio **no solicitado**.
 
 > "Toda Verdad es la verdad del poder." [^60]
 
@@ -333,7 +333,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hoja** *Lat. Folia*.  La más perfecta máquina de la naturaleza, el prodigio energético que convierte la luz solar en vida.  El intelecto humano intenta copiar está eficacia con resultados magros.  Cualquier invento de madre natura es un milagro de economía de medios y eficiencia.
 
-**Homosexualidad**. Actividad que adoptan muchas especies animales en la naturaleza al ser sometidas a tensiones sociales, por esto las llamamos naturales.  Ninguna otra especie que el homo sapiens mantienen cultos religiosos, por ello las llamamos antinaturales.
+**Homosexualidad**. Actividad que adoptan muchas especies animales en la naturaleza al ser sometidas a ciertas tensiones, por presentarse en la naturaleza las llamamos *naturales*.  Ninguna otra especie aparte del homo sapiens, mantienen cultos religiosos, ergo son antinaturales.  Se retira formalmente del *Manual Diagnóstico y Estadístico de Trastornos Mentales*  (DME II) en el año 1973.
 
 **Homofóbico**  Homosexual asintomático o lo que conocemos coloquialmente como *puto en pausa*.
 
