@@ -235,7 +235,13 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea. 
 
-**Envidia**  Pecado capital para el **cristianismo**.  Evolucionó en los primates avanzados, hasta convertirse en el mayor sustento de la religión que reemplaza a la anterior, es su salto cuántico evolutivo, el capitalismo.
+**Entrada**  *Lat. intrare.*  Permitirle acceso a alguien.  Colaciones que preceden al plato principal.  Momento en que la voz ingresa a la pieza musical.  Pueden darse encarnizadas discusiones en torno a la puerta, los ingresantes sosteniendo que están ante una entrada por oposición a los salientes que sostienen estar frente a una salida.  Discusión que puede tranquilamente durar años dependiendo del IQ y terquedad de los contendientes. 
+
+> Doctor, me duele la entrada del ano.  --Comenta el paciente al médico en la consulta.
+
+> Le duele precisamente por llamarlo entrada ya que tecnicamente estamos refiriéndonos a una salida.
+
+**Envidia**  *Lat. Invidus, mirar mal.*  Uno de los siete pecados capital para el **cristianismo**.  Evolucionó en los primates avanzados, hasta convertirse en el mayor sustento de la religión que reemplazara al judeocristianismo en el siglo XXI, su salto cuántico evolutivo, el **capitalismo**.
 
 > La envidia es una declaración de inferioridad.  --Napoleón Bonaparte.
 
