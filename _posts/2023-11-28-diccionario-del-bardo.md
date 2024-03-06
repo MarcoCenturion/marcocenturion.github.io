@@ -255,6 +255,8 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
 
+> Si volviera a nacer, te buscaría mucho antes.  --El Principito.  Antoine de Saint-Exupéry.
+
 ## F
 
 **Falacia** Mentira.  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
