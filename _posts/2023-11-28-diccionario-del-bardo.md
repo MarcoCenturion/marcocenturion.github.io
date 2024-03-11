@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: 'Diccionario y Bestiario de uso común'
+title: 'Pequeño Diccionario y Bestiario del centro del País'
 date: 2023-11-28 19:41:34
 categories: blog
 tags: Diccionario, Bestiario
 image: '/images/default.jpg'
-lead_text: 'La lengua usada en __"La Docta"__'
+lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de peor cuantía'
 ---
 
 ## A
