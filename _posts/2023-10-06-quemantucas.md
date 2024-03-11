@@ -87,7 +87,7 @@ La soldadesca de Slamastik abandonó la comodidad de sus hogares para cobrarse l
 
 Los lenguaraces trajeron veneno en sus palabras, ojos enrojecidos, tartamudeos y altos en el relato que denotan ofuscación, recuperación del aire luego del trote o abuso de tóxicos:
 
-> "Ellos decir Boston significar Caca Grande."
+> "El lonco Eulalio Melacomoiqué decir Boston significar Caca Grande."
 
 Hecho que despertara **"preciosas y esperables lealtades"**. 
 
