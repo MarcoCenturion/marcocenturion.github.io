@@ -12,6 +12,8 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 **Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  tal es el caso del reguetón. 
 
+**Akulliko**  *Quechua*.  Bolo de hojas de coca.
+
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
 **Alcohol**  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
