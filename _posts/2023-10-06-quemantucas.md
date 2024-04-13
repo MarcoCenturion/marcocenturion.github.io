@@ -87,7 +87,7 @@ La soldadesca de Slamastik abandonó la comodidad de sus hogares para cobrarse l
 
 Los lenguaraces trajeron veneno en sus palabras, ojos enrojecidos, tartamudeos y altos en el relato que denotan ofuscación, recuperación del aire luego del trote o abuso de tóxicos:
 
-> "El lonco Eulalio Melacomoiqué decir Boston significar Caca Grande."
+> El lonco Eulalio Melacomoiqué decir Boston significar Caca Grande.
 
 Hecho que despertara **"preciosas y esperables lealtades"**. 
 
@@ -173,7 +173,7 @@ Vuelve a la táctica, planea, imagina un movimiento de pinzas, mas el nimio núm
 
 Su tropa es reducida tanto en hombría, volumen y suministros, mas aun, después de la acción disciplinatoria que pasará -imagina- a los libros de historia como:
 
-> "Fusilamiento en Quebrada de los Pedorros"
+> *Fusilamiento en Quebrada de los Pedorros*.
 
 Sabe de su inferioridad numérica.  Los quemantucas los esperan con no menos de diez mil hombres, entre mecheros, enrolladores, mas la canalla pedestre, el general solo cuenta con medio batallón. Sobreestima, posiblemente, el factor sorpresa, reducido sensiblemente después de los últimos disparos.
 
@@ -183,19 +183,17 @@ Recuerda su carencia, solo cuenta con un cuatro de poca marca y dos centrales en
 
 Cruzan a duras penas el faldeo que los locales llaman: Merluserus Mount, vadean el arroyo "El Escrotal".  Divisan a lo lejos la fortaleza.
 
--¿Alguna pregunta? -Inquiere el General a sus hombres, a sabiendas de estar cometer un error-
+> ¿Alguna pregunta? --Inquiere el General a sus hombres, a sabiendas de estar cometer un error.
 
 Avanza Gallardo uno de sus mejores cuadros, paso al frente, prensenta armas.
 
 > Parte para mi General. Tengo una denuncia grave contra el Coronel Monticello.
 
-> No tenemos ningún Coronel Monticello -Responde altivo el general-
+> No tenemos ningún Coronel Monticello -Responde altivo el general.
 
-> Acercaos y conocedlo -Responde con una reverencia teatral el soldado, que termina en una mano tomándose "las vergüenzas"-
+> Acercaos y conocedlo --Responde con una reverencia teatral el soldado, que termina en una mano tomándose *las vergüenzas*.
 
-> "¡Otra vez el pelotón, la puta madre!" 
-
-Piensa el general mientras trata de resolver el problema técnico aritmético de ser mayor el numero de soldados a fusilar que el pelotón de fusilamiento en si.
+> ¡Otra vez el pelotón, la puta madre!  --Recapacita el general mientras trata de resolver el problema técnico aritmético de ser mayor el numero de soldados a fusilar que el pelotón de fusilamiento en si.
 
 > Señor, o sea, Mi general, o sea, con su permiso -Se adelanta el soldado Mayorga- no quiero llevarme esta duda al otro barrio, o sea si vamos a morir hoy: ¿Porque viento en popa es exactamente lo contrario a viento en papo? O sea, NADA.
 

@@ -743,7 +743,11 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 **Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^61].
 
-[^61]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro inyectaron el equivalente a cuarenta dosis de Cannabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar lo anterior.
+[^61]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro, inyectaron el equivalente a cuarenta dosis de Cannabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Dado por muerto, después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar la última frase.
+
+**Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
+
+> Cuando muera os suplico, no me vistan de traje, no vaya que dios exista y tenga que vagar una eternidad camuflado de sorete, prefiero zunga atigrada.  --Odiseo Torres.
 
 ## U 
 
