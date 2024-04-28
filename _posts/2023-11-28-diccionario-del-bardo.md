@@ -235,6 +235,10 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > Yo antes dudaba.  Ahora no sé.
 
+**Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.[^59]
+
+[^59]: Dura lo que dura dura.
+
 ## E
 
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea. 
