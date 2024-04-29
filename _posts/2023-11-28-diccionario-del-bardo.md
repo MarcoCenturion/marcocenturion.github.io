@@ -235,7 +235,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > Yo antes dudaba.  Ahora no sé.
 
-**Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.[^59]
+**Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.[^59]  La feliz metáfora *duro como turrón en junio en la puerta de la heladera* hace referencia a consumos de tóxicos.
 
 [^59]: Dura lo que dura dura.
 
