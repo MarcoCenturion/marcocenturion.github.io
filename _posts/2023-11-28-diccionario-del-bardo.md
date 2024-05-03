@@ -509,7 +509,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > "La música son unos negritos saltando un alambrado."
 
-De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  
+De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que que sin la existencia de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una simple corriente de pensamiento, perdida en el medioevo.
 
 ## N
 
