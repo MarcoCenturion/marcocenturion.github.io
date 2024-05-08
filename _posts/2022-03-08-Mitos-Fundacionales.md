@@ -8,39 +8,43 @@ image: '/images/default.jpg'
 lead_text: 'Mitos, leyendas, apostasías y otras delicias de esta corriente de pensamiento nacional y popular.'
 ---
 
-# Una introducción necesaria
+## Una introducción necesaria
 
-Esa compleja corriente de pensamiento, que por comodidad narrativa llamamos simplemente **Peronismo**, se comporta dentro de la sociedad como un *virus* dentro del cuerpo.  Su ansia proselitista observa la misma lógica que las iglesias, tienta a la feligresía con mística por sobre argumentos, para luego, concluida esta **primera etapa**, basada en la captura del alma del individuo, recién pasar a la siguiente: la prolija discusión argumentos.  Datos duros.  
+Puesto que no hablamos un idioma, sino que el idioma nos utiliza como vehículo de expresión, es por nuestras palabras que somos.  El idioma es una inteligencia superior independiente de nosotros, como la **AI**, solo que mas vieja y mas sabia.  
 
-> Dato mata relato.
+> En principio era el verbo.  --Da comienzo el nuevo testamento.
 
-Esto es así por un motivo importante, ese/a proto-peronista, individuo no asumido aún, no alcanzará a disfrutar del sabor de los argumentos, los números duros, ya que muchas veces -siempre- tiene activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá que esos datos lleguen al yo, por ello, los argumentos deben buscar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.
+Los mitos juegan un rol importante en nuestra vida.  Desde la mas temprana edad somos sometidos a mitos, que forman nuestro caracter y nuestras sucesivas y diferentes Fes.  La adultez nos obliga a elegir unos, desechar otros, colaborar en el armado de nuevos y en algunos casos muy puntuales, ser protagonistas.
 
-El antivirus basa su fortaleza en lo que conocemos como "sentido común".  La aberración al pensamiento crítico, mas dañina que todas las iglesias juntas.
+Los mitos de esa corriente de pensamiento que comodidad llamamos simplemente **Peronismo**, se comportan dentro de la sociedad como un *virus* dentro del cuerpo.  Su ansia proselitista observa la misma lógica que las iglesias, tienta a la feligresía con mística por sobre argumentos, para luego, concluida esta **primera etapa**, basada en la captura del alma del individuo, recién pasar a la siguiente: la prolija discusión argumentos.  Datos duros.  
 
-Algo tiene que ver aquí la re formulación que propusiera *Howard Gardner* de los conceptos “Verdad, Bondad y Belleza”.
+Esto es así por un motivo importante, ese, esa proto-peronista, individuo no asumido aún, no alcanzará a disfrutar del sabor de los argumentos, los números duros, ya que muchas veces -siempre- tiene activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá que esos datos lleguen al yo, por ello, los argumentos deben buscar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.
 
-Esta cuestión al menos "porosa" de las tres virtudes clásicas.
+El antivirus basa su fortaleza en la falacia que conocemos como sentido común.  Otro mito.  La aberración al pensamiento crítico, mas dañina que todas las iglesias juntas.
 
-Vemos a diario peronistas en pausa, los -nos- reconocemos, les duele el hambre del otro, le dan una moneda al malabarista del semáforo, compran medias al vendedor ambulante, lagrimean escuchando "El viejo Matías" de Victor Heredia.  Solo les falta hacer la "V".
+Algo tiene que ver aquí el ensayo que propusiera *Howard Gardner* de las virtudes clásicas en su obra: *Verdad, Bondad y Belleza reformuladas*.
+
+Esta cuestión al menos *porosa* de los tres sustantivos centrales al alma humana.
+
+Vemos a diario peronistas en pausa, los -nos- reconocemos, les duele el hambre del otro, le dan una moneda al malabarista del semáforo, compran medias al vendedor ambulante, lagrimean disimuladamente escuchando *El viejo Matías* de *Victor Heredia*.  Solo les falta hacer la **V**.
 
 Son peronchos ignorantes de su condición, somatizan la enfermedad, meros portadores sanos. 
 
 Las cosas tienden a parecerse al color del cristal con que se miran.  Si el niño desayunó en un hogar donde se escuchó a diario las hermosas sentencias logicas y esperables:
 
-> “Esos negros de mierda” 
+> Esos negros de mierda 
 
 o 
 
-> "Si andan en moto son vagos planeros" 
+> Si andan en moto son vagos planeros
 
 o
 
-> "Bolivianos hinchas de boca" 
+> Bolivianos hinchas de boca 
 
-Puede ser altamente probable que ese niño desarrollara a lo largo del tiempo, cierta inmunidad a la metáfora: **“la patria es el otro”**, bella *per sé* y que esa belleza pueda conmover su corazón.
+Puede ser altamente probable que ese niño desarrollara a lo largo del tiempo, cierta inmunidad a la metáfora: **la patria es el otro**, bella *per sé* y que esa belleza pueda conmover su corazón.
 
-Puede que asi no alcance nunca la lectura del libro de Rodolfo Walsh sobre la masacre de José Leon Suarez y que eso despierte grandes sentimientos en su fuero mas íntimo.  Pero, por el contrario, ese corazón si es vulnerable a escuchar por error a León Gieco y su "el Angel de la Bicicleta".  Por la suma de simpatías estéticas y errores espacio-temporales.  
+Puede que así no alcance nunca la lectura del libro de Rodolfo Walsh sobre la masacre de **José Leon Suarez** y que eso despierte grandes sentimientos en su fuero mas íntimo.  Pero, por el contrario, ese corazón si es vulnerable a escuchar por error a **León Gieco** y su **El Ángel de la Bicicleta**.  Por la suma de simpatías estéticas y errores espacio-temporales.  
 
 Llega a las últimas por comodidad, no hay tiempos de lecturas, si de escuchar por error una música e indagar porqués. 
  
