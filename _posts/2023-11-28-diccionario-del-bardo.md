@@ -66,6 +66,8 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 ## B
 
+**Banj**  Narcótico usado en las Mil y Una Noches a base de Beleño y Cáñamo.
+
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, buscaron la conexión con el vocablo **Quilombo**, de origen africano, sin arribar a conclusiones serias.
 
 **Barro** Según el génesis, materia prima de los hombres. Según **Graves** en *Los Mitos Griegos* también, pasado el diluvio de Deucalión.  Curioso sincretismo.
