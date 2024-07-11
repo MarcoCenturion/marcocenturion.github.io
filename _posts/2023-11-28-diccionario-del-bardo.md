@@ -60,11 +60,11 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Asado** *Sus.*  En sus inicios como palabra, asado fué el adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
-**Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de siglo XX, donde se llevaron adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo. **  
+**Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de siglo XX, donde se llevaron adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  1982.  Clase magistral sobre la invención del maiz híbrido. 
 
-## B
+## K
 
 **Banj**  Narcótico usado en las Mil y Una Noches a base de Beleño y Cáñamo.
 
