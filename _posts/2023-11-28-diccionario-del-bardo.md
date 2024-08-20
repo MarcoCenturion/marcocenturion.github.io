@@ -66,7 +66,7 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  1982.  Clase magistral sobre la invención del maiz híbrido. 
 
-## K
+## B
 
 **Banj**  Narcótico usado en las Mil y Una Noches a base de Beleño y Cáñamo.
 
@@ -92,7 +92,7 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Blasfemia**  Se pagó con la vida -previa tortura- durante todo el medioevo, el libre uso de la palabra que pusiera en juego ciertas creencias.  Aún persiste tan noble deporte en gran parte del mundo monoteista, ya que en algunas mentes sensibles, ese medioevo aun no ha finalizado.  No toda controversia de ideas es blasfemia, estas son totalmente desconocidas en filosofía como en ciencias en general, solo operan contra los sistemas de creencias que conocemos usualmente como religiones.  El *santo oficio* asó varios miles de personas, por nimiedades tales como sostener la esfericidad del globo terráqueo, el eliocentrismo, que el universo no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy corregimos esta desviación afortunadamente y reconocemos como blasfemos a quienes argumenten contra el **sacrosanto libremercado**, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del **iphone**. 
 
-**Boludo**  Durante las guerras de la independencia, las primeras líneas de la infantería patriota, estaban pobladas por humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero- Enfrentar -de en frente- tenían a la bien pertrechada carga de caballería enemiga. El ejército mas poderoso de Europa.  Gritando arrojaban diestramente las bolas contra el caballo enemigo, que al enredar las patas delantera hacían rodar al jinete y los posteriores.  Esos gritos, en muchos casos, resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A estos boludos debemos la libertad de América del Sur.  Las generaciones del **siglo XXI** se vuelven libertarias y rinden culto a monarquías europeas.  Seguramente a esto se deba que adquieran la calificación de **Boludos** y no al uso de las boleadoras como podría pensarse.  No confundir **boludo** con su símil fónico **Pelotudo.**     
+**Boludo**  Llevaban este nombre los integrantes de las primeras líneas de la infantería patriota durante las guerras por la independencia de España.  Estas primeras líneas estaban pobladas por humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero- Enfrentaban -de tener en frente-  a la bien pertrechada carga de caballería enemiga.  El ejército mas poderoso de Europa, algo así como a los SEAL de la marina estadounidense.  Gritaban arrojando diestramente las bolas contra las patas de los caballos enemigos, que al enredarse, hacían rodar al jinete y -con algo de fortuna- a los posteriores.  Esos gritos, en muchos casos, resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A estos *boludos* debemos la **libertad de América del Sur**.  Las generaciones del **siglo XXI** se vuelven libertarias y rinden culto a monarquías europeas.  Seguramente a esto se deba que adquieran la calificación de **Boludos** y no al uso de las boleadoras como podría pensarse.  No confundir **boludo** con su símil fónico **Pelotudo.**     
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
@@ -210,7 +210,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Dinosaurio**  *Gr. Deinos terrible, saurios lagarto.*  Denominación genérica con la que aludimos a todos los saurios que aparecieron en el planeta alrededor del períodos Triásico.  Sus huesos fosilizados, hieren sensiblemente el ego del *monoteismo judeocristiano*, sostenedor ferviente de la existencia de la tierra por solo **cinco mil** años.  Tal tesitura, coloca a sus sostenedores, intelectual y temporalmente, en tierras de dinosaurios o en marchas antialgo.
 
-**Dios** Curioso ser sobrenatural común a varias culturas.  El judeocristiano, diseña y fabrica el universo en una semana. La premura explicaría la carencia de alguno de sus inventos[^65].  Nos *ama*, porque los homo sappiens somos los mas perfectos de su creación.  Esta perfección incluye los genocidios y los programas de chimentos de la tele.  A pesar tan inmenso amor, permite que ocurra el reguetón.  Crea a Adán y de una costilla de este hace, no un asado, sino a Eva su mujer-mascota.  Tienen tres hijos varones de los que desciende toda la humanidad.  Ateos incluídos.  Aburrito en su eternidad, embaraza a una niña virgen para que engendre un hijo varón.   Pero ese embrión solo cuenta con material genético -cromosomas- de mujer.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* a todas las poblaciones en los siglos posteriores cometió, incluidos ateos.  Dios en su inmenso amor deja que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una blasfemia por martillazo en un dedo, condena al pecador al infierno por *toda la eternidad*.
+**Dios** Curioso ser sobrenatural común a varias culturas, que sirve casi exclusivamente para explicar con su ejemplo, el concepto de **paradoja**.  El judeocristiano, diseña y fabrica el universo en una semana. La premura explicaría la escasa eficiencia de alguno de sus inventos[^65].  Nos *ama*, porque el homo sappiens es el ser mas perfecto de su creación.  Esta perfección -paradojicamente- incluye los genocidios y los votantes de derecha.  A pesar de tan inmenso amor, permite que ocurra el reguetón.  Producto del astío de su eternidad, crea a **Adán** y de una costilla de este hace -no un asado como cabría esperar- sino a **Eva** su mujer-mascota.  Esta es la Eva mitológica, no la **Eva** realmente importante.  Tienen tres hijos varones de los que desciende toda la humanidad.  Ateos incluídos.  Aburrito otra vez en su eternidad, embaraza a una niña virgen para que engendre un hijo varón.   Ese embrión solo cuenta con material genético -cromosomas- de mujer, lo que lo convierte en un varón extremadamente raro.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* a todas las poblaciones en los siglos posteriores cometió, incluidos ateos.  Su inmenso amor permite que matemos a su hijo y nos dá así una segunda oportunidad -pero deja los reguetones encendidos para medir nuestra capacidad de tolerancia- y ante una blasfemia por martillazo en un dedo, condena al pecador al infierno por *toda la eternidad*.
 
 [^65]: La coincidencia espacial de los retretes -ano- con la sala de juegos -genitales- alerta sobre el poco conocimiento de arquitectura, por lo menos en homo sappiens.  
 
@@ -218,7 +218,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 > ¡Divertirse contra natura! [^46]
 
-[^46]: Todo parece indicar que el sabbath, a modo de festejo el señor se clavó un par de claritos, y de puro jodón dijo "les voy a poner el punto G justo adentro del upite" y terminado de decir eso escupió la bebida en medio de la risa festejándose el chiste.
+[^46]: Todo parece indicar que el sabbath, a modo de festejo el señor se clavó un par de claritos, un porrito y de puro jodón dijo "les voy a poner el punto G justo adentro del upite" y terminado de decir eso escupió la bebida en medio de la risa festejándose el chiste.
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
 > "Se administrará una dragma si el paciente debe solo animarse y pensar bien de sí mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir." 
@@ -237,7 +237,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 [^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
 
-> Yo antes dudaba.  Ahora no sé.
+> Yo antes dudaba.  ¡Ahora no sé!
 
 **Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.[^59]  La feliz metáfora *duro como turrón en junio en la puerta de la heladera* hace referencia a consumos de tóxicos.
 
@@ -293,7 +293,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > ¿Saben que es el Fascismo?  
 
-El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
+El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de manera sugerente al pico, sonríe de manera pícara y guiña un ojo en señal de:
 
 > ¿Estamos hablando del faso?
 
@@ -323,11 +323,11 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Gota**  *Lat. Gutta*  Porción pequeña de un líquido.  Se asocia, desde antaño, con una patología de ricos, por el exceso de comidas y bebidas que provocan en el ácido úrico.  Hasta la llegada de Silvio Rodriguez, que canta en un estadio "La Gota de Rocío" y la multitud corea una segunda voz faltante, momento en que gota, pasa a convertirse en algo totalmente distinto.
 
-**Guagua**  *Quechua. bebé*
+**Guagua**  *Sus. Quechua. bebé*
 
 ## H
 
-**Haiku**  *Jap.*  Ideogramas dispuestos felizmente de manera vertical.  Da el lector con unas imágenes curiosas en blanco y negro.  Al igual que toda experiencia interesante de la vida, requiere paciencia y segundas oportunidades, como el cilantro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
+**Haiku**  *Jap.*  Ideogramas caprichosamente dispuestos de manera vertical.  Hay algo de felicidad al verlo.  Dá el lector con unas imágenes curiosas en blanco y negro.  Al igual que toda experiencia interesante de la vida, requiere paciencia y segundas oportunidades, como el cilantro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
 
 [^20]:  Ciertos personajes de Derechas son a la política, lo que el Reguetón a la música o la pornografía al sexo.  Como el catch al boxeo.  Una puesta en escena.
 
