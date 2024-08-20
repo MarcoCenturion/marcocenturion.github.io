@@ -24,6 +24,8 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
+**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones.  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
+
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
@@ -90,9 +92,9 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Blasfemia**  Se pagó con la vida -previa tortura- durante todo el medioevo, el libre uso de la palabra que pusiera en juego ciertas creencias.  Aún persiste tan noble deporte en gran parte del mundo monoteista, ya que en algunas mentes sensibles, ese medioevo aun no ha finalizado.  No toda controversia de ideas es blasfemia, estas son totalmente desconocidas en filosofía como en ciencias en general, solo operan contra los sistemas de creencias que conocemos usualmente como religiones.  El *santo oficio* asó varios miles de personas, por nimiedades tales como sostener la esfericidad del globo terráqueo, el eliocentrismo, que el universo no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy corregimos esta desviación afortunadamente y reconocemos como blasfemos a quienes argumenten contra el **sacrosanto libremercado**, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del **iphone**. 
 
-**Boludo**  Durante las guerras de la independencia, las primeras líneas de la infantería patriota, estaban pobladas por humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero-   Asi debían enfrentar la bien pertrechada carga de caballería enemiga.  Gritando arrojaban diestramente las bolas contra el caballo enemigo al enredar las patas delantera, haciendo rodar al jinete y los posteriores.  Los gritos en muchos casos resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A esos patriotas debemos la libertad.  Las generaciones del siglo XXI se vuelven libertarios y rinden culto a monarquías europeas, a esto se debe que adquieran la calificación de Boludos no al uso de las boleadoras como podría pensarse.  No confundir **boludo** con su símil fónico **Pelotudo.**     
+**Boludo**  Durante las guerras de la independencia, las primeras líneas de la infantería patriota, estaban pobladas por humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero- Enfrentar -de en frente- tenían a la bien pertrechada carga de caballería enemiga. El ejército mas poderoso de Europa.  Gritando arrojaban diestramente las bolas contra el caballo enemigo, que al enredar las patas delantera hacían rodar al jinete y los posteriores.  Esos gritos, en muchos casos, resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A estos boludos debemos la libertad de América del Sur.  Las generaciones del **siglo XXI** se vuelven libertarias y rinden culto a monarquías europeas.  Seguramente a esto se deba que adquieran la calificación de **Boludos** y no al uso de las boleadoras como podría pensarse.  No confundir **boludo** con su símil fónico **Pelotudo.**     
 
-**Boston** *Sus. Propio.* Ciudad capital del estado de Masachusets. USA.  En iroqués de las tribus del norte, literalmente *Caca Grande*.
+**Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
 **Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en la Tenochtitlan anterior de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
 
@@ -124,7 +126,7 @@ Símil del contemporáneo:
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
-**Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.
+**Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.  Ver **Anfisbena**.
 
 **Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado.
 
@@ -405,7 +407,9 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, caput ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
 
-**Júbilo**.  *Lat. Iubilum Alegría, contento*.  De aquí la alegría del jubilado, esta alegría dura hasta el cambio al primer gobierno de derechas.
+**Jesuita**  1. Insulto que utiliza **Buck Mulligan** para referirise a **Stephen Dedalus** en el **Ulysses** de **Joyce**, antecedido de **jodido** en ciertos párrafos del primer capítulo.  2. Órden eclesiástica a la que se le atribuye una laboriosidad inexistente.  *"En el siglo XVII los jesuitas construyeron... "* o mas aún *"este puente lo construyeron los jesuitas"* Cuando bien sabemos, amigos, que todo lo hacían los esclavos, no muy felices, aclaremos.  Interesante discusión se genera a partir de la ferrea defensa que se esgrime por la órden, basándose la universalidad de la práctica de la esclavitud, como si ello restara le gravedad.  Podemos imaginar un paralelismo temporal a hoy: *"Todo el mundo evade impuestos, toma merca, tiene dinero en paraisos fiscales y concurre asiduamente a prostíbulos"*. 
+
+**Júbilo**.  *Lat. Iubilum Alegría, contento*.  Parece provenir de aquí la alegría del **jubilado**.   Esta alegría desaparece con la llegada del primer gobierno de derechas.
 
 **Juez**  *Lat. Iudex*. Quien indica como proseguir en una disputa.  Último refugio monárquico dentro de las democracias occidentales.   
 
@@ -423,7 +427,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien mas preciado que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propias tropas.
 
-> Maten a este hombre, Roma no paga traidores.  -Dijo Julio Cesar una de sus célebres frases.
+> Maten a este hombre, Roma no paga traidores.  -Dijo Julio Cesar una de sus célebres frases, negándose a escuchar una sola palabra del traidor.
 
 No menos emotiva es esta mas cercana en lo temporal y topologico.
 
@@ -433,7 +437,7 @@ Tal vez el secreto radique en la fidelidad a los ideales propios y hacerlos coin
 
 Las narraciones más bellas de la humanidad hablan de este intangible tan valioso -en lugar de por ejemplo, el amor- los protagonistas de tales historias, por lo general, ignoran su condición de héroes míticos, como los negros de las patas en la fuente. 
 
-> Éste es el final de la historia de los cuarenta y siete hombres leales —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que nunca perderemos del todo la esperanza de serlo, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
+> ... Éste es el final de la historia de los **cuarenta y siete hombres leales** —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que *nunca perderemos del todo la esperanza de serlo*, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
 
@@ -441,13 +445,13 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.
 
-**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es un acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y -a menudo- separa cabezas de troncos de monarcas.  Quiza aludiendo esto es que a menudo las movilizaciones en Francia, son acompañadas por guillotinas, simulando carrozas de carnaval, con una leyenda tacita:
+**Ley** *Lat. Lex*  Status quo.  El imperio de la ley es un acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y -a menudo- separa cabezas de troncos de monarcas.  Quiza aludiendo esto es que a menudo las movilizaciones en **Francia**, son acompañadas por guillotinas, simulando carrozas de carnaval, con una bella leyenda tácita:
 
 > Sabemos como usarla.
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez, proclives como son a caer en los embrujos de esta ultima.  
 
-**Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, consumos de sustancias psicoactivas, lenguaje inclusivo, elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
+**Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las *Islas Trobriand*, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo* 
 
@@ -467,7 +471,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que abre una tabaquería y dedica a ello su fortuna.
 
-**Mandrágora** *Mit. Lat.*  Varios bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Lo curioso de esto es pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de estas, o anfisbenas o dragones, solo porque así lo afirmaban Plinio o Plutarco o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
+**Mandrágora** *Mit. Lat.* Un número finito de bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Resulta curioso pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de Mandrágoras, o anfisbenas o dragones, solo porque así lo afirmaban **Plinio** o **Plutarco** o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
 **Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
 
