@@ -122,6 +122,8 @@ Símil del contemporáneo:
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana más esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
+**Cancerbero**  El guardian de Hades en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que tiene tantos pares de ojos que puede dormir con algunos mientas los otros están despiertos.  Borges sugirió que originalmente eran muchas, pero se redujo el número posiblemente ***para comodidad de las artes plásticas.*** 
+
 **Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que otorga cierta esperanza en la humanidad.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
@@ -307,6 +309,10 @@ El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de 
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
+**Fiel** *Lat. Fidelis.*  Que podemos fiarnos de él/ella.  También llamamos así a la aguja de la balanza de dos platillos.  En asuntos religiosos se da la extraña controversia, quienes son fieles desde un punto de vista, son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.:   
+
+**Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
+
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
 > Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
@@ -487,7 +493,11 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > La carta.  ¡La carta, señor!
 
-**Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*. 
+**Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*.
+
+**Mandrágora** Mit. planta de la que dan cuenta todos los bestiarios medievales, asegurándonos poderes mágicos.  La nombran la biblia, Plinio, Pitágoras y hasta **Shakesperae** la nombra en Romeo y Julieta.  Sugieren que está a mitad de camino entre el reino animal y vegetal.  Ante este tipo de afirmaciones, el poeta Maggi recapacita:
+
+> Conozco gente así.  Fui fiscal en una mesa en la elecciones, la derecha sacó el setenta por ciento.
 
 **Manía** *Gr. Adicción*  Lo documentan Heródoto e Hipócrates.  De aquí tambien provienen manicomio, piromaníaco, mitómano, etc.  Trastorno mental violento, profusión de palabras en tono elevado, asociada a cierta hiperactividad motora.
 
@@ -730,6 +740,8 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 **Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los indivíduos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogénea, conservando, sin embargo, una tan absurda como ingénua sensación de libertad.  
 
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
+
+**Solapa**  Mit.  Ser sobrenatural femenino, merodeaba en las horas de la siesta de mi infancia en busca de niños que hicieran ruido.  La abuela la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural.  Basábamos su veracidad en palabras de la abuela, que buscaba complicidad en mi mamá y tías a su alrededor:  **"la tía Helena la vió una vez cuando era chica".**   A juzgar por su edad, la tía **Helena** bien puede haber sido la famosa actriz de la obra del rápsoda Homero.    No se porqué siempre le otorgué capacidad de volar, cuando nunca nos fuera aclarado su método de traslación espacial.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.
 
