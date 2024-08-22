@@ -719,6 +719,8 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 > ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
 
+**Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social.
+
 **Sincretismo** Plagio de mitos que operas nivel religiones.  En lugar de inventar dioses nuevos, esta doctrina elige valerse de otros anteriores, de probada eficacia.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores. 
 
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
