@@ -12,6 +12,10 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 **Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el conocido caso del reguetón. 
 
+**Agonía**  Angustia y congoja del moribundo.  Del Gr. Agón.  De aqui tambien Protagonista, primero y agonistis luchador.  Antagonista es el opuesto.
+
+> Un triunfo frente a tales antagonistas es verguenza suficiente.  Gibbon dice Borges.
+
 **Akulliko**  *Quechua*.  Bolo de hojas de coca, por simpatía, todo bollito de hierbas que llevan ciertas tribus americanas a la boca, para saborearlas.
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, de enderezar, enderez, enderezo.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
