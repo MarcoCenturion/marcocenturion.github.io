@@ -158,7 +158,7 @@ Símil del contemporáneo:
 
 **Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona más perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún más numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.  Especie de metáfora para adoptar el método *Think out the box*.
 
-**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en país caribeño.  **Cocó** es la versión francesa.  **Co Co** es la abreviatura que eligiera Hebe de Bonafini para correr a militares que fueron a molestar a su ronda de los jueves. [^18] 
+**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic*.  **Co Co** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. [^18] 
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
 
@@ -172,13 +172,13 @@ Símil del contemporáneo:
 
 > El amor a las cosas es triste, porque las cosas no saben que existimos.  --Jorge Luis Borges.
 
-**Coso**  *Berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento que los antiguos atenienses llamaron **sofistas**.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
+**Coso**  *Berretitud*   En principio, pareciera el par masculino del vocablo anterior, pero no es así.  Este, en su lugar, opera en el idioma como un **sustantivo comodín**.  Suele salpicárselo prolijamente y aleatoriamente en las frases, con el sano objeto de hablar sin decir, *raison d'être* de la corriente de pensamiento contemporánea a la Atenas de Sócrates, llamados **sofistas**.  Totalmente en contra de esta doctrina están quienes postulan su utilización con el fin de incrementar la tensión narrativa, emotividad al relato, al abrir la multiplicidad de interpretaciones por parte del lector [^16] a frases como la siguiente.  
 
 [^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
 
 > ... entonces, de la nada, cuando menos lo esperábamos, apareció un **coso**.
 
-Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo*, para quitarle entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: **"Los cosos de al Lao"**, de Canet y Larrosa.   En la década del cuarenta, un investigador anónimo, cercano a Macedonio, experimentó con un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
+Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo*,  es la de quitar entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: **"Los cosos de al Lao"**, de Canet y Larrosa.   En la década del cuarenta, un investigador anónimo, cercano a Macedonio, experimentó con un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
 
 **Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
@@ -208,7 +208,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
-**Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasadao:  
+**Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasado:  
 
 > Se delitaba, antes.
 
@@ -227,9 +227,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *proto-sustantivo
 [^65]: La coincidencia espacial de los retretes -ano- con la sala de juegos -genitales- alerta sobre el poco conocimiento de arquitectura, por lo menos en homo sappiens.  
 [^62]: **Evita** la protagonista de la ópera de Broadway.  Aquiere su popularidad gracias a que su nombre es utilizado a modo de conjuro, por sectores opacos de la sociedad argentina, para que se asfixien en su propio veneno los contertulios.  Funciona con otros personajes, merced a su fama, el Che Guevara, el Papa Francisco, Hebe de Bonafini, Diego Maradona y todo aquello que tenga alguna relación con lo popular.
 
-**Diverticulo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
+**Divertículo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
-> ¡Divertirse contra natura! [^46]
+> ¡Divertirse, si, pero contra natura! [^46]
 
 [^46]: Todo parece indicar que el sabbath, a modo de festejo el señor se clavó un par de claritos, un porrito y de puro jodón dijo "les voy a poner el punto G justo adentro del upite" y terminado de decir eso escupió la bebida en medio de la risa festejándose el chiste.
 
