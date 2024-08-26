@@ -10,6 +10,10 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 ## A
 
+**Abeja**  *Lat. Apis Melifera*  Pequeño insecto iletrado, como observamos en el aforismo que asegura:
+
+> El cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
+
 **Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el conocido caso del reguetón. 
 
 **Agonía**  Angustia y congoja del moribundo.  Del Gr. Agón.  De aqui tambien Protagonista, primero y agonistis luchador.  Antagonista es el opuesto.
@@ -134,7 +138,7 @@ Símil del contemporáneo:
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.  Ver **Anfisbena**.
 
-**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado.
+**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado.  
 
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de cannabis centroamericanos. 
 
@@ -335,6 +339,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de 
 
 **Gota**  *Lat. Gutta*  Porción pequeña de un líquido.  Se asocia, desde antaño, con una patología de ricos, por el exceso de comidas y bebidas que provocan en el ácido úrico.  Hasta la llegada de Silvio Rodriguez, que canta en un estadio "La Gota de Rocío" y la multitud corea una segunda voz faltante, momento en que gota, pasa a convertirse en algo totalmente distinto.
 
+**Grosería**  Adjetivo enfático.
+
 **Guagua**  *Sus. Quechua. bebé*
 
 ## H
@@ -360,6 +366,8 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 **Hermano/a**  *Lat. frati germani*  No tiene su origen, como podría pensarse, en los naturales de Germania, sino en el sentido de *Germen*.  Persiste en Fratria, fraterno, cófrade, fraile, etc.  
 
 > "Yo tengo tantos hermanos, que no los puedo contar"  --Atahualpa Yupanqui.  (No confundirse con los niños del opus dei)
+
+> A brother is as easily forgotten as an umbrella. --Ulysses.  James Joyce.
 
 **Héroe** Contrario al caracter semidivino de los clásicos, tanto héroes como heroínas -menos contabilizadas, no por ello menos valiosas, sino al contrario- de estas latitudes, suelen ser ignorantes de su condición y mantener una heroicidad latente, a la espera del hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes argumentan contra porteros de edificios partidarios del fascismo.
 
@@ -400,6 +408,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 **Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
 
 [^24]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.
+
+**Insomnio**  Patología que acusa cierta falta se sueño.  Por lo general se resuelve durmiendo con la persona que lo origina.
 
 **Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
@@ -685,6 +695,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 > Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
 
+> Si quieres decir una verdad hazlos reir, de lo contrario te matarán.  --Oscar Wilde.
+
 **Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  
 
 **Ridiculez**. Unica virtud de un fascista.
@@ -812,6 +824,12 @@ El buen Edward Gibbon se refirió a la **Universidad de Oxford** en términos po
 En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la fe en nuestros sentidos*.  Lo postulaba bellamente el británico *Samuel Coleridge* como requisito *sine qua non* del arte es precisamente *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
 
 [^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
+
+**Viaje**  *Cat. Viatge del Lat. viaticum*.  Previsión de dinero para emprender el viaje.  Curiosamente el origen es trabajar afanosamente, como lo atestiguan el ingles y el francés, travel de travailen, travailler.  
+
+> ¿Es mas importante el viaje que el destino? --preguntó el Panda  
+
+> La compañía --Respondió el Dragón.
 
 **Vida**  *Biol.*  Antónimo de Muerte.  
 
