@@ -68,15 +68,15 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Montag** que no recuerda nada de Molly, su ex mujer.
 
-**Asado** *Sus.*  En sus inicios como palabra, asado fué el adjetivo que acompañaba al sustantivo carne.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
+**Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
-**Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de siglo XX, donde se llevaron adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
+**Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de **siglo XX**, donde se llevaron adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  1982.  Clase magistral sobre la invención del maiz híbrido. 
 
 ## B
 
-**Banj**  Narcótico usado en las Mil y Una Noches a base de Beleño y Cáñamo.
+**Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, buscaron la conexión con el vocablo **Quilombo**, de origen africano, sin arribar a conclusiones serias.
 
@@ -90,7 +90,7 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 [^48]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
 
-> Asegura que salrá con amigas, pero van diez minutos del familiar sonido de la *track* contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
+> Dijo salida con amigas, pero lleva diez minutos golpeando el bidet con la **track**. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
 **Bipolar** *Psic.*  Aplícase erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
@@ -98,8 +98,8 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 **Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
 
-**Blasfemia**  Se pagó con la vida -previa tortura- durante todo el medioevo, el libre uso de la palabra que pusiera en juego ciertas creencias.  Aún persiste tan noble deporte en gran parte del mundo monoteista, ya que en algunas mentes sensibles, ese medioevo aun no ha finalizado.  No toda controversia de ideas es blasfemia, estas son totalmente desconocidas en filosofía como en ciencias en general, solo operan contra los sistemas de creencias que conocemos usualmente como religiones.  El *santo oficio* asó varios miles de personas, por nimiedades tales como sostener la esfericidad del globo terráqueo, el eliocentrismo, que el universo no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy corregimos esta desviación afortunadamente y reconocemos como blasfemos a quienes argumenten contra el **sacrosanto libremercado**, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del **iphone**. 
-
+**Blasfemia**  Pagaron con la vida durante todo el medioevo, humildes seres por el libre uso de la palabra que pusiera en juego ciertas creencias.  Aún persiste tan noble deporte en gran parte del mundo monoteista, ya que en algunas regiones sensibles y devotas, ese medioevo aun no ha finalizado.  No toda controversia de ideas es blasfemia, estas son totalmente desconocidas en filosofía como en ciencias en general, solo operan contra los sistemas de creencias que conocemos usualmente como religiones.  El *santo oficio* asó varios miles de personas, por nimiedades tales como sostener la esfericidad del globo terráqueo, el eliocentrismo y que el universo no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy corregimos esta desviación afortunadamente y reconocemos como blasfemos a quienes argumenten contra el **sacrosanto libremercado**, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del **iphone**. 
+    
 **Boludo**  otentaban este nombre los integrantes de las primeras líneas de la infantería patriota durante las guerras por la independencia de España.  Humildes indivíduos, equipados por todo armamento de **boleadoras** -una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero-.  A estas bolas deben su nombre.  Enfrentaban a la bien formada y equipada caballería enemiga.  El ejército mas poderoso de Europa, símil los **SEAL** de la marina estadounidense.  Disparaban diestramente estas rudimentarias armas contra las patas de los caballos enemigos, que al enredarse, hacían rodar al jinete y -con algo de fortuna- a los posteriores.  Acompañaban su accionar con agudos gritos, que en muchos casos, resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera batalla.  A estos *boludos* debemos la **libertad de América del Sur**.  Las generaciones del **siglo XXI** se vuelven libertarias y rinden culto a monarquías europeas.  Seguramente a esto se deba que adquieran la calificación de **Boludos** y no al uso de las boleadoras como podría pensarse.  No confundir **boludo** con su símil fónico **Pelotudo.**  Entrado el siglo XXI, leemos asombrados que el Ejército Argentino festeja haber luchado por la independencia Argentina, cuando en realidad lo hicieron gauchos, indios, esclavos y esclavas.  Bien es sabido que el Ejército Argentino en su larga historia solo puede enorgullecerce de combatir civiles, como niños en la guerra del Paraguay, nativos desarmados en la patagonia o monjas francesas en los terribles setentas.     
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
@@ -144,11 +144,11 @@ Símil del contemporáneo:
 
 > Cerveza, origen y solución a todos mis problemas. --Homero
 
-**Cerveza sin Alcohol**.  Al Carecer de registros de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol en la tienda de **Apu** que da a la terraza, al consultarle **Lisa** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
+**Cerveza sin Alcohol**.  Al Carecer de cómputos de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol de la tienda de **Apu** que da a la terraza, al consultarle **Lisa** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
 
 > Eso nunca ha ocurridos  --Apu.
 
-[^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre en virtud del escaso valor de marketing del original **Fanta Maiz**.
+[^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre, **Cerveza sin alcohol** al notar el escaso valor de marketing del original **Fanta Maiz**.
 
 **Chacra**  *Quechua.  Granja.*
 
@@ -176,15 +176,15 @@ Símil del contemporáneo:
 
 [^16]: Véase en este sentido *Opera Aperta* -- Umberto Eco.
 
-> ... entonces, de la nada, cuando menos lo esperábamos, apareció un **coso**.
+> Entonces, cuando menos lo esperábamos, le pegó en el **coso**.
 
-Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo*,  es la de quitar entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: **"Los cosos de al Lao"**, de Canet y Larrosa.   En la década del cuarenta, un investigador anónimo, cercano a Macedonio, experimentó con un endecasílabo **"Vindicación del Coso"**, aunque las fuentes son confusas y en muchos casos contradictorias.
+Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo*,  es la de quitar entidad -como significante- al objeto aludido -o significado- como observamos en el Tango: **Los cosos de al Lao**, de Canet y Larrosa.   En la década del cuarenta, un investigador anónimo, cercano a Macedonio, experimentó con un endecasílabo **Vindicación del Coso**, aunque las fuentes son confusas y en muchos casos contradictorias.
 
 **Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
-> La Cucaracha ya no tiene marigüana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico lúdico por la frase inentendible: "La patita de atrás."
+> La Cucaracha ya no tiene marigüana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico lúdico por la frase inentendible:  *La patita de atrás*.
 
-**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son "culturales", aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  Adivinamos formas de producir y acumular riqueza en los rincones mas escondidos del habla.
+**Culto**  *Adj.*  Cualidad de quienes cultivan, por oposición a quienes practican la ganadería.  Las labores de la tierra, luego, son *culturales*, aquellas tareas destinadas a los cultivos.  Ergo, los que no cultivan, son bárbaros[^47].  Adivinamos formas de producir y acumular riqueza en los rincones mas escondidos del habla y como se acomoda el idioma para tomar posición.  El idioma es el discurso del poder.
 
 > Todo preso, es político.  --Vencedores Vencidos.  Carlos Solari.
 
@@ -204,7 +204,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 [^57]: Ocurre lo mismo con la frase *viento en popa* que exacamente lo opuesto a *viento en papo*.
 
-**Demonio** *Daemonium*  Divinidad inferior.  Dios y Demonio parecieran provenir del mismo origen etimológico. 
+**Demonio** *Daemonium*  Divinidad inferior.  Luego dios es una divinidad superior.  Dios y Demonio parecieran provenir del mismo origen etimológico y toda difererencia es topológica. 
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
@@ -544,69 +544,73 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
-**Música** *Lat.* Según la autorizada voz de Roberto Goyeneche 
+**Música** *Lat.* Es el recuerdo de una felicidad que nunca existió, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
 
-> "La música son unos negritos saltando un alambrado."
+> La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
 
-De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que que sin la existencia de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una simple corriente de pensamiento, perdida en el medioevo.
+De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que que sin la existencia de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una simple corriente de pensamiento, perdida en el medioevo.  Como el arrianismo. 
 
 ## N
 
 **Nada**  *Lat. nata. nacimiento.*   Verdaderos ríos de tinta han corrido sobre este sustantivo, atravesando corrientes de pensamiento dispares en el tiempo y el espacio.  Es al menos curioso que el vocablo proveniene etimológicamente de *nacimiento*.  Experimenta una curiosa metamorfosis en el siglo XXI a modo de punto final de toda oración, tal vez emulando el *punto final* de la vida.  Sugiérese maridarlo con el bello *Osea*, qudando de la siguiente forma:  
 
-> O sea, Nada.
+> O sea, Nada.  Digamos.
 
-Triste final tenían deparado los dioses a una palabra con tamaño potencial. 
+Triste final tenían deparado los hados a un fonema con tamaño potencial. 
 
 **Nadería**  Nieta de la palabra anterior.  Úsase para menospreciar argumentos contrarios.
 
-**Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán.
+**Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán para reverirse a la nave.
 
-**Negocio** *Lat. Nec Otium - Nadie está ocioso.* Nadie puede obtener beneficios sin algo a cambio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poder decir satisfactoriamente que había una "utilidad".  La sociedad toda se encargó de ocultar estos datos.[^4]
+**Negocio** *Lat. Nec Otium - Nadie está ocioso.* Nadie puede obtener beneficios sin algo a cambio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poderi concluir satisfactoriamente la existencia de una **utilidad**.  La sociedad toda se encargó de ocultar estos datos.[^4]
 
 [^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
 
 **Neutro** *Lat. Neuter.  Ni uno ni lo otro.*  Concepto útil en política para medir el grado de fascismo de tu interlocutor momentáneo.  Ante una pregunta políticamente comprometedora, responderá
 
-> "Yo soy neutro, apolítico"
+> Yo soy neutro, apolítico.
 
-Síntoma irrefutable del **fascista en asintomático** [^40].
+Síntoma irrefutable del **fascista asintomático** [^40].
 
-[^40]: “El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales.” — Bertolt Brecht
+[^40]: El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
 
-**Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  
+**Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja[^23].  Por recurso *ab negatio* viejo o vieja, el antónimo.  
+
+[^23]: Si el señor se baja del asiento del conductor y abre la puerta del acompañante, solo hay dos opciones.  La novia es nueva (sic) o el auto es nuevo.
 
 ## O
 
-**Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  "Todos los colectivos los dejan cerca".  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores. 
+**Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  *Todos los colectivos los dejan cerca*.  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores. 
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  
 
 **Ojota** *Quechua, Usuta.*  Calzado simple documentado en el gato popular:
 
-> ...Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
+> Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
 
 **Oro** *Lat Aurun*  La mayor y más feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  El rey **Midas** solicita a los dioses que lo auxilien para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la estupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero -muchísimo-.  Para resolverlo de manera simple inventan, o pagan, o ambas cosas, una nota en el **New York Times**.  Por una ínfima parte de de los millones de dólares prespuestados el periódico titula en tapa.
 
-> Encuentran Oro en Panamá.
+> Oro en Panamá.  *--Foto de la montaña en cuestión.*
 
-Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un poco más calidad y húmeda ral vez.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña[^55].
+Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, algo más cálidad y húmeda esta vez.  A diferencia de aquella, en esta segunda oportunidad no encuentran un solo gramo, después de desintegrar la montaña[^55].
 
 [^55]: En el momento que la noticia se convirtió en un negocio, la verdad empezó a tener poca importancia.  --Rysard Kapuściński.
 
-**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteína que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor fué el destierro, que llamaban ostracismo, allá por el 500 AC.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro para que la deshonra fuerta pública.  Especie de *Lista negra de deudores* del bar de doña Tile en el pueblo.
+**Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteína que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor que fué el destierro, al que llamaban ostracismo, allá por el **500 AC**.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro para que la deshonra fuerta pública.  Especie de *Lista negra de deudores* del bar de doña Tile en el pueblo.
 
 > Fulano no paga, es un tramposo.  --Tía Tile, bar de copas en **Cañada Rosquìn**.
 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atrás fuera el demonio[^8].
 
-[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, a la vez que la carrera espacial y armamentista contra la URS data cada vez vehículos más secretos y extraños.  En lo profundo de los estados centrales, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, como corresponde a cualquier establecimiento de Texas que se precie.  
+[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, contemporáneos el macarthismo, la carrera espacial y armamentista contra la URS data cada vez vehículos más secretos y extraños.  En lo profundo de los estados centrales, de los WHASP, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, con sus escafandras y trajes plateados.  El milagro los salva de la muerte en el aterrizaje, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, al estilo de cualquier establecimiento de Texas que se precie.  Dios tampoco puede estar en todo.  
 
 ## P
 
 **Paciente** *Lat.*  Interesante detalle del neutro sexual que designa al individuo en una sala de espera de instituto de salud.  La denominación "paciente" se origina en lo anticipada que es su cita con el terapeuta, por norma no menos de una hora.  El término adecuado o correcto para estos casos debería ser pelotudo.
 
-**Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanálisis freudiano.  "Paternidad, esa ficción legal" Sugiere Joyce en Ulysses.  *Ver Patria*.
+**Padre** *Pater Lat.*  Origen de todos los problemas, según el psicoanálisis freudiano.  
+
+> Paternidad, esa ficción legal. --Ulysses, James Joyce. 
 
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
 
@@ -626,15 +630,15 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, un 
 
 > ¿Quiere que se la ponga?  --Pregunta el garrafero, que analiza las respuestas *no verbales* de las señoras, al bajar las garrafas mostrando los biceps de musculosa transpirada.
 
-**Patria**  *Lat.*  Textualmente, la tierra patria, o de los padres.  Ese pacto entre pares de defendernos entre nosotros frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años anhelando:  
+**Patria**  *Lat.*  Textualmente, la tierra patria, o de los padres.  Ese pacto entre pares de defenderse entre ellos frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años anhelando:  
 
-> "Ver crecer el humo en la casa de su padre" - Ulises en la Odisea de Homero.  
+> Ver crecer el humo en la casa de su padre --Odisea. Homero.  
 
 O la ya más reciente, de **Jorge Luis Borges**, al que acusamos de anglófilo, en su **Oda de 1966**: 
 
-> "Nadie es la Patria ... Arda en mí ese fuego misterioso".
+> Nadie es la Patria ... Arda en mí ese fuego misterioso.
 
-La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la más noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *"Todos tenemos derecho a vivir"*, es ligeramente superior a *"yo tengo derecho a andar en moto"* o *"Yo quiero un Iphone"*. 
+La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la más noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *Todos tenemos derecho a vivir*, es infinitamente superior a *yo tengo derecho a andar en moto* o *Yo quiero un Iphone*. 
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque nos sintamos tentados a asumir un soldado menor de edad.
 
@@ -642,9 +646,9 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pelotudo**  Léase Paciente.
 
-**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe obligar a otros a compartirlo contigo, especialmente si son niños.  4- No conviene alardear de tenerlo, por lo menos en el caso del pene.  
+**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe *el uso de la fuerza* para compartirlo contigo. -4 Esta prohibición alcanza el caracter de **Delito de Código Penal**, si ese *otros* son niños.  5- No conviene alardear de tenerlo.  
 
-> Solo voy con mi pene --Manu Chao
+> Solo voy con mi pene --Radio Bemba.  Manu Chao
 
 **Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *"Per il verso"* Que sirve para hacer el verso.
 
@@ -652,7 +656,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea datando las piedras, de ello deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes.
 
-[^29]:"Vengo desde Aimogasta pa las pirquitas" --Coplas del valle.  Ramón Navarro .
+[^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro .
 
 **Poeta**  *Gr.* Hacedor, orfebre.  Las cosas no son hasta que son nombradas.  La biblia sugiere: 
 
