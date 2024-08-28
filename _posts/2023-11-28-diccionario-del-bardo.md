@@ -272,6 +272,10 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Envido**  Palabra reservada con caracter de conjuro, al igual que **Truco** en el conocido juego de mesa rioplatense.  Su sola mención dispara miradas en todas direcciones, al igual que la envidia, lo que nos inclina a pensar su relación etimológica.
 
+**Escalofrío**  Sensación corporal de frío, violenta y repentina, por lo general, acompañada de contracciones musculares.
+
+> Nunca rechaces el consejo de un escalofrío.  --Francisco Urondo.
+
 **Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las cosas últimas, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos traspasada la muerte.  Controversial es su uso, dado que dependerá de la calidad de su interlocutor sea el uso del término en cuestión de buen o mal gusto.
 
 > La señora de Perez y sus hijas, comunican al público y al clero, que han abierto un taller de chupar pijas, en la calle Santiago del Estero.  --Diccionario Escatológico Argentino.  --Jorge Luis Borges y Adolfo Bioy Casares.
@@ -691,6 +695,8 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 **República**  *Lat. Res Cosa - Publicae de todos*  La cosa pública, literalmente de todos.  Existe la creencia que la **cosa pública** no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo atestiguan. [^45]
 
 [^45]: El Estado es impersonal; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
+
+**Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
 
 **Revolución** Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor se espanta y pregunta:
 
