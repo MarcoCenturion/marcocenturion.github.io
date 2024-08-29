@@ -430,6 +430,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 > Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del teléfono que me pidió acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
 
+**Ironía**  Perder el conocimiento al ser golpeado por una enciclopedia. La sociedad iba a ser mas justa a partir del conocimiento, llegó internet.  No era eso evidentemente.  Indivíduos que van al gimnasio en una patineta eléctrica.
+
 **Izquierda** *Vazco. Ezquerro, de esku -mano- y kerros -torcido-.*  Durante la revolución francesa, los radicalizados, se sentaban en las bancas de la izquierda en las sesiones, lo que los bautiza topológiciamente, pero nuestra historia comienza mucho antes.  En la castración a Urano de manos de su hijo Zeus, este último toma los testículos de su padre con la izquierda y los corta con una hoz de pedernal, en la derecha.  La mano izquierda comienza un periplo de maldiciones.  Los soldados del rey **Jasón**, calzaban solo la sandalia izquierda.  Pueblo de llanura, su fortaleza era la lucha en terrenos bajos, **el barro**, por lo que literalmente *clavaban* el pié izquierdo y fijaban el escudo en el flanco izquierdo.  Luego agredían al enemigo con la pierna derecha y la espada en la misma mano.  De aquel entonces, sobrevive la prohibición de *levantarse* o *entrar a casas de amigos con el pié izquierdo*.  En cambio, los desfiles militares, milenios después del mítico Jasón, aún inician con el pié izquierdo su marcha, en todo el planeta.  Pareciera el origen de una costumbre humana de gran arraigo, la estandarización de los distintos. Véase Zurdo.   
 
 ## J
