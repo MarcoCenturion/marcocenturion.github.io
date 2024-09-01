@@ -96,7 +96,7 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 > *No pibe, Lo único bipolar es una pila, vos sos pelotudo*.
 
-**Bisman**  *Mitológico Superhéroe de Cabotaje*.  Se estamparon elegantes t-shirts con la leyenda "Je suis Bisman" 
+**Bisman**  *Mitológico Superhéroe de Cabotaje*.  El sistema coloca seres insignificantes a controlar grandes flujos de caja, a menejar a su arbritrio voluntades y chantajes, viajes con señoritas de *amor rentado* y otras beldades.  Un día una llamada les recuerda que sus testículos descansan en manos demasiado peligrosas.  
 
 **Blasfemia**  Pagaron con la vida durante todo el medioevo, humildes seres por el libre uso de la palabra que pusiera en juego ciertas creencias.  Aún persiste tan noble deporte en gran parte del mundo monoteista, ya que en algunas regiones sensibles y devotas, ese medioevo aun no ha finalizado.  No toda controversia de ideas es blasfemia, estas son totalmente desconocidas en filosofía como en ciencias en general, solo operan contra los sistemas de creencias que conocemos usualmente como religiones.  El *santo oficio* asó varios miles de personas, por nimiedades tales como sostener la esfericidad del globo terráqueo, el eliocentrismo y que el universo no tiene cinco mil años como sostiene el **viejo testamento**.  Hoy corregimos esta desviación afortunadamente y reconocemos como blasfemos a quienes argumenten contra el **sacrosanto libremercado**, sostengan que la evasión fiscal es delito o minimicen las virtudes innatas del **iphone**. 
     
@@ -119,6 +119,8 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 ## C
 
 **Cábala** En el judaísmo, estudios que deducen la existencia divina a partir de los números presentes en la naturaleza.  No forman parte de esta corriente de pensamiento, la secuencia de Fibonacci, el número Pi y el teorema de Sheldon Cooper. Tal vez el hallazgo más curioso sea la *constante del estornudo*, que se presenta en los homínidos avanzados en tríadas o múltiplos de tres.
+
+**Csbeza**  *Lat. Caput*  La parte gestual del cuerpo humano.  Los chalecos amarillos franceses sacan la guillotina regularmente ante medidas anti populares, en clara señal de la fragilidad de la unión con las clases dominantes, unión erroneamente sobreentendida y sobre estimada, un extraño *status quo* que asumen durará eternaente, como esa misma cabeza sobre sus troncos.
 
 **Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana:  
 
@@ -200,6 +202,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
 
+**Democracia**  *Gr. δημοκρατία Demos pueblo y Kratos poder*   Nace en la antigua Grecia y se perfecciona a tal extremo que en la actualidad, opinan sobre las buenas democracias elegidas por el pueblo, monarcas de todo el mundo a los que eligió un dios en que solo creen ellos.  Una extraña sensación se expande ultimamente, que sostiene que valen tanto la estupidez como el conocimiento.  La tecnología ha desarrollado mas y mejores métodos de convencer a las poblaciones de un extraño *sentido común*
+
+> “When stupidity is considered patriotism, it is unsafe to be intelligent.”  ―Issac Asimov 
+
 **Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^57].  
 
 [^57]: Ocurre lo mismo con la frase *viento en popa* que exacamente lo opuesto a *viento en papo*.
@@ -246,7 +252,7 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 > ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de "¿Que hice para merecer esto?".
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda[^7]. 
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda[^7].  Su par antagónico *dogma* es la escrerosis del conocimiento. 
 
 [^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
 
@@ -398,6 +404,10 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Iglesia** *Gr. Ekklesia.*   En la Atenas de Sócrates, asamblea de hombres libres.  Es al menos cuirioso que en la Judea contemporánea a Jesucristo, coexistían tres instituciones, el **templo**, la **sinagoga** y la **asamblea** -o iglesia-, siendo solo esta última de carácter laico y las primeras, de orden religioso.  El carácter democrático original, puede haberle otorgado cierto respeto a esta institución sobre los anteriores, sobreviviendolas al tiempo que fuera perdiendo ese modo abierto y fraterno original.
 
+**Ignorancia**  Es por lo menos curioso que iglesia e ignorancia estén tan cerca, topológicamente[^27].  No existe ningún inconveniente, per se, en compartir espaciotemporalmente la compañía de ignorantes, el verdadero problema radica en la pretención de equidad.  No toda opinión es respetable, lo respetable es el derecho a opinar, pero una opinión ignorante, no merece el menor respeto.º  
+
+[^27]: Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
+
 **Impuestos**  Todos somos alcanzados por la ley para el pago de tributo, de allí su nombre.  Salvo las fuerzas del cielo, esto es: sojeros evasores e iglesias.
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
@@ -499,6 +509,10 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 ## M
 
 **Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
+
+**Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de banalización del Mal cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, los ayer víctimas judías se transforman en victimarios del pueblo palestino[^26].
+
+[^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo (Link)[https://es.wikipedia.org/wiki/Hannah_Arendt]
 
 **Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por muerto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
 
