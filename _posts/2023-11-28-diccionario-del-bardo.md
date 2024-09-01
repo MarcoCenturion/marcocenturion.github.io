@@ -204,7 +204,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Democracia**  *Gr. δημοκρατία Demos pueblo y Kratos poder*   Nace en la antigua Grecia y se perfecciona a tal extremo que en la actualidad, opinan sobre las buenas democracias elegidas por el pueblo, monarcas de todo el mundo a los que eligió un dios en que solo creen ellos.  Una extraña sensación se expande ultimamente, que sostiene que valen tanto la estupidez como el conocimiento.  La tecnología ha desarrollado mas y mejores métodos de convencer a las poblaciones de un extraño *sentido común*
 
-> “When stupidity is considered patriotism, it is unsafe to be intelligent.”  ―Issac Asimov 
+> When stupidity is considered patriotism, it is unsafe to be intelligent.  Existe un culto a la ignorancia, la presión del anti intelectualismo ha ido abriéndose paso a través de nuestra vida política y cultural, alimentando la falsa noción de que la democracia significa que mi ignoracia es tan válida como tu conocimiento.  ―Issac Asimov 
 
 **Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^57].  
 
