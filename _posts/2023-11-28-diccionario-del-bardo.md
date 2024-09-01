@@ -370,9 +370,9 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 [^34]: “Some people feel the rain; others just get wet.” --Roger Miller.  Erroneamente adjudicado a dos Bobs, Marley y Dylan.
 
-**Hamam**  *Ar. Baño.  حمام* El califato omeya de Córdoba, extiende la costumbre desconocida para los europeos del baño y la higiene.
+**Hamam**  *Ar. Baño.  حمام* El califato omeya de Córdoba, extiende hacia Europa la costumbre blasfema y desconocida del baño diario, la higiene y el álgebra.
 
-**Hereje** *Gr. Haireticus*.  El que es libre de elegir. Proviene de Herejía: creencia controversial que entra en conflicto directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y originados recurrentes en este conflicto con verdades establecidas a manos de piadosos monoteístas.  El motivo de estos sacrificios de vidas humanas, es que puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio **no solicitado**.
+**Hereje** *Gr. αιρεσις hairesis, Haireticus*.  Proceso de examen de diversas filosofías antes de elegir una. Proviene de Herejía: creencia controversial que entra en conflicto directo con el **Dogma Establecido**.  Observamos a lo largo de los siglos, genocidios repetitivos y originados recurrentes en este conflicto con verdades establecidas a manos de piadosos monoteístas.  El motivo de estos sacrificios de vidas humanas, es que puedan acceder al mundo de los cielos, por más que no crean en él, curioso beneficio **no solicitado**.
 
 > "Toda Verdad es la verdad del poder." [^60]
 
@@ -396,11 +396,11 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 ## I
 
-**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación cordial:
+**Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación tan cordial como bondadosa, para poder dar inicio a la clase:
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
-**Icono** *Gr. Eikon.*  Imagen, sumado a *Klao* literalmente *Yo rompo*.  Romper un ícono.  La modernidad líquida sugiere felizmente una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, eran los partidarios de destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  Nos trae a la actualidad, donde observamos una encarnizada lucha por la supremacía de imágenes sagradas, llevando una delantera importante una manzanita mordida y una M amarilla.   
+**Ícono** *Gr. Eikon.*  Imagen, sumado a *Klao* literalmente *Yo rompo*.  Romper un ícono.  La modernidad líquida sugiere felizmente una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, compartían el amor por destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son la única y exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  En la actualidad, asistimos a la muerte de ciertos dogmas religiosos que dan paso a imágenes mas sagradas, como manzanas mordidas.
 
 **Iglesia** *Gr. Ekklesia.*   En la Atenas de Sócrates, asamblea de hombres libres.  Es al menos cuirioso que en la Judea contemporánea a Jesucristo, coexistían tres instituciones, el **templo**, la **sinagoga** y la **asamblea** -o iglesia-, siendo solo esta última de carácter laico y las primeras, de orden religioso.  El carácter democrático original, puede haberle otorgado cierto respeto a esta institución sobre los anteriores, sobreviviendolas al tiempo que fuera perdiendo ese modo abierto y fraterno original.
 
