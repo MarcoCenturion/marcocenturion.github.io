@@ -170,6 +170,8 @@ Símil del contemporáneo:
 
 [^17]: Cuando la derecha acusa, en realidad confiesa.
 
+**Conmover** *Lat. commovere, de "com movere", mover completamente*.  Perturbar, inquiertar, turbar.  Sacar algo de su comodidad.  La referencia no parece ser exclusivamente topológica.
+
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
 
 > El amor a las cosas es triste, porque las cosas no saben que existimos.  --Jorge Luis Borges.
@@ -676,7 +678,9 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea datando las piedras, de ello deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes.
 
-[^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro .
+[^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro.
+
+**Poder**  *Lat. Potere que proviene de Potis y Sum "capaz de ser"*.  La verdad es la verdad del poder, la estética es la estética del poder y la bondad es la bondad del poder.  Las normas morales las dictan los que ganaron la guerra.  Japón hacía meses que había perdido la guerra no obstante EEUU lanzó una bomba atómica sobre una población civil, para que sepa el mundo quien es el malo.  Para que no queden dudas, a los tres días, lanzó una segunda contra otra ciudad indefensa.  Asistimos en tiempo real al genocido del pueblo palestino, pero creemos que es de mal gusto hacer chistes sobre judíos.    
 
 **Poeta**  *Gr.* Hacedor, orfebre.  Las cosas no son hasta que son nombradas.  La biblia sugiere: 
 
