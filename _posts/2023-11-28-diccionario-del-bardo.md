@@ -564,7 +564,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
-**Música** *Lat.* Es el recuerdo de una felicidad que nunca existió, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
+**Música** *Gr.μουσική arte de las musas*  Cielo de los ateos.  Es el recuerdo de una felicidad que nunca existió, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
 
 > La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
 
@@ -700,7 +700,9 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 **Proteico**  Relativo a *Proeus* el maestro del disfraz.  Erroneamente es utilizado para calificar algo rico en proteínas, adjetivo que debería ser proteínico.
 
-**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.
++**Prohibición** *Lat. Prohibere.  Pro adelante, primero y habere tener*.  La mejor de las publicidades.  El mejor ejemplo es el cristianismo, que pasa en poco tiempo de un sistema endeble de creencias a la verdad absoluta, en pocos siglos.  Alcanza en el medioevo patente para carbonizar opositores, paradojalmente al basarse su marketing en el amor al prójimo.  En 1949 el colorado Jorge Abelardo Ramos escribe "América Latina, un Pais"  Con el golpe de estado nombran una comision para perseguir *actividades antiargentinas* dedicada a la actividad preferida de la derecha, la prohibición y fogata de opositores, aprendido en la inquisición.  Esto hace que el libro se venda aún mas, incluídos aquellos ejemplajes incautados.
+
+**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que al mismo tiempo utilizamos el calificativo de puto para hoosexuales que los enfrentaban.  El idioma, muchas veces, es al menos curioso, demostrando que toda verdad es la verdad del poder. 
 
 ## R
 
