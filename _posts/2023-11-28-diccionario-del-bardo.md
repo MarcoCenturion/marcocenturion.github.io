@@ -32,7 +32,8 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
-**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones.  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
+**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^30].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
+[^30]: El decoro prohibe chistes sobre gentes que va en dos direcciones, por lo que nos abstendremos de hacerlos, puesto que no solo está mal sino que mejores plumas se han adelantado mucho mejor.  "Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias"  --Alejandro Dolina.
 
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
 
