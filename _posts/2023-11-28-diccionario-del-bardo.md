@@ -10,7 +10,7 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 ## A
 
-**Abeja**  *Lat. Apis Mellifera*  Pequeño insecto iletrado, como observamos en el aforismo que asegura:
+**Abeja**  *Lat. Apis Mellifera*  Pequeño insecto iletrado, como bien lo atestigua en el aforismo que dice:
 
 > El cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
@@ -35,11 +35,13 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 **Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^30].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
 [^30]: El decoro prohibe chistes sobre gentes que va en dos direcciones, por lo que nos abstendremos de hacerlos, puesto que no solo está mal sino que mejores plumas se han adelantado mucho mejor.  "Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias"  --Alejandro Dolina.
 
-**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente inmortal. 
+**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente lo que nos hace inmortales. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
 
-> Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
+A lo que la mamá responde, ojitos pícaros
+
+> > Me invitó a un picnic al campo, llevamos yogurt y nos olvidamos las cucharitas.  Nada[^22] Eso.
 
 [^22]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
@@ -415,7 +417,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
-**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^25].
+**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, a partir del prefijo **in**.[^25].  La traducción correcta, atendiendo a la etimologia sería *Deformar* o *Desinformar*.
 
 [^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
 
@@ -449,7 +451,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 ## J
 
-**Jabalí** / **Jabalina**. *Ar*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  
+**Jabalí** / **Jabalina**. *Ar*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*.   Su sinónimo mas interesante es Venablo.  
 
 **Jazmín**  *Ar. yamasim a su vez del persa.* Flor Blanca.
 
