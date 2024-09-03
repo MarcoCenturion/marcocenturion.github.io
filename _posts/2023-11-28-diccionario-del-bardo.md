@@ -606,6 +606,10 @@ Síntoma irrefutable del **fascista asintomático** [^40].
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  
 
+**Ojalá**  *Castellano antiguo Oxala, del Ar. hispánico لَوْ شَاءَ اللّٰه (law šá lláh, "si Dios quisiera"), este del árabe لو شاء الله (law-šā’ allāh, "quiera Dios")*  Una de las palabras mas bellas de nuestro idioma tiene su origen en la Andalucía ocupada.  Fue grito de resistencia en los ochenta, su par antagónico hoy es "se dobadon todo"
+
+> Ojalá pase algo que te borre de pronto.  --Silvio Rodriguez.
+
 **Ojota** *Quechua, Usuta.*  Calzado simple documentado en el gato popular:
 
 > Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
@@ -722,7 +726,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 **Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
 
-**Revolución** Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor se espanta y pregunta:
+**Revolución** *Lat. revolutio, una vuelta*  Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor corrige levemente la apertura ocular, como toda ofuscasión permitida a un inglés y pregunta:
 
 > ¿Mujeres fumando en la ópera?
 
