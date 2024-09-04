@@ -409,11 +409,11 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Iglesia** *Gr. Ekklesia.*   En la Atenas de Sócrates, asamblea de hombres libres.  Es al menos cuirioso que en la Judea contemporánea a Jesucristo, coexistían tres instituciones, el **templo**, la **sinagoga** y la **asamblea** -o iglesia-, siendo solo esta última de carácter laico y las primeras, de orden religioso.  El carácter democrático original, puede haberle otorgado cierto respeto a esta institución sobre los anteriores, sobreviviendolas al tiempo que fuera perdiendo ese modo abierto y fraterno original.
 
-**Ignorancia**  Es por lo menos curioso que iglesia e ignorancia estén tan cerca, topológicamente[^27].  No existe ningún inconveniente, per se, en compartir espaciotemporalmente la compañía de ignorantes, el verdadero problema radica en la pretención de equidad.  No toda opinión es respetable, lo respetable es el derecho a opinar, pero una opinión ignorante, no merece el menor respeto.º  
+**Ignorancia**  Es altamente sintomático que los términos iglesia e ignorancia compartan una vecindad topológicamente[^27] tan cercana.  Aparentemente no existe problema alguno en compartir la compañía de ignorantes, el verdadero problema es que hacen uso del idioma con una infundada pretención de equidad.  No toda opinión es respetable, lo respetable es el derecho a opinar, pero una opinión ignorante, no merece el menor respeto.  
 
 [^27]: Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
 
-**Impuestos**  Todos somos alcanzados por la ley para el pago de tributo, de allí su nombre.  Salvo las fuerzas del cielo, esto es: sojeros evasores e iglesias.
+**Impuestos**  Todos somos alcanzados por la ley en la imposición del tributo, de allí su nombre.  Salvo las fuerzas del cielo, esto es: sojeros evasores e iglesias.
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
