@@ -169,6 +169,8 @@ Símil del contemporáneo:
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
 
+**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.
+
 **Confesión**  *Lat con, todo; fessus, admitir; y sión, acción*.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
 
 [^17]: Cuando la derecha acusa, en realidad confiesa.
@@ -556,6 +558,10 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 **Martes** Día de la semana que utilizamos para honrar al dios de la guerra Marte, de una religión que supo sincretizarse en el cristianismo, de alguna extraña forma.
 
 **Matrix**  Film de SciFi de les hermanes Wachowski, al que el tiempo ha otorgado el honor de Clásco, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guión que recubre la realidad, resulta ser mucho más burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelar el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
+
+**Masón**  *Fr. maçon y este del germánico makon, hacedor*.  De allí a los albañiles.  Originalmente organizaciones de ayuda mútua de obreros, proto gremios, posiblemente a esto deban su mala reputación y el general San Martín descanse fuera de *tierra sagrada*.  Pasada su etapa mitológica, estas organizaciones son las responsables de la liberación de toda América, desde los cincinatti[^35] en los primeros estados de la unión, hasta la logia Lautaro en el Virreinato del Río de la Plata.
+
+[^35]: En honor al general romano Lucio Quincio Cincinatto.  El mito narra que Cincinato estaba retirado de la milicia descreído de la política, labrando la tierra de su granja, cruzando el Tiber.  Los enviados del Senado le ruegan tome el mando del ejército, para frenar el avance de los voscos y euco y eucos.  Le otorgan el título de Dictador.  En dieciseis días triunfa en la batalla, renuncia a todos los honores y vuelve a tomar el arado donde lo había dejado.  Su nombre pasa a ser sinónimo de rectitud, honradez y valentía.  Agrega a esto una frugalidad rústica y poner los intereses del pueblo por encima de los propios.  La logia de los primeros revolucionarios de Estados Unidos lleva el nombre de los Cincinnati, laicos y honorables, producto de ello es su constitución y emniendas.  Después vino lo otro.
 
 **Mercería** *Sus.*  Comercio minorista especializado en la venta de cosas mersas, esto es, de escaso valor.
 
