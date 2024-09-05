@@ -89,11 +89,19 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 > Me estoy volviendo canción, barro tal vez.  --Luis Alberto Spineta.  a los 19 años.
 
+**Beso**.  *Lat. Basium*.  En los tiempos de Roma, existía diferencia entre *osculum* y *basium*.  Mientras el primero refería a un beso amable o cordial, el segundo estaba reservado para los besos eróticos.  Como bien señaló ya Doña Jovita
+
+> Un beso es un telegrama al upite.
+
+**Biblia**  *Gr. βίβλος rollo de papiro*.  Estos rollos provenían de una ciudad llamada Biblos, en el Líbano.  En esta biblioteca sagrada se basan los reclamos judíos sobre las tierras de Galilea, en su mayoría atéos.  Ciertos errores extemporáneos ponen caravanas de camellos con mil años de diferencia y los contemporáneos de Jesus escribien no solo en un idioma que no hablaban, el griego, sino en un léxico también extemporáneo.  Sería como suponer que Belgrano gritara en la batalla de Tucumán a las tropas realistas en retirada  
+
+> Corran putos, no bancan los trapos!
+
 **Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^48], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
 
 [^48]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
 
-> Dijo salida con amigas, pero lleva diez minutos golpeando el bidet con la **track**. --*En Busca del Tiempo Perdido.  Marcel Proust*.
+> Dijo salida con amigas, hace diez minutos que se escucha golpear la **aferitadora** contra el bidet**. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
 **Bipolar** *Psic.*  Aplícase erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
@@ -533,7 +541,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
 
-> Porque no leer Rayuela, aunque sea nuevamente.
+> Porque no leer Rayuela, aunque sea por cercera vez.
 
 **Mago** Antónimo masculino de sustantivo anterior, con mucha menos magia.
 
@@ -551,11 +559,13 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Manía** *Gr. Adicción*  Lo documentan Heródoto e Hipócrates.  De aquí tambien provienen manicomio, piromaníaco, mitómano, etc.  Trastorno mental violento, profusión de palabras en tono elevado, asociada a cierta hiperactividad motora.
 
-**Mariposa** *Sus.*  Trata -en vano- de llevar a palabras la hermosura de un insecto de la familia de los coleópteros.  Comparte esta rara virtud en muchos idiomas, emular con el sonido la belleza de madre natura.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en francés.   *Mariposa marrón de madera* dice Alfredo Zitarrosa con el objeto de transferir esa belleza a un violín.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos.  Creo que algo estamos haciendo mal.
+**Mariposa** *Sus.*  Durante siglos tratamos de llevar a palabras la hermosura de este insecto[^42].  Entiendo que vanamente.  Comparte la rara virtud de la belleza *per se* en muchos idiomas.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en francés.  Don Alfredo dice *Mariposa marrón de madera* y muta la belleza al violín de su amigo Becho.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos, que ahora no están.  Indudablemente algo estamos haciendo mal.
+
+[^42]: El islam castiga el intento de copiar la obra de dios.  Este caso pareciera demostrar que están en lo correcto.
 
 **Marquez**  Marca, comarca, demarcación, delimitación.  Confín, confinar.  Las marcas delimitaban las tierras de un señor feudal -nunca una señora-  Ducado y condado provienen del mismo origen.
 
-**Marte** *Astron.*  Nuestro vecino celeste más cercano.  Pasaría tranquilamente al olvido si en los cincuentas el buen Ray Douglas Bradbury no hubiera escrito sus cuentos hilvanados bajo el título "Crónicas Marcianas".
+**Marte** *Astron.*  Nuestro vecino celeste más cercano.  Contaría con el mismo interés que Urano o Venus en la *vida real* si en los cincuentas el buen Ray Douglas Bradbury no hubiera escrito sus cuentos hilvanados bajo el título *Crónicas Marcianas*, en él un rudo y valiente astronauta descubre en Marte la casa de su pueblo y los padres de su niñez, cena y se va a dormir llorando de alegría por la mentira.
 
 **Martes** Día de la semana que utilizamos para honrar al dios de la guerra Marte, de una religión que supo sincretizarse en el cristianismo, de alguna extraña forma.
 
