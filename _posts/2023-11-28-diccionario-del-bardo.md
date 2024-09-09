@@ -637,7 +637,13 @@ Síntoma irrefutable del **fascista asintomático** [^40].
 
 **Ojota** *Quechua, Usuta.*  Calzado simple documentado en el gato popular:
 
-> Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez
+> Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez.
+
+**Opinión**  *Fr. Opinion*  Punto de vista.  Origen de la mayoría de las controversias actuales.  Existe la errónea sensación de que todas las opiniones son válidas y respetables, pero es una falacia.  Lo que es válido es el derecho a opinar, puesto que la negación del holocausto o las opniones racistas, no merecen el menor respeto.
+
+> La opinión es como el upite, si no te lo piden insistentemente, no lo des.  --Otras Inquisiciones.  Jorge Luis Borges.
+
+**Opinión pública**  Sentido común organizado y distribuído por los medios dominantes.  La agenda, la opinión, la razón, el sentido común, la fé siempre es el del poder.
 
 **Oro** *Lat Aurun*  La mayor y más feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  El rey **Midas** solicita a los dioses que lo auxilien para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la estupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero -muchísimo-.  Para resolverlo de manera simple inventan, o pagan, o ambas cosas, una nota en el **New York Times**.  Por una ínfima parte de de los millones de dólares prespuestados el periódico titula en tapa.
 
