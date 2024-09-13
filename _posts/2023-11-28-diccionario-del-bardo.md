@@ -10,9 +10,13 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 ## A
 
-**Abeja**  *Lat. Apis Mellifera*  Pequeño insecto iletrado, como bien lo atestigua en el aforismo que dice:
+**Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de este simpático[^52] insecto iletrado, como bien lo documenta la voz popular:
 
-> El cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
+[^52]: No en todos los casos es tan amable, conocimos tiempo atrás una compañera de trabajo a la que apodaban abeja porque era chiquitita, rayada y mala.
+
+> Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
+
+Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.
 
 **Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el conocido caso del reguetón. 
 
