@@ -61,6 +61,8 @@ Luego de una ligera pausa agrega:
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
+**Aperitivo**  *Lat. Aperire, abrir.*   Se abre el apetito con el aperitivo, esa es su función.  Suena obsceno en tiempos en que mas de la mitad de la población del país se va a dormir sin cenar un mate cocido.
+
 **Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace más de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
@@ -105,7 +107,7 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 [^48]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
 
-> Dijo salida con amigas, hace diez minutos que se escucha golpear la **aferitadora** contra el bidet**. --*En Busca del Tiempo Perdido.  Marcel Proust*.
+> Dijo que saldrá con amigas, pero lleva diez minutos golpeado la **afeitadora** contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
 **Bipolar** *Psic.*  Aplícase erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que la bibliografía especializada documenta como: "*una buena garrotiada en su momento"*.  Cierta voz popular amonesta: 
 
@@ -405,7 +407,11 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 > A brother is as easily forgotten as an umbrella. --Ulysses.  James Joyce.
 
-**Héroe** Contrario al caracter semidivino de los clásicos, tanto héroes como heroínas -menos contabilizadas, no por ello menos valiosas, sino al contrario- de estas latitudes, suelen ser ignorantes de su condición y mantener una heroicidad latente, a la espera del hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes argumentan contra porteros de edificios partidarios del fascismo.
+**Héroe**  *Gr. ἥρως*   La doctrina suele asociar este término con caracterísiticas masculinas, hasta Robert Graves que sugiere rey elegido por la reina, y sacrificado a la diosa **Hera**.   Contrario al caracter semidivino
+ de los clásicos, tanto héroes como heroínas -menos contabilizadas, no por ello menos valiosas, sino al contrario- de estas latitudes, suelen ser ignorantes de su condición y mantener una heroicidad latente, a la espera del 
+hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes argumentan contra porteros de edificios partidarios del fascismo[^36].
+
+[^36]: Vladimir Propp sugiere una serie de inconvenientes para el personaje principal, como el caso del Heracles clásico, formato de éxito garantizado para la narración, esto hace que las plataformas de streaming no nos conmuevan en absoluto.
 
 **Hígado** *Lat. Ficus, higo.*   En los tempranos tiempos de la república romana, se acostumbraba saltear el *jecur* -hígado- en higos, *jecur ficatum*.  Algo así como **hígado higado**.  Luego, tal vez para economizar palabras, solo quedó *ficatum*.  De allí la curiosa metamorfosis de adjetivo a sustantivo.  *Léase: Asado*  
 
@@ -733,6 +739,8 @@ La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador
 
 En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
 
+**Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas, justo antes que el tío comience con los comentarios políticos y con ello los sillazos, por lo que conviene apurar siempre los postres.
+
 **Porno**  Primer puesto en el buscador global Google.  Le sigue inmediatamente después **Ponro**. Explicaría, en gran medida, la ola de triunfos de derecha en el mundo.
 
 **Positivo** *Fís. o Psic.*  Desconocemos los motivos por los que es cada vez más común en el habla cotidiana la aberración del imperativo:
@@ -748,6 +756,12 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 [^28]: Guarda una simetría sugestiva respecto de la *comisión contra actividades antiamericanas* que presidía el tristemente célebre Joseph Mc Arty en EEUU.
 
 **Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que al mismo tiempo utilizamos el calificativo de puto para hoosexuales que los enfrentaban.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
+
+## Q 
+
+**Quinto**  *Lat. Quintus.*  El que viene después del cuatro.
+
+> El cinco de mayo del mil novecientos cincuenta y cinco, nace el quinto hijo de una familia modesta de Buenos Aires.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado que en la quinta carrera de Palermo hay anotado un caballo llamado **Cinco**.  Malvemdió todos sus bienes y apostó un total cincuenta y cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
 
 ## R
 
@@ -812,6 +826,10 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 **Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
 
 > ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
+
+**Sexto**  *Lat. Sextus.*  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.:   
+
+> Del drama Enrique VI la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
 
 **Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social.
 
