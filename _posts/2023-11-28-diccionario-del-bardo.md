@@ -36,8 +36,8 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
-**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^30].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
-[^30]: El decoro prohibe chistes sobre gentes que va en dos direcciones, por lo que nos abstendremos de hacerlos, puesto que no solo está mal sino que mejores plumas se han adelantado mucho mejor.  
+**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
+[^31]: El decoro prohibe chistes sobre gentes que va en dos direcciones, por lo que nos abstendremos de hacerlos, puesto que no solo está mal sino que mejores plumas se han adelantado mucho mejor.  
 
 > Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias.  --Alejandro Dolina.
 
@@ -313,6 +313,8 @@ Al tiempo que ella lo corrige, ojos entrecerrados:
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
+**Eternidad**  *Lat. aeternitas aevum tiempo y -ter comparativo y -dad calidad de.*  Aquello que no tiene principio ni fin.  En la promesa del cielo o el infierno eterno, el horror proviene no del sustantivo sino del adjetivo.  
+
 **Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
 
 **Experiencia**  *Lat. Prueba, ensayo*  La felicidad está en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
@@ -475,7 +477,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 ## J
 
-**Jabalí** / **Jabalina**. *Ar*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*.   Su sinónimo mas interesante es Venablo.  
+**Jabalí** / **Jabalina**. *Ar. hinzir gabalí, cerdo del monte*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*   Su sinónimo mas interesante es Venablo.  
 
 **Jazmín**  *Ar. yamasim a su vez del persa.* Flor Blanca.
 
