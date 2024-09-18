@@ -239,6 +239,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
+**Detalle**   *Fr. détail a su vez del Lat. Taliare, talar*.  Fragmento, elemento, aspecto menor de lo que se tenía a primera vista.  Aquello en lo que no reparamos para prestar atención al todo[^37].
+
+[^37]: La vida está hecha de minúsculos detalles, de momentos impresionantes que pasan desapercibidos por cotidianos.  Un día tu hija, tal vez por verguenza, te suelta la mano para cruzar la calle.  Lo que parece y tomamos como un detalle a simple vista, es lo mas importante que va a pasarte en la vida.  Lo vas a notar algunos años después, cuando esa niña traiga un nieito de la mano y notes el detalle.
+
 **Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasado:  
 
 > Se delitaba, antes.
