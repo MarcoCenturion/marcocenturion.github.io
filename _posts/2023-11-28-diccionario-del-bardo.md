@@ -227,9 +227,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
 
-**Democracia**  *Gr. δημοκρατία Demos pueblo y Kratos poder*   Nace en la antigua Grecia y se perfecciona a tal extremo que en la actualidad, opinan sobre las buenas democracias elegidas por el pueblo, monarcas de todo el mundo a los que eligió un dios en que solo creen ellos.  Una extraña sensación se expande ultimamente, que sostiene que valen tanto la estupidez como el conocimiento.  La tecnología ha desarrollado mas y mejores métodos de convencer a las poblaciones de un extraño *sentido común*
+**Democracia**  *Gr. δημοκρατία Demos pueblo y Kratos poder.*   Nace en la antigua Grecia y se perfecciona a tal extremo que en la actualidad, opinan sobre las buenas democracias elegidas por el pueblo, monarcas de todo el mundo a los que eligió un dios en que solo creen ellos.  Una extraña sensación se expande ultimamente, que sostiene que valen tanto la estupidez como el conocimiento.  La tecnología ha desarrollado mas y mejores métodos de convencer a las poblaciones de un extraño *sentido común.*
 
-> When stupidity is considered patriotism, it is unsafe to be intelligent.  Existe un culto a la ignorancia, la presión del anti intelectualismo ha ido abriéndose paso a través de nuestra vida política y cultural, alimentando la falsa noción de que la democracia significa que mi ignoracia es tan válida como tu conocimiento.  ―Issac Asimov 
+> When stupidity is considered patriotism, it is unsafe to be intelligent.  Existe un culto a la ignorancia, la presión del anti intelectualismo ha ido abriéndose paso a través de nuestra vida política y cultural, alimentando la falsa noción de que la democracia significa que mi ignoracia es tan válida como tu conocimiento.  ―Issac Asimov. 
 
 **Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^57].  
 
@@ -275,11 +275,11 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 **Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta tipo **shot them**: 
 
-> En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -Acompañado de asombrosa cara de incredulidad puesta a prueba.
+> En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -El acompaña las palabras con una expresión de incredulidad puesta a prueba.
 
-Al tiempo que ella lo corrige, ojos entrecerrados: 
+Ella lo corrige, ojos entrecerrados: 
 
-> ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de "¿Que hice para merecer esto?".
+> ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de *"¿Que hice para merecer esto?"*.
 
 **Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda[^7].  Su par antagónico *dogma* es la escrerosis del conocimiento. 
 
@@ -638,6 +638,10 @@ Triste final tenían deparado los hados a un fonema con tamaño potencial.
 Síntoma irrefutable del **fascista asintomático** [^40].
 
 [^40]: El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
+
+**Nosotros**  *Lat. Nos y Otros.  Yo y otros más.*  El burro adelante, decía mi abuela.   
+
+[^38]: En Córdoba ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**
 
 **Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja[^23].  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
