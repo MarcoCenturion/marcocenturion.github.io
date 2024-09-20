@@ -28,7 +28,7 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, de enderezar, enderez, enderezo.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
+**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
 
 > Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
 
@@ -158,6 +158,10 @@ Símil del contemporáneo:
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.  Ver **Anfisbena**.
+
+**Capital**  *Lat. Caput, cabeza [véase Jefe](#Jefe)*.  Capital Leter es Letra Mayúscula, porque es mas grande.  Principal, primero, mas importante[^39].
+
+[^39]: Dos experiencias del siglo XXI nos demuestran que **John William Cooke** tenía razón en su tesis: *"podemos prescindir de los capitaliastas, pero no de los trabajadores"*.  La pandemia y el caso de China. 
 
 **Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado.  
 
@@ -678,6 +682,12 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 **Ostra**  *Biol.*  Corteza de quitina con la que los moluscos arman su exoesqueleto.  La quitina es una proteína que pasa del estado líquido al sólido más sólido, con la que se fabrican adhesivos de contacto, emulando a madre naturaleza.  El derecho penal griego contemplaba la pena de muerte, pero una pena aún peor que fué el destierro, al que llamaban ostracismo, allá por el **500 AC**.  El procedimiento consistía en escribir el nombre del condenado en restos cóncavos de un cacharro cerámico, parecidos al caparazón de una ostra -o concha- y pegarlo en el foro para que la deshonra fuerta pública.  Especie de *Lista negra de deudores* del bar de doña Tile en el pueblo.
 
 > Fulano no paga, es un tramposo.  --Tía Tile, bar de copas en **Cañada Rosquìn**.
+
+**Otro**  *Lat. Uter*.  El otro nos forma y nos da sentido.  El yo se forma por espejo del otro, el indivíduo necesita tener una función[^49].
+
+[^49]: En el utópico Universo 25 de comienzo de los setentas, una población de ratas contaba con todo lo necesario para ser felices, excepto ser -o sentirse- útiles.  
+
+> La Patria es el otro. --Cristina Fernandez.
 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atrás fuera el demonio[^8].
 
