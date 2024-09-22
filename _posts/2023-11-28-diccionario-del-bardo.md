@@ -20,7 +20,7 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 **Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el conocido caso del reguetón. 
 
-**Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien **Protagonista**, primero y agonistis luchador.  **Antagonista** es el opuesto.
+**Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien **Protagonista**, primero y agonistis luchador.  **Antagonista**, luego, es el (sic) antagonista.  O sea, digamos, el opuesto.
 
 > Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.
 
@@ -32,7 +32,7 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 > Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
 
-**Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
+**Algoritmo**  Retruécano a mitad de camino entre la *lógica* y la *matemática*.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
@@ -500,6 +500,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 **Jueves**  *Lat. dies iovis.*  Día de Júpiter, dios de todos los dioses.
 
 ## L
+
+**Ladrón**  *Lat. Latro, Latronis Gr. Latron, dar un servicio, cuidar*. Los empleados contratados para guardar la mercadería*.  Idolatría* proviene del mismo término.  El ladrón resulta ser aquel a quien pagamos para cuidarnos.  Curioso -como mínimo- que el paso de los siglos no le quita validez.  Cierto sector del estructuralismo sugiere solo tener ladrones, puesto que estos solo se limitan al robo, mientras que la policía puede secuestrarte, violarte, plantarte pruebas, extorsionarte, matarte, desaparecerte.  La lista amenaza con extenderse mas allá de lo esteticamente entretenido.  
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
 
