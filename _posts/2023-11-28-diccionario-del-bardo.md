@@ -187,7 +187,9 @@ Símil del contemporáneo:
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
 
-**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.
+**Colapso**  *Lat. Collapsus.  Colapso.
+
+**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces del idioma tienen tanto valor simbólico.  
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
 
@@ -501,19 +503,22 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 ## L
 
-**Ladrón**  *Lat. Latro, Latronis Gr. Latron, dar un servicio, cuidar*. Los empleados contratados para guardar la mercadería*.  Idolatría* proviene del mismo término.  El ladrón resulta ser aquel a quien pagamos para cuidarnos.  Curioso -como mínimo- que el paso de los siglos no le quita validez.  Cierto sector del estructuralismo sugiere solo tener ladrones, puesto que estos solo se limitan al robo, mientras que la policía puede secuestrarte, violarte, plantarte pruebas, extorsionarte, matarte, desaparecerte.  La lista amenaza con extenderse mas allá de lo esteticamente entretenido.  
+**Ladrón**  *Lat. Latro, Latronis Gr. Latron, cuidador*. Los empleados contratados para guardar la mercadería*.  Idolatría* proviene del mismo término, por ser aquellos que cuidan los ídolos.  El sentido original de *ladrón* resulta ser aquel a quien pagamos para cuidarnos.  Curioso -como mínimo- que el paso de los siglos no le quita validez.  Cierto sector del estructuralismo antropológico sostiene la conveniencia de solo tener ladrones.  La tesis sostiene que estos solo se limitan a delitos contra la propiedad, mientras que las fuerzas de seguridad agregan toda la parte especial del código penal faltante; secuestro, violación, extorsión, homicidio, desaparición, venta de estupefacientes, aprietes, etc.  La lista amenaza con extenderse mas allá de lo esteticamente entretenido.  
 
 **Lastrar** *Lat.*  Cargar lastre a la nave.  De allí al acto alimenticio.
 
-**Lápida**  Lápiz, piedra.
+**Lápida**  *Lat. Lapidem Lápiz, piedra*.  Si juzgáramos a las personas por lo que dicen las lápidas, en el mundo no habría malos.  Afortunadamente dictadores y otros seres se entierran en tumbas sin nombre[^56].
 
-**Lapso**  Colapso.
+[^56]: Olvidar lo malo también es tener memoria. --Martín Fierro, José Hernandez.
+
+**Lapso**  *Lat. Pasus-us deslizamiento, caida, tropezón.*  La idea de transcurrir del tiempo puede provenir del paso del agua por la clepsidra.  *Lapsus Linguae* es el mas conocido de sus usos, al ser una de las voces del inconciente.
+
 
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el bestiario argentino cierto *homínido*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente. Conserva el mismo nombre -dato curioso- para ambos géneros, además de ser odiado por igual por todo el espectro político.  La izquierda, por falta de compromiso social y la derecha guarda hacia el/la larga un sentimiento a mitad de camino entre el odio y la repugnancia. 
 
-**Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, la lealtad se convierte en un bien mas preciado que las criptodivisas.  Tanto es así que es estimado hasta por el enemigo.  Un oficial enemigo se presentó ante **Julio Cesar** pidiendo cierto importe a cambio de delatar a sus propias tropas.
+**Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, esta se convierte en un bien mas preciado que las criptodivisas.  Tan es así que es estimada hasta en las filas del enemigo.  Cuenta la leyenda que un oficial contrario a Roma se presentó ante **Julio Cesar**, solicitando unos sestercios, a cambio de delatar a sus propias tropas.
 
-> Maten a este hombre, Roma no paga traidores.  -Dijo Julio Cesar una de sus célebres frases, negándose a escuchar una sola palabra del traidor.
+> Maten a este hombre, **Roma no paga traidores**.  -Dijo Julio Cesar una de sus célebres frases, negándose a escuchar una sola palabra del traidor.
 
 No menos emotiva es esta mas cercana en lo temporal y topologico.
 
