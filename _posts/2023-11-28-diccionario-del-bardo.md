@@ -650,9 +650,13 @@ Síntoma irrefutable del **fascista asintomático** [^40].
 
 [^40]: El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
 
-**Nosotros**  *Lat. Nos y Otros.  Yo y otros más.*  El burro adelante, decía mi abuela.   
+**Normal**  *Lat. Normalis, conforme a la regla, en realidad la escuadra del carpintero*.  Que forma un ángulo recto. Conforme a los estándares y usos.  La *école normale*, creada por la **Revolución Francesa** para formar profesores, de esa manera estandarizar, normalizar.
 
-[^38]: En Córdoba ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**
+> La normalidad es un ilusión. Lo que es Normal para la araña, es el caos de la mosca.  --Morticia Adams.
+
+**Nosotros**  *Lat. Nos y Otros.  Yo y otros más.*  El burro adelante, decía mi abuela.  Nos cumple la misma función de Vos[^38]. 
+
+[^38]: En Córdoba, ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**.  Debiera servirnos para entender los resultados electorales.
 
 **Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja[^23].  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
