@@ -24,6 +24,10 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 > Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.
 
+**Acusar** *Lat. accusare, de ad = hacia y causa*.  Aquel que estoy señalando, es el culpable de lo que causa[^30].
+
+[^30]: Cuando la derecha acusa, en realidad confiesa.  Antes de iniciar un alegato sobre la moral, es conveniente verificar tener la bragueta cerrada.
+
 **Akulliko**  *Quechua*.  Bolo de hojas de coca, por simpatía, todo bollito de hierbas que llevan ciertas tribus americanas a la boca, para saborearlas.
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, de enderezar, enderez, enderezo.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
