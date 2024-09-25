@@ -143,7 +143,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Cábala** En el judaísmo, estudios que deducen la existencia divina a partir de los números presentes en la naturaleza.  No forman parte de esta corriente de pensamiento, la secuencia de Fibonacci, el número Pi y el teorema de Sheldon Cooper. Tal vez el hallazgo más curioso sea la *constante del estornudo*, que se presenta en los homínidos avanzados en tríadas o múltiplos de tres.
 
-**Csbeza**  *Lat. Caput*  La parte gestual del cuerpo humano.  Los chalecos amarillos franceses sacan la guillotina regularmente ante medidas anti populares, en clara señal de la fragilidad de la unión con las clases dominantes, unión erroneamente sobreentendida y sobre estimada, un extraño *status quo* que asumen durará eternaente, como esa misma cabeza sobre sus troncos.
+**Cabeza**  *Lat. Caput*  La parte gestual del cuerpo humano.  Los chalecos amarillos franceses sacan la guillotina regularmente ante medidas anti populares, en clara señal de la fragilidad de la unión con las clases dominantes, unión erroneamente sobreentendida y sobre estimada, un extraño *status quo* que asumen durará eternaente, como esa misma cabeza sobre sus troncos.
 
 **Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana:  
 
