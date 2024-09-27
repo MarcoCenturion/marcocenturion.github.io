@@ -18,7 +18,9 @@ lead_text: 'Recomendado para el uso en claustros docentes, lupanares y sitios de
 
 Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.
 
-**Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el conocido caso del reguetón. 
+**Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el conocido caso del reguetón[^58].
+
+[^58]: Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
 
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien **Protagonista**, primero y agonistis luchador.  **Antagonista**, luego, es el (sic) antagonista.  O sea, digamos, el opuesto.
 
@@ -191,7 +193,7 @@ Símil del contemporáneo:
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
 
-**Colapso**  *Lat. Collapsus.  Colapso.
+**Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.
 
 **Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces del idioma tienen tanto valor simbólico.  
 
@@ -272,7 +274,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 **Dios** 1. Curioso ser sobrenatural común a varias culturas, que sirve casi exclusivamente para explicar con su ejemplo, el concepto de **paradoja**.  El judeocristiano, diseña y fabrica el universo en una semana. La premura de su accionar explicaría la escasa eficiencia de alguno de sus inventos[^65].  Nos *ama*, puesto que el homo sappiens es el elegido de su creación.  Esta perfección -paradojicamente- incluye los genocidios y los votantes de derecha.  A pesar de tan inmenso amor, permite que ocurra el reguetón.  Producto del astío de su eternidad, crea a **Adán** y de una costilla de este hace -no un asado como cabría esperar- sino a **Eva** su mujer-mascota.  Esta **Eva** mitológica antecede a la otra **Eva** la del diminutivo [^62].  El matrinonio engendra tres hijos varones de los que -por extraño que parezca- desciende toda la humanidad.  Ateos incluídos.  Aburrito otra vez en su eternidad, embaraza a una niña virgen para que engendre un hijo varón.   Este embrión solo cuenta con material genético -cromosomas- de mujer, lo que lo convierte en un varón extremadamente extraño.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* a todas las poblaciones en los siglos posteriores, de un pecado que no cometieron, incluidos ateos.  En virtud de su inmenso amor, sacrifica a ese hijo y nos dá así una segunda oportunidad de redención.   Deja reguetones y otros males para medir nuestra capacidad de tolerancia, pero ante una mínima blasfemia por martillazo en un dedo, condena al pecador al infierno por *toda la eternidad*.  Este hijo asciende a los cielos en cuerpo y alma, dejando el vestigio de su paso como uñas cortadas, los dientes de leche y el prepucio, que pueblan miles de relicarios de iglesias européas. 2. La segunda acepción se refiere al fulbolista Diego Maradona, totalmente tangible a los sentidos, luego creible.
 
 [^65]: La coincidencia espacial de los retretes -ano- con la sala de juegos -genitales- alerta sobre el poco conocimiento de arquitectura, por lo menos en homo sappiens.  
-[^62]: **Evita** la protagonista de la ópera de Broadway.  Aquiere su popularidad gracias a que su nombre es utilizado a modo de conjuro, por sectores opacos de la sociedad argentina, para que se asfixien en su propio veneno los contertulios.  Funciona con otros personajes, merced a su fama, el Che Guevara, el Papa Francisco, Hebe de Bonafini, Diego Maradona y todo aquello que tenga alguna relación con lo popular.
+[^62]: **Evita** la protagonista de la ópera de Broadway llevada al cine y a varios idiomas.  Aquiere su popularidad gracias a que su nombre es utilizado a modo de conjuro, por sectores opacos de la sociedad argentina.  Funciona como brújula perfecta también con otros personajes, merced a su fama, el Che Guevara, el Papa Francisco, Hebe de Bonafini, Diego Maradona.  Es suficiente observar quienes los odian para saberse en el lugar correcto.
 
 **Divertículo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
@@ -680,7 +682,9 @@ Síntoma irrefutable del **fascista asintomático** [^40].
 
 > Ojalá pase algo que te borre de pronto.  --Silvio Rodriguez.
 
-**Ojota** *Quechua, Usuta.*  Calzado simple documentado en el gato popular:
+**Ojota** *Quechua, Usuta[^54].*  Calzado simple documentado en el gato popular:
+
+[^54]: En la asamblea que declara la independencia de España, Tucumán 1816, un sector importante de la intelectualidad propuso una monarquía como modo de gobierno con un rey descendiente de los Incas. Representantes de las familias patricias pusieron el grito en el cielo al visualizar un *"rey en ojotas"*.   
 
 > Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez.
 
@@ -710,7 +714,7 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atrás fuera el demonio[^8].
 
-[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, contemporáneos el macarthismo, la carrera espacial y armamentista contra la URS data cada vez vehículos más secretos y extraños.  En lo profundo de los estados centrales, de los WHASP, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación.  La tripulación logra salir con vida de la nave en llamas, con sus escafandras y trajes plateados.  El milagro los salva de la muerte en el aterrizaje, pero es cosida a balazos por granjeros, tan paranoicos como borrachos y armados, al estilo de cualquier establecimiento de Texas que se precie.  Dios tampoco puede estar en todo.  
+[^8]: En los cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos, contemporáneos el macarthismo, la carrera espacial y armamentista contra la **URSS** data cada vez vehículos más secretos y extraños.  En lo profundo de los estados centrales de la unión, el de los **WHASP**, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas, sin identificación -porque es secreta-.  La tripulación logra salir con vida de la nave en llamas, con sus escafandras y trajes plateados, también carentes de logos y banderas.  El milagro los salva de la muerte en el aterrizaje, pero son cosidos a balazos por granjeros, tan paranoicos como borrachos y armados, al estilo de cualquier establecimiento de Texas que se precie.  Dios tampoco puede estar en todo.  
 
 ## P
 
@@ -722,7 +726,7 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
 
-**Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores. 
+**Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
 
 **Papa** *Quechua. tubérculo comestible.*  Base de la alimentación de las culturas andinas pre hispánicas.  Teníamos más de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.   
 
@@ -906,7 +910,7 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
 
 **Suerte** *Lat. Sor Surtis sorte, dados o utensillos de madera para echar la suerte.*  La misma raiz tienen suerte y *lotería*.  En tiempos de la república romana, se entregaban por *sorteo* *lotes* de tierra entre los soldados que habían servido diez años en la legión.  Algunos tenían suerte y le tocaban lotes mas productivos que otros.  Provienen de este origen también sortilegio y Sortícula, que deriva en Sortija en las carreras[^43].
 
-[^43]: La iglesia de los Capuchinos es, posiblemente, la mas bella de la ciudad de Córdoba.  Allí, en los setentas, se desarrolló esta bella historia. Toda la comunidad infantil compuesta por boy scouts, catequistas y aspirantes a comuniones y confirmaciones, trabajaba sin descanso todo un año, el noble objetivo era que parte de esos niñ[o|a]s viajara a **Italia**.  Trabajaban doscientos pero solo podían viajar veinte.  Ferias de platos, colectas, empanadas y rifas.  Concurrir a estas actividades calificaba para participar de un sorteo.  Anualemente se ponían **-ponele-** pepelitos con *todos* los nombres de los pequeños colaboradores.  En una ceremonia tan íntima como emotiva, el devoto padre Carmelo hurgaba y sacaba los nombres de los beneficiadi[o|a]s del **sorteo**.  Año a año, inocentes niñ[o|a]s escuchaban los nombres seguidos de dos apellidos de las mismas familias patricias.  Nadie osaba poner en duda el honor de esta venerable institución, por lo que asumían esas coincidencias como caprichos de la providencia.  La candidez es una virtud que va abandonando al niñ[a|o] a medida que pasan los años y los desengaños, desde los reyes magos en adelante.  El niño Guillermo llevaba años caminando vendiendo numeritos.  En el último sorteo sugirió que su nombre no estaba en la bolsita de las limosnas, lo venía masticando durante años.  La bibliografía especializada lo llama **think out the box**.  En vano levantaron la voz amenazándolo con la excomunión y que "Juanito Bosco te está mirando".  Corrió, manoteó la bolsa, sacó todos los papeles y su nombre no estaba.  Se alejó del lugar al grito de "La Sagrada Familia eran juntados" que también pareciera venía meditando desde hacía años.
+[^43]: El templo de los Capuchinos es, posiblemente, la mas bella de la ciudad de Córdoba.  Allí, en los setentas, se desarrolló esta bella historia. Toda la comunidad infantil compuesta por boy scouts, catequistas y aspirantes a comuniones y confirmaciones, trabajaba sin descanso todo un año, el noble objetivo era que parte de esos niño/as viajara a **Italia**.  Trabajaban doscientos pero solo podían viajar veinte.  Ferias de platos, colectas, empanadas y rifas.  Concurrir a estas actividades calificaba para participar de un sorteo.  Anualemente se ponían **-ponele-** pepelitos con *todos* los nombres de los pequeños colaboradores.  En una ceremonia tan íntima como emotiva, el devoto padre Carmelo hurgaba y sacaba los nombres de los beneficiadio/as del **sorteo**.  Año a año, sonrientes pequeño/as escuchaban los nombres seguidos de dos apellidos de las mismas familias patricias.  Nadie puso nunca en duda estos resultados, por lo que asumían esas coincidencias como caprichos de la providencia.  La candidez es una virtud que nos va abandonando a medida que pasan los años y los desengaños, desde los reyes magos en adelante.  El niño Guillermo llevaba años vendiendo numeritos y rezando fervienteemente porque su nombre aparezca.  En el último sorteo sugirió que su nombre no estaba en la bolsita de las limosnas, venía negando durante años la evidencia.  La bibliografía especializada lo llama **think out the box**.  En vano levantó la voz, primero el cura, luego catequistas, naranjitas en el estacionamiento de los autos.  Las amenazas llegaban a la excomunión. Alquien soltó: *"Juanito Bosco te está mirando"*.  El ex creyente manoteó la bolsa, extrajo todos los papeles y validó a la *multitumbre*, su nombre no estaba.  Se alejó del lugar al grito de *"La Sagrada Familia eran juntados"*  descubrimiento que, al parecer, también venía meditando desde hacía años.
 
 **Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  El voto se llevaba a cabo al "fragor" de las masas.
 
@@ -924,7 +928,7 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
 
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
-> Andando por el mundo en tero.
+> Andando por el mundo en tero. --Carta de un leon a otro.  Chico Novarro.
 
 **Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^61].
 
