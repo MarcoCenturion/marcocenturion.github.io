@@ -42,7 +42,8 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
-**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias. 
+**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias.
+
 [^31]: El decoro prohibe chistes sobre gentes que va en dos direcciones, por lo que nos abstendremos de hacerlos, puesto que no solo está mal sino que mejores plumas se han adelantado mucho mejor.  
 
 > Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias.  --Alejandro Dolina.
@@ -53,7 +54,7 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 A lo que la mamá responde, ojitos pícaros
 
-> > Me invitó a un picnic al campo, llevamos yogurt y nos olvidamos las cucharitas.  Nada[^22] Eso.
+> Me invitó a un picnic al campo, llevamos yogurt y nos olvidamos las cucharitas.  Nada[^22] Eso.
 
 [^22]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
@@ -75,7 +76,9 @@ Luego de una ligera pausa agrega:
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
 
-**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.
+**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.  Artillería pareciera provenir de aquí, aquello que requiere un poco mas de arte que una simple herramienta rústica[^48].
+
+[^48]: Echan rodilla en tierra, los que a la guerra van con valor.  --La Artillera.  Zamba popular.
 
 > Ningún artista tolera la realidad  --Friedrich Niesztche.
 
