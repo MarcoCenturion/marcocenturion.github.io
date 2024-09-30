@@ -114,6 +114,10 @@ Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Mo
 
 > Corran putos, no bancan los trapos!
 
+**Bien**  *Lat. bene*.  Concepto controvertido, par antagónico del mal.  Los ejemplos del bién están generalmente emparentados con la verdad, que siempre es la verdad del poder de turno.
+
+> Rambo mataba doscientos hombres por película, Batman no respeta las leyes de tránsito, Popeye fuma porquerías verdes y se pone re loco, Blancanieves cohabita con siete hombres, la iglesia bendijo el genocidio americano y todas las dictaduras.  Y viven felices por siempre.
+
 **Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^48], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
 
 [^48]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
@@ -466,6 +470,10 @@ hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes ar
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
+**Infierno**.  *Lat. Infra, abajo*.  Los clásicos tenían una idea muy distinta a la que forjara durante el medioevo la Sacra Iglesia Católica.  Hades era un dios mas, lujurioso y cabrón como sus pares Poseidón y Zeus, mujeriego y borrachín.  Curiosamente no existía nada parecido al infierno en ninguna de las cosmogonías americanas.
+
+> Se asusta el viejito al ver al cura nuevecito, misal apretadito en las manos.  Segundos después ya acepta la realidad.  Pregunta por el mas allá, el cura fuerza una sonrisa poniéndole uas fichas al cielo, donde están esperándolo las buenas gentes piadosas. "*¿Y lo otro?*" Pregunta, pura curiosidad, el moribundo.  Es donde están las mujeres malas, las drogonas, los jugadores, los malandrines y entretenido en cura en su enumeración, olvida al *cliente*, al verlo, vé dibujársele una sonrisa tierna, acompañando un suspiro largo.  Me gustan los finales felices, creo que asumen pensar lo mismo.
+
 **Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, a partir del prefijo **in**.[^25].  La traducción correcta, atendiendo a la etimologia sería *Deformar* o *Desinformar*.
 
 [^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
@@ -573,7 +581,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 [^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo (Link)[https://es.wikipedia.org/wiki/Hannah_Arendt]
 
-**Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por muerto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
+**Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por mueurto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
 
 > No vuelve para pascuas ni para trinidad.  
 
@@ -826,6 +834,10 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 **Revolución** *Lat. revolutio, una vuelta*  Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor corrige levemente la apertura ocular, como toda ofuscasión permitida a un inglés y pregunta:
 
 > ¿Mujeres fumando en la ópera?
+
+**Retruécano** *Lat. trocare, cambiar*.  Figura retórica que consiste en cambiar las palabras de lugar en la oración para que cambie el sentido completamente.
+
+> No es lo mismo "María en el jardín del Edén" que "Le den a María en el Jardín".
 
 **Risa** *Sus. risus.*  Movimiento reflejo natural e involuntario, de uso -casi- exclusivo al homo sapiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
 
