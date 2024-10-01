@@ -70,7 +70,7 @@ Luego de una ligera pausa agrega:
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Aperitivo**  *Lat. Aperire, abrir.*   Se abre el apetito con el aperitivo, esa es su función.  Suena obsceno en tiempos en que mas de la mitad de la población del país se va a dormir sin cenar un mate cocido.
+**Aperitivo**  *Lat. Aperire, abrir.*   Se abre el apetito con el aperitivo, esa es su función.  Suena obsceno en tiempos en que mas de la mitad de la población del país se va a dormir sin cenar un mate cocido siquiera.
 
 **Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace más de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
 
@@ -86,7 +86,7 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 >  "... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on."  --Ray Bradbury.
 
-Lo realmente terrible no es eso, sino que le hace notar al protagonista **Guy Montag** que no recuerda nada de Molly, su ex mujer.
+Ese recuerdo del abuelo lo anoticia al protagonista **Guy Montag** sobre la falta de recuerdos de Molly, su mujer.
 
 **Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
