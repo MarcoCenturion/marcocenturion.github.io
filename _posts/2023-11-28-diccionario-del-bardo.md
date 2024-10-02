@@ -817,7 +817,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 **Quinto**  *Lat. Quintus.*  El que viene después del cuatro.
 
-> El cinco de mayo del mil novecientos cincuenta y cinco, nace el quinto hijo de una familia modesta de Buenos Aires.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado que en la quinta carrera de Palermo hay anotado un caballo llamado **Cinco**.  Malvemdió todos sus bienes y apostó un total cincuenta y cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
+> El cinco de mayo del mil novecientos cincuenta y cinco, nacía el quinto hijo de una familia modesta, de los suburbios del sur de de Buenos Aires.  Lo bautizaron Quinto Torres, hermano del divinal Odiseo Torres.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado lo que parece una historia digna de Ludovica u Horangel.  Adivina un guiño de la diosa fortuna.  En la quinta carrera de Palermo, corre un caballo llamado **Cinq** -cinco en francés-.  Malvemdió todos sus magros bienes y apostó un total cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
 
 ## R
 
