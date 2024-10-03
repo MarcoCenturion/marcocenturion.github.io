@@ -34,7 +34,7 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, de enderezar, enderez, enderezo.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
+**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.  Según la opinión de los ingenieros químicos, el alcohol es una solución.
 
 > Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
 
@@ -920,6 +920,8 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
 
 **Solapa**  Mit.  Ser sobrenatural femenino, merodeaba en las horas de la siesta de mi infancia en busca de niños que hicieran ruido.  La abuela la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural.  Basábamos su veracidad en palabras de la abuela, que buscaba complicidad en mi mamá y tías a su alrededor:  **"la tía Helena la vió una vez cuando era chica".**   A juzgar por su edad, la tía **Helena** bien puede haber sido la famosa actriz de la obra del rápsoda Homero.    No se porqué siempre le otorgué capacidad de volar, cuando nunca nos fuera aclarado su método de traslación espacial.
+
+**Sordera**  *Lat. Surdus, susurro inentendible*.  De aquí también provienen *Absurdo*.  Don Armando combinaba una mueca con la cara, acompañándola con una mano sosteniendo la oreja, en señal de no escuchar.  Se supone que lo había perfeccionado en el arte del chupino, para analizar las miradas de los contrincantes ante cojuros como envido o truco.  La clínica lo conoce como sordera selectiva.
 
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.
 
