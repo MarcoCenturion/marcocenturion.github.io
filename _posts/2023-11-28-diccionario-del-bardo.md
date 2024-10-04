@@ -541,9 +541,9 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el bestiario argentino cierto *homínido*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente. Conserva el mismo nombre -dato curioso- para ambos géneros, además de ser odiado por igual por todo el espectro político.  La izquierda, por falta de compromiso social y la derecha guarda hacia el/la larga un sentimiento a mitad de camino entre el odio y la repugnancia. 
 
-**Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, esta se convierte en un bien mas preciado que las criptodivisas.  Tan es así que es estimada hasta en las filas del enemigo.  Cuenta la leyenda que un oficial contrario a Roma se presentó ante **Julio Cesar**, solicitando unos sestercios, a cambio de delatar a sus propias tropas.
+**Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, esta se convierte en un bien mas preciado que las criptodivisas.  Tan es así que es estimada hasta en las filas del enemigo.  Cuenta la leyenda que un oficial contrario a Roma se presentó ante el ejército invasor en la *Hispania*, solicitando unos sestercios, a cambio de delatar a sus propias tropas.
 
-> Maten a este hombre, **Roma no paga traidores**.  -Dijo Julio Cesar una de sus célebres frases, negándose a escuchar una sola palabra del traidor.
+> Maten a este hombre, **Roma no paga traidores**.  *Roma traditoribus non praemiat*.  --Adjudican erroneamente Julio Cesar, cuando fue el proconsul Quinto Servilio Cepion, negándose a escuchar una sola palabra del traidor.  La misma figura retórica vale para el nuevo héroe contemporáneo, bautizado como el **arrepentido**.
 
 No menos emotiva es esta mas cercana en lo temporal y topologico.
 
