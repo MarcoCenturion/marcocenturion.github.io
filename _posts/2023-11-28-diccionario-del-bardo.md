@@ -450,6 +450,10 @@ hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes ar
 
 **Homofóbico**  Homosexual asintomático o lo que conocemos coloquialmente como *puto en pausa*.
 
+**Humor** *Lat. Humoris, líquido, humedad.*  Los antiguos médicos griegos suponían la existencia de líquidos llamados humores en el cuerpo, muy sanguíneo explicaría un humor colérico, en cambio las lágrimas de alegría mostrarían un buen humor, suponía un balance correcto de esos líquidoo.   Poner algo en el lugar donde no tiene que ir.  Glenn Miller y su big band grabaron *In the mood* en los cuarentas, que aquí se conoció como *De buen humor* poco antes de estrellarse su avión contra un prostíbulo en Francia[^78].  Contra lo que todos podemos suponer, mi única escapatoria al horror de la dictadura era una revista muy seria llamada precisamente **Humor**.
+
+[^78] El hombre sufre tanto su existencia que debión inventar la risa.  --Nietzsche
+
 ## I
 
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación tan cordial como bondadosa, para poder dar inicio a la clase:
