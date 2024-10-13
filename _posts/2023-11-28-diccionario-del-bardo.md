@@ -198,6 +198,8 @@ Símil del contemporáneo:
 
 **Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona más perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún más numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.  Especie de metáfora para adoptar el método *Think out the box*.
 
+**Clásico** *Lat. Classicus, de classis, convocatoria, reclutas de primer clase, las primeras líneas de infantería*.  Classici eran los excritores a los que inevitablemente había que leer.
+
 **Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic*.  **Co Co** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. [^18] 
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
