@@ -362,6 +362,8 @@ Ella lo corrige, ojos entrecerrados:
 
 **Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
 
+> Llevo mas de cuatrocientos años viviendo en esta vieja casa y nunca me crucé un fantasma.  --Memorias.  Mirta Legrand.
+
 [^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
 
 **Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
