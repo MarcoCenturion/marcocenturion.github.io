@@ -651,13 +651,15 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
-**Mula** *Lat. Mulus* posiblemente del *Gr. μυχλός (myjlós)*.  Cruza o hibridación entre un asno y una yegua, por añadidura, a dos especies animales como el canario y el gilguero, de quien proviene el *mistito* por mixto. Las casas de familias bien de toda américa hispana, llamaron *mulato* a los niños producto de la unión de un blanco con una negra, seguramente exclava.  No así, curiosamente, los niños nacidos de las blancas patricias, quienes nunca sintieron atracción alguna por la virilidad de sus exclavos, por lo que los niños de estas uniones siempre fueron llamados simplemente niños.  Entrado el siglo XX una señora muy bien de la culta y devota Córdoba, toma un coche de alquiler que la lleva a visitar una sobrina a quien hace mucho que no frecuenta.  Frunce la nariz al bajar y en la vereda unos pequeños sonrientes la reciben, asombrados.  Ambos.  
+**Mula** *Lat. Mulus* posiblemente del *Gr. μυχλός (myjlós)*.  Cruza o hibridación entre asno y yegua, por simpatía, se extiende su uso a dos especies animalesm tal es el caso del canario y el jilguero, de donde proviene el *mistito* por mixto.  Los hogares de familias bien, en sectores amplios de la América hispana, bautizaron *mulato* a los niños producto de la unión de un blanco con una esclava.  No así, curiosamente, los niños nacidos de las blancas patricias, quienes nunca sintieron atracción alguna por la virilidad de sus exclavos, por lo que los niños de estas uniones siempre fueron llamados simplemente niños.  En la Córdoba de posguerra, una señora de bien, toma un coche de alquiler que la lleva a la casa de su sobrina, a quien, vaya a saber porqué motivos, hace mucho que no frecuenta.  Frunce la nariz al bajar y en la vereda unos pequeños sonrientes la reciben, asombrados de lo que ven.  Ambos.  Pasados unos segundos la señora elegante habla. 
 
-> Mulato, podés decirle a la señora de la casa que llegó la tía Hercilita  --Suelta la anciana, poniendo un pañuelo en su nariz, buscando en el monedero algo que oficie de recompensa.
+> A ver[^63] *Mulato*, podés decirle a la señora de la casa que llegó tía Hercilita  --La ancianap lleva un pañuelo en la nariz, buscando en el monedero algo que oficie de recompensa y ganarse así una reverencia.
 
-> Mamá --Suelta el niño el grito, a modo de timbre, estirando la última "a".
+[^63]: Esta expresión coloquial de apariencia inócua, se utiliza a diario en el habla coditidiana para forzar un silencio en los interlocutores, señalando, por un lado la mucha importancia que cree poseer el usuario de la frase, inversamente proporcional a la poca importancia de los argumentos.  Es un universal.  La proliferación de los mensajes de textos da garantía de esto al registrarse con mayor frecuencia **haber** que **a ver**.  
 
-> Quien iba a decir mulato, que éramos parientes.
+> Mamá, hay gente. --Suelta un grito estridente el pequeño, a modo de timbre, estirando el sonido en la última A.
+
+> Quien iba a decir *mulato*, terminamos siendo parientes.
 
 **Música** *Gr.μουσική arte de las musas*  Cielo de los ateos.  Es el recuerdo de una felicidad que nunca existió, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
 
