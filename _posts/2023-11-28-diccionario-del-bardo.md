@@ -651,6 +651,14 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
+**Mula** *Lat. Mulus* posiblemente del *Gr. μυχλός (myjlós)*.  Cruza o hibridación entre un asno y una yegua, por añadidura, a dos especies animales como el canario y el gilguero, de quien proviene el *mistito* por mixto. Las casas de familias bien de toda américa hispana, llamaron *mulato* a los niños producto de la unión de un blanco con una negra, seguramente exclava.  No así, curiosamente, los niños nacidos de las blancas patricias, quienes nunca sintieron atracción alguna por la virilidad de sus exclavos, por lo que los niños de estas uniones siempre fueron llamados simplemente niños.  Entrado el siglo XX una señora muy bien de la culta y devota Córdoba, toma un coche de alquiler que la lleva a visitar una sobrina a quien hace mucho que no frecuenta.  Frunce la nariz al bajar y en la vereda unos pequeños sonrientes la reciben, asombrados.  Ambos.  
+
+> Mulato, podés decirle a la señora de la casa que llegó la tía Hercilita  --Suelta la anciana, poniendo un pañuelo en su nariz, buscando en el monedero algo que oficie de recompensa.
+
+> Mamá --Suelta el niño el grito, a modo de timbre, estirando la última "a".
+
+> Quien iba a decir mulato, que éramos parientes.
+
 **Música** *Gr.μουσική arte de las musas*  Cielo de los ateos.  Es el recuerdo de una felicidad que nunca existió, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
 
 > La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
