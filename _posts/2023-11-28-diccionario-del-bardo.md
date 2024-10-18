@@ -661,11 +661,11 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Quien iba a decir *mulato*, terminamos siendo parientes.
 
-**Música** *Gr.μουσική arte de las musas*  Cielo de los ateos.  Es el recuerdo de una felicidad que nunca existió, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
+**Música** *Gr. μουσική arte de las musas*.  Paraíso de atéos y disconformes.  *Recuerdo de una felicidad que nunca existió*, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
 
 > La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
 
-De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que que sin la existencia de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una simple corriente de pensamiento, perdida en el medioevo.  Como el arrianismo. 
+De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que sin la existencia de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una corriente filosófica menor, perdida en el medioevo, como el arrianismo. 
 
 ## N
 
@@ -849,7 +849,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 > Regueton is at music like Libertarians is at politics.  --Abraham Lincoln 
 
-**República**  *Lat. Res Cosa - Publicae de todos*  La cosa pública, literalmente de todos.  Existe la creencia que la **cosa pública** no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo atestiguan. [^45]
+**República**  *Lat. Res Cosa, Publicae de todos*  La **cosa pública**, literalmente de todos.  Existe la creencia que la **cosa pública** no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo atestiguan[^45]. El mantenimiento de *lo público* es nuestra única virtud como especie, frente al resto del mundo animal.    
 
 [^45]: El Estado es impersonal; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
 
@@ -1019,7 +1019,7 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 
 **Vida**  *Biol.*  Antónimo de Muerte.  
 
-> "Una chispa entre dos nadas" --Jorge Luis Borges.
+> Una chispa entre dos nadas --Jorge Luis Borges.
 
 El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
 
