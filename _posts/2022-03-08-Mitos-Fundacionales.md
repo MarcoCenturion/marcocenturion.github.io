@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: 'Peronismo asintomático'
-date: 2022-03-26 19:41:34
+date: 2024-09-26 19:41:34
 categories: blog
-tags: Peronismo, Dolina, Shakespeare
+tags: Peronismo, Dolina, Shakespeare, Leonardo Fabio, Cristina, Nestor
 image: '/images/default.jpg'
 lead_text: 'Mitos, leyendas, apostasías y otras delicias de esta corriente de pensamiento nacional y popular.'
 ---
@@ -167,9 +167,9 @@ En casos como este, nos interesa el arte sobre el rigor histórico.  Buscamos la
 
 [^4]: Cuando leemos el *Decline and Fall de Gibbon*, no buscamos certezas históricas, sino entender como veía un caballero londinense del siglo XVII a la Roma del Imperio tardío.  --Jorge Luis Borges.
 
-Aquellos y aquellas sensibles, tragarán varias veces saliva en ese punto de la obra.  Sigo sosteniendo la necesidad del arte, la necesidad de forzar la sensibilidad y la belleza.
+Aquellos y aquellas sensibles, forzarán varias veces la saliva, que no pasa por la garganta, en ese punto de la obra.  Sigo sosteniendo la necesidad del arte, la necesidad de forzar la sensibilidad y la belleza.
 
-Puede que exista la emoción y no se reconozcan peronistas.  Esperen a los siguientes renglones.
+Puede que aún existan quienes no se reconocem aún peronistas.  Esperen a los siguientes renglones.
 
 Aquí entra en juego cierta *distorsión selectiva* del número de las tropas de uno y otro lado, algo que observamos frecuentemente, cuando la historia deja de ser historia y empieza a ser mitología.  **Leónidas** y sus Trescientos en el paso de las Termópilas, es otro claro ejemplo.
 
@@ -177,25 +177,29 @@ En Agincourt, Shakespeare sugiere que los ingleses eran apenas unos cientos y lo
 
 Pensamiento mágico que no hace otra cosa que embellecer la narración. Porque convengamos, nos gustan las historias fantásticas.
 
-Mas allá de este pequeño *error contable de redondeo*, el autor olvida mencionar un detalle, aparentemente menor.  
+Más allá de este pequeño *error contable de redondeo*, el autor olvida mencionar un detalle, aparentemente menor.  
 
-Esta fue la primera batalla en la que se dispusieron arqueros detrás de las primeras filas de infantería, en este caso las británicas, hecho que hiciera estragos en la avanzada francesa.  Los británicos tomaron tantos prisioneros heridos que, fieles a un estilo canallezco, en cierto momento del combate, empezaron a asesinar prisioneros a sangre fría, para evitar incontrolables motines.  Detalle también omitido por el Bardo en su narración.
+Un detale técnico, al parecer menor.  Esta fue la primera batalla en la que se dispusieron arqueros detrás de las primeras filas de infantería, en este caso las británicas, hecho que hizo estragos en la avanzada francesa.  
+
+Otra fuente sostiene que crecía tanto el número de prisioneros franceses, que los igleses se sintieron atrapados.  Había mas franceses detrás que adelante de sus líneas.  En su narración el bardo olvida mencionar el método con el que el **Rey Henry** resolvió esto, el asesinato a sangre fría por parte de los ingleses a prisioneros indefensos.  
 
 Pasaron de la condición de **prisioneros** a **muertos** en un solo y mismo acto, no aclarado, como en la dictadura de Videla en los setentas o las democracias low cost de América Latina hoy.
 
 ¿Que puede aportarnos esta batalla a la simbología, la mística, el *merchandising* peronista?
 
-Aporta, tal vez, uno de los símbolos mas fuertes: La **V**, el saludo a través del cual la fratria se reconoce.
+Aporta, tal vez, el símbolo mas fuerte: La **V**, el saludo a través del cual la fratria se reconoce.  Con el que acompañan la sonrisa en la selfie.
 
-La mitología -a diferencia de la historia- no adquiere valor por cierta, sino por bella. 
+El valor de laa mitología -a diferencia de la historia- no está en su condición de **cierta**, sino de **bella**. 
 
-No tiene mucho sentido discutir sobre la fuerza de Heracles, la existencia o no de Jesucristo o la altura de crucero de los vuelos en Dragones.  Disfrutamos la belleza de las historias que los nombran.
+No tiene mucho sentido discutir sobre la fuerza de Heracles, la existencia o no de **Jesucristo** o la altura de crucero de los vuelos en Dragones.  Disfrutamos la belleza de las historias que los nombran.
 
-Ponemos en valor sus metáforas, como **La tierra para el que la trabaja**.  
+Dejamos que la belleza de sus metáforas nos conmuevan, como **La tierra para el que la trabaja** [^10].
 
-A menudo, la belleza del mito es demasiado perfecta, no se detiene en los detalles macabros, o las debilidades del héroe. Otras veces asistimos al engrandecimiento del héroe desde otra perspectiva. Lo que para la feligresía cristiana ortodoxa puede parecer una aberración: Cristo amante de Magdalena, para otro sector esto lo “humaniza” y mejora la “pintura”, el relato.
+[^10]: Pareciera que las historias tienen que acomodarse a la receta de Propp, Disney, Netflix.  Se produce tanto y se filma tan poco, decía Dolina.  Nos queda la amarga sensación de haber visto todo.
 
-Un Manuel Belgrano gay, como sugiere alguna doctrina con la intención de reducir su valor en la historia para el revisionismo siglo XXI, puede acercar una lectura distinta, mas amplia, mas bella, mas varonil incluso:
+A menudo, la belleza del mito es demasiado perfecta, no se detiene en los detalles macabros, o las debilidades del héroe. Otras veces asistimos al engrandecimiento del héroe desde otra perspectiva. Lo que para la feligresía cristiana ortodoxa puede parecer una aberración: Cristo amante de Magdalena, para otro sector esto lo *humaniza* y mejora la *pintura*.
+
+Aquellos que muestran un Manuel Belgrano gay, con la intención de reducir su valor en la historia, a los ojos del revisionismo siglo XXI, puede acercar una lectura distinta, mas amplia, mas bella, mas varonil incluso:
 
 > Un abogado bien, de familia acomodada porteña, al que destinan con solo una pieza de artillería y no mucho mas de cien hombres a detener todo el ejército realista, que como táctica **Exige** a los lugareños que destruyan sus campos, quemen sus haciendas y marchen, porque lo mandan **los porteños**.  Ningún héroe de Marvell le llega a los talones al bueno de Manuel [^5].
 
@@ -205,20 +209,20 @@ Mientras que los símbolos aportan a las causas la emoción y la belleza, las es
 
 ## La Explicación de la "V"
 
-Volviendo a la batalla en Normandía, allá por el 1400, otro sector de la doctrina comenta, que a los arqueros ingleses capturados, los franceses les cortaban los dedos índice y medio de la mano derecha, los dedos con los que se tensa la cuerda del arco, inutilizándolos así para la batalla.  No los mataban, algo mas humanos que los ingleses, los inutilizaban para la batalla.
+Volviendo a la batalla en Normandía, allá por el 1400, otro sector de la doctrina comenta, que a los arqueros ingleses capturados, los franceses les cortaban los dedos índice y medio de la mano derecha, los dedos utilizados para tensar la cuerda del arco, inutilizándolos así para la batalla.  No los mataban, algo mas humanos que los ingleses, los inutilizaban para la batalla.
 
-Luego, los arqueros ingleses sanos saludaban a las tropas enemigas con estos dos dedos en alto, signo que llevado significado -a palabras- sería algo como:
+Luego, los arqueros ingleses con manos completas, saludaban a las tropas enemigas con estos dos dedos en alto.  Símbolo, signo. Llevado a palabras sería algo como:
 
-> "Aún puedo disparar" 
+> Aún puedo disparar. 
 
-Una aparición temprana del posterior: 
+Antecedente directo del significado que adquiere en el siglo XX en estas latitudes. 
 
 > Vamo a volvé
 
-Esto funciona a nivel simbólico, al resumir en una sola palabra -o solo un signo en este caso- procesos políticos, emociones, teorías económicas, prácticas, mitología, misticismo, arte, etc [^6].  
+Funciona a nivel simbólico, resume en una sola palabra -o solo un signo como en este caso- procesos políticos, emociones, teorías económicas, prácticas, mitología, misticismo, arte, etc [^6].  
 
 [^6]: Podemos servirnos de esto y comenzar un excelente libro llamado:  Introducción al estructuralismo.
 
 En otras topologías, donde la **chusma** carece de **aglutinantes** de este tipo, notamos cierta horfandad, cierto **brillo por la ausencia**, como el claro ejemplo de las protestas chilenas, donde faltan carteles, banderas, "mística" y esa señal homogénea y clara al enemigo de estamos en pié.
 
-La "V" es **venceremos**, es **vamos a volver**, o solo mostrar este escudo, que por grande que sea el enemigo, por muchos y fuertes aún nos quedan índices y medios levantados, en las manos para tensar arcos y reconocernos en la fratria.
+La **V** es **venceremos**, es **vamos a volver**, quizá no es mas que un escudo simbólico, un conjuro, por grande que sea el enemigo, por muchos, fuertes, malos, sin honor, aún nos quedan dedos índices y medios levantados, en las manos para tensar arcos y reconocernos en la fratria, en la marcha, en las fotos, en el honor de guías espirituales, de Henry para acá.
