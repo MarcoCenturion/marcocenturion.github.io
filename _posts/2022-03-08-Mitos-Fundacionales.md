@@ -94,7 +94,6 @@ Entre los miles de argumentos en contra de políticas del populismo, encontramos
 
 [^7]: El esqueleto de Lucy en las canteras de Oduvay Gorge, Kenia, nos muestra un homínido femenino, que vivió hace mas de tres millones de años. Medía apenas mas que un metro y su cerebro no era mucho mas grande que el de un chimpancé actual, pero tenía el femur quebrado y soldado nuevamente.  En la hostilidad de la selva hubiera sido presa fácil de los carnívoros, alguien tuvo piedad de su condición y la cuidó.  Ese detalle hace que pensemos que eren humanos. 
 
-
 ## Enlightenment
 
 Hay un momento de la **iluminación** groncha, para lo cual nada mejor que mostrarlo en boca de sus conversos.
@@ -207,7 +206,7 @@ Aquellos que muestran un Manuel Belgrano gay, con la intención de reducir su va
 
 Mientras que los símbolos aportan a las causas la emoción y la belleza, las estadísticas acercan justificaciones lógicas. La política es un territorio a mitad de camino, no es lógica sino **El arte de lo posible** como decía Aristóteles. 
 
-## La Explicación de la "V"
+## La explicación de la V
 
 Volviendo a la batalla en Normandía, allá por el 1400, otro sector de la doctrina comenta, que a los arqueros ingleses capturados, los franceses les cortaban los dedos índice y medio de la mano derecha, los dedos utilizados para tensar la cuerda del arco, inutilizándolos así para la batalla.  No los mataban, algo mas humanos que los ingleses, los inutilizaban para la batalla.
 
