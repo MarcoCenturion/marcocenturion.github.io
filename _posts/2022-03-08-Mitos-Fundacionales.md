@@ -58,19 +58,19 @@ Llega a las últimas por comodidad, no hay tiempos de lecturas, si de escuchar p
 
 Solo hay que dejar que el tiempo haga  su *milagro terapéutico*, para hacer aparecer la pregunta sobre quién fue, en realidad **es**, **Pocho Lepratti**, las circunstancias por las que subió a ese techo, de ese humilde comedor infantil, a gritar a unos policías que no disparen porque **adentro solo hay pibes comiendo**.  
 
-El disparo que desgarra la garganta del joven Pocho, que abandona el carácter humano y se convierte en símbolo, dibujo en las paredes y canción.   Y es desde allí las efemérides de las navidades nunca vuelvan a ser lo mismo en la Argentina, después del 2001.
+El disparo desgarra la garganta de Pocho, que abandona el carácter humano y se convierte en símbolo, dibujo en las paredes y canción.   Es desde acá, que las efemérides de las navidades futuras nunca vuelvan a ser lo mismo en la Argentina.
 
-Pareciera mas lógico, por simpatía, por cercanía temporal, rezarle a un _flaco rosarino de barba al que mataron las fuerzas represivas por defender a los débiles_, que a un _flaco palestino de barba, al que mataron las fuerzas represivas por defender a los débiles.  
+Pareciera mas lógico, por simpatía, por cercanía temporal, rezarle a un _flaco rosarino de barba al que mataron las fuerzas represivas por defender a los débiles_, que a un _flaco palestino de barba, al que mataron las fuerzas represivas por defender a los débiles_.  
 
-Suponer a uno más dios que al otro, solo pareciera ser un tema de marketing, a simple vista.
+Suponer a uno más dios que al otro, solo pareciera originarse en un mayor esfuerzo de marketing.
 
 No somos más que la aceptación de símbolos, trapos debajo de los que nos cobijamos y que hablan de nosotros. 
 
-Si algo caracteriza al peronismo es el desborde de carga emotiva, mitos fundacionales, fratrernidad, liturgia propia, símbolos.  Toneladas de ellos.  Hermandad que cohagula y que se reconoce en esos gestos, frases y risas.
+Si algo caracteriza al peronismo es el desborde de carga emotiva, mitos, fratrernidad, liturgia, símbolos.  Toneladas de ellos.  Hermandad que cohagula y que se reconoce en esos gestos, frases, refranes y risas.
 
 Acá nos encontramos frente a una paradoja muy interesante.  
 
-Los mismos símbolos que sirven de aglutinante hacia adentro, funcionan como repelente hacia afuera.  La **"marchita"** -siempre en diminutivo- o **"el chori"** al que también se le baja el precio con el despectivo acortamiento-, cohesionan y amalgaman a la tropa propia, pero hacia afuera generan rechazo, precisamente en ese sector objetivo, la intelectualidad sensible clase media, los habitantes de esa zona que conocemos como **Corea del Centro**.
+Los mismos símbolos que sirven de aglutinante hacia adentro, funcionan como repelente hacia afuera.  La **"marchita"** -siempre en diminutivo- o **"el chori"** al que también se le baja el precio con el despectivo -acortamiento-, cohesionan y amalgaman a la tropa propia, pero hacia afuera generan rechazo, precisamente en ese sector objetivo, la intelectualidad sensible clase media, los habitantes de esa zona que conocemos como **Corea del Centro**.
 
 ## El desafío
 
