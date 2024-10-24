@@ -56,7 +56,7 @@ Llega a las últimas por comodidad, no hay tiempos de lecturas, si de escuchar p
  
 ## El milagro estético
 
-Solo hay que dejar que el tiempo haga  su *milagro terapéutico*, para hacer aparecer la pregunta sobre quién fue, en realidad **es**, **Pocho Lepratti**, las circunstancias por las que subió a ese techo, de ese humilde comedor infantil, a gritar a unos policías que no disparen porque *adentro solo hay pibes comiendo**.  
+Solo hay que dejar que el tiempo haga  su *milagro terapéutico*, para hacer aparecer la pregunta sobre quién fue, en realidad **es**, **Pocho Lepratti**, las circunstancias por las que subió a ese techo, de ese humilde comedor infantil, a gritar a unos policías que no disparen porque **adentro solo hay pibes comiendo**.  
 
 El disparo que desgarra la garganta del joven Pocho, que abandona el carácter humano y se convierte en símbolo, dibujo en las paredes y canción.   Y es desde allí las efemérides de las navidades nunca vuelvan a ser lo mismo en la Argentina, después del 2001.
 
