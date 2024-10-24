@@ -787,7 +787,9 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque se han documentado casos de gente con pelos así.
 
-**Pelotudo**  Léase Paciente.
+**Pelotudo**  Léase Paciente.  Es sano al Yo asumirse pelotudo, como lo documenta Jorge Luz en la siguiente semblanza.
+
+> Esperando salir al escenario, un muy joven Jorge Luz, temblaba de frío en los camarines del Luna Park.  Nota que a una ventana le falta un vidrio y su traje de marinerito en julio no colabora en darle cobijo.  De pronto se abre la puerta y aparece el Mono Gatica, camisa a cuadros, corbata roja, sobretodo piel de camello y galera.  Gatica pregunta "¿Nene de que te disfrazaste?" a lo que Jorge Luz responde poniendo en riesgo su vida "Yo de pelotudo ¿Y usted?" Afortunadamente, el boxeador no comprendió el alcance del chiste.
 
 **Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe *el uso de la fuerza* para compartirlo contigo. -4 Esta prohibición alcanza el caracter de **Delito de Código Penal**, si ese *otros* son niños.  5- No conviene alardear de tenerlo.  
 
