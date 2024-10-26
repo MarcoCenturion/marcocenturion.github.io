@@ -18,17 +18,21 @@ Martín, sin abandonar el aplomo, tomó aire y respondió.
 
 La verdad no está oculta, está siempre visible, como la carta del cuento de Edgar Allan Poe.
 
+Para que sirve la filosofía, le preguntaron a José Pablo Feinmann y respondió elegantemente:
+
+> Para romper las pelotas.
+
 Es tiempo de parar la pelota y pensar las respuestas, no dejarnos apurar para largar la evidente, porque los tiempos son los quince segundos del Tik Toc.  La respuesta siempre es mas interesante si hecemos un paso atrás y pensamos bien.  
 
-## El protocolo 2030 es anticapitalista, no es socialista
+## La agenda 2030 desnuda los errores del capitalismo, no es socialista
 
 Por ahí no es el socialismo la socución medioambiental, ahora, sacar gente de la pobreza es discutible. [Nota BBC sobre agenda 2030](https://www.nationalgeographicla.com/medio-ambiente/2023/12/que-es-la-agenda-2030-de-la-onu-y-cuales-son-sus-17-objetivos)
 
 El capitalismo basa su hegemonía en discurso, sin hechos.  
 
-> El Socialismo empobrece.  La economía mas próspera del siglo XXI es China.
+> "El Socialismo empobrece."  La economía mas próspera del siglo XXI es China.
 
-> El mercado está destinado a regular la economía.  Geralmente, esta tesis es sostenida por quienes son dueños de los medios de producción, de represión, de las redes sociales, el sistema judicial, etc.  Si el mercado regulara libremente, no saldrían los estados a apagar las crisis sistémicas por las que atraviesa el capitalismo, periodicamente.  Lo que fuera excepcional, como en la crisis del treinta, cada vez es mas frecuente, cuando no es el tequila, son las hipotecas subprime, la lira turca, etc.  
+> "El mercado debe a regular la economía sin intervención de los estados."  Geralmente, esta tesis es sostenida por quienes son dueños de los medios de producción, de represión, de las redes sociales, el sistema judicial, etc.  Si el mercado regulara libremente, no saldrían los estados a apagar las crisis sistémicas por las que atraviesa el capitalismo, periodicamente.  Lo que fuera excepcional, como en la crisis del treinta, cada vez es mas frecuente, cuando no es el tequila, son las hipotecas subprime, la lira turca, etc.  
 
 > Si en lugar de salvar a los bancos y timberos de Wall Street, el dinero de los contribuyentes norteamericanos se repartiera en todos los habitantes del mundo, quien se preocuparía de las jubilaciones.  Ese hombre de color contribuye pagando impuestos con sus consumos a salvar multimillonarios.
 
@@ -38,11 +42,15 @@ El capitalismo basa su hegemonía en discurso, sin hechos.
 
 USD700000000000 / 6000000000 Habitantes = USD116666 per cápita.
 
+Este importe puede parecer irrisorio para muchos.  No para quienes nunca han visto un dólar y su esperanza de vida no supera los treinta años.  En síntesis, no mejoraron nada respecto del neolítico.  
+
 > ¡Sabes que!  No te preocupes por mi jubilación, con esos 117 mil dólares y el uso que les pienso dar, los últimos años de mi vida van a ser no solo alucinantes, sino que van a ser pocos, cuanto mas alucinante, mas pocos, inversamente proporcional.  Quien puede necesitar un sistema bancario, con ese importe.  Además, han dado muestras sobradas de ser una de estas dos opciones, o estafadores, por lo que deberían están en cana, o estúpidos, por lo que no deberíamos dejarles nuestro dinero para que lo administren.
  
 > Un segundo tema no menor, esta cifra alcanzaría a todo el mundo, desde el mismo gerente de JP Morgan, que ahora estaría desocupado, al niño-a argelí o albanes o palestino, algo totalmente inaccesible a su intelecto, porque esos seres no existen, literalmente.  Desconocen el significado del término empatía.
 
 > Tercer aspecto, el mas importante.  Si somos absolutamente fieles al mercado, no supieron hacer negocios, van a quebrar e ir en cana.  Simple.  Quebrarían esos estados.  Estaríamos muy bien sin Inglaterra o Estados Unidos.
+
+> Cuarto.  No tengo que pagar la hipoteca del banco, porque este no existe mas.  
 
 > Me encantan los eufemismos con los que disfrazan los delitos.  Activos tóxicos, o activos basura le llaman a los fraudes.  El hombre de color de Alabama que robó la gallina, va en cana.
 
