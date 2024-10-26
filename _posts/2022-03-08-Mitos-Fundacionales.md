@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: bloGiovanoni Alexg
 title: 'Peronismo asintomático'
 date: 2024-09-26 19:41:34
 categories: blog
