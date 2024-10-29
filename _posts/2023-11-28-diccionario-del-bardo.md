@@ -26,9 +26,9 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
 
-> Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas.  Nada[^22] Eso.
+> Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas, vi lo que hizo con el vasito.  Nada[^61] Eso.
 
-[^22]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
+[^61]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad innata para horrorizar, muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera logarítmica, cuando el indivíduo valida la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Bronislaw Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de *caníbales*, a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Narra prohibiciones y preceptos para la cocina que amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
