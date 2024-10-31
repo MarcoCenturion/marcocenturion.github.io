@@ -60,6 +60,14 @@ Esta lucha por la imposición de un modelo cultural, del *american dream* es, po
 
 Este hecho es inviable en la práctica, porque el gasto que genera el sistema represivo, es mas caro al sistema económico en su conjunto, los que salen ganando, son un puñado de capitalistas que arrancaron la carrera por el éxito, mucho antes que sus competidores, con una ligera ventaja.
 
+La paradoja es que le den el nobel de la Paz a Barak Obama, el inventor del método mas cobarde de guerra, el ataque con drones no tripulados.
+
+El bloqueo a Cuba es la verguenza mas gosera del mundo, de hecho solo lo apoyan dos paises, el único que tiró dos bombas atómicas, sobre poblaciones civiles, apoyado por el que tira bombas sobre civiles, para que el mundo vea de que son capaces.
+
+Lo interesante es hacer un paso atrás para poder mirar mejor, no dejarse apurar para largar una opinión. 
+
+
+
 
 
 
