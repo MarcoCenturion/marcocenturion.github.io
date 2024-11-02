@@ -66,6 +66,12 @@ El bloqueo a Cuba es la verguenza mas gosera del mundo, de hecho solo lo apoyan 
 
 Lo interesante es hacer un paso atrás para poder mirar mejor, no dejarse apurar para largar una opinión. 
 
+## Emular riqueza
+
+Recuerdo un tiempo pasado en el que nos contentábamos con ser trabajadores, llevábamos las botellas de aceite al almacén, en realidad todas las botellas, reciclando sin saberlo.  No íbamos a las "grandes superficies" a hacer grandes compras en autos enormes, teniendo el almacén del barrio que conocenos y nos conoce, donde podemos ir a pié, todos los días y volver con chusmeríos de las vecinas o vecinos, o necrológicas.
+
+Los abuelos de mi mamá vinieron de Italia cerca del 1900, entre sus pertenencias había varias herramientas de labranza y albañilería.  Unos gajos de rosas, que yo quiero creer que se trajeron como si fuera un pedazo de Rialto. 
+
 
 
 
