@@ -14,19 +14,21 @@ No hablamos un idioma, el idioma nos utiliza como vehículo de expresión, es po
 
 > En principio era el verbo.  --Primera línea del Génesis.
 
-Los mitos, como la forma mas antigua de narrar, juegan un rol importante en nuestra vida.  De importancia comparable a la respiración o la alimentación en el plano biológico.  De aquí provinen fanáticos, idólatras, iconoclastas, apóstatas y conversos.  
+Es en este sentido que los mitos, como la forma mas antigua de narrar, juegan un rol muy importante en nuestra vida, comparable a la respiración o la alimentación en el plano biológico.  De los mitos que los formaron y conmovieron, provinen fanáticos, idólatras, iconoclastas, apóstatas y conversos.  
 
-Los últimos parecen ser los menos frecuentes, tal vez por ello nos cuesta aceptar que los reyes magos no existen, porque quedaron grabados a una emoción.  Borges sostiene que no recordamos lugares sino momentos de esos lugares.  
+Los últimos, los apóstatas parecen ser los menos frecuentes. 
 
-Desde muy temprana edad somos sometidos a estos mitos, atravesados por mitos, que formarán nuestro carácter y nuestras sucesivas y diferentes Fés.  La adultez nos obliga a elegir unos, desechar otros, colaborar en el armado de nuevos y en algunos casos muy puntuales, ser **protagonistas**. Muchas veces, esos protagonistas son involuntarios. 
+Es por esto que tal vez nos cuesta tanto aceptar la inexistencia los reyes magos no existen, porque quedaron grabados a una emoción.  
 
-Los mitos de esa corriente de pensamiento que, tal vez por comodidad, llamamos simplemente **Peronismo**, se comportan dentro de la sociedad como un *virus* dentro del cuerpo.  Hay toda una corriente de pensamiento que lo entiende así.
+Borges sostiene que no recordamos lugares sino momentos de esos lugares.  
 
-> El peronismo es un virus.
+Desde muy temprana edad somos sometidos a mitos, atravesados por mitos, que formarán nuestro carácter y nuestras sucesivas y diferentes Fés.  La adultez nos obliga a elegir unos, desechar otros, colaborar en el armado de nuevos y en algunos casos muy puntuales, ser **protagonistas**. Muchas veces, siempre, este protagonismo es involuntario.  
 
-Solo que desde una posición muy diferente a esta.
+Una corriente de pensamiento que, tal vez por comodidad, llamamos simplemente **Peronismo**, está plagada de mitos que se comportan dentro de la sociedad como un *virus* dentro del cuerpo.  Incluso sus némesis lo muestran así.
 
-Una necesidad de invasión, ansia proselitista, que observa la misma lógica que las iglesias.  Tienta a la feligresía con **mística** antes que argumentos. Hay una **primera etapa** de incubación, en la que se captura el alma del individuo, que da paso a la siguiente: la prolija discusión argumentos.  Datos duros.  
+> El peronismo es un virus.  
+
+Una necesidad de invadir cuerpos, ansia proselitista, observa la misma lógica que las iglesias.  Tienta a la feligresía con **mística** antes que argumentos. Hay una **primera etapa** de incubación, en la que se captura el alma del individuo, que da paso a la siguiente: la prolija discusión argumentos.  Datos duros.  
 
 Esto es así por un motivo importante.  Existen proto-peronistas, no asumidos aún, que no disfrutarán del **sabor** de esos argumentos, los números duros. Ocurre que muchas veces -siempre- tienen activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá el ingreso al yo de esos datos, por ello, los argumentos camuflarse, encontrar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.  Por la emoción.
 
