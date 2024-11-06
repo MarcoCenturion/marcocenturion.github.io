@@ -18,19 +18,19 @@ Es en este sentido que los mitos, como la forma mas antigua de narrar, juegan un
 
 Los últimos, los apóstatas parecen ser los menos frecuentes. 
 
-Es por esto que tal vez nos cuesta tanto aceptar la inexistencia los reyes magos no existen, porque quedaron grabados a una emoción.  
+Es por esto que tal vez nos cuesta tanto aceptar la inexistencia los reyes magos, porque quedaron grabados a una emoción.  
 
 Borges sostiene que no recordamos lugares sino momentos de esos lugares.  
 
-Desde muy temprana edad somos sometidos a mitos, atravesados por mitos, que formarán nuestro carácter y nuestras sucesivas y diferentes Fés.  La adultez nos obliga a elegir unos, desechar otros, colaborar en el armado de nuevos y en algunos casos muy puntuales, ser **protagonistas**. Muchas veces, siempre, este protagonismo es involuntario.  
+Desde muy temprana edad somos sometidos a mitos, atravesados por mitos, que formarán nuestro carácter y nuestras sucesivas y diferentes Fés.  La adultez nos obliga a elegir unos, desechar otros, colaborar en el armado de nuevos y en algunos casos muy puntuales y excepcionales, ser **protagonistas**. Muchas veces, sino siempre, este protagonismo es involuntario.  
 
-Una corriente de pensamiento que, tal vez por comodidad, llamamos simplemente **Peronismo**, está plagada de mitos que se comportan dentro de la sociedad como un *virus* dentro del cuerpo.  Incluso sus némesis lo muestran así.
+Una corriente de pensamiento que, tal vez por comodidad, llamamos simplemente **Peronismo**, está plagada de mitos que se comportan dentro de la sociedad como un *virus* dentro del cuerpo.  Lo hemos escuchado hasta el hartazgo.
 
 > El peronismo es un virus.  
 
 Una necesidad de invadir cuerpos, ansia proselitista, observa la misma lógica que las iglesias.  Tienta a la feligresía con **mística** antes que argumentos. Hay una **primera etapa** de incubación, en la que se captura el alma del individuo, que da paso a la siguiente: la prolija discusión argumentos.  Datos duros.  
 
-Esto es así por un motivo importante.  Existen proto-peronistas, no asumidos aún, que no disfrutarán del **sabor** de esos argumentos, los números duros. Ocurre que muchas veces -siempre- tienen activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá el ingreso al yo de esos datos, por ello, los argumentos camuflarse, encontrar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.  Por la emoción.
+Esto es así por un motivo importante.  Existen proto-peronistas, no asumidos aún, que no disfrutarán del **sabor** de esos argumentos, los números duros. Ocurre que muchas veces -siempre- tienen activado un **antivirus** ideológico.  Este **firewall** intelectual no permitirá el ingreso al yo de esos datos, por ello, los argumentos deben camuflarse, encontrar la forma de ingresar por el lado del arte, de los sentimientos ligados a este.  Por bellos.  Por la emoción.
 
 El antivirus basa su fortaleza en la falacia que conocemos como **sentido común**, ese mito deslucido, que oficia de dogma berreta.  La aberración al pensamiento crítico, más dañina que todas las iglesias juntas.  Reforzado con publicidades, medios masivos y catedráticos bien vestidos, que hablan con voz varonil de publicidad de yogurt.  
 
@@ -42,7 +42,7 @@ Vemos a diario peronistas en pausa, los -nos- reconocemos, les duele el hambre d
 
 Son peronchos ignorantes de su condición, somatizan la enfermedad, meros portadores sanos. 
 
-Las cosas tienden a parecerse al color del cristal con que se miran.  Si el niño desayunó en un hogar donde se escuchó a diario las hermosas sentencias logicas y esperables:
+Si el niño desayunó en un hogar donde se escuchó a diario las hermosas sentencias logicas y esperables:
 
 > Esos negros de mierda 
 
@@ -54,31 +54,33 @@ o
 
 > Bolivianos hinchas de boca 
 
-Es probable que ese niño desarrollara a lo largo del tiempo, cierta inmunidad a la sabia sentencia 
+Es probable que desarrollara a lo largo del tiempo, cierta inmunidad a la sabia sentencia: 
 
 > **La patria es el otro**. 
 
 Bella *per sé* y que esa belleza pueda conmover su corazón.
 
-Puede que así no alcance nunca la lectura del libro de **Rodolfo Walsh** sobre la masacre de **José Leon Suarez**[^8] y que eso despierte grandes sentimientos en su fuero mas íntimo.  Pero, por el contrario, ese corazón si es vulnerable a escuchar por error a **León Gieco** y su **El Ángel de la Bicicleta**.  Por la suma de simpatías estéticas y errores espacio-temporales.  
+Puede que no alcance nunca la lectura del libro de **Rodolfo Walsh** sobre la masacre de **José Leon Suarez**[^8] y que eso despierte grandes sentimientos en su fuero mas íntimo.  Por el contrario, ese corazón es vulnerable a escuchar por error a **León Gieco** y su **El Ángel de la Bicicleta**.  Por la suma de simpatías estéticas y errores espacio-temporales.  
 
-[^8]: Operación Masacre, que escribiera Rodolfo Walsh en 1957, es la primera novela basada en hechos históricos de la historia -sic- por mucho que insnsta el canon en poner en ese lugar a la novela **A Sangre Fría** de Truman Capote de 1966, excelente por cierto, pero no la primera. 
+[^8]: Operación Masacre, que escribiera Rodolfo Walsh en 1957, es la primera novela basada en hechos históricos de la literatura, por mucho que insnsta el canon en poner en ese lugar a la novela **A Sangre Fría** de Truman Capote de 1966, excelente por cierto, pero no la primera temporalmente. 
 
 Llega a las últimas por comodidad, no hay tiempos de lecturas, si de escuchar por error una música e indagar porqués. 
  
-## El milagro estético
+## La magia estética
 
-Solo hay que dejar que el tiempo haga  su *milagro terapéutico*, para hacer aparecer la pregunta sobre quién fue, en realidad **es**, **Pocho Lepratti**, las circunstancias por las que subió a ese techo, de ese humilde comedor infantil, a gritar a unos policías que no disparen porque **adentro solo hay pibes comiendo**.  
+Solo hay que dejar que el tiempo haga su *milagro terapéutico*, para hacer aparecer la pregunta sobre quién fué, en realidad **es**, **Pocho Lepratti**, las circunstancias por las que subió a ese techo, de ese humilde comedor infantil, a gritar a unos policías que no disparen porque: 
 
-El disparo desgarra la garganta de Pocho, que abandona el carácter humano y se convierte en símbolo, dibujo en las paredes y canción.   Es desde acá, que las efemérides de las navidades futuras nunca vuelvan a ser lo mismo en la Argentina.
+> **adentro solo hay pibes comiendo**.  
+
+El disparo desgarra la garganta de Pocho, que abandona el carácter humano y se convierte en símbolo, dibujo en las paredes y canción.   Es desde ese momento, las efemérides de las navidades futuras nunca vuelvan a ser lo mismo en la Argentina.
 
 Pareciera mas lógico, por simpatía, por cercanía temporal, rezarle a un _flaco rosarino de barba al que mataron las fuerzas represivas por defender a los débiles_, que a un _flaco palestino de barba, al que mataron las fuerzas represivas por defender a los débiles_.  
 
-Suponer a uno más dios que al otro, solo pareciera originarse en un mayor esfuerzo de marketing.
+Suponer a uno más diós que al otro, solo parece originarse en un mayor esfuerzo de marketing, dos mil años de marketing.
 
 No somos más que la aceptación de símbolos, trapos debajo de los que nos cobijamos y que hablan de nosotros. 
 
-Si algo caracteriza al peronismo es el desborde de carga emotiva, mitos, fratrernidad, liturgia, símbolos.  Toneladas de ellos.  Hermandad que cohagula y que se reconoce en esos gestos, frases, refranes y risas.
+Si algo caracteriza al peronismo es el desborde de carga emotiva, mitos, fratrernidad, liturgia, símbolos.  Toneladas de ellos.  Hermandad que cohagula y que se reconoce en esos gestos, frases, refranes y risas.  Solo pueden negar la alegría de la marcha, quien nunca marchó un 24 de marzo.
 
 Acá nos encontramos frente a una paradoja muy interesante.  
 
@@ -86,7 +88,7 @@ Los mismos símbolos que sirven de aglutinante hacia adentro, funcionan como rep
 
 ## El desafío
 
-Debemos encontrar seres sin el antivirus del odio al negro, pero de no encontrar esos seres, buscar aquellos que teniéndolo, sean permeables al **arte**.
+Debemos encontrar seres sin el antivirus del odio al groncho, pero de no encontrarlos, buscar aquellos que teniéndolo, sean permeables al **arte**.
 
 Odio que es el tratamiento más simple que tienen para cursar el **miedo al otro**.  Temen en secreto convertirse en eso, confirmarse, descubrirse llevando el ritmo de la marcha con el pié.  O las palmas, en casos severos.
 
@@ -98,11 +100,13 @@ Una industria del entretenimiento enfocada en la simpleza intelectual del indivi
 
 Resultado de esa alienación son depresión, ansiolíticos, alcohol, tóxicos duros, viajes para la selfie y compra compulsiva de dolar Blue. 
 
-Los viajes son larguísimos, en horas de vuelo y cuotas en la tarjeta, para la selfie en el lugar común.  No es casual que las muertes por **Selfie** en el 2019 fueran 5 veces superiores a las producidas por ataques de tiburones [Nota Shark vs Selfies][2].
+Los viajes son larguísimos, en horas de vuelo y cuotas en la tarjeta, para la selfie en el lugar común.  No es casual que las muertes por **Selfie** en el 2019 fueran cinco veces superiores a las producidas por ataques de tiburones [Nota Shark vs Selfies][2].
 
 [2]: https://www.newsweek.com/selfies-deadlier-shark-attacks-1446363
 
-Entre los miles de argumentos en contra de políticas del populismo, encontramos la restricción a las importaciones, por caso: licuadora.  Si bien tenemos que atender a esas necesidades, también debemos trabajar desde los primeros momentos de la formación del niño en deconstruir ese egoísmo que llevará inexorablemente al mundo a la tercera, inevitable y última guerra mundial.  Evolutivamente, ninguna sociedad podría sobrevivir formada por individuos que solo se miraran el ombligo [^7].
+Entre los miles de argumentos en contra de políticas del populismo, encontramos la restricción a las importaciones, por caso: licuadora.  Si bien tenemos que atender a esas necesidades, también debemos trabajar desde los primeros momentos de la formación del niño en deconstruir ese egoísmo que llevará inexorablemente al mundo a la tercera, inevitable y última guerra mundial.  
+
+Evolutivamente, ninguna sociedad podría sobrevivir formada por individuos que solo se miraran el ombligo [^7] sin ese sentimiento que nos trajo hasta acá.  La empatía, proteger, como Pocho, al que no está en condiciones de hacerlo, arriesgando el cuero.
 
 [^7]: El esqueleto de Lucy en las canteras de Oduvay Gorge, Kenia, nos muestra un homínido femenino, que vivió hace mas de tres millones de años. Medía apenas mas que un metro y su cerebro no era mucho mas grande que el de un chimpancé actual, pero tenía el femur quebrado y soldado nuevamente.  En la hostilidad de la selva hubiera sido presa fácil de los carnívoros, alguien tuvo piedad de su condición y la cuidó.  Ese detalle hace que pensemos que eren humanos. 
 
@@ -110,7 +114,7 @@ Entre los miles de argumentos en contra de políticas del populismo, encontramos
 
 Hay un momento de la **iluminación** groncha, para lo cual nada mejor que mostrarlo en boca de sus conversos.
 
-Sostengo que capturando el alma de esos seres sensibles, pronto llegará la conversión.  Me viene a la memoria una joven llorando de alegría gritando su "iluminación" en un spot televisivo, gotitas de saliva al aire, lágrimas y palabras de agradecimiento a un hombre llamado Nestor y una mujer llamada Cristina [^2].
+Sostengo que capturando el alma de esos seres sensibles, pronto llegará la conversión.  Me viene a la memoria una joven llorando de alegría gritando su *iluminación* en un spot televisivo, gotitas de saliva al aire, lágrimas y palabras de agradecimiento a un hombre llamado **Nestor** y una mujer llamada **Cristina** [^2].
 
 [^2]: Debo admitir que me cuesta nombrarlos sin lagrimear.
 
@@ -118,7 +122,7 @@ A diario damos con gente que argumenta en favor de tal o cual política económi
 
 Abundan ejemplos que van desde populares como el de Agustín, de Numidia -que escuchó una voz diciéndole *toma lee* en latín, al voltearse encontrar la Biblia [^9]- pasando por historias de culturas orientales, que otorgan mucha importancia a ese momento de auto descubrimiento, el **Satori Zen** o el **Nirvana budista**.  
 
-[^9]: Extraño en el siglo III una biblia tirada, ya que en todo el universo conocido se las podían contar con los dedos de una mano.
+[^9]: Hecho extraño por donde se lo observe.  ¡En el siglo III una biblia tirada!  En todo el universo conocido se las podían contar con los dedos de una mano.  Y no eran precisamente *de bolsillo*.
 
 Esa bienaventuranza no es ajena al justicialismo.
 
