@@ -10,11 +10,25 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  tal es el caso del reguetón. 
+**Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de este simpático[^52] insecto iletrado, como bien lo documenta la voz popular:
+
+[^52]: No en todos los casos es tan amable, conocimos tiempo atrás una compañera de trabajo a la que apodaban abeja porque era chiquitita, rayada y mala.
+
+> Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
+
+Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.
+
+**Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  tal es el caso del reguetón[^58]. 
+
+[^58]: Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
+
+**Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien **Protagonista**, primero y agonistis luchador.  **Antagonista**, luego, es el (sic) antagonista.  O sea, digamos, el opuesto.
+
+> Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.
+**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.  Según la opinión de los ingenieros químicos, el alcohol es una solución.
 
 > Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
 
@@ -118,9 +132,9 @@ Ese recuerdo del abuelo lo anoticia al protagonista **Guy Montag** sobre la falt
 
 > Rambo mataba doscientos hombres por película, Batman no respeta las leyes de tránsito, Popeye fuma porquerías verdes y se pone re loco, Blancanieves cohabita con siete hombres, la iglesia bendijo el genocidio americano y todas las dictaduras.  Y viven felices por siempre.
 
-**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^48], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
+**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^51], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
 
-[^48]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
+[^51]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
 
 > Dijo que saldrá con amigas, pero lleva diez minutos golpeado la **afeitadora** contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
@@ -251,56 +265,54 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 [^69]: El Estado es impersonal: el argentino sólo concibe una relación personal. Por eso, para él, robar dineros públicos no es un crimen. Compruebo un hecho, no lo justifico o excuso. --Jorge Luis Borges.
 
 **Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
-**Experiencia**  *Lat. Prueba, ensayo*  La felicidad está en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
-> Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
+**Democracia**  *Gr. δημοκρατία Demos pueblo y Kratos poder.*   Nace en la antigua Grecia y se perfecciona a tal extremo que en la actualidad, opinan sobre las buenas democracias elegidas por el pueblo, monarcas de todo el mundo a los que eligió un dios en que solo creen ellos.  Una extraña sensación se expande ultimamente, que sostiene que valen tanto la estupidez como el conocimiento.  La tecnología ha desarrollado mas y mejores métodos de convencer a las poblaciones de un extraño *sentido común.*
 
-> Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  
+> When stupidity is considered patriotism, it is unsafe to be intelligent.  Existe un culto a la ignorancia, la presión del anti intelectualismo ha ido abriéndose paso a través de nuestra vida política y cultural, alimentando la falsa noción de que la democracia significa que mi ignoracia es tan válida como tu conocimiento.  ―Issac Asimov. 
 
-## Antoine de Saint-ExupéryF
+**Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^57].
 
-**Falacia** Mentira.  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
+[^57]: Ocurre lo mismo con la frase *viento en popa* que exacamente lo opuesto a *viento en papo*.
 
-> Temo que su argumento es falaz, mi buen amigo.
+**Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
-**Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
+**Detalle**   *Fr. détail a su vez del Lat. Taliare, talar*.  Fragmento, elemento, aspecto menor de lo que se tenía a primera vista, como una rama *talada* de un tronco.  Aquello en lo que no reparamos, por prestar atención al todo[^37].
 
-**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
+[^37]: La vida está hecha de minúsculos detalles, de momentos únicos e irrepetibles, destinados a pasar desapercibidos por cotidianos.  Un día tu hija, tal vez por vergüenza, te suelta la mano para cruzar la calle.  Lo tomamos como un detalle a simple vista, fué lo mas importante que va a pasarte en la vida.  Años después esa niña traerá un nieto de la mano.  Otro día apretarás la mano de tu mamá en el sanatorio por última vez.  
 
-**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
+> Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  Antoine de Saint-Exupéry
 
-[^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
+**Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasado:  
 
-**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
+> Se delitaba, antes.
 
-> Esperá que ya van a dragar la provincia.  
+**Dinero**  *Lat. Denarius diez ases, unidad monetaria en tiempos del imperio romano*.  Moneda, guita[^77].  Conserva un curioso sinónimo: *plata* por el vulgo, cuando bien sabemos que este es un elemento más de la **tabla periódica**.  Objeto central del culto que conocemos como **Capitalismo**. Conserva el mismo método de fé importante con el Dios de las mitologías.  Todas.  Tanto el Dinero como Dios, en virtud de su abstracción, dependen de la fé en ellos.  Desaparecida dicha fé, desaparece su poder.  ¡Pensalo!   
 
-**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido:
+[^77]: ¿E Amice, sobrarum um ase, sobrarum?  --Metamorfosis.  Ovidio.
+ 
+> Es barato todo lo que puedas comprar con dinero.
 
-[^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."
+> De cuantas cosas prescindo.  --Sócrates caminando por el mercado, asombrado le muestra a un discípulo.
 
-> ¿Saben que es el Fascismo?  
+**Dios** 1. Curioso ser sobrenatural común a varias culturas, que sirve casi exclusivamente para explicar con su ejemplo, el concepto de **paradoja**.  El judeocristiano, diseña y fabrica el universo en una semana. La premura de su accionar explicaría la escasa eficiencia de alguno de sus inventos[^65].  Nos *ama*, puesto que el homo sappiens es el elegido de su creación.  Esta perfección -paradojicamente- incluye los genocidios y los votantes de derecha.  A pesar de tan inmenso amor, permite que ocurra el reguetón.  Producto del astío de su eternidad, crea a **Adán** y de una costilla de este hace -no un asado como cabría esperar- sino a **Eva** su mujer-mascota.  Esta **Eva** mitológica antecede a la otra **Eva** la del diminutivo [^62].  El matrinonio engendra tres hijos varones de los que -por extraño que parezca- desciende toda la humanidad.  Ateos incluídos.  Aburrito otra vez en su eternidad, embaraza a una niña virgen para que engendre un hijo varón.   Este embrión solo cuenta con material genético -cromosomas- de mujer, lo que lo convierte en un varón extremadamente extraño.  La muerte violenta de ese hijo que es dios también, redime el *pecado original* a todas las poblaciones en los siglos posteriores, de un pecado que no cometieron, incluidos ateos.  En virtud de su inmenso amor, sacrifica a ese hijo y nos dá así una segunda oportunidad de redención.   Deja reguetones y otros males para medir nuestra capacidad de tolerancia, pero ante una mínima blasfemia por martillazo en un dedo, condena al pecador al infierno por *toda la eternidad*.  Este hijo asciende a los cielos en cuerpo y alma, dejando el vestigio de su paso como uñas cortadas, los dientes de leche y el prepucio, que pueblan miles de relicarios de iglesias européas. 2. La segunda acepción se refiere al fulbolista Diego Maradona, totalmente tangible a los sentidos, luego creible.
 
-El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
+[^65]: La coincidencia espacial de los retretes -ano- con la sala de juegos -genitales- alerta sobre el poco conocimiento de arquitectura, por lo menos en homo sappiens.  
 
-> ¿Estamos hablando del faso?
-
-**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
-
-**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.
-
-> En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
-
-**Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
-
-**Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
-
-> Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
+[^62]: **Evita** la protagonista de la ópera de Broadway llevada al cine y a varios idiomas.  Aquiere su popularidad gracias a que su nombre es utilizado a modo de conjuro, por sectores opacos de la sociedad argentina.  Funciona como brújula perfecta también con otros personajes, merced a su fama, el Che Guevara, el Papa Francisco, Hebe de Bonafini, Diego Maradona.  Es suficiente observar quienes los odian para saberse en el lugar correcto.
 
 
-Del mismo origen proviene don, algo que le fue dado a alguien. 
+**Divertículo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
-**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta tipo **shot them**: 
+> ¡Divertirse, si, pero contra natura! [^46]
+
+[^46]: Todo parece indicar que el sabbath, a modo de festejo el señor se clavó un par de claritos, un porrito y de puro jodón dijo "les voy a poner el punto G justo adentro del upite" y terminado de decir eso escupió la bebida en medio de la risa festejándose el chiste.
+
+
+**Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
+ 
+> Se administrará una dragma si el paciente debe solo animarse y pensar bien de sí mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir. 
+
+**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta tipo **shot them**:
 
 > En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -El acompaña las palabras con una expresión de incredulidad puesta a prueba.
 
@@ -348,45 +360,63 @@ Ella lo corrige, ojos entrecerrados:
 
 **Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
 
-**Experiencia**  *Lat. Prueba, ensayo*  La felicidad está en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
+**Experiencia**  *Lat. Prueba, ensayo*.  La felicidad está oculta en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
 > Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
-
-> Si volviera a nacer, te buscaría mucho antes.  --El Principito.  Antoine de Saint-Exupéry.
 
 ## F
 
 **Falacia** Mentira.  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
-**Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
-**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^25].
+> Temo que su argumento es falaz, mi buen amigo.
 
-[^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
+**Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
 
-**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recién entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos incapaces de utulizar la palabra *Bruja*, sin agregar:
+**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
-> Pero que las hay, las hay.
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
 
-La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh. 
+[^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
 
-[^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
+**Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
-**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
+> Esperá que ya van a dragar la provincia.  
 
-[^24]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.
+**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido:
 
-**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.
+[^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."  Cualquier semejanza con la Argentina de los libertarios es pura coincidencia.
 
-> ¡Otra tóxica no!  --Oscar Wilde.  La importancia de ser Ernesto.
+> ¿Saben que es el Fascismo?  
 
-**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
-
-**Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
-
-**Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
-
+El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
 
 > ¿Estamos hablando del faso?
+
+**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
+
+**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.
+
+> En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
+
+**Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
+
+**Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
+
+> Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
+
+
+**Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
+> ¿Estamos hablando del faso?
+
+**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.  
+
+**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido:
+
+[^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."
+
+> ¿Saben que es el Fascismo?  
+
+El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de manera sugerente al pico, sonríe de manera pícara y guiña un ojo en señal de:
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
 
@@ -468,6 +498,40 @@ hecho que los convoca.  Se cuentan por cientos de miles.  Se aplica a quienes ar
 
 ## I
 
+
+**Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
+
+**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^25].
+
+[^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
+
+**Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas [^52] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recién entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos incapaces de utulizar la palabra *Bruja*, sin agregar:
+
+> Pero que las hay, las hay.
+
+La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar hasta el siglo XX, por los masculinos Hnos. Orvil y Wilbur Wrigh. 
+
+[^52]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
+
+**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^57], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
+
+Del mismo origen proviene don, algo que le fue dado a alguien. 
+
+> Si volviera a nacer, te buscaría mucho antes.  --El Principito.  Antoine de Saint-Exupéry.
+
+[^57]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
+
+**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.
+
+> ¡Otra tóxica no!  --Oscar Wilde.  La importancia de ser Ernesto.
+
+**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
+
+**Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
+
+**Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
+
+
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano, cátedra de Derecho Constitucional, este tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación tan cordial como bondadosa, para poder dar inicio a la clase:
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
@@ -502,11 +566,15 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^24], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
+**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^57], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
 
-[^24]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.
+[^57]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
 
 **Insomnio**  Patología que acusa cierta falta se sueño.  Por lo general se resuelve durmiendo con la persona que lo origina.
+
+**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.
+
+> ¡Otra tóxica no!  --Oscar Wilde.  La importancia de ser Ernesto.
 
 **Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
@@ -631,11 +699,11 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Marquez**  Marca, comarca, demarcación, delimitación.  Confín, confinar.  Las marcas delimitaban las tierras de un señor feudal -nunca una señora-  Ducado y condado provienen del mismo origen.
 
-**Marte** *Astron.*  Nuestro vecino celeste más cercano.  Contaría con el mismo interés que Urano o Venus en la *vida real* si en los cincuentas el buen Ray Douglas Bradbury no hubiera escrito sus cuentos hilvanados bajo el título *Crónicas Marcianas*, en él un rudo y valiente astronauta descubre en Marte la casa de su pueblo y los padres de su niñez, cena y se va a dormir llorando de alegría por la mentira.
+**Marte** *Astron.*  Nuestro vecino celeste más cercano.  Contaría con el mismo interés que Urano o Venus en la *vida real* si en los cincuentas el buen Ray Douglas Bradbury no hubiera escrito sus cuentos hilvanados bajo el título *Crónicas Marcianas*.  En la tercera expedición, el rudo y valiente capitán Williams descubre en Marte la misma calle de su pueblo, la casa de su infancia y  dentro de esa casa, los mismos padres de su niñez.  Cena y se va a su cama de niño llorandoi de felicidad.  Duda si dormir será despertar y aviva una curiosa sensación de terror en el lector.  Hay una proliferación de señores y señoras **K**, como en las novelas de Kafka o en la primavera de la década ganada argentina.
 
 **Martes** Día de la semana que utilizamos para honrar al dios de la guerra Marte, de una religión que supo sincretizarse en el cristianismo, de alguna extraña forma.
 
-**Masón**  *Fr. maçon y este del germánico makon, hacedor*.  De allí a los albañiles.  Originalmente organizaciones de ayuda mútua de obreros, proto gremios, posiblemente a esto deban su mala reputación y el general San Martín descanse fuera de *tierra sagrada*.  Pasada su etapa mitológica, estas organizaciones son las responsables de la liberación de toda América, desde los cincinatti[^36] en los primeros estados de la unión, hasta la logia Lautaro en el Virreinato del Río de la Plata.
+**Masón**  *Fr. maçon y este del germánico makon, hacedor*.  De allí a los albañiles.  Originalmente organizaciones de ayuda mútua de obreros, proto gremios, posiblemente a esto deban su mala reputación y el general **José de San Martín** descanse fuera de *tierra sagrada*.  Pasada su etapa mitológica, estas organizaciones son las responsables de la liberación de toda América, desde los cincinatti[^36] en los primeros estados de la unión, hasta la logia Lautaro en el Virreinato del Río de la Plata.  Al darse estas independencia fuera de la época del marketing político, explica en parte la ausencia de los esperables libertad, progreso, patria o esos símiles **AFJP**.
 
 [^36]: En honor al general romano Lucio Quincio Cincinatto.  El mito narra que Cincinato estaba retirado de la milicia descreído de la política, labrando la tierra de su granja, cruzando el Tiber.  Los enviados del Senado le ruegan tome el mando del ejército, para frenar el avance de los voscos y eucos.  Le otorgan el título de Dictador.  En dieciseis días triunfa en la batalla, renuncia a todos los honores y vuelve a tomar el arado donde lo había dejado.  Su nombre pasa a ser sinónimo de rectitud, honradez y valentía.  Agrega a esto una frugalidad rústica y poner los intereses del pueblo por encima de los propios.  La logia de los primeros revolucionarios de Estados Unidos lleva el nombre de los Cincinnati, laicos y honorables, producto de ello es su constitución y emniendas.  Después vino lo otro.
 
@@ -805,6 +873,255 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.  De aquí surge el argentinismo *bien empilchado*.  
 
+**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea datando las piedras, de ello deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes.
+
+[^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro.
+
+**Poder**  *Lat. Potere que proviene de Potis y Sum "capaz de ser"*.  La verdad es la verdad del poder, la estética es la estética del poder y la bondad es la bondad del poder.  Las normas morales las dictan los que ganaron la guerra.  Japón hacía meses que había perdido la guerra no obstante EEUU lanzó una bomba atómica sobre una población civil, para que sepa el mundo quien es el malo.  Para que no queden dudas, a los tres días, lanzó una segunda contra otra ciudad indefensa.  Asistimos en tiempo real al genocido del pueblo palestino, pero creemos que es de mal gusto hacer chistes sobre judíos.    
+
+**Poeta**  *Gr.* Hacedor, orfebre.  Las cosas no son hasta que son nombradas.  La biblia sugiere: 
+
+> In principio erat Verbum, et Verbum erat apud Deum.
+
+La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador.
+
+**Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora. 
+ 
+> Anda cruzando el invierno, con un ponchito de vino.
+ 
+En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
+ 
+**Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas, justo antes que el tío comience con los comentarios políticos y con ello los sillazos, por lo que conviene apurar siempre los postres.
+ 
+**Porno**  Primer puesto en el buscador global Google.  Le sigue inmediatamente después **Ponro**. Explicaría, en gran medida, la ola de triunfos de derecha en el mundo.
+ 
+**Positivo** *Fís. o Psic.*  Desconocemos los motivos por los que es cada vez más común en el habla cotidiana la aberración del imperativo:
+ 
+> ¡Roberto, tenés que ser más positivo!
+ 
+Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
+ 
+**Primo**  *Lat. primus, primero*.  Literalmente, que se inicia con las primas.  Tuve ocasión de dar con gente así.  La locución latina Prima Facie hace referencia de algo a primera vista, en el ámbito del derecho y no como pudiéramos suponer que alude a femeninas de derechas, consanguineas en segundo grado.  La letra de este tango pareciera estar narrado en la primera persona de una de estas[^21].
+ 
+[^21]: El Primus no me fallaba.  --El bulín de la calle Ayacucho.  Celedonio Esteban Flores, José y Luis Servidio.
+ 
+**Proteico**  Relativo a *Proeus* el maestro del disfraz.  Erroneamente es utilizado para calificar algo rico en proteínas, adjetivo que debería ser proteínico.
+ 
+**Prohibición** *Lat. Prohibere.  Pro adelante, primero y habere tener*.  La publicidade mas efectiva.  El cristianismo es su mejor ejemplo, pasa de ser un sistema endeble de creencias a la verdad absoluta, en pocos siglos.  Aquiere en el medioevo patente para carbonizar opositores, al tiempo que basa su marketing en el *amor al prójimo*.  En 1949 el colorado *Jorge Abelardo Ramos* escribe su famoso **América Latina, un Pais.**  La llegada del golpe de estado del 55, nombra una comision para perseguir *actividades antiargentinas*[^28] dedicada a la actividad preferida de la derecha, la prohibición y fogata de opositores, conocimiento aprendido de la inquisición, puesto que muchos de sus integrantes provienen de las filas de la Santa Iglesia Católica Apostólica Romana.  Prohibición que dispara las ventas del libro, incluídos aquellos ejemplajes incautados por las fuerzas represoras.
+ 
+[^28]: Guarda una simetría sugestiva respecto de la *comisión contra actividades antiamericanas* que presidía el tristemente célebre Joseph Mc Arty en EEUU.
+ 
+**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que al mismo tiempo utilizamos el calificativo de puto para hoosexuales que los enfrentaban.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
+
+## Q 
+ 
+**Quinto**  *Lat. Quintus.*  El que viene después del cuatro.
+ 
+> El cinco de mayo del mil novecientos cincuenta y cinco, nacía el quinto hijo de una familia modesta, de los suburbios del sur de de Buenos Aires.  Lo bautizaron Quinto Torres, hermano del divinal Odiseo Torres.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado lo que parece una historia digna de Ludovica u Horangel.  Adivina un guiño de la diosa fortuna.  En la quinta carrera de Palermo, corre un caballo llamado **Cinq** -cinco en francés-.  Malvemdió todos sus magros bienes y apostó un total cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
+ 
+## R
+ 
+**Reguetón**. Género musical que, a pesar de su nombre, no guarda vínculo alguno con el Reggae.  Pareciera diseñado para el ámbito del casorio a las 0300 AM, al solo efecto que los asistentes sigan sus pegadizos y repetitivos compases, gastando así excesos de alcohol y otros tóxicos presentes en sangre.  Fuera de ese ámbito controlado, otorga inimputabilidad penal a quien utilice todos los medios a su alcance para mitigar el daño por polusión sonora.   **Eg.** Fiesta de vecinos del fondo > putearle a gritos todas las generaciones precedentes, varias generaciones y colaterales.   Auto en el arroyo serrano de ensueño que llega a hacer alarde de amplificador abriendo el baul > descarga de cargador completo en la cabeza sin mediar aviso.  Habiendo mas cargadores, está permitido usarlos.
+ 
+> Regueton is at music like Libertarians is at politics.  --Abraham Lincoln 
+ 
+**República**  *Lat. Res Cosa, Publicae de todos*  La **cosa pública**, literalmente de todos.  Existe la creencia que la **cosa pública** no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo atestiguan[^45]. El mantenimiento de *lo público* es nuestra única virtud como especie, frente al resto del mundo animal.    
+ 
+[^45]: El Estado es impersonal; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
+ 
+**Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
+ 
+**Revolución** *Lat. revolutio, una vuelta*  Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor corrige levemente la apertura ocular, como toda ofuscasión permitida a un inglés y pregunta:
+ 
+> ¿Mujeres fumando en la ópera?
+ 
+**Retruécano** *Lat. trocare, cambiar*.  Figura retórica que consiste en cambiar las palabras de lugar en la oración para que cambie el sentido completamente.
+ 
+> No es lo mismo "María en el jardín del Edén" que "Le den a María en el Jardín".
+ 
+**Risa** *Sus. risus.*  Movimiento reflejo natural e involuntario, de uso -casi- exclusivo al homo sapiens, aunque no todos los últimos cuentan con este regalo de madre natura.  En plena guerra fría, viajó el afamado director de teatro y cine ruso Seguei Einsenstein, a Estados Unidos de América.  En una de las muchas, esperadas y multitudinarias conferencias de prensa, un periodista pregunta: 
+ 
+> ¿Es cierto que los rusos no ríen? 
+ 
+El serio Seguei responde afirmativamente con la cabeza y agrega: 
+
+> Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
+ 
+> Si quieres decir una verdad hazlos reir, de lo contrario te matarán.  --Oscar Wilde.
+ 
+**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  
+ 
+**Ridiculez**. Unica virtud de un fascista.
+ 
+**Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
+**Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece más proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
+ 
+**Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  Según esta corriente, toda prenda de vestir nos es ajena, para concluir felizmente en el siguiente concepto.
+ 
+**Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
+ 
+> Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la gorda ropa prestada, tirarle onda al bryan.  La voy a hartar a puntasos.]
+ 
+Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos en la obra y sino el que nos gustaría.  El buen **Theodore Sturgeon** se ofuscaba cuando alguien iba a verlo a su cuchitril del Bronx, sosteniendo su enojo en la obligación de adoptar normas del mundo exterior -por caso vestirse- en su micro mundo de desnudez.
+
+> Es muy difícil mentir desnudo.  Se puede, pero es riesgso.  --Theodore Sturgeon. 
+ 
+**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cosechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos.  Eufemismo entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al Dólar Paralelo, también llamado *blue* por similares motivos.
+ 
+## S
+ 
+**Salud** 1. Par antagónico de enfermedad.  2. La mejor de las utilidades del vocablo, conjuro para comenzar una borrachera.
+
+> No parece muy saludable adaptarse a una sociedad tan enferma.  --Jiddu Krishnamurti. 
+ 
+A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de niños y niñas, el profe de informática lo hace con sonrisas a la voz de **Logout**. 
+ 
+**Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
+ 
+[^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
+
+**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
+ 
+**Secular**  *Lat. Seculum*  Que no tiene nada que ver con ninguna religión.  Pareciera bastante sano a simple vista.
+ 
+**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
+ 
+> ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
+ 
+**Sexto**  *Lat. Sextus.*  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.:   
+ 
+> Del drama Enrique VI la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
+ 
+**Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social.
+ 
+**Sincretismo** Plagio de mitos que operas nivel religiones.  En lugar de inventar dioses nuevos, esta doctrina elige valerse de otros anteriores, de probada eficacia.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores. 
+ 
+**Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
+ 
+**Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera mucho de mejor calidad poética que el excesivamente utilizado siestero.
+
+> Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
+ 
+**Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
+ 
+**Sincero**  *Lat. sin (simple) y crescere*  Referían de esta manera a los germanos, de crecimiento simple, sin cultivar.  Hoy la sociedad utiliza esta herramienta intelectual para referirse al peronismo.  Son lo que son.  Una segunda corriente alude a errores en esculturas, tapados con cera. 
+ 
+**Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  2- Personaje central del film **Matrix.**  ``Alert Spoiler``  Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
+ 
+> Estoy harto de vagos que viven del estado y no hacen nada  --Smith dentro de un cuerpo cualquiera.
+ 
+> Estamos de acuerdo.  Militares, Jueces, Obispos --Neo.
+ 
+> Corré que vienen los cuetazos --Morpheus.
+ 
+**Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los indivíduos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogénea, conservando, sin embargo, una tan absurda como ingénua sensación de libertad.  
+ 
+> "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
+ 
+**Solapa**  Mit.  Ser sobrenatural femenino, merodeaba en las horas de la siesta de mi infancia en busca de niños que hicieran ruido.  La abuela la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural.  Basábamos su veracidad en palabras de la abuela, que buscaba complicidad en mi mamá y tías a su alrededor:  **"la tía Helena la vió una vez cuando era chica".**   A juzgar por su edad, la tía **Helena** bien puede haber sido la famosa actriz de la obra del rápsoda Homero.    No se porqué siempre le otorgué capacidad de volar, cuando nunca nos fuera aclarado su método de traslación espacial.
+ 
+**Sordera**  *Lat. Surdus, susurro inentendible*.  De aquí también provienen *Absurdo*.  Don Armando combinaba una mueca con la cara, acompañándola con una mano sosteniendo la oreja, en señal de no escuchar.  Se supone que lo había perfeccionado en el arte del chupino, para analizar las miradas de los contrincantes ante cojuros como envido o truco.  La clínica lo conoce como sordera selectiva.
+ 
+**Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.
+
+**Suerte** *Lat. Sor Surtis sorte, dados o utensillos de madera para echar la suerte.*  La misma raiz tienen suerte y *lotería*.  En tiempos de la república romana, se entregaban por *sorteo* *lotes* de tierra entre los soldados que habían servido diez años en la legión.  Algunos tenían suerte y le tocaban lotes mas productivos que otros.  Provienen de este origen también sortilegio y Sortícula, que deriva en Sortija en las carreras[^43].
+ 
+[^43]: Oscurización bien puede ser el sustantivo antagonista de iluminación.  El templo de los Capuchinos es, posiblemente, la iglesia católica mas bella -estéticamente hablando- de la ciudad de Córdoba.  Las veredas del barrio, las mascotas, el perfume y la monogramia de sus vecinos, colaboran en gran medida.  En los convulsionados setentas, sus paredes presenciaron el mayor escape a una carcel, a pocos metros de allí, protagonizado por mujeres.  Una verdadera patada en los testículos a la derecha, machista, eclesiástica cordobesa.  Esas paredes, también fueron testigos de una historia tan tierna como exclarecedora. La fé reunía una extensa comunidad compuesta por boy scouts, catequistas y aspirantes a comuniones y confirmaciones, que trabajaba sin descanso todo el año con el noble objeto que una parte representativa de esos niño/as viajara a **Italia**.  Trabajaban doscientos pero solo podían viajar veinte.  Ferias de platos, colectas, empanadas, bingos y rifas.  Colaborar con estas actividades, calificaba al menor para participar de un sorteo.  Anualemente ponían **-ponele-** pepelitos con *todos* los nombres de los pequeños colaboradores.  En una ceremonia tan íntima como emotiva, el devoto padre Carmelo hurgaba, retiraba de la bolsa y exibía el papel con los nombres de los beneficiario/as del **sorteo**, los ojos acompañaban el giro de trescientos sesenta grados.   Año a año, sonrientes pequeño/as escuchaban los nombres seguidos de dos apellidos de las familias patricias de todos los años, es lógico y esperable, dada su afección a la familia numerosa.  Nadie puso nunca en duda el resultado de los caprichos de la fortuna, esto sería como poner en duda los designios del señor.  La candidez, y la sonrisa que la acompaña, es una virtud que abandona al cachorro de homo sapiens a medida transcurren los años y los desengaños, desde los reyes magos en adelante.  El niño Guillermo, había encontrado cobijo en este grupo humano, a medias, porque sus padres eran separados, hecho que se recuerda sin palabras, ni gestos, pero que siempre está.  Esto no evitaba que su fé lo impulsara año tras año, vendiendo numeritos y rezando fervientemente porque su nombre aparezca.  Dudó en rezar con mas fuerza.  Amonestaba internamente a su yo, por falta de fé.  En el último sorteo sugirió -voz en cuello- que su nombre no estaba en la bolsita de pana bordó.  Su momento de **Oscurización**.  Negó ante años la evidencia, pero hubo un inconveniente, a la par de su fe, no menos importante era su curidad, virtud poco valorada. En vano levantaron la voz, primero el cura, luego catequistas, niños que viajaban por segunda o tercera vez.  Las amenazas alcanzaron a las palabras infierno y excomunión. Aseguran que una religiosa de hábito gris clavó los ojos en el niño y soltó: *"Juanito Bosco te está mirando"*, cara de monja y dedo índice derecho señalando el cieloraso.  El ex creyente manoteó la bolsa, buscó cobijo bajo un par de adultos con cara de sorpresa, extrajo todos los papeles y validó ante la *multitumbre*, empíricamente su tesis, leyendo en voz alta, uno por uno los papelitos.  Su nombre no apareció en ninguno.  Salvo que el señor lo hubiera volatilizado.  Se alejó del lugar al grito de *"La Sagrada Familia eran juntados"*  descubrimiento que, al parecer, también tenía guardado desde hacía años.
+ 
+**Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  El voto se llevaba a cabo al "fragor" de las masas.
+ 
+## T
+ 
+**Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo ofrece una segunda identidad al indivíduo.  Mas acorde a su ego. 
+ 
+> Fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  --Fight Club.  
+ 
+> Mate la angustia existencial llenándose de cosas ahora, para tener verdaderos motivos para el corchazo más adelante.
+ 
+**Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  
+ 
+> Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
+ 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
+
+**Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^61].
+ 
+[^61]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro, inyectaron el equivalente a cuarenta dosis de Cannabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Dado por muerto, después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar la última frase.
+ 
+**Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
+ 
+> Cuando muera os suplico, no me vistan de traje, no vaya que dios exista y tenga que vagar una eternidad camuflado de sorete, prefiero zunga atigrada.  --Odiseo Torres.
+ 
+## U 
+ 
+**Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante indagar que patología puede llevar a un individuo encontrar placer en esta repetición.
+ 
+**Uo**  Onomatopeya exclamativa, agrega -en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza aislada, en pares o tríadas, dependiendo de las necesidades estéticas.
+ 
+> Dale pelado se vino la pachanga, uo uo uo
+ 
+## V
+ 
+**Vago**  *Lat. vacuus, vacío*  Uno de los doce pares de nervios craneanos, siendo este el único que sale de la frontera del  cráneo y se pierde -vaga- por el cuerpo, siendo una especie de chiste de madre natura.  **Vagos** individuos que viven del estado sin ofrecer contraparte laboral, tal como obispos, militares o jueces.
+ 
+**Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "cantidad de pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.
+ 
+**Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *puntos de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera.  
+ 
+**Verdad** *Lat. Veritas del Gr. Aletheia*  En griego es literalmente sin velos, desvelada, no está cubierta por nada.[^50]
+
+[^50]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
+ 
+**Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título es poder soltar sin esfuerzo un: 
+ 
+> ¡Tenés razón! 
+ 
+El buen Edward Gibbon se refirió a la **Universidad de Oxford** en términos poco felices, relacionados con esta condición temporal:
+ 
+> *Posee todos los achaques de la vejez y ninguna de sus virtudes.*
+ 
+En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta *calibrar la fe en nuestros sentidos*.  Lo postulaba bellamente el británico *Samuel Coleridge* como requisito *sine qua non* del arte es precisamente *suspender la incredulidad* [^5] a fin de ser seducidos por la obra.
+ 
+[^5]: Eg. Hacer creibles explosiones en el espacio, donde no hay oxígeno.  El clásico caso que sugiere Alejandro Dolina, expectadores que una vez terminada la función del teatro, entran secándose las lágrimas a la pizzería de la esquina, donde observan a los recientemente muertos Lear, Kent, Cordelia y sus hermanas, riendo gritos y tomando cerveza juntos, de civil.
+ 
+**Viaje**  *Cat. Viatge del Lat. viaticum*.  Previsión de dinero para emprender el viaje.  Curiosamente el origen es trabajar afanosamente, como lo atestiguan el ingles y el francés, travel de travailen, travailler.  
+ 
+> ¿Es mas importante el viaje que el destino? --preguntó el Panda  
+ 
+> La compañía --Respondió el Dragón.
+ 
+**Vida**  *Biol.*  Antónimo de Muerte.  
+
+> Una chispa entre dos nadas --Jorge Luis Borges.
+ 
+> Andando por el mundo en tero. --Carta de un leon a otro.  Chico Novarro.
+ 
+El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
+
+[^51]: "Mira de cuantas cosas prescindo" -Sugirió Sócrates a un alumno caminando por el mercado.
+ 
+**Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
+ 
+**Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio.
+ 
+**Virgo** *Zodiaco*  1- Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2- Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 3- Aquellos no alcanzados por el amor de onda, solo accedieron al amor rentado.  Los libervirgos son una variate actual de esta última categoría.
+ 
+> One peso Is one dólar.  --Domingo Felipe Cavallo.
+ 
+**Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
+ 
+> *Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.*
+ 
+o 
+ 
+> *Jamás llegues a parar, a donde veas perros flacos*.
+ 
+Esta puntualmente es muy bonita. [^11].
+ 
+[^11]:  "I'll give you viscachs on evening."  Paradise Lost.  --John Milton.
+ 
+**Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar estos términos a las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de tener solamente ladrones, puesto que con estos, se tiene cubierto un solo tipo penal, los **delitos contra la propiedad**.  La yuta llega para agregar el resto de la parte especial del Código Penal.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, venta de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa y se agota en un par de renglones. La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
+ 
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre implica una frente marchita.
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
@@ -829,5 +1146,7 @@ Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en 
 
 **Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los indivíduos, sin tener en cuenta que aquellos -los planetas-, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
 
-**Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  
+**Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  Durante el medioevo se utilizaba la mano izquierda para la higiene mas vergonzoza y la derecha para tomar los alimentos.  Por la posición en la asamblea, durante la revolución francesa, colocó a la nobleza y el clero a la derecha, mientras que a la izquierda estaban los representantes de los sectores mas radicalizados.
+---
 
+**Zurdo Empobrecedor**  Chicana preferida de cierto sector *intectual* argentino, auto festejándose haber enriquecido amplios sectores de la población, que festejan esta hazaña eliminando una o dos comidas al día.  Afortunadamente no sospechan que la economía mas importante del globo es la china, merced a su planificación y control estatal, lo que provocaría suicidios masivos por actos vandálicos como la lectura.
