@@ -62,16 +62,6 @@ Luego de una ligera pausa agrega:
 
 > Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias.  --Alejandro Dolina.
 
-**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte.  Que vence la muerte.  Literalmente lo que nos hace inmortales. 
-
-> ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
-
-A lo que la mamá responde, ojitos pícaros
-
-> Me invitó a un picnic al campo, llevamos yogurt y nos olvidamos las cucharitas.  Nada[^22] Eso.
-
-[^22]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
-
 **Anodino**  *Gr. Anodynos Lat. Anodynos.*  Adj. Insulso, insignificante.  Contradice -este último- la imagen que sugiere su sonido: *Upide de dinosaurio*.
 
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad innata para horrorizar, muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera logarítmica, cuando el indivíduo valida la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Bronislaw Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de *caníbales*, a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Narra prohibiciones y preceptos para la cocina que amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
@@ -81,8 +71,6 @@ A lo que la mamá responde, ojitos pícaros
 Luego de una ligera pausa agrega:
 
 > Ustedes matan millones y los dejan pudrirse en los campos de batalla -Aludiendo a a Primera Guerra Mundial-
-
-**Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
 **Aperitivo**  *Lat. Aperire, abrir.*   Se abre el apetito con el aperitivo, esa es su función.  Suena obsceno en tiempos en que mas de la mitad de la población del país se va a dormir sin cenar un mate cocido siquiera.
 
@@ -178,9 +166,9 @@ Símil del contemporáneo:
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana más esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc. ya que es bien sabido que el sustantivo Maradona dejó de ser utilizado para nombrar una persona para convertirse en un conjuro de resistencia.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
-**Cancerbero**  El guardian de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que tiene tantos pares de ojos que puede dormir con algunos mientas mantiene otros vigilantes -en vigilia-.  Borges sugirió que originalmente eran muchas mas estas cabezas, pero se redujo el número posiblemente ***para comodidad de las artes plásticas.*** 
+**Cancerbero**  El guardian de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que tiene tantos pares de ojos que puede dormir con algunos mientas mantiene otros vigilantes -en vigilia-.  Borges sugirió que si aceptamos el infierno como la casa de Hades, es lógico y esperable que su perro guardián sea infernal también.  También sugiere que los autores clásicos hablan de miles de cabezas -queriendo indicar el infinito posiblemente- pero se redujo el número a tres, seguramente ***para comodidad de las artes plásticas.*** 
 
-**Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que otorga cierta esperanza en la humanidad.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
+**Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que aporta cierta esperanza esperanza de trascendencia espiritual.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
@@ -188,11 +176,11 @@ Símil del contemporáneo:
 
 **Capital**  *Lat. Caput, cabeza [véase Jefe](#Jefe)*.  Capital Leter es Letra Mayúscula, porque es mas grande.  Principal, primero, mas importante[^39].
 
-[^39]: Dos experiencias del siglo XXI nos demuestran que **John William Cooke** tenía razón en su tesis: *"podemos prescindir de los capitaliastas, pero no de los trabajadores"*.  La pandemia y el caso de China. 
+[^39]: Dos experiencias del siglo XXI vienen a demostrar la tesis de **John William Cooke** *"podemos prescindir de los capitaliastas, pero no de los trabajadores"*.  La pandemia y China.  Sacá del medio Adam Smith. 
 
 **Cara**  *Lat. cara del Gr. Kara*.  Semblante humano, de allí características, pareciera a simple vista algo mas relacionado a lo que el indivíduo finge ser, antes de lo que realmente es.
 
-**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado.  
+**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado. Los antropólogos deducen la cantidad de habitantes de las ciudades a partir de los asientos en el teatro, puesto que toda la ciudad tenía acceso.  En la misma función se presentaban tragedia y comedia.  Esta última era en muchos casos excesiva en palabrotas, el objeto era obrar de espejo donde el público viera se viera a si mismo. 
 
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de cannabis centroamericanos. 
 
