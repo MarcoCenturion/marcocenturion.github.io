@@ -168,7 +168,7 @@ Símil del contemporáneo:
 
 **Cancerbero**  El guardian de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que tiene tantos pares de ojos que puede dormir con algunos mientas mantiene otros vigilantes -en vigilia-.  Borges sugirió que si aceptamos el infierno como la casa de Hades, es lógico y esperable que su perro guardián sea infernal también.  También sugiere que los autores clásicos hablan de miles de cabezas -queriendo indicar el infinito posiblemente- pero se redujo el número a tres, seguramente ***para comodidad de las artes plásticas.*** 
 
-**Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que aporta cierta esperanza esperanza de trascendencia espiritual.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
+**Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que aporta cierta esperanza de trascendencia espiritual a los mortales.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
