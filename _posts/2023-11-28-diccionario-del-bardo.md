@@ -440,6 +440,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de 
 
 **Grosería**  Adjetivo enfático.
 
+**Grifo**  *Mit*.  El grifo de los bestiarios clásicos era un ser sobrenatural, par de un personaje femenino de mi infancia, la Solapa.  Teníamos penado salir en horas de la siestam, asomarnos al partio.  La abuela Amanda la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural y amonestadora.  Por algo nadie sale a la calle a la siesta.  Nunca dudamos de la veracidad de sus palabras.  Encontraba complicidad en otros mayores a su alrededor: *la tía Helena la vió una vez cuando era chica*.  Siempre se lleva a los mas revoltosos.  A juzgar por la edad, la tía **Helena**, bien puede haber sido la protagonista de la Ilíada del rápsoda Homero, que causara tanto penar entre teucros y aqueos.  Tal vez por simpatía narrativa, es que hoy asocio al Grifo con La Solapa.  Tarde descubrí que suponía en la Solapa cierta capacidad de volar, aunque nunca nos fuera aclarado su método de traslación de las víctimas.
+
 **Guagua**  *Sus. Quechua. bebé*
 
 ## H
@@ -994,7 +996,7 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
  
 **Sincero**  *Lat. sin (simple) y crescere*  Referían de esta manera a los germanos, de crecimiento simple, sin cultivar.  Hoy la sociedad utiliza esta herramienta intelectual para referirse al peronismo.  Son lo que son.  Una segunda corriente alude a errores en esculturas, tapados con cera. 
  
-**Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  2- Personaje central del film **Matrix.**  ``Alert Spoiler``  Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
+**Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  2- Personaje central del film **Matrix.**  **Alert Spoiler**   Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
  
 > Estoy harto de vagos que viven del estado y no hacen nada  --Smith dentro de un cuerpo cualquiera.
  
@@ -1006,9 +1008,7 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
  
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
  
-**Solapa**  Mit.  Ser sobrenatural femenino, merodeaba en las horas de la siesta de mi infancia en busca de niños que hicieran ruido.  La abuela la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural.  Basábamos su veracidad en palabras de la abuela, que buscaba complicidad en mi mamá y tías a su alrededor:  **"la tía Helena la vió una vez cuando era chica".**   A juzgar por su edad, la tía **Helena** bien puede haber sido la famosa actriz de la obra del rápsoda Homero.    No se porqué siempre le otorgué capacidad de volar, cuando nunca nos fuera aclarado su método de traslación espacial.
- 
-**Sordera**  *Lat. Surdus, susurro inentendible*.  De aquí también provienen *Absurdo*.  Don Armando combinaba una mueca con la cara, acompañándola con una mano sosteniendo la oreja, en señal de no escuchar.  Se supone que lo había perfeccionado en el arte del chupino, para analizar las miradas de los contrincantes ante cojuros como envido o truco.  La clínica lo conoce como sordera selectiva.
+**Sordera**  *Lat. Surdus, susurro inentendible*.  De aquí también provienen *Absurdo*.  Don Armando combinaba una mueca con la cara, a la que sumaba una mano sosteniendo la oreja y fruncido ocular.  El claro mensaje era que no escuchaba.  Se supone que lo había perfeccionado en el arte del chupino, para analizar las miradas de los contrincantes ante cojuros como envido o truco.  Al mirar a sus contrincantes decir por segunda o tercera vez Truco, terminaba adivinando la mentira.  Lo trasladó, a otros entornos de escucha, como la familia.  La clínica lo conoce como sordera selectiva.  
  
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.
 
