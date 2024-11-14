@@ -112,11 +112,11 @@ Ese recuerdo del abuelo lo anoticia al protagonista **Guy Montag** sobre la falt
 
 **Beso**.  *Lat. Basium*.  En los tiempos de Roma, existía diferencia entre *osculum* y *basium*.  Mientras el primero refería a un beso amable o cordial, el segundo estaba reservado para los besos eróticos.  Como bien señaló ya Doña Jovita
 
-> Un beso es un telegrama al upite.
+> ¡Mija!  Un beso en la boca es un telegrama al upite.
 
-**Biblia**  *Gr. βίβλος rollo de papiro*.  Estos rollos provenían de una ciudad llamada Biblos, en el Líbano.  En esta biblioteca sagrada se basan los reclamos judíos sobre las tierras de Galilea, en su mayoría atéos.  Ciertos errores extemporáneos ponen caravanas de camellos con mil años de diferencia y los contemporáneos de Jesus escribien no solo en un idioma que no hablaban, el griego, sino en un léxico también extemporáneo.  Sería como suponer que Belgrano gritara en la batalla de Tucumán a las tropas realistas en retirada  
+**Biblia**  *Gr. βίβλος rollo de papiro*.  Estos rollos provenían de una ciudad llamada Biblos, en el Líbano.  Biblia, luego, no es un libro solo sino un conjunto de libros, una biblioteca.  En esta biblioteca sagrada se basan los reclamos judíos sobre las tierras de Galilea, en su mayoría atéos.  Unas ratas de biblioteca -valga la imagen- ponen de manifiesto errores extemporáneos, como caravanas de camellos con mil años de anterioridad a su aparición, o los contemporáneos de Jesus escribiendo en un idioma que no hablaban, el griego, sino además en un léxico también extemporáneo.  Sería como poner en boca del general Belgrano en la batalla de Tucumán, dirigiendose a las tropas realistas en retirada:  
 
-> Corran putos, no bancan los trapos!
+> ¡Corran putos, no bancan los trapos, no bancan!
 
 **Bien**  *Lat. bene*.  Concepto controvertido, par antagónico del mal.  Los ejemplos del bién están generalmente emparentados con la verdad, que siempre es la verdad del poder de turno.
 
