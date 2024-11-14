@@ -44,6 +44,8 @@ Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desapar
 
 [^61]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
+Contrario a lo que sugiere el sentido común, que cuenta con demasiada prensa, el paradigma del amor, el Drama de Shakespeare **Romeo y Julieta** 
+
 **Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad innata para horrorizar, muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera logarítmica, cuando el indivíduo valida la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Bronislaw Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de *caníbales*, a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Narra prohibiciones y preceptos para la cocina que amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
 
 > No matamos a nadie para comerlo.
@@ -320,13 +322,19 @@ Ella lo corrige, ojos entrecerrados:
 
 ## E
 
-**Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea. 
+**Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea.
 
-**Entrada**  *Lat. intrare.*  Permitirle acceso a alguien.  Colaciones que preceden al plato principal.  Momento en que la voz ingresa a la pieza musical.  Pueden darse encarnizadas discusiones en torno a la puerta, los ingresantes sosteniendo que están ante una entrada por oposición a los salientes que sostienen estar frente a una salida.  Discusión que puede tranquilamente durar años dependiendo del IQ y terquedad de los contendientes. 
+**Empatar** *Lat. pactare, quedar en paz.*  De allí provienen también pacto, pagar, compacto.  Un empate basa su eficacia en el honor de ambos contendientes y la paz que esto genere.  
+
+**Empatía**  *Gr. Empatheia*.  A simple vista pareciera emparentado con el vocablo anterior, pero una ligera inspección nos muestra indivíduos y sectores enteros de las sociedades empáticos con seres incapaces de ver mas allá de su nariz, hecho que elimina la idea de un empate en los sentimientos.  
+
+**Entrada**  *Lat. intrare.*  Voz polisémica del Castellano, embellecido en latinoamérica. 1- Permitirle acceso a alguien.  2- Colaciones que preceden al plato principal.  3- Momento en que la voz ingresa a la pieza musical.  4- Ocasión de encarnizadas discusiones en torno a la puerta, los ingresantes sosteniendo que están ante una entrada por oposición a los salientes que sostienen estar frente a una salida.  Discusión que puede tranquilamente durar años dependiendo del IQ y terquedad de los contendientes. 5- Dibujo en forma de **M** o **V** que aparece a edad indeterminada con la desaparición capilar en los homínidos masculinos, conocido clínicamente como alopecía[^76].
+
+[^76]: Yo mutilado capilar ... Se me ha caido mucho pelo pero ninguna idea. --Eduardo Galeano.
 
 > Doctor, me duele la entrada del ano.  --Comenta el paciente al médico en la consulta.
 
-> Le duele precisamente por llamarlo entrada ya que tecnicamente estamos refiriéndonos a una salida.
+> Le duele precisamente por llamarlo entrada ya que fisiológicamente estamos en presencia de una salida.
 
 **Envidia**  *Lat. Invidus, mirar mal.*  Uno de los siete pecados capital para el **cristianismo**.  Evolucionó en los primates avanzados, hasta convertirse en el mayor sustento de la religión que reemplazara al judeocristianismo en el siglo XXI, su salto cuántico evolutivo, el **capitalismo**.
 
