@@ -120,9 +120,9 @@ Ese recuerdo del abuelo lo anoticia al protagonista **Guy Montag** sobre la falt
 
 > Rambo mataba doscientos hombres por película, Batman no respeta las leyes de tránsito, Popeye fuma porquerías verdes y se pone re loco, Blancanieves cohabita con siete hombres, la iglesia bendijo el genocidio americano y todas las dictaduras.  Y viven felices por siempre.
 
-**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^51], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
+**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^74], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
 
-[^51]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
+[^74]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
 
 > Dijo que saldrá con amigas, pero hace diez minutos que se escucha la **afeitadora** golpeando contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
@@ -388,32 +388,6 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
-**Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
-
-> Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
-
-
-**Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
-> ¿Estamos hablando del faso?
-
-**Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.  
-
-**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido:
-
-[^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."
-
-> ¿Saben que es el Fascismo?  
-
-El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de manera sugerente al pico, sonríe de manera pícara y guiña un ojo en señal de:
-
-**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
-
-**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.
-
-> En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
-
-**Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
-
 **Fiel** *Lat. Fidelis.*  Que podemos fiarnos de él/ella.  También llamamos así a la aguja de la balanza de dos platillos.  En asuntos religiosos se da la extraña controversia, quienes son fieles desde un punto de vista, son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.:   
 
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
@@ -422,7 +396,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice apretaditos de 
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
-> Para mis "últimas disposiciones" no quiero misas y las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.
+> Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.
 
 **Flúor**  En la tabla de Mendeleiev ocupa el número 9.  Por cacofonía se confunde este elemento con el adjetivo **Flúo** que destaca la vivacidad de los colores.  Ambos términos observan el mismo patrón que otros en el habla cotidiana.
 
@@ -1037,9 +1011,9 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
  
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
-**Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^61].
+**Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático.  A la diferencia entre estos dos márgenes, le llamamos *margen de seguridad*. Pareciera que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^75].
  
-[^61]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro, inyectaron el equivalente a cuarenta dosis de Cannabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Dado por muerto, después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar la última frase.
+[^75]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando ese humbral de peligro, inyectaron el equivalente a cuarenta dosis de Cannabis Sativa en un pastor alemán que se prestó de buena gana al experimento.  Dado por muerto, después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no podemos asegurar ni negar la última frase.
  
 **Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
  
@@ -1103,7 +1077,7 @@ El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan 
 > 
 > Es Lunes.
 
-**Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio.
+**Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio, ya que si bien en 2010 la modificación al código civil habilita el matrimonio entre contrayentes del mismo sexo, persiste la prohibición de casarse sobre los sacerdotes católicos.
  
 **Virgo** *Zodiaco*  1- Sobreviven vestigios de la religión babilónica de 2000 años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz de distancia, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2- Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 3- Aquellos no alcanzados por el amor de onda, solo accedieron al amor rentado.  Los libervirgos son una variate actual de esta última categoría.
  
@@ -1121,9 +1095,9 @@ Esta puntualmente es muy bonita. [^11].
  
 [^11]:  "I'll give you viscachs on evening."  Paradise Lost.  --John Milton.
  
-**Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar estos términos a las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de tener solamente ladrones, puesto que con estos, se tiene cubierto un solo tipo penal, los **delitos contra la propiedad**.  La yuta llega para agregar el resto de la parte especial del Código Penal.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, venta de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa y se agota en un par de renglones. La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
+**Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar tales adjetivos con las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de contar solamente con ladrones, puesto que con estos, se tiene garantizado un solo tipo penal, los **delitos contra la propiedad**.  La yuta colabora en el agregado del resto de la parte especial del Código Penal.  Completo.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, comercio de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa, ni se agota en un par de renglones.  La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
  
-**Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre implica una frente marchita.
+**Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre lleva ísita la frente marchita.
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
 
