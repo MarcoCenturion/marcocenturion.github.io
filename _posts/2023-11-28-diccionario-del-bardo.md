@@ -10,27 +10,25 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de este simpático[^52] insecto iletrado, como bien lo documenta la voz popular:
+**Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de la polinización.   Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
 
 [^52]: No en todos los casos es tan amable, conocimos tiempo atrás una compañera de trabajo a la que apodaban abeja porque era chiquitita, rayada y mala.
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
-Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.
-
-**Aberración**  Error en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado.  Tal es el caso de la *aberración cromática* en Astronomía.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado,  tal es el caso del reguetón[^58]. 
+**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado, tal es el caso de la *aberración cromática* en Astronomía por un defecto en la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón[^58]. 
 
 [^58]: Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
 
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien **Protagonista**, primero y agonistis luchador.  **Antagonista**, luego, es el (sic) antagonista.  O sea, digamos, el opuesto.
 
-> Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.
+> Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Habiendo ganado una disputa en una discusión.
 
-**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezo**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
-**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.  Según la opinión de los ingenieros químicos, el alcohol es una solución.
+**Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.  Según la opinión de los doctos en química y por extraño que suene, el alcohol es una solución.
 
-> Cerveza, origen y solución a todos mis problemas. --Homero Simpsons.
+> Cerveza, origen y solución de todos mis problemas. --Homero Simpsons.
 
 **Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
 
@@ -477,6 +475,12 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 ## I
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
+
+**Infiel**  *Lat. Infidelis, no confiable.*  Originalmente se refería a quienes renegaban de la religión, los cristianos llaman infieles a los musulmanes y estos a su vez, kafir a los cristianos o quienes tengan mas que un dios.  Afortunadamente el espíritu crítico del siglo XXI ha demostrado las falacias de las religiones.  Infieles pasaron a ser quienes descrean de las leyes de mercado[^67].
+
+> La progresiva degeneración de la especie humana se percibe claramente en que cada vez nos engañan personas con menos talento. --Charles Darwin.
+ 
+[^67]: El manual del usuario del Renault 12 en los años setentas, indicaba como calibrar la apertura de las válvulas de admisión y escape.  El Manual de usuario del Renault Duster, sugiere no ingerir líquido de la batería, ya que es tóxico.
 
 **Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^66].
 
