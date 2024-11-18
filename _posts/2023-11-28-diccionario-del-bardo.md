@@ -417,6 +417,12 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
+**Género**  Controversia del siglo XXI, propia de las clases dominantes, entretenidos mirándose el ombligo.  En la casa de mi infancia, éramos dos abuelos, dos padres y seis hermanos.  Al ser el mayor de esos niños, cargué desde temprano con obligaciones de *ambos* géneros con alguna que otra queja menor.  Después de volver en la bicicleta con bolsas de las compras, pelaba durante horas papas para el almuerzo.  Todos los días mamá cocinaba para diez personas, yo era el auxiliar obligado de cocina.  Recuerdo con ternura que cierta vez, siendo apenas un niño, se me ocurrió una idea brillante, argumentar en mi favor que hacer todas las compras me eximía de taréas que por sexo correspondían a mis hermanas mujeres.  Mamá con su providencial sabiduría y aplomo me explicó pacientemente, delante de todos, varones adultos incluídos.
+
+> Si por tener órganos sexuales masculinos supones que te exime de colaborar con las taréas de la casa, te los corto y eliminamos el problema. 
+
+Toda lectura posterior acerca del poder y tanto Foucault no agregó un solo concepto a lo aprendido en la infancia sobre sexo y género, haciendo de mí un mejor hombre.
+
 **Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Esta da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Más allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
 
 > Vagos, planeros o negros de mierda.
