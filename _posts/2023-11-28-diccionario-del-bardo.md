@@ -20,6 +20,8 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 [^58]: Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
 
+**Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
+
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien **Protagonista**, primero y agonistis luchador.  **Antagonista**, luego, es el (sic) antagonista.  O sea, digamos, el opuesto.
 
 > Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Habiendo ganado una disputa en una discusión.
@@ -44,21 +46,9 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 Contrario a lo que sugiere el sentido común, que cuenta con demasiada prensa, el paradigma del amor, el Drama de Shakespeare **Romeo y Julieta** 
 
-**Antropofagia** *Ver.* Tabú Universal.  Comportamiento culinario con capacidad innata para horrorizar, muy por encima de su calidad lógico-intrínseca.  Pierde esta efectividad de manera logarítmica, cuando el indivíduo valida la cantidad de ADN que compartimos con especies como el cerdo.  El buen **Bronislaw Malinowsky** estudió este comportamiento en la Polinesia, luego de meses de convivencia con una tribu de *caníbales*, a comienzos del siglo XX.  Pasado un tiempo, el chamán explica al europeo detalladamente -sorteadas las limitaciones idiomáticas- los motivos de tan extraño *comportamiento alimenticio*.  La isla en la que vive su pueblo, carece de animales y la pezca es insuficiente.  Las proteínas son muy escasas.  No pueden darse el lujo de "desperdiciar" cincuenta kilogramos de carne.  Narra prohibiciones y preceptos para la cocina que amenazan con extenderse hasta el infinito.  En una de las prohibiciones parece detenerse, tomar aire.
-
-> No matamos a nadie para comerlo.
-
-Luego de una ligera pausa agrega:
-
-> Ustedes matan millones y los dejan pudrirse en los campos de batalla -Aludiendo a a Primera Guerra Mundial-
-
-**Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
-
-> Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
-
 **Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias.
 
-[^31]: El decoro prohibe chistes sobre gentes que va en dos direcciones, por lo que nos abstendremos de hacerlos, puesto que no solo está mal sino que mejores plumas se han adelantado mucho mejor.  
+[^31]: El decoro prohibe el humor sobre indivíduos que vayan en dos direcciones, por lo que nos abstendremos de hacerlos.   No solo es de mal gusto, sino que mejores plumas se han adelantado en este sentido.  
 
 > Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias.  --Alejandro Dolina.
 
@@ -72,11 +62,11 @@ Luego de una ligera pausa agrega:
 
 > Ustedes matan millones y los dejan pudrirse en los campos de batalla -Aludiendo a a Primera Guerra Mundial-
 
-**Aperitivo**  *Lat. Aperire, abrir.*   Se abre el apetito con el aperitivo, esa es su función.  Suena obsceno en tiempos en que mas de la mitad de la población del país se va a dormir sin cenar un mate cocido siquiera.
+**Aperitivo**  *Lat. Aperire, abrir.*   Se abre el apetito con el aperitivo, esa es su función.  Suena obsceno en tiempos en que mas de la mitad de la población del país se va a dormir con un mate cocido por toda cena.
 
-**Apolítico** *Lat. sufijo A denota negación, Político es lo relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace más de 2500 años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
+**Apolítico** *Lat. sufijo A denota negación, político relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto a utilizar debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace más de dos mil quinientos años, el solo hecho de vivir en sociedad, nos hace políticos. [^2]
 
-[^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *"el hombre es un animal político"* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad "solo existen animales y dioses"
+[^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *el hombre es un animal político* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad *solo existen animales y dioses*.
 
 **Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.  Artillería pareciera provenir de aquí, aquello que requiere un poco mas de arte que una simple herramienta rústica[^48].
 
@@ -86,23 +76,21 @@ Luego de una ligera pausa agrega:
 
 Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* recuerda a su abuelo, pero no a la persona sino a todas las cosas que perdio el mundo con su muerte.
 
->  "... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on."  --Ray Bradbury.
-
-Ese recuerdo del abuelo lo anoticia al protagonista **Guy Montag** sobre la falta de recuerdos de Molly, su mujer.
+>  ... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on.  --Ray Bradbury.
 
 **Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
 **Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de **siglo XX**, donde se llevaron adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
-> Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  1982.  Clase magistral sobre la invención del maiz híbrido. 
+> Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
 
 ## B
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
 
-**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, buscaron la conexión con el vocablo **Quilombo**, de origen africano, sin arribar a conclusiones serias.
+**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo **Quilombo**, de origen africano, sin arribar a conclusiones serias.
 
-**Barro** Según el génesis, materia prima de los hombres. Según **Graves** en *Los Mitos Griegos* también, pasado el diluvio de Deucalión.  Curioso sincretismo.
+**Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos* también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses. 
 
 > En un mundo de plástico y ruido, prefiero ser barro y silencio.  --Eduardo Galeano.
 
@@ -168,9 +156,17 @@ Símil del contemporáneo:
 
 **Cancerbero**  El guardian de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que tiene tantos pares de ojos que puede dormir con algunos mientas mantiene otros vigilantes -en vigilia-.  Borges sugirió que si aceptamos el infierno como la casa de Hades, es lógico y esperable que su perro guardián sea infernal también.  También sugiere que los autores clásicos hablan de miles de cabezas -queriendo indicar el infinito posiblemente- pero se redujo el número a tres, seguramente ***para comodidad de las artes plásticas.*** 
 
+**Canon**  *Gr. Χανων, regla*.  Normas, transversal a muchas disciplinas, que fijan normas, conductas y acciones destinadas a respetar los estándares humanos.  En principio, referidos a ergonomía y como adaptar el entorno humano para el uso.  Por simpatía se aplica a las disciplinas artísticas.  Concepto sensible a los cambios que la tecnología otorga al uso del tiempo.  Lo que fuera canónico en el cine de los sesentas, es *insoportablemente lento* para los espectadores del siglo XXI.  No así para las obras canónicas.  Quien vea en el Quijote una obra lenta y aburrida, seguramente es porque no la leyó[^22].
+
+[^22]: Quines no leen la biblia son católicos, quienes solo leen algunos pasajes, los indicados por sus pastores como canónicos, son protestantes, quienes leen la biblia completa, son ireemediablemente ateos.
+
 **Cantar** *Lat. Cantare*. De raíz indoeuropea **Kan**.  De aquí derivan canción, encantar.  Actividad laica -posiblemente la única- que aporta cierta esperanza de trascendencia espiritual a los mortales.  Hágase el ejercicio paciente de escuchar un coro.  Sin **Bach** -sugirió cierto teórico de la música- el cristianismo no hubiera pasado de ser una secta menor que se perdía en la edad media.  Al carecer de notación musical, desconocemos la actividad clásica, que a juzgar por la documentación histórica, fue abundante.
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
+
+**Cáñamo**  *Lat. Cannabum y este del Gr.κάνναβις y este del sumerio tracio o escita.*  Su presencia acompaña al homo sappiens desde épocas remotas, lo atestiguan semillas en el ajuar en algunas tumbas en el valle de los reyes, en egipto hasta ejemplares de la biblia de Guttemberg y la declaración de la independencia de EEUU fueron impresas en papel con cáñamo.  Desde el siglo V ac. hasta entrado el siglo XX, casi todos los velámenes y cuerdas navales eran fabricadas con este material.  Coincide temporalmente el patentamiento de la fibra sintética, a partir de polímeros de hidrocarburos, de parte de la firma Dunlop, con la persecusión de los fumadores de canabis en la union, en su mayoría inmigrantes latinos, mucho menos peligrosos que los blancos alcoholizados, armados y devotos wasp[^68] temerosos del señor.  A partir de esa prohibición, se penaliza el consumo a nivel mundial de este cultivo que acompaña a la humanidad desde épocas remotas, para uso textil, medicinal o meramente lúdico.
+
+[^68]: white anglo saxon protestan.  Inmigrantes originarios del norte de Europa, mucho mejor fenotipo para publicidad de, por ejemplo, teléfonos celulares.
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Palíndromo.  Ver **Anfisbena**.
 
@@ -186,9 +182,9 @@ Símil del contemporáneo:
 
 > Cerveza, origen y solución a todos mis problemas. --Homero
 
-**Cerveza sin Alcohol**.  Al Carecer de cómputos de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol de la tienda de **Apu** que da a la terraza, al consultarle **Lisa** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
+**Cerveza sin Alcohol**.  Al Carecer de cómputos de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol de la tienda de **Apu** que da a la terraza, al consultarle **Lisa Simpons** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
 
-> Eso nunca ha ocurridos  --Apu.
+> Eso nunca ha ocurridos  --Apu.  Episodio en que Lisa se vuelve vegana.
 
 [^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre, **Cerveza sin alcohol** al notar el escaso valor de marketing del original **Fanta Maiz**.
 
@@ -208,7 +204,7 @@ Símil del contemporáneo:
 
 **Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.
 
-**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces del idioma tienen tanto valor simbólico.  
+**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
 
