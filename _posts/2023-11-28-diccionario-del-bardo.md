@@ -164,7 +164,7 @@ Símil del contemporáneo:
 
 > Los dioses traen desdichas a los hombres, solo para oirlos cantar.  --Ulysses. La Odisea de Homero.
 
-**Cáñamo**  *Lat. Cannabum y este del Gr.κάνναβις y este del sumerio tracio o escita.*  Su presencia acompaña al homo sappiens desde épocas remotas, lo atestiguan semillas en el ajuar en algunas tumbas en el valle de los reyes, en egipto hasta ejemplares de la biblia de Guttemberg y la declaración de la independencia de EEUU fueron impresas en papel con cáñamo.  Desde el siglo V ac. hasta entrado el siglo XX, casi todos los velámenes y cuerdas navales eran fabricadas con este material.  Coincide temporalmente el patentamiento de la fibra sintética, a partir de polímeros de hidrocarburos, de parte de la firma Dunlop, con la persecusión de los fumadores de canabis en la union, en su mayoría inmigrantes latinos, mucho menos peligrosos que los blancos alcoholizados, armados y devotos wasp[^68] temerosos del señor.  A partir de esa prohibición, se penaliza el consumo a nivel mundial de este cultivo que acompaña a la humanidad desde épocas remotas, para uso textil, medicinal o meramente lúdico.
+**Cáñamo**  *Lat. Cannabum y este del Gr.κάνναβις y este a su vez del sumerio, tracio o escita.*  La multitud de fuentes, sumado a la abundante evidencia histórica, nos alerta que su presencia acompaña al homo sappiens desde épocas remotas.  Lo atestiguan semillas en el ajuar de algunas tumbas en el valle de los reyes, en Egipto, hasta ejemplares de la biblia de Guttemberg y la declaración de la independencia de EEUU que fueron impresas en papel con cáñamo.  Desde el siglo V ac. hasta entrado el siglo XX, casi todos los velámenes y cuerdas navales eran fabricadas con este material.  Hasta un hecho en apariencia menor, el patentamiento de la fibra sintética, a partir de polímeros de hidrocarburos, de parte de la firma Dunlop.   Aparecen por arte de magia, la persecusión de los fumadores de canabis en la union, en su mayoría inmigrantes latinos, mucho menos peligrosos que los blancos alcoholizados, armados y devotos wasp[^68], temerosos del señor.  A partir de esa prohibición, se penaliza el consumo a nivel mundial de este cultivo que acompaña a la humanidad desde épocas remotas, para uso textil, medicinal o meramente lúdico.  
 
 [^68]: white anglo saxon protestan.  Inmigrantes originarios del norte de Europa, mucho mejor fenotipo para publicidad de, por ejemplo, teléfonos celulares.
 
@@ -242,7 +242,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 ## D
 
-**Delgado** *Lat. Delicatus.*  Fino, delgado, delicado.
+**Delgado** *Lat. Delicatus.*  Fino, delgado, delicado, ergo los gordos son grotescos, lo cual prueba que la etiqueta es profundamente superficial.
 
 **Delito** *Lat. sustantivo Delictum.*  Del verbo *Delinquere* no hacer.  El origen del vocablo alude a una falta por omisión.  Por alguna extraña razón, el argentino clase media alta, entiende que defraudar -como la evasión fiscal- al estado es una *picardía* y no un Delito, existe una explicación muy inteligente por parte de Borges[^69].
 
@@ -535,7 +535,7 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 **Infierno**.  *Lat. Infra, abajo*.  Los clásicos tenían una idea muy distinta a la que forjara durante el medioevo la Sacra Iglesia Católica.  Hades era un dios mas, lujurioso y cabrón como sus pares Poseidón y Zeus, mujeriego y borrachín.  Curiosamente no existía nada parecido al infierno en ninguna de las cosmogonías americanas.
 
-> Se asusta el viejito al ver al cura nuevecito, misal apretadito en las manos.  Segundos después ya acepta la realidad.  Pregunta por el mas allá, el cura fuerza una sonrisa poniéndole uas fichas al cielo, donde están esperándolo las buenas gentes piadosas. "*¿Y lo otro?*" Pregunta, pura curiosidad, el moribundo.  Es donde están las mujeres malas, las drogonas, los jugadores, los malandrines y entretenido en cura en su enumeración, olvida al *cliente*, al verlo, vé dibujársele una sonrisa tierna, acompañando un suspiro largo.  Me gustan los finales felices, creo que asumen pensar lo mismo.
+> Se asusta un poco el viejito al ver al curita nuevo, misal apretadito en las manos.  Segundos después ya acepta la realidad.  Pregunta por el mas allá, el cura fuerza una sonrisa poniéndole unas fichas al cielo, donde están esperándolo las buenas gentes piadosas. ¿Y lo otro?  Suelta, pura curiosidad, el moribundo.  Es donde están las mujeres malas, las drogonas, los jugadores, los malandrines y entretenido en cura en su enumeración, olvida al *cliente*, al verlo, vé dibujársele una sonrisa tierna, acompañando un suspiro largo.  Me gustan los finales felices, creo que asumen pensar lo mismo.
 
 **Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, a partir del prefijo **in**.[^25].  La traducción correcta, atendiendo a la etimologia sería *Deformar* o *Desinformar*.
 
