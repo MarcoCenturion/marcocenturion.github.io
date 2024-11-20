@@ -371,6 +371,10 @@ Ella lo corrige, ojos entrecerrados:
 
 **Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
 
+**Fama**  *Lat. fama y este del Gr. φημί.*  La fama puede obtenerse por variados motivos.  Erástroto incendió el templo de Apolo por obtener fama.  Los jueces lo condenaron a que nadie lo nombre en toda la Hélade.  Hoy, después de dos mil quienientos años, seguimos nombrándolo.  Los famas eran los enemígos acérrimos de los cronopios, seres dulces por naturaleza.  
+
+> El ruso Grigori Yakovlevich Perelerman recibe la medalla Fields, el mayor honor al que puede aspirar un matemático, por haber resuelto la conjetura de Poincaré. Esta llevaba cien años comiendo cerebros de generaciones de matemáticos del mundo.  Además del honor, el premio agrega un millón de dólares que rechaza.  "No quiero estar expuesto como un animal en el zoológico".    
+
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
 **Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
