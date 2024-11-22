@@ -8,6 +8,9 @@ image: '/images/default.jpg'
 lead_text: 'La lengua usada en __"La Docta"__'
 ---
 
+*Porque utilizamos el idioma como un lugar común sin notar que las palabras, si, incluso ellas, son prolijamente seleccionadas para atravesarnos y repetir, continuar, formar el poder.*  
+
+
 ## A
 
 **Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de la polinización.   Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
@@ -222,7 +225,9 @@ Símil del contemporáneo:
 
 **Conmover** *Lat. commovere, com movere, mover completamente*.  Perturbar, inquiertar, turbar.  Sacar algo de su comodidad.  La referencia no parece ser exclusivamente topológica.
 
-**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
+**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas[^83].
+
+[^83]: Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
 
 > El amor a las cosas es triste, porque las cosas no saben que existimos.  --Jorge Luis Borges.
 
@@ -382,13 +387,15 @@ Ella lo corrige, ojos entrecerrados:
 
 [^79]: Los indivíduos famosos de las redes adquieren el título nobiliario de *influencers,* vaya a saber uno en virtud de que capricho de la moda, o debido al triunfo de alguna deidad malévola que se divierte con la estupidez colectiva. 
 
-> El ruso Grigori Yakovlevich Perelerman recibe un llamado, el interlocutor insiste para que acepte la medalla Fields, el mayor honor al que puede aspirar un matemático.  Se la ofrecen por haber resuelto en 2010 la conjetura de Poincaré.  No menos honorable y famoso es quien lo llama.  El objetivo es que concurra, reciba la medalla y el dinero.  No es para menos, la conjetura llevaba cien años comiendo cerebros de generaciones completas de matemáticos del mundo.  Después de diez horas de intento de convencerlo, Grigori solo acepta el honor, rechaza viajar y el millón de dólares.  *No quiero estar expuesto como un animal en el zoológico*.  Existe un esfuerzo risible por ridiculizar el accionar de Grigori porque vivimos en tiempos donde todo *pareciera* medible, comprable, cotizable.  Afortunadamente no es así.  
+> Una mañana el ruso Grigori Yakovlevich Perelerman recibe un llamado en su domicilio de Moscú, el interlocutor debe ser el décimo que llama insistiendo en que acepte la **medalla Fields**, el mayor honor al que puede aspirar un matemático en su vida.  Se la ofrecen por haber resuelto en 2010 la conjetura de Poincaré.  No menos honorable y famoso es quien lo llama, Sir algo, un caballero de la reina.  El objetivo de la llamada es rogarle que concurra, reciba la medalla y el dinero.  No es para menos, la conjetura llevaba cien años comiendo cerebros de generaciones completas de matemáticos del mundo.  Después de diez horas de intento de convencerlo, Grigori solo acepta el honor, rechaza viajar y el millón de dólares.  *No quiero estar expuesto como un animal en el zoológico*.  Existe un esfuerzo risible por ridiculizar el accionar de Grigori porque vivimos en tiempos donde todo *pareciera* medible, comprable, cotizable.  Afortunadamente sabemos que no es así y compartimos con muy pocas personas en el mundo ese enorme honor.  
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
-**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  De aquí parecen provenir Fanta Naranja, Fanta Pomelo y esa aberración que vemos en Brasil, *Fanta Uva*.
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  Todo parece indicar que este es el origen del nombre comercial de ciertas bebidas carbonatadas, justamente por ser *gaseosas*, *Fanta Naranja, Fanta Pomelo* y esa aberración que vemos en Brasil, *Fanta Uva*.  Según Borges, toda la literatura de terror era producto de una falencia tecnológica.  Las penumbras anteriores a la invención de la electriidad hacían que veamos espectros.  La llegada de la luz hizo que desaperecieron los espíritus y luces malas dejando en su lugar manchas de humedad y tíos bromistas.  Piglia sugería un período de tiempo entre la desaparición de dios, pronosticada por Nietzsche y la llegada del Psiconálisis, como el motivo de la novéla gótica.  En la mediterránea Córdoba, suele utilizárselo como descalificador de un antagonista en una discusión.
 
-[^6]: "Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres"  Ulysses.  James Joyce. 
+> ¡Caisé faantasma!  --Estiramiento de la **A** posterior a la **F** le otorga tesión al relato.
+
+[^6]: Que es un fantasma -se preguntó Stephen- sino alguien que se ha desvanecido hasta ser impalpable, por muerte, ausencia, o cambio de costumbres --Ulysses.  James Joyce. 
 
 **Faro** *Gr. Pharos.*  Isla griega en las costas de Alejandría, famosa por contar con un **Idem**.  En la mediterránea Córdoba, construyose tiempo atrás uno de estos prodigios humanos que llamamos faro, para la feliz empresa, fluyeron abundantes aportes de dineros públicos.  Lo extraño no es la ausencia de un mar cercano *novecientos kilómetros a la redonda*.  A juzgar por lo generoso que fue el estado provincial en gastos alpédicos, el faro sería un gasto menor.  
 
@@ -771,7 +778,9 @@ Síntoma irrefutable del **fascista asintomático** [^40].
 
 > ¡Hay que pena con usted!  -La misma respuesta de un colombiano de cualquier parte, con su musical castellano desprovisto de groserías.
 
-**No**  Poema de Armando Tejada Gomez que increpa al peatón a decir no.
+Existe otro No, el de la poesía.
+
+> Diga No, es una bomba, y con la mecha ardiendo... y lúzcalo orgulloso como un pañuelo nuevo.  --Peatón diga No.  Armando Tejada Gomez.
 
 **Normal**  *Lat. Normalis, conforme a la regla, en realidad la escuadra del carpintero*.  Que forma un ángulo recto. Conforme a los estándares y usos.  La *école normale*, creada por la **Revolución Francesa** para formar profesores, de esa manera estandarizar, normalizar.
 
