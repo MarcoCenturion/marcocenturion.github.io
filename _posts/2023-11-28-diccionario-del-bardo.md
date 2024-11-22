@@ -765,6 +765,14 @@ Síntoma irrefutable del **fascista asintomático** [^40].
 
 [^40]: El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
 
+**No**  *Lat. Non.*  Adverbio de negación.  No existe norma de etiqueta que prohiba su uso en forma autónoma, aunque se desaconseja el uso prolongado, como ocurre con ciertos fármacos, ya que producen acostumbramiento en el organismo.  En lugar de esto, culturas a lo largo del mundo han elegido eufemismos en su reemplazo.  La América hispana es generosa en estos, donde observamos usuarios del mismo idioma y sus diferentes formas de ser.  Ante un pedido cualquiera obtenemos respuestas totalmente distintas, que resumen sus culturas. Por extraño que suene, ambas incluyen la misma respuesta, no.
+
+> ¡Ni en pedo!  -Responde negativamente un argentino, porteño incluso, aunque no exclusivamente, ante un interlocutor desconocido.
+
+> ¡Hay que pena con usted!  -La misma respuesta de un colombiano de cualquier parte, con su musical castellano desprovisto de groserías.
+
+**No**  Poema de Armando Tejada Gomez que increpa al peatón a decir no.
+
 **Normal**  *Lat. Normalis, conforme a la regla, en realidad la escuadra del carpintero*.  Que forma un ángulo recto. Conforme a los estándares y usos.  La *école normale*, creada por la **Revolución Francesa** para formar profesores, de esa manera estandarizar, normalizar.
 
 > La normalidad es un ilusión. Lo que es Normal para la araña, es el caos de la mosca.  --Morticia Adams.
