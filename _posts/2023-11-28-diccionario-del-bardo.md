@@ -49,9 +49,13 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 [^61]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
-Contrario a lo que sugiere el sentido común, que cuenta con demasiada prensa, el paradigma del amor, el Drama de Shakespeare **Romeo y Julieta** la trama nos muestra que hay dos suicidios y cuatro homicidios en tres días.   
+Contrario a lo que sugiere el sentido común, de excesiva prensa, el paradigma del amor, en el Drama de Shakespeare **Romeo y Julieta** la trama nos muestra que hay dos suicidios y cuatro homicidios en tres días.  Para quienes creen que la toxicidad es exclusiva del siglo XXI. 
 
-**Anfisbena**  *Lat. amphisbaena.*  Etimología.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces. Al cortar Perseo la cabeza de la Medusa, sobrevolaba el desierto libio, estas surgían de las gotas que caían en la arena. En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias.
+**Andar** *Lat. Ambulare.*  De donde proceden ambulatorio, ambulancia.  El portugués lo utiliza para mencionar los pisos de un edificio, seguramente porque ahí se puede andar.  Mantiene el significado original, que pareciera sugerir un movimiento sin demasiado sentido, como vemos en el famoso convite de los ochentas
+
+> Vamos a andar, en verso y vida atentos.  --Silvio Rodriguez
+
+**Anfisbena**  *Lat. amphisbaena.*  De aquí provenga posiblemente anfibio.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces.  Luego de cortar la cabeza de la Medusa, Perseo sobrevolaba el desierto libio, de las gotas de sangre de esta que caían en la arena, brotaban estas serpientes de dos cabezas.  En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias.
 
 [^31]: El decoro prohibe el humor sobre indivíduos que vayan en dos direcciones, por lo que nos abstendremos de hacerlos.   No solo es de mal gusto, sino que mejores plumas se han adelantado en este sentido.  
 
@@ -75,7 +79,7 @@ Luego de una ligera pausa agrega:
 
 [^2]: En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *el hombre es un animal político* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad *solo existen animales y dioses*.
 
-**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, por oposición a algo innato, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.  Artillería pareciera provenir de aquí, aquello que requiere un poco mas de arte que una simple herramienta rústica[^48].
+**Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, en franca oposición a algo *innato*, algo que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.  Artillería pareciera provenir de aquí, aquello que requiere un poco mas de arte que una simple herramienta rústica[^48].
 
 [^48]: Echan rodilla en tierra, los que a la guerra van con valor.  --La Artillera.  Zamba popular.
 
@@ -215,7 +219,9 @@ Símil del contemporáneo:
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
 
-**Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.
+**Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.  Las elites pagan consultoras para que les digan exactamente lo que esperan escuchar.  Pagan notas en los grandes medios que resaltan las beldades del sistema, con su baja inflación y la mejora del riesgo país.  Cuando todo explota por los aires lo llaman colapso, como en el castillo de naipes, del que no difieren mucho sus argumentos, datos y lealtad de sus adeptos.
+
+**Colectivo**  *Lat. Collectivus deriva de Collectionis, colección, colligere, con y legere recoger, leer*.  Algo así como leer juntos, elegir juntos.  Solo puede entender un objetvo colectivo, como la abstracción del concepto de nación, quien asuma un bien común, una cosa de todos.  Solo puede trabajar en pos de algo colectivo quien asuma que no existe salvación individual.  Una multiplicidad de cosas que no es lo mismo que la suma de sus partes.  Nunca.  Solo puede negar el valor terapéutico de una marcha del veinticuatro de marzo quien nunca estuvo ahí.  
 
 **Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  
 
@@ -399,7 +405,7 @@ Ella lo corrige, ojos entrecerrados:
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
-**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  Todo parece indicar que este es el origen del nombre comercial de ciertas bebidas carbonatadas, justamente por ser *gaseosas*, *Fanta Naranja, Fanta Pomelo* y esa aberración que vemos en Brasil, *Fanta Uva*.  Según Borges, toda la literatura de terror era producto de una falencia tecnológica.  Las penumbras anteriores a la invención de la electriidad hacían que veamos espectros.  La llegada de la luz hizo que desaperecieron los espíritus y luces malas dejando en su lugar manchas de humedad y tíos bromistas.  Piglia sugería un período de tiempo entre la desaparición de dios, pronosticada por Nietzsche y la llegada del Psiconálisis, como el motivo de la novéla gótica.  En la mediterránea Córdoba, suele utilizárselo como descalificador de un antagonista en una discusión.
+**Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  Todo parece indicar que este es el origen del nombre comercial de ciertas bebidas carbonatadas, justamente por ser *gaseosas*, *Fanta Naranja, Fanta Pomelo* y esa aberración que vemos en Brasil, *Fanta Uva*.  Según Borges, toda la literatura de terror era producto de una falencia tecnológica.  Las penumbras anteriores a la invención de la electricidad hacían que veamos espectros.  La llegada de la luz hizo que desaperecieron los espíritus y luces malas dejando en su lugar manchas de humedad y tíos bromistas.  Piglia sugería un período de tiempo entre la desaparición de dios, pronosticada por Nietzsche y la llegada del Psiconálisis, como el motivo de la novéla gótica.  En la mediterránea Córdoba, suele utilizárselo como descalificador de un antagonista en una discusión.
 
 > ¡Caisé faantasma!  --Estiramiento de la **A** posterior a la **F** le otorga tesión al relato.
 
@@ -427,7 +433,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
-**Fiel** *Lat. Fidelis.*  Que podemos fiarnos de él/ella.  También llamamos así a la aguja de la balanza de dos platillos.  En asuntos religiosos se da la extraña controversia, quienes son fieles desde un punto de vista, son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.:   
+**Fiel** *Lat. Fidelis.*  Que podemos fiarnos de él/ella.  También llamamos así a la aguja de la balanza de dos platillos.  En asuntos religiosos se da la extraña controversia, quienes son fieles desde un punto de vista, son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.   
 
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
 
