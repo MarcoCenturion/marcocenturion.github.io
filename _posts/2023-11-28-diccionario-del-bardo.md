@@ -187,6 +187,8 @@ Símil del contemporáneo:
 
 > Hasta para drogarse hay que tener código, cada gramo de merca tiene sangre de todo el proceso, la producción, el transporte, la distribución de la cana.  --Sisoco García.  Lemiteliusansin.
 
+> La propaganda manda cruel en el cartel.  --Homero Expósito y Atilio Stampone.
+
 **Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado. Los antropólogos deducen la cantidad de habitantes de las ciudades a partir de los asientos en el teatro, puesto que toda la ciudad tenía acceso.  En la misma función se presentaban tragedia y comedia.  Esta última era en muchos casos excesiva en palabrotas, el objeto era obrar de espejo donde el público viera se viera a si mismo. 
 
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de cannabis centroamericanos. 
