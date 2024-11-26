@@ -10,7 +10,6 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 *Porque utilizamos el idioma como un lugar común sin notar que las palabras, si, incluso ellas, son prolijamente seleccionadas para atravesarnos y repetir, continuar, formar el poder.*  
 
-
 ## A
 
 **Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de la polinización.   Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
@@ -19,7 +18,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
-**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado, tal es el caso de la *aberración cromática* en Astronomía por un defecto en la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón[^58]. 
+**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado, tal es el caso de la *aberración cromática* en Astronomía por un defecto en la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón[^58].  Todas las épocas contaron con arte berretas, cercanos a lo obseno, pero el reguetón lleva los límites al extremo de lo imcompatible con la vida.
 
 [^58]: Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
 
@@ -805,6 +804,10 @@ Existe otro No, el de la poesía.
 **Nosotros**  *Lat. Nos y Otros.  Yo y otros más.*  El burro adelante, decía mi abuela.  Nos cumple la misma función de Vos[^38]. 
 
 [^38]: En Córdoba, ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**.  Debiera servirnos para entender los resultados electorales.
+
+**Noticia**  *Lat. notitia gnoto como nota del Gr. Gnosis, conocimiento*.  Ignoto es desconocido y no como pudiera entenderse el *desanoticiado*.  Dar a conocer, para que otros tengan idea de este algo del que estamos anoticiándolos.  Asumimos *conocimiento* y buena fe en el portador de estas noticias y no con una naturalidad y falta de espíritu crítico, al menos, cuestionable.  Muta el periódico a de papel en ondas de rádio, luego televisión para llegar a canales de streaming y redes sociales.  Cierto sector de la psiquiatría moderna adjudican esta ingénua conducta al contínuo y progresivo sometimiento del cachorro humano a la mentira.  Parte a temprana y evoluciona in crescendo el Ratón Peraz, Papá Noel, , Reyes Magos, el que deposió dólares, recibirá dólares, Dios, iPhone, etc.  Muta el medio, el formato de la tramoya es exactamente el mismo desde hace diez mil años.  Cada vez caemos al embrujo de la estupidez masiva con oponiendo menos resistencia, asumiento por comodidad el sitio de no poner en riesgo el sistema de creencias[^85].
+
+> [^85]: Homero lleva hasta su casa a la empleada de la feria de dulces, al bajarse esta Homero ve pegada en su jean a **La Diosa de jalea** la gelatina mas ácida inventada por el hombre.  Ella ve su cara de libertario y sale horroizada.  Aparece en las noticias haciendo la denuncia por acoso.  Bart y Lisa increpan a Homero y dicen creer en que es inocente, el responde con la frase que lo define por completo.  *Lo dice la televisión, debe ser cierto*.
 
 **Novio(a)** *Lat. Nuevo.*  Dícese de la nueva pareja[^23].  Por recurso *ab negatio* viejo o vieja, el antónimo.  
 
