@@ -372,6 +372,10 @@ Ella lo corrige, ojos entrecerrados:
 
 > Nunca rechaces el consejo de un escalofrío.  --Francisco Urondo.
 
+**Escándalo**  *Lat. scandalum y este del Gr. scandalon σκάνδαλον*.  1. Cepo o lazo para cazar animales.   De ahí proviene escollo, especie de *trampa* en la costa,  para *cazar* las navíos y hacerlos naufragar.  Indica acciones que hacen perder la confianza.  2. Una vela puntual, se despliega solo con viento favorable, es llamada la *escandalosa* al ser generosa en sonidos.  Las personas suelen plagiar esta actitud, puesto que se convierten en fugaces productores de escándalos, al encontrarse, muchas veces sin querer ni merecerlo, con vientos favorables.
+
+> La soberbia es una discapacidad que suele afectar a pobres infelices mortales que se encuentra de golpe con una miserable cuota de poder.  --José de San Martín.
+
 **Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las cosas últimas, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos traspasada la muerte.  Controversial es su uso, dado que dependerá de la calidad de su interlocutor sea el uso del término en cuestión de buen o mal gusto.
 
 > La señora de Perez y sus hijas, comunican al público y al clero, que han abierto un taller de chupar pijas, en la calle Santiago del Estero.  --Diccionario Escatológico Argentino.  --Jorge Luis Borges y Adolfo Bioy Casares.
