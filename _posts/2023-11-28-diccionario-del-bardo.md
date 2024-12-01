@@ -84,6 +84,8 @@ Luego de una ligera pausa agrega:
 
 > Ningún artista tolera la realidad  --Friedrich Niesztche.
 
+> Nunca te burles de tus padres por no adaptarse a la tecnología, recuerda que ellos te enseñaron a manejar la cuchara.
+
 Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* recuerda a su abuelo, pero no a la persona sino a todas las cosas que perdio el mundo con su muerte.
 
 >  ... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on.  --Ray Bradbury.
