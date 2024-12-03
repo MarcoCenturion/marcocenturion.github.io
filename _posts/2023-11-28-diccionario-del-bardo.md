@@ -14,7 +14,7 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de la polinización.   Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
 
-[^52]: No en todos los casos es tan amable, conocimos tiempo atrás una compañera de trabajo a la que apodaban abeja porque era chiquitita, rayada y mala.
+[^52]: Amable de amabilidad selectiva, conocimos tiempo atrás una colaboradora de mayorista de turismo a la que apodaban "abeja" por ser chiquitita, rayada y mala.
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
@@ -442,7 +442,11 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
 
-**Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.  
+**Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos. 
+
+**Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  
+
+> La que tenía un físico bárbaro, era la mujer de Einstein.
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
@@ -1078,7 +1082,11 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
 
 
 ## T
- 
+
+**Tacto** *Lat. Tactus, tangere, de allí tangente*.  Sus diferentes derivados, intacto es lo no alcanzado o íntegro, luego integridad. Influir en algo por contacto, luego contagia. Tacto, luego, es tratar un tema con suma sutileza, casi *sin tocarlo*.    
+
+> Tacto es arte de mandar a cagar a alguien de forma tal que pregunte el precio del viaje con alegría.  
+
 **Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo ofrece una segunda identidad al indivíduo.  Mas acorde a su ego. 
  
 > Fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  --Fight Club.  
