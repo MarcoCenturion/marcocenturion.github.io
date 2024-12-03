@@ -1083,9 +1083,11 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
 
 ## T
 
-**Tacto** *Lat. Tactus, tangere, de allí tangente*.  Sus diferentes derivados, intacto es lo no alcanzado o íntegro, luego integridad. Influir en algo por contacto, luego contagia. Tacto, luego, es tratar un tema con suma sutileza, casi *sin tocarlo*.    
+**Tacto** *Lat. Tactus, tangere, de allí tangente*.  Sus diferentes derivados, intacto es lo no alcanzado o íntegro, luego integridad. Influir en algo por contacto, luego contagia. Tacto, luego, es tratar un tema con suma sutileza, casi *sin tocarlo*[^86].
 
-> Tacto es arte de mandar a cagar a alguien de forma tal que pregunte el precio del viaje con alegría.  
+[^86]: Volvían del acto de la escuela confesional Anibal y Álvaro uniformados y peinados, un veinte de junio, los para en seco el Rulo en la puerta "No se cambien de ropa que murió la abuela" 
+
+> Tacto es la manera de mandar a la mierda a alguien, de forma tan cortés, que pregunte el precio del viaje con alegría.  --Odiseo Torres.  Agente de Viajes. 
 
 **Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo ofrece una segunda identidad al indivíduo.  Mas acorde a su ego. 
  
