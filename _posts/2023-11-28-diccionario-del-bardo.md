@@ -238,6 +238,8 @@ Símil del contemporáneo:
 
 **Conmover** *Lat. commovere, com movere, mover completamente*.  Perturbar, inquiertar, turbar.  Sacar algo de su comodidad.  La referencia no parece ser exclusivamente topológica.
 
+> Dudá siempre de quien no se conmueve por nada.
+
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas[^83].
 
 [^83]: Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
@@ -514,6 +516,10 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 **Hoja** *Lat. Folia*.  La más perfecta máquina de la naturaleza, el prodigio energético que convierte la luz solar en vida.  El intelecto humano intenta copiar está eficacia con resultados magros.  Cualquier invento de madre natura es un milagro de economía de medios y eficiencia.
 
 **Homosexualidad**. Actividad que adoptan muchas especies animales en la naturaleza al ser sometidas a ciertas tensiones, por presentarse en la naturaleza las llamamos *naturales*.  Ninguna otra especie aparte del homo sapiens, mantienen cultos religiosos, ergo son antinaturales.  Se retira formalmente del *Manual Diagnóstico y Estadístico de Trastornos Mentales*  (DME II) en el año 1973.
+
+**Honor**  *Lat. honos*.  Sustantivo que oficia de conjunto de características que debía reunir cualquier funcionario de la repúbliaca romana, que es un poco honradez, sapiencia, lealtad, etc.  De allí también provienen honestidad, honradez, honorable.  En las gentes posee un curioso comportamiento.  Lleva una vida convertirse en honorable, mientras que un solo hecho, por pequeño que sea, para hacerlo desaparecer.
+
+> Los capitanes se arrojaron a sus pies y rogaron que se suicidara, como corresponde a un Samurai.  En vano propusieron ese decoro a su ánimo servil.  Era varón inaccesible al honor, a la madrugada tuvieron que degollarlo.  --El Incivil Maestro de Ceremonias Kotsuke no Suke.  Jorge Luis Borges.
 
 **Homofóbico**  Homosexual asintomático o lo que conocemos coloquialmente como *puto en pausa*.
 
@@ -796,6 +802,10 @@ Triste final tenían deparado los hados a un fonema con tamaño potencial.
 Síntoma irrefutable del **fascista asintomático** [^40].
 
 [^40]: El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
+
+**Ninguno** *Lat. Nec unus*.  Originalmente el témino utilizado para el indefinido era nullus, de donde llega a nuestros días nulo.  Por caprichos de los idiomas sobrevivió en el habla cotidiana ninguno.  De aquí proviene el verbo ningunear.  Una rata de biblioteca acusa a Eduard Gibbon de cierta omisión en su obra *Decline and Fall* de la que sale airoso aunque aturdido, aunque *no tardó en descubrir que este vano estrépito era solo dañino en el propósito*.
+
+> Un triunfo frente a tales antagonistas, era verguenza suficiente.  --Prologo a Decline and Fall de Jorge Luis Borges.
 
 **No**  *Lat. Non.*  Adverbio de negación.  No existe norma de etiqueta que prohiba su uso en forma autónoma, aunque se desaconseja el uso prolongado, como ocurre con ciertos fármacos, ya que producen acostumbramiento en el organismo.  En lugar de esto, culturas a lo largo del mundo han elegido eufemismos en su reemplazo.  La América hispana es generosa en estos, donde observamos usuarios del mismo idioma y sus diferentes formas de ser.  Ante un pedido cualquiera obtenemos respuestas totalmente distintas, que resumen sus culturas. Por extraño que suene, ambas incluyen la misma respuesta, no.
 
@@ -1083,13 +1093,13 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
 
 ## T
 
-**Tacto** *Lat. Tactus, tangere, de allí tangente*.  Sus diferentes derivados, intacto es lo no alcanzado o íntegro, luego integridad. Influir en algo por contacto, luego contagia. Tacto, luego, es tratar un tema con suma sutileza, casi *sin tocarlo*[^86].
+**Tacto** *Lat. Tactus, tangere, tocar de allí tangente*.  Sus diferentes derivados sugieren contacto que es tacto, intacto es lo no alcanzado o íntegro, luego integridad.  Influir en algo por contacto, luego contagia. Tacto, luego, es tratar un tema con suma sutileza, casi *sin tocarlo*[^86].
 
-[^86]: Volvían del acto de la escuela confesional Anibal y Álvaro uniformados y peinados, un veinte de junio, los para en seco el Rulo en la puerta "No se cambien de ropa que murió la abuela" 
+[^86]: Volvían del acto de la escuela confesional Anibal y Álvaro uniformados y peinados, un veinte de junio, los paró en seco su papá, el Rulo, en la puerta "No se cambien de ropa que murió la abuela." 
 
 > Tacto es la manera de mandar a la mierda a alguien, de forma tan cortés, que pregunte el precio del viaje con alegría.  --Odiseo Torres.  Agente de Viajes. 
 
-**Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo ofrece una segunda identidad al indivíduo.  Mas acorde a su ego. 
+**Tarjeta de Crédito**  *Econ.*  Ingenioso artilugio con el que la sociedad de consumo ofrece una segunda identidad al indivíduo, mas parecida a sus aspiraciones que al indivíduo en si, acorde a su ego de colores black, gold, diamond o platinum. El hecho de nombrarlos en inglés, agrega cierto perfume de free shop que tranquiliza al indivíduo.
  
 > Fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  --Fight Club.  
  
