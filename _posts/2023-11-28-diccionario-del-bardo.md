@@ -921,7 +921,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Esperando salir al escenario, un muy joven Jorge Luz, temblaba de frío en los camarines del Luna Park.  Nota que a una ventana le falta un vidrio y su traje de marinerito en julio no colabora en darle cobijo.  De pronto se abre la puerta y aparece el Mono Gatica, camisa a cuadros, corbata roja, sobretodo piel de camello y galera.  Gatica pregunta "¿Nene de que te disfrazaste?" a lo que Jorge Luz responde poniendo en riesgo su vida "Yo de pelotudo ¿Y usted?" Afortunadamente, el boxeador no comprendió el alcance del chiste.
 
-**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe *el uso de la fuerza* para compartirlo contigo. -4 Esta prohibición alcanza el caracter de **Delito de Código Penal**, si ese *otros* son niños.  5- No conviene alardear de tenerlo.  
+**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Pareciera interesante -a simple vista- tener uno.  2- Se desaconseja exibirlo publicamente, salvo entornos controlados como el teatro experimental.  3- El decoro prohibe *el uso de la fuerza* para compartirlo con otros/as. -4 Esta prohibición alcanza el caracter de **Delito de Código Penal**, si ese *otros/as* son menores de edad.  5- No es prudente alardear, como el caso e la famosa canción.  
 
 > Solo voy con mi pene --Radio Bemba.  Manu Chao.
 
