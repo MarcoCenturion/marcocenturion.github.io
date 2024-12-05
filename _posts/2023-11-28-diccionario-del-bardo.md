@@ -923,7 +923,11 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Parece interesante -a simple vista- tener uno.  2- No es recomendarble exibirlo publicamente.  3- El decoro prohibe *el uso de la fuerza* para compartirlo contigo. -4 Esta prohibición alcanza el caracter de **Delito de Código Penal**, si ese *otros* son niños.  5- No conviene alardear de tenerlo.  
 
-> Solo voy con mi pene --Radio Bemba.  Manu Chao
+> Solo voy con mi pene --Radio Bemba.  Manu Chao.
+
+**Persona**  *Lat. Persona y este del Etrusco Phersu y posiblemente este el Gr. Prosopon πρόσωπον* pros, adelante y opos, cara. Para sonar, para hacer sonar.  Alude a la máscara que utilizaban en el teatro los actores para sus *personificaciones* actuar el papel de su personaje, esto es casi lo que actualmente conocemos con el verbo **caretear**.  Los actores cambiaban de máscaras para mostrar sus estados de ánimo.  De aquí que suponemos la existencia, en todos los indivíduos, de una vida pública, una privada y una secrecta.  El psicoanálisis ha definido como neurosis al resultado de esas divisiones, cuanto mas separadas están esas vidas, mas neuróticos son sus usuarios.
+
+> Pegame pero decime Marta.  --Cacho Buenaventura.
 
 **Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *"Per il verso"* Que sirve para hacer el verso.
 
