@@ -921,7 +921,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Esperando salir al escenario, un muy joven Jorge Luz, temblaba de frío en los camarines del Luna Park.  Nota que a una ventana le falta un vidrio y su traje de marinerito en julio no colabora en darle cobijo.  De pronto se abre la puerta y aparece el Mono Gatica, camisa a cuadros, corbata roja, sobretodo piel de camello y galera.  Gatica pregunta "¿Nene de que te disfrazaste?" a lo que Jorge Luz responde poniendo en riesgo su vida "Yo de pelotudo ¿Y usted?" Afortunadamente, el boxeador no comprendió el alcance del chiste.
 
-**Pene**  Comparte un par de curiosas coincidencias con la religión.  1- Pareciera interesante -a simple vista- tener uno.  2- Se desaconseja exibirlo publicamente, salvo entornos controlados como el teatro experimental.  3- El decoro prohibe *el uso de la fuerza* para compartirlo con otros/as. -4 Esta prohibición alcanza el caracter de **Delito de Código Penal**, si ese *otros/as* son menores de edad.  5- No es prudente alardear, como el caso e la famosa canción.  
+**Pene**  Comparte, como mínimo, coincidencias, puntos de unión, con la fé.  Esa religión del siglo XX, que llamamos psicoanálisis por comodidad, le otorgó el caracter de deidad, a todas luces de manera errónea puesto que, lo destronó por un símil de silicona, sin mayor pesar, hiriendo de muerte al narcisismo masculino.  Pareciera interesante -a simple vista- tener uno, propio o prestado.  Se desaconseja su exibición publica, salvo en entornos controlados como el teatro experimental.  El decoro prohibe *el uso de la fuerza* para compartirlo con otros/as.  Esta prohibición alcanza el caracter de **Delito del Código Penal**, si ese *otros/as* es menor de edad.  No es prudente hacer alarde, como documenta la canción.  
 
 > Solo voy con mi pene --Radio Bemba.  Manu Chao.
 
@@ -933,7 +933,9 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.  De aquí surge el argentinismo *bien empilchado*.  
 
-**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea datando las piedras, de ello deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes.
+**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea, al datar las piedras, deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes, *res publicae*, cosa de todos.  La última población realmente libre, según la antropología estructuralista, fueron los cazadores recolectores, como los nativos americanos anteriores a la conquista en el centro de la Argentina.  Vivían en medio de la naturaleza, en las márgenes de corrientes de agua, actividad vedada a los actuales trabajadores en su alucinación colectiva de libertad.  Los **comechingones**, trabajaban en promedio, seis horas semanales.  Este formato de bienes comunes hacía que aquellos que dedicaran solo cinco horas a la caza o la pesca fueran tildados por sus pares como
+
+> Vagos, planeros o simplemente kukas.
 
 [^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro.
 
