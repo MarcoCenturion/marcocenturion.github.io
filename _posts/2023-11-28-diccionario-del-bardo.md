@@ -1229,7 +1229,7 @@ Esta puntualmente es muy bonita. [^11].
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
 
-Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por completo de significado.  El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene envidiable fé sobre de cuanto debe el entorno sufrir el sostenimiento de su *endeble sistema de creencias*.  Suele tomar la palabra en las conversaciones con frases que comienzan con:
+Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pero carente por completo de significado.  El proto-fascista es excesivamente generoso en la exposición de su punto de vista.  Tiene envidiable fé sobre cuanto debe el entorno sufrir el sostenimiento de su *endeble sistema de creencias*.  Suele tomar la palabra en las conversaciones con frases que comienzan con:
 
 > Yo te explico...
 
@@ -1237,9 +1237,9 @@ Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en 
 
 ## Z
 
-**Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los indivíduos, sin tener en cuenta que aquellos -los planetas-, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de religiones veraderas.
+**Zodíaco** *Gr. Zoo animal, kyclos rueda*.  Refiere al movimiento circular de los animales dibujados en la esfera celeste.  Este pensamiento mágico sugiere cierta predisposición e influencia de la posición planetaria al nacer, condicionando el resto de la vida de los indivíduos, sin tener en cuenta que aquellos -los planetas-, no solo cambian esa posición a lo largo del tiempo, sino que aplican para una localización indoeuropea que no aplicaría en latitudes australes.  Acusada de charlatanería por partidarios de *religiones veraderas*, al decir de Alejandro Dolina.  Sir Isaac Newton, una de las mentes mas brillantes de la Europa de la ilustración, sostenía cierta semejanza entre el zodíaco y el mito de Jasón y viaje para rescatar el Vellocino de Oro.  Virgo sería la referencia a la virgen que custodiaba el tesoro, Géminis, los gemelos Castor y Polux, parte de la tripulación del Argos, Leo haría referencia a Heracles, que vestía la piel de un león, que habia sacrificado como parte de los doce trabajos.
 
-**Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  Durante el medioevo se utilizaba la mano izquierda para la higiene mas vergonzoza y la derecha para tomar los alimentos.  Por la posición en la asamblea, durante la revolución francesa, colocó a la nobleza y el clero a la derecha, mientras que a la izquierda estaban los representantes de los sectores mas radicalizados.
+**Zurdo** *Vazco.  zur.*  Maleducado, burdo, grosero, torpe, por la torpeza de la mano izquierda.  Durante el medioevo se utilizaba la mano izquierda para la higiene mas vergonzoza y la derecha para tomar los alimentos.  Tuvieron que pasar varios siglos para que alguien sugiriera lavarse las manos antes de las comidas.  Por caprichos similiares durante la asamblea post revolución francesa, la nobleza y el clero se acomodaron en los asientos de la derecha, mientras que a la izquierda lo hicieron los representantes de los sectores mas radicalizados.  
 
 **Zurdo Empobrecedor**  Chicana preferida de cierto sector *intectual* argentino, auto festejándose haber enriquecido amplios sectores de la población, que festejan esta hazaña eliminando una o dos comidas al día.  Afortunadamente no sospechan que la economía mas importante del globo es la china, merced a su planificación y control estatal, lo que provocaría suicidios masivos por actos vandálicos como la lectura.
 
