@@ -200,13 +200,13 @@ Símil del contemporáneo:
 
 > Cerveza, origen y solución a todos mis problemas. --Homero
 
-**Cerveza sin Alcohol**.  Al Carecer de cómputos de ventas, es imposible trazar comportamientos de consumo para estadísticas.  Lo atestigua la puerta secreta en la heladera de cervezas sin alcohol de la tienda de **Apu** que da a la terraza, al consultarle **Lisa Simpons** que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
+**Cerveza sin Alcohol**.  Al carecer de cómputos de ventas, es imposible trazar comportamientos de consumo para estadísticas serias.  Lo atestigua la puerta secreta detrás de la heladera de cervezas sin alcohol, en la tienda de **Apu** que da a la terraza donde están Linda y Paul Mc Artney.  **Lisa Simpons** pregunta ingenua que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
 
-> Eso nunca ha ocurridos  --Apu.  Episodio en que Lisa se vuelve vegana.
+> Eso nunca ha ocurridos  --Apu Nahasapeemapetilon.  The Simpsons. Temporada 7 Episodio 5. 
 
 [^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre, **Cerveza sin alcohol** al notar el escaso valor de marketing del original **Fanta Maiz**.
 
-**Chacra**  *Quechua.  Granja.*
+**Chacra**  *Quechua.  Granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
