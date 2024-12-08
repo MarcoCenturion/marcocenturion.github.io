@@ -977,7 +977,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 [^28]: Guarda una simetría sugestiva respecto de la *comisión contra actividades antiamericanas* que presidía el tristemente célebre Joseph Mc Arty en EEUU.
  
-**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que al mismo tiempo utilizamos el calificativo de puto para homosexuales que los enfrentaban.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
+**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene el idioma nos juega malas pasadas, por las que, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que, al mismo tiempo, utilizamos el calificativo de puto para homosexuales que los enfrentaban sin temor.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
 
 ## Q 
  
@@ -1026,12 +1026,12 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
  
 **Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
  
-> Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la gorda ropa prestada, tirarle onda al bryan.  La voy a hartar a puntasos.]
+> Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la señora obesa ropa prestada, tirarle onda al Bryan.  La voy a hartar a puntazos.]
  
 Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos en la obra y sino el que nos gustaría.  El buen **Theodore Sturgeon** se ofuscaba cuando alguien iba a verlo a su cuchitril del Bronx, sosteniendo su enojo en la obligación de adoptar normas del mundo exterior -por caso vestirse- en su micro mundo de desnudez.
 
 > Es muy difícil mentir desnudo.  Se puede, pero es riesgso.  --Theodore Sturgeon. 
- 
+
 **Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cosechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos.  Eufemismo entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al Dólar Paralelo, también llamado *blue* por similares motivos.
  
 ## S
@@ -1040,7 +1040,7 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 
 > No parece muy saludable adaptarse a una sociedad tan enferma.  --Jiddu Krishnamurti. 
  
-A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de niños y niñas, el profe de informática lo hace con sonrisas a la voz de **Logout**. 
+A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a cada uno de niños y niñas, el profe de informática implementa un simpático sistema, saludar con sonrisas, mano levantada y la voz **logout**. 
  
 **Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
  
@@ -1054,9 +1054,9 @@ A partir del saludo de la teacher de ingles con un alegre **bye** a cada uno de 
  
 > ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
 
-**Serpiente** *Gr. ἕρπης, -τος*  Reptar, arrastrarse.  Raíz común indoeuropea que da vida a serpe en portugués, serp en catalán, serpe en italiano.  Del mismo origen proviene herpes, puntualmente el herpes zóster, culebrilla por su forma serpenteante en el cuerpo.  Hubo quienes intentaron asociar el origen a una palabra hebrea, nahash, por Sataná, el mal, el del manzano y la tentación.  Cierta doctrina apócrifa sostiene que aquella tentación no fué el sexo, sino el saber.  La femenina curiosidad.  Durante la dictadura cívico-eclesiástico-militar de los setenta, llegaban casettes grabados de otros casettes, de otros, y así sucesivamente hasta el infinito.  Se prestaban de manos en manos amigas y se devolvían en secreto, envueltos en un halo de misterio y confidencia.  Resaltaban el origen, un hermano o prima exiliada que lo enviaba de México o España, para rogar extremos cuidados.  El resultado sonoro final era de escasa a nula calidad.  Recién patentando un sistema electrónico de filtros bautizado **Dolby**, facilitaba la tarea de entender letras y armonías.  Algo.  Accedimos al **mal** de esa forma furtiva, a *Soñar con Serpientes* y *Aprender a quererte cuando todo Santa Clara se despierta para verte*, a Quilapayún y Jara, a Aute y Violeta Parra, Olimareños y Viglietti y León y Victor Heredia.  Como corresponde a todo aprendizaje que vale mucho -muchísimo- no tiene precio, tan fugaz, furtivo e intenso como beso robado en el claustro docente universitario, con el alma explotando en forma de lágrimas.  Y gratitud.  Siempre, por aprehender que *Lo hermoso nos cuesta la vida*.
+**Serpiente** *Gr. ἕρπης, -τος*  Reptar, arrastrarse.  Raíz común indoeuropea que da vida a serpe en portugués, serp en catalán, serpe en italiano.  Del mismo origen proviene herpes, puntualmente el herpes zóster, conocida vulgarmente como culebrilla, por su forma serpenteante en el cuerpo.  Hubo quienes intentaron asociar el origen a una palabra hebrea, nahash, por Satanás, el mal, el del manzano y la tentación.  Cierta doctrina apócrifa sostiene que aquella tentación no fué el sexo, sino el saber.  La femenina curiosidad.  Durante la dictadura cívico-eclesiástico-militar de los setenta, llegaban casettes grabados de otros casettes, de otros, y así sucesivamente hasta el infinito.  Se prestaban de manos en manos amigas y se devolvían en secreto, envueltos en un halo de misterio y confidencia.  Resaltaban el origen, un hermano o prima exiliada que lo enviaba de México o España, para rogar extremos cuidados.  El resultado sonoro final era de escasa a nula calidad.  Recién patentando un sistema electrónico de filtros bautizado **Dolby**, facilitaba la tarea de entender letras y armonías.  Algo.  Accedimos al **mal** de esa forma furtiva, a *Soñar con Serpientes* y *Aprender a quererte cuando todo Santa Clara se despierta para verte*, a Quilapayún y Jara, a Aute y Violeta Parra, Olimareños y Viglietti y León y Victor Heredia.  Como corresponde a todo aprendizaje que vale mucho -muchísimo- no tiene precio, tan fugaz, furtivo e intenso como beso robado en el claustro docente universitario, con el alma explotando en forma de lágrimas.  Y gratitud.  Siempre, por aprehender que *Lo hermoso nos cuesta la vida*.
 
-**Sexto**  *La**. Sextus.*  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.:   
+**Sexto**  *La**. Sextus.*  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.   
  
 > Del drama Enrique VI la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
  
