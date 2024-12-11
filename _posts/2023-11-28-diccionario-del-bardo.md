@@ -222,7 +222,11 @@ Símil del contemporáneo:
 
 **Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.  Las elites pagan consultoras para que les digan exactamente lo que esperan escuchar.  Pagan notas en los grandes medios que resaltan las beldades del sistema, con su baja inflación y la mejora del riesgo país.  Cuando todo explota por los aires lo llaman colapso, como en el castillo de naipes, del que no difieren mucho sus argumentos, datos y lealtad de sus adeptos.
 
-**Colectivo**  *Lat. Collectivus deriva de Collectionis, colección, colligere, con y legere recoger, leer*.  Algo así como leer juntos, elegir juntos.  Solo puede entender un objetvo colectivo, como la abstracción del concepto de nación, quien asuma un bien común, una cosa de todos.  Solo puede trabajar en pos de algo colectivo quien asuma que no existe salvación individual.  Una multiplicidad de cosas que no es lo mismo que la suma de sus partes.  Nunca.  Solo puede negar el valor terapéutico de una marcha del veinticuatro de marzo quien nunca estuvo ahí.  
+**Colectivo**  *Lat. Collectivus deriva de Collectionis, colección, colligere, con y legere recoger, leer*.  Algo así como leer juntos, elegir juntos.  Solo puede entender un objetvo colectivo, como la abstracción del concepto de nación, quien asuma un bien común, una cosa de todos.  Solo puede trabajar en pos de algo colectivo quien asuma que no existe salvación individual.  Una multiplicidad de cosas que no es lo mismo que la suma de sus partes.  Nunca.  Solo puede negar el valor terapéutico de una marcha del veinticuatro de marzo quien nunca estuvo ahí. 
+
+**Comodidad**  *Lat. Commoditas, de con, junto y modus, modo. Ausencia de molestia*.  Se aplica a la comodidad física pero bien puede utilizarse para describir a dos personas en silencio, en un banco de una plaza, sin decir nada.  Contrario sensu, incomodidad es la que puede tranquilamente experimentarse en sitios ideales, momentos ideales como de SPA de resort caribeño, mientras un duende misterioso susurra al oído sus dudas.  Siempre llega una incomodidad a sugerir mejores puertos y valorar la capacidad de ciertas personas.
+
+> Que sepa abrir la puerta para ir a jugar.
 
 **Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  
 
