@@ -476,6 +476,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron un solo concepto a lo aprendido en la infancia sobre sexo y género, haciendo de mí un mejor hombre.
 
+**Gestión**  *Lat. Gestio, gestionis.  Gerere, hacer y tio efecto, acción*.  De aquí tambien gestionar, gerenciar, ingerencia.  En apariencia parece originarse en la gestión de estratégias militares, luego general es quien planéa y ejecuta esas acciones, de allí derivan al mundo civil.  La utilización de vocablos especializados se origina en la necesidad de dejar claro, a un público cada vez mas específico, el objeto.  Si bien se puede utilizar la voz hacer y hacedor, se aconseja para fines exclusivamente prácticos, utilizar gerente y gerenciar acompañados de comillas con los dedos índice y medios de ambas manos.   
+
 **Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Esta da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Más allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
 
 > Vagos, planeros o negros de mierda.
@@ -931,7 +933,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pelo** *Lat. Pilum, lanza.*  No parece haber mucha relación entre el cabello y una lanza, aunque se han documentado casos de gente con pelos así.
 
-**Pelotudo**  Léase Paciente.  Es sano al Yo asumirse pelotudo, como lo documenta Jorge Luz en la siguiente semblanza.
+**Pelotudo**  Léase Paciente.  Es sano al Yo asumirse pelotudo, como lo documenta Jorge Luz en la siguiente semblanza.  Es intersante el abordaje del tema de parte del Filósofo del conurbano Pedro Saborido que ve al hombre como poliédrico, de múltiples caras o facetas, una o varias de ellas en las que es especialmente pelotudo.  La explicación es que la mayoría de las caras del indivíduo se comporta de manera *funcional* salvo la que es francamente pelotudo.  Este predominio de caras funcionales explicaría que pueda llevar al pibe a la escuela y no lo pierda.  A veces.  El problema social se presenta cuando esa cara, o una de las caras pelotudas apunta a otra persona, cuando ejerce el derecho consitucional del voto o cuando cruza una frontera con mucho dinero en efectivo, o drogas, o ambos.
 
 > Esperando salir al escenario, un muy joven Jorge Luz, temblaba de frío en los camarines del Luna Park.  Nota que a una ventana le falta un vidrio y su traje de marinerito en julio no colabora en darle cobijo.  De pronto se abre la puerta y aparece el Mono Gatica, camisa a cuadros, corbata roja, sobretodo piel de camello y galera.  Gatica pregunta "¿Nene de que te disfrazaste?" a lo que Jorge Luz responde poniendo en riesgo su vida "Yo de pelotudo ¿Y usted?" Afortunadamente, el boxeador no comprendió el alcance del chiste.
 
