@@ -406,6 +406,10 @@ Ella lo corrige, ojos entrecerrados:
 
 > Temo que su argumento es falaz, mi buen amigo.
 
+**Falsedad** *Lat. Falcitas, falta de verdad*.  
+
+> El mismo diablo citará las sagradas escrituras si conviene a sus propósitos.  --El Mercader de Venecia.  William Shakespeare.
+
 **Falo** *Lat. Phallus* del *Gr. Phallos, erguido, erecto*  Aunque todo prece indicar que se trata del par antagónico del vocablo anterior, pero masculino.  Pareciera una *mentira* con mayor énfasis, a simple vista.
 
 **Fama**  *Lat. fama y este del Gr. φημί.*  Renombre, celebridad.  De aquí también provienen infame, difamar, afamado, famoso.  Entendemos la fama como la obtenida por proezas del alma, aunque puede lograrse por muy variados motivos.  El pastor Erástrato la alcanzó al incendiar intencionalmente en 356 AC el templo de Artemis en Efeso, habiendo desistido de encontrarla por medios algo mas lícitos.  Los jueces enterados de los motivos del crimen, lo condenaron a que nadie lo nombre en toda la Hélade.  Hoy, después de dos mil quienientos años, seguimos nombrándolo sin recordar uno solo de los nombres de los jueces.  Los cronopios, seres dulces por naturaleza y las esperanzas se cuidan de los famas, quienes a simple vista son predecibles y lógicos, lo que los hace dignos de lástima.  A diario asistimos a famosos de las redes[^79], en las que despliegan una violencia, hombría y lealtad verbal a altos valores, propios de Samurai, pero que llevados a la vida real, migran tan milagrosa como rapidamente a señorita de internado religioso londinense.
