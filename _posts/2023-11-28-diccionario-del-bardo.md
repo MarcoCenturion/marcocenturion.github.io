@@ -551,7 +551,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 [^88]: El SS Sirius, un vapor impulsado por paletas y un motor a vapor de 500 HP, tenía 178 pies de eslora y 703 toneladas de peso.  Leyendo esto casi que le doy la razón al libro del capitán Roberts.
 
-**Idiota**  *Gr. Idiotes de ἴδιος idios, yo mismo*.  En la antigua Grecia se utilizaba para mencionar a quienes se ocupaban solo de si mismos y desatendian las cuestiones públicas.  Cualquier semejanza con el siglo XXI donde el indivíduo antepone sus necesidades personales, por sobre las del grupo humano al que pertenece, es pura coincidencia.  El latín va mas allá y lo aplica a quienes no se ocupaan de formarse.  De la misma raiz provienene idioma, por el habla de un pueblo e idiosincracia.  Idolatría pareciera apuntar en otra dirección.
+**Idiota**  *Gr. Idiotes de idios ἴδιος yo mismo*.  En la antigua Hélade se reservaba a quienes solo se preocupaban de si mismos y desatendian las cuestiones públicas, las cosas de todos.  Cualquier semejanza con el siglo XXI, donde el indivíduo antepone sus necesidades personales, por sobre las del grupo humano al que pertenece, es pura coincidencia.  Allí pareciera originarse el error de pensar que la cosa de todos, la *res publicae*, es de nadie, no tiene dueñó, cuando en realidad el dueño es un indivíduo colectivo.  El latín va mas allá y lo aplica a quienes no se ocupan de su formación.  De la misma raiz provienene idioma, por el habla de un pueblo e idiosincracia.  Idolatría pareciera apuntar en otra dirección.
 
 > ¿Te ocupaste hoy de tí?  --Sócrates en Atenas.  Dando origen a toda la filosofía de occidente.
 
