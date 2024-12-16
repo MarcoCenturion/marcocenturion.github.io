@@ -448,7 +448,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 > ¿Estamos hablando del faso?
 
-**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
+**Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide es literalmente, buena fe.  Deriva de esta **Fiel**, algo en que depositar la Fe.  Ciertos apologistas gnósticos, sugieren el producto de una *conjunción* entre dos notas musicales, **Fa** y **Re**.  Esto nos lleva por decucción simple a la nota **Mi**.  Ergo, la única confianza -FE- que debemos observar es hacia nosotros mismos.
 
 **Felicidad** *Lat felix felicitas, fertil o fructífero.*  Sacar, succionar, mamar, aplicado a la agricultura y a la madre que amamanta un niño y por añadidura, la felicidad que produce ver el crecimiento de estos.  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.  Suele estar encerrada en datalles pequeñísimos y simples, basta observar al infante puesto a elegir entre un juguete carísimo frente a una cucharita y jugar con tierra, lo deslumbrará en el primero, pronto lo abandonará para jugar el resto del día con barro, puesto que el origen del placer no está fuera sino dentro de sí, en lo que pasa por esa imaginación.  
 
@@ -456,25 +456,23 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
-**Fiel** *Lat. Fidelis.*  Que podemos fiarnos de él/ella.  También llamamos así a la aguja de la balanza de dos platillos.  En asuntos religiosos se da la extraña controversia, quienes son fieles desde un punto de vista, son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.   
-
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
 
-**Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos. 
+**Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles. 
 
-**Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  
+**Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  En la Poética de Aristóteles, a los capítulos sobre física le seguían los de filosofía, bautizados metafísica, por estár mas allá de la física.
 
-> La que tenía un físico bárbaro, era la mujer de Einstein.
+> La que tenía un físico bárbaro, era la mujer de Einstein.  --Richard Feynman (1918-1988).
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
 > Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.
 
-**Flúor**  En la tabla de Mendeleiev ocupa el número 9.  Por cacofonía se confunde este elemento con el adjetivo **Flúo** que destaca la vivacidad de los colores.  Ambos términos observan el mismo patrón que otros en el habla cotidiana.
+**Flúor**  *Física*.  En la tabla de Mendeleiev ocupa el número 9, entre los halógenos, que suena a extraterrestres a los indoctos.  Por cacofonía suele confundírselo con el adjetivo **Flúo** que destaca la vivacidad de los colores, sinónimo de *brioso* en el cinturón industrial de Córdoba city.
 
 ## G
 
-**Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  
+**Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  En tiempos pre teconológico oficiaba de despertador y toda una biblioteca completa de historias de gallos adelantan o atrasan su canto matutino.  Imagen poética solo accesible a quienes tuvieron su infancia lejos de las urbes.
 
 [^10]: Sentenciado al exilio o tomar la cicuta, Sócrates elije morir a retractarse ante los sofistas.  Reune a sus alumnos a fin de reforzar la idea de la inutilidad de una vida sin valores o el destierro.  Entre los asistentes Platón se encaga de compilar las enseñanzas del maestro, que al igual que Buda y Cristo, no dejan nada escrito antes de la partida.  Les entrega instrucciones claras.  Una de ellas es: *"Debo un gallo a Esculapio, ocúpate de eso."*
 
@@ -486,7 +484,7 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 
 **Gestión**  *Lat. Gestio, gestionis.  Gerere, hacer y tio efecto, acción*.  De aquí tambien gestionar, gerenciar, ingerencia.  En apariencia parece originarse en la gestión de estratégias militares, luego general es quien planéa y ejecuta esas acciones, de allí derivan al mundo civil.  La utilización de vocablos especializados se origina en la necesidad de dejar claro, a un público cada vez mas específico, el objeto.  Si bien se puede utilizar la voz hacer y hacedor, se aconseja para fines exclusivamente prácticos, utilizar gerente y gerenciar acompañados de comillas con los dedos índice y medios de ambas manos.   
 
-**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Esta da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *"Más allá de las columnas de Hércules".*  A partir de la traducción griega del "Viaje de Hannon" los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos superiores, nombraba a sus vecinos habitantes de tierra adentro de Africa:
+**Gorila**  *Sus*. La primera aparición del término en la literatura proviene de un bestiario medieval.  Este da cuenta de cierta expedición de un general Cartaginés, antes del siglo V AC. *Más allá de las columnas de Hércules.*  A partir de la traducción griega del *Viaje de Hannon* los antropólogos asumen que el sitio al que llegaron fue lo que hoy conocemos como **Sierra Leona**.  Esta población de homínidos avanzados, se referían a sus vecinos habitantes de tierra adentro de Africa:
 
 > Vagos, planeros o negros de mierda.
 
@@ -727,7 +725,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de banalización del Mal cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, los ayer víctimas judías se transforman en victimarios del pueblo palestino[^26].
 
-[^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo (Link)[https://es.wikipedia.org/wiki/Hannah_Arendt]
+[^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo [Link](https://es.wikipedia.org/wiki/Hannah_Arendt)
 
 **Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por mueurto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
 
