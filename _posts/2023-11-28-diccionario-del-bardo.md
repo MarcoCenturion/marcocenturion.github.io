@@ -450,7 +450,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide, literal buena fe.  Deriva de esta **Fiel**.  Ciertos apologistas gnósticos, sugieren una conjunción entre dos notas musicales, **Fa** y **Re**. Esto nos lleva por deductio a la nota **Mi**.  Ergo, la única confianza que debemos observar en es nosotros mismos.
 
-**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.
+**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Sacar, succionar, mamar, aplicado a la agricultura y a la madre que amamanta un niño y por añadidura, la felicidad que produce ver el crecimiento de estos.  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.  Suele estar encerrada en datalles pequeñísimos y simples, basta observar al infante puesto a elegir entre un juguete carísimo frente a una cucharita y jugar con tierra, lo deslumbrará en el primero, pronto lo abandonará para jugar el resto del día con barro, puesto que el origen del placer no está fuera sino dentro de sí, en lo que pasa por esa imaginación.  
 
 > En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
 
