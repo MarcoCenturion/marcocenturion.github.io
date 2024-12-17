@@ -112,9 +112,9 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 > ¡Mija!  Un beso en la boca es un telegrama al upite.
 
-**Biblia**  *Gr. βίβλος rollo de papiro*.  Estos rollos provenían de una ciudad llamada Biblos, en el Líbano.  Biblia, luego, no es un libro solo sino un conjunto de libros, una biblioteca.  En esta biblioteca sagrada se basan los reclamos judíos sobre las tierras de Galilea, en su mayoría atéos.  Unas ratas de biblioteca -valga la imagen- ponen de manifiesto errores extemporáneos, como caravanas de camellos con mil años de anterioridad a su aparición, o los contemporáneos de Jesus escribiendo en un idioma que no hablaban, el griego, sino además en un léxico también extemporáneo.  Sería como poner en boca del general Belgrano en la batalla de Tucumán, dirigiendose a las tropas realistas en retirada:  
+**Biblia**  *Gr. βίβλος rollo de papiro*.  Estos rollos provenían de una ciudad llamada Biblos, en el Líbano.  Biblia, luego, no es un libro, sino un conjunto de libros, una biblioteca.  En esta biblioteca sagrada se basan los reclamos judíos sobre las tierras de Galilea, en su mayoría atéos.  Unas ratas de biblioteca -valga la imagen- exponen errores extemporáneos en las escrituras, como caravanas de camellos con mil años de anterioridad a su aparición, o los apóstoles de Jesus escribiendo en un idioma que no hablaban, el griego, sino además en un léxico también extemporáneo.  Un desfasaje temporal muy grosero, sería como poner en boca del general Manuel Belgrano, en la batalla de Tucumán, Cerro San Javier, mofándose de las tropas realistas en retirada:  
 
-> ¡Corran putos, no bancan los trapos, no bancan!
+> ¡Corran putos, no bancan los trapos, no bancan! -Seguido de gallito interdental hacia el suelo y tomada de testículos.
 
 **Bien**  *Lat. bene*.  Concepto controvertido, par antagónico del mal.  Los ejemplos del bién están generalmente emparentados con la verdad, que siempre es la verdad del poder de turno.
 
