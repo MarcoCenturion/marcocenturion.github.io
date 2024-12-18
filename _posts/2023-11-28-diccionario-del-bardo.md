@@ -470,6 +470,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Flúor**  *Física*.  En la tabla de Mendeleiev ocupa el número 9, entre los halógenos, que suena a extraterrestres a los indoctos.  Por cacofonía suele confundírselo con el adjetivo **Flúo** que destaca la vivacidad de los colores, sinónimo de *brioso* en el cinturón industrial de Córdoba city.
 
+**Fulano**  *Ar. فلان fulán*.  Persona cualquiera.  Forma despectiva de referirse a alguien, quitándole toda entidad.  Esto todavía admite un grado mas de menosprecio, que se alcanza en el femenino fulana, por considerarla inmoral.  Repárese en los verdaderos *ríos de tinta* que han corrido en forma de chistes sobre esta diferencia.  Tal como lo señalara Sigmund Freud, este es otro de los lugares donde se expresa el inconsciente.
+
 ## G
 
 **Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  En tiempos pre teconológico oficiaba de despertador y toda una biblioteca completa de historias de gallos adelantan o atrasan su canto matutino.  Imagen poética solo accesible a quienes tuvieron su infancia lejos de las urbes.
@@ -1271,4 +1273,4 @@ Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en 
 
 **Zurdo Empobrecedor**  Chicana preferida de cierto sector *intectual* argentino, auto festejándose haber enriquecido amplios sectores de la población, que festejan esta hazaña eliminando una o dos comidas al día.  Afortunadamente no sospechan que la economía mas importante del globo es la china, merced a su planificación y control estatal, lo que provocaría suicidios masivos por actos vandálicos como la lectura.
 
-
+**Zutano**  *Lat. Scitano el citado*.  Vendría a ser el Dartagnán que acompaña a los tres mosqueteros, fulano, mengano y perengano, solo que este deriva directamente del latín, por referirse a alguien ya citado.
