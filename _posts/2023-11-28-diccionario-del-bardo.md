@@ -274,6 +274,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 ## D
 
+**Decir**  *Lat. dicere*.  Pareciera provenir de señalar con el dedo, apuntar.  Luego decir el mal, es maldecir.  Las iglesias son proclives otorgar demasiada entidad a la palabra hablada, por lo que asumen que desearle el bien a alguien en voz alta lo bendice, le agrega bien, lo cura.  ¿O locura?  ¿O lo curra?  Me encanta la palabra maledicente.  Predicción, es decir antes lo que va a ocurrir y contradecir, es decir lo contrario. 
+
+> beter than saying is doing.  --John Sunday Bigpear.
+
 **Delgado** *Lat. Delicatus.*  Fino, delgado, delicado, ergo los gordos son grotescos, lo cual prueba que los criterios estéticos son **profundamente superficiales** al decir de un antropólogo hijo de madre judía y padre árabe.  Consultado por un interlocutor, de pocas luces, si era también marxista, por casualidad.  El buen Taham respondió sin abandonar la sonrisa
 
 > Si, seguro, y homosexual.  Si van a odiar, que odien bien.
