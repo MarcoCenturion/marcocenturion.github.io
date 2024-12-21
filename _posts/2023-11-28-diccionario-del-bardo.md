@@ -1144,6 +1144,10 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  
  
 > Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
+
+**Temporal**  *Lat. Temporalis*.  Temporal es la región craneana como también el período de tiempo en el que se desarrolla una tormenta.  Junta de temporalidad, se llamó la institución que sucedió a los jesuitas en el control de los bienes que dejaron al partir, de un gris bastante oscuro, negro en realidad.  Parte de una tan confusa como hermética nube de instituciones secretas de la iglesia católica, donde parece ser mucho mas importante el manejo de los bienes que la espiritualidad.
+
+> Cuando preguntás un concepto económico y no entendés la respuesta, es porque te están caminando.  --Axel Kichiloff.  Economista.
  
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, cuyo habitat es la llanura pampeana.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
