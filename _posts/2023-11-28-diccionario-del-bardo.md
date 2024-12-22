@@ -620,9 +620,9 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 > Se asusta un poco el viejito al ver al curita nuevo, misal apretadito en las manos.  Segundos después ya acepta la realidad.  Pregunta por el mas allá, el cura fuerza una sonrisa poniéndole unas fichas al cielo, donde están esperándolo las buenas gentes piadosas. ¿Y lo otro?  Suelta, pura curiosidad, el moribundo.  Es donde están las mujeres malas, las drogonas, los jugadores, los malandrines y entretenido en cura en su enumeración, olvida al *cliente*, al verlo, vé dibujársele una sonrisa tierna, acompañando un suspiro largo.  Me gustan los finales felices, creo que asumen pensar lo mismo.
 
-**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, a partir del prefijo **in**.[^25].  La traducción correcta, atendiendo a la etimologia sería *Deformar* o *Desinformar*.
+**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, a partir del prefijo **in**.[^26].  La traducción correcta, atendiendo a la etimologia sería *Deformar* o *Desinformar*.
 
-[^25]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
+[^26]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
 
 **Inquisición** *Santo Oficio de la.*  Sistema de creencias de imposición compulsiva.  Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas.  Se le reconoce la invención de un enemigo, las brujas.  No poca cosa.  Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas[^1] tal el caso de **María la alquimista**.  Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones.  Sea como fuere, recién entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos incapaces de utilizar la palabra *Bruja*, sin agregar:
 
@@ -729,7 +729,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
-**Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de banalización del Mal cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, los ayer víctimas judías se transforman en victimarios del pueblo palestino[^26].
+**Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de banalización del Mal cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, las ayer víctimas judías se transforman en victimarios del pueblo palestino[^25].
 
 [^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo [Link](https://es.wikipedia.org/wiki/Hannah_Arendt)
 
