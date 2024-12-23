@@ -1183,7 +1183,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
  
 **Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "cantidad de pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.  El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
 
-[^51]: "Mira de cuantas cosas prescindo" -Sugirió Sócrates a un alumno caminando por el mercado.
+[^51]: Mira de cuantas cosas prescindo --Sugirió Sócrates a un alumno caminando por el mercado.
 
 **Válvula** *Lat. Valva, hoja de la puerta.*  Multitud de disciplinas se valen del concepto de válvula para expresar un flujo, que corre en un sentido, pero no en el inverso.  El diodo en electrónica.  En biología, el claro ejemplo de las válvulas cardíacas.  La historia nos trae varios *puntos de no retorno* que podríamos tranquilamente llamar *valvulares*.  El conquistador español Hernan Cortez, quemando las naves o el general romano Julio Cesar cruzando el Rubicón a la voz de la célebre frase *Alea jacta est*, la suerte está echada.  Es lógico y esperable, luego, aplicar tal concepto al intelecto humano.  Accedida la lectura de Julio Cortazar, asumimos que no volveremos a ser los mismos, al menos al subir una escalera. 
 
