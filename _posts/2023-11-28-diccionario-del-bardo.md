@@ -458,6 +458,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 > En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
 
+> Haz feliz a otros, aunque sean enemigos, la gente feliz no rompe las pelotas.  --Levítico 11-1. Sobre las impurezas. 
+
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
