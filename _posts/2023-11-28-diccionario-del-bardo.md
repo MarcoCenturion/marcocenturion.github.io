@@ -214,11 +214,15 @@ Símil del contemporáneo:
 
 **Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona más perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objeto último -valga la imagen grotesca- un objeto que pasa desapercibido por lo obvio y evidente.  Hay un grupo humano aún más numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las mujeres.  Especie de metáfora para adoptar el método *Think out the box*.
 
-**Clásico** *Lat. Classicus, de classis, convocatoria, reclutas de primer clase, las primeras líneas de infantería*.  Classici eran los excritores a los que inevitablemente había que leer.
+**Clásico** *Lat. Classicus, de classis, convocatoria, reclutas de primer clase, las primeras líneas de infantería*.  Classici eran los excritores a los que inevitablemente había que leer.  Pareciera sugerirse el Canon.  El Quijote bien puede pasar como otra novela de caballería más, con todos los elementos constitutivos del género, pero algo hace que trascienda su tiempo y provoque emoción quinientos años después.  También pareciera aplicar a un bolero clásico, una letra simple se apoya en una melodía y armonías también simples y bailables, hasta que un giro inesperado de las frases musicales, anotician al oyente que está en presencia de otra cosa, de algo a lo que debe prestar atención y no es la lluvia cayendo.
 
-**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic*.  **Co Co** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. [^18] 
+> ... Yo no se, cuando me quieres, si me extrañas, o me engañas.   --Esta Tarde ví llover.  Armando Manzanero.
 
-[^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis nunca visto en estas latitudes.
+> No estoy envejeciento, me estoy volviendo un clásico.  --Odiseo Torres, divinal, fecundo en ardides.
+
+**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic* que bien puede oficiar de sobrenombre.  **CoCo** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. [^18] 
+
+[^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis pocas veces visto en estas latitudes.
 
 **Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.  Las elites pagan consultoras para que les digan exactamente lo que esperan escuchar.  Pagan notas en los grandes medios que resaltan las beldades del sistema, con su baja inflación y la mejora del riesgo país.  Cuando todo explota por los aires lo llaman colapso, como en el castillo de naipes, del que no difieren mucho sus argumentos, datos y lealtad de sus adeptos.
 
@@ -1050,6 +1054,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  
  
 **Ridiculez**. Unica virtud de un fascista.
+
+**Ritmo**  *Lat. Rhythmus y este del Gr. ῥυθμός fluir*.  Posiblemente se deba a esto que el algoritmo acusa un flujo.  Orden acompasado de acontecimientos.  En la trilogía de elementos obligatorios que componen la música, este es el único tenido en cuenta en la producción del Reguetón, con el perdón de la palabra.  Tanto Armonía, como Melodía, son absolutamente ignoradas.  La existencia de elementos no obligatorios como el *buen gusto* y el *asombro*, intensifican la carencia de estímulos al cerebro.
  
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
 **Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece más proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
@@ -1098,7 +1104,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
  
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
  
-**Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera mucho de mejor calidad poética que el excesivamente utilizado siestero.
+**Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera de mucho mejor calidad poética que el excesivamente utilizado siestero.
 
 > Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
  
