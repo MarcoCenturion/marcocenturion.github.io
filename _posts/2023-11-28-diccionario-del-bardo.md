@@ -1078,11 +1078,11 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
  
 ## S
  
-**Salud** 1. Par antagónico de enfermedad.  2. La mejor de las utilidades del vocablo, conjuro para comenzar una borrachera.
+**Salud** 1. Par antagónico de enfermedad.  2. La mejor de las utilidades del vocablo, conjuro para comenzar una borrachera.  Pasados los minutos iniciales y conforme pasa el tiempo, el vocablo muta a diferentes formas de que se le parecen solo en intención.
 
 > No parece muy saludable adaptarse a una sociedad tan enferma.  --Jiddu Krishnamurti. 
  
-A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a cada uno de niños y niñas, el profe de informática implementa un simpático sistema, saludar con sonrisas, mano levantada y la voz **logout**. 
+A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a cada uno de niños y niñas, la de informática, implementa un simpático sistema, acompaña las sonrisas, mano levantada y la voz **logout**, el de música con le chan chan tanguero, la de filo con una engmática muestra del vacío existencial y el profe de teatro ordena mutis por el foro con su máscara de comedia. 
  
 **Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
  
@@ -1116,7 +1116,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
  
 **Sincero**  *Lat. sin (simple) y crescere*  Referían de esta manera a los germanos, de crecimiento simple, sin cultivar.  Hoy la sociedad utiliza esta herramienta intelectual para referirse al peronismo.  Son lo que son.  Una segunda corriente alude a errores en esculturas, tapados con cera. 
  
-**Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  2- Personaje central del film **Matrix.**  **Alert Spoiler**   Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
+**Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  Desde temprana edad fuí bastate excéptico respecto de las teorías conspiratorias.  La de los servicios de inteligencia norteamericanos financiando iglesias en el tercer mundo, me parecía singularmente estúpida, hasta dar con las iglesias de los mormomes y los resultados electorales.   2- Personaje central del film **Matrix.**  **Alert Spoiler**   Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
  
 > Estoy harto de vagos que viven del estado y no hacen nada  --Smith dentro de un cuerpo cualquiera.
  
