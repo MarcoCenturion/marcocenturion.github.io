@@ -1002,6 +1002,10 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 > ¡Roberto, tenés que ser más positivo!
  
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
+
+**Precio**  *Lat. Pretium*.  Cantidad a pagar por algo.  De allí aprecio, desprecio, justiprecio, menosprecio, sobreprecio.  Las voces pornografía y intérprete, provienen de esta raiz.  Reputación que se ganaba en las *justas*.  Es norma medir interlocutores poniéndole precio a su fidelidad, honradez, etc.  Invencible e inmortal a quien no tiene precio, solo quienes se esfuerzan en encontrar tu precio saben el miedo que sienten por tener uno. 
+
+> Es barato lo que puedas comprar con dinero.
  
 **Primo**  *Lat. primus, primero*.  Literalmente, que se inicia con las primas.  Tuve ocasión de dar con gente así.  La locución latina Prima Facie hace referencia de algo a primera vista, en el ámbito del derecho y no como pudiéramos suponer que alude a femeninas de derechas, consanguineas en segundo grado.  La letra de este tango pareciera estar narrado en la primera persona de una de estas[^21].
  
@@ -1184,6 +1188,10 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 > Dale pelado se vino la pachanga, uo uo uo.  --Vilma Palma e Vampiro.  Et. Al.
  
 ## V
+
+**Vacuna**  *Lat. Vaccinia*.  En un brote de viruela que afectaba al ganado vacuno, el investigador inglés Edward Jenner tomó muestras de un paciente curado y lo puso en un indivíduo sano, comprobó al tiempo que el segundo indivíduo era inmune a la viruela.  En 1947 el médico estadounidense de origen judeoruso, investigó durante años para encontrar la vacuna de la polio, que alcanzaba democráticamente a todo el mundo.  El caso mas famoso fué el de Franklin D Roosevelt.  Los adinerados suegros de Jonas no aprobaron su matrimonio, al ser este de un estrato social inferior.  Se negró a patentar la vacuna que hubiera significado miles de millones de dólares en regalías, aduciendo que no se puede patentar el sol.  La distribución resultaba compleja hasta la invención de Albert Sabín, que simplificó la administración a unas gotas por vía oral.  Ambos compartían alguna afección neuronal puesto que este último tampoco patentó su invención[^91].
+
+[^91]: Según el informe de Forbes, cada uno resignó algo parecido a siete mil millones de dólares estadounidenses.  La pregunta de si tiene sentido un mundo donde unos puedan comprar su salud y otros no, es mas compleja.  Tal vez sea imposible erradicar una enfermedad si dejamos expuesto a una parte del planeta porque no tiene como pagar esa vacuna.  ¿Cuan efectiva o eficaz sería la lucha?
  
 **Vago**  *Lat. vacuus, vacío*  Uno de los doce pares de nervios craneanos, siendo este el único que sale de la frontera del  cráneo y se pierde -vaga- por el cuerpo, siendo una especie de chiste de madre natura.  
 
