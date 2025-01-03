@@ -26,14 +26,13 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien protagonista, esto es, primero y agonistis luchador.  Antagonista[^82] es el otro en la batalla, del tipo que esta fuera.
 
-**Acequia**  *Ar assáqya, الساقية al-sāqiyah irrigadora*.  Al igual que los pueblos esquimales tienen mas de cien palabras para nombrar el blanco, los pueblos andinos otro tanto para las papas, los pueblos árabes festejaban el agua, una cosmovisión en derredor del líquido vital desde el transporte hasta el uso ritual.  El humano medio se mueve dentro de sus límites intelectuales, es lógico que los pueblos del desierto hayan especializado su saber en el transporte del agua.  Así lo ve un poblador del centro de argentina, mirando sendas canaletas entre los bananos de las plantaciones costarricences, pregunta al chofer del taxi "¿Riego?" haciendo un gesto con ambos brazos indicando agua que fluye.  El conductor mira asombrado y niega con la cabeza.
-
-> Desagote, aquí llueve cincuenta milímetros diarios.  --Haciendo señales con las manos en sentido contrario.
-
-
 [^82]: El pensador contemporáneo Marcelo Bielsa suele disfrazarse de técnico de fútbol en sus apariciones televisivas.  Lo antecede cierta -bien ganada- fama de loco, que se ve reforzada en su andar cabizbajo y meditabundo, andar que bien podría montarse en sandálias, arrastrando una toga por el foro ateniense y pasar desapercibido.  Resulta extraño verlo encontrar diversión donde cualquier mortal explotaría en insultos.  En cierta conferencia de prensa, un lobista disfrazado de periodista de los medios dueños de la verdad, intenta una agresión *ad hominem*.  Lo vemos buscar las palabras en el torcer de su cuello, sonreir al ir encontrándolas, masticar la respuesta *Usted es el enemigo que me enaltece.  Cuanto mas lejos de usted estoy, mejor soy, no se si me entiende*.  Debería ser cita obligatoria de todo tratado de ética y estar grabado en letras de bronce, sobre el friso de la entrada de las facultades de filosofía y letras de todo el país.
 
 > Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Habiendo ganado una disputa en una discusión.
+
+**Acequia**  *Ar assáqya, الساقية al-sāqiyah irrigadora*.  Al igual que los pueblos esquimales tienen mas de cien palabras para nombrar el blanco, los pueblos andinos otro tanto para las papas, los pueblos árabes festejaban el agua, una cosmovisión en derredor del líquido vital desde el transporte hasta el uso ritual.  El humano medio se mueve dentro de sus límites intelectuales, es lógico que los pueblos del desierto hayan especializado su saber en el transporte del agua.  Así lo ve un poblador del centro de argentina, mirando sendas canaletas entre los bananos de las plantaciones costarricences, pregunta al chofer del taxi "¿Riego?" haciendo un gesto con ambos brazos indicando agua que fluye.  El conductor mira asombrado y niega con la cabeza.
+
+> Desagote, aquí llueve cincuenta milímetros diarios.  --Haciendo señales con las manos en sentido contrario.
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
