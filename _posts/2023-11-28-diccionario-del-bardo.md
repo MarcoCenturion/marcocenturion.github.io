@@ -1018,7 +1018,11 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 **Primo**  *Lat. primus, primero*.  Literalmente, que se inicia con las primas.  Tuve ocasión de dar con gente así.  La locución latina Prima Facie hace referencia de algo a primera vista, en el ámbito del derecho y no como pudiéramos suponer que alude a femeninas de derechas, consanguineas en segundo grado.  La letra de este tango pareciera estar narrado en la primera persona de una de estas[^21].
  
 [^21]: El Primus no me fallaba.  --El bulín de la calle Ayacucho.  Celedonio Esteban Flores, José y Luis Servidio.
- 
+
+**Problemática**  Esto que a simple vista pareciera aludir a una *máquina para medir problemas*, en realidad es un neologismo inventado, tal vez, como un antagonista femenino del sustantivo problema, que si existe, para poder incluirlo en una rima, en un duelo de payadores, por ejemplo.  También parecería sugerir un *problema de matemática*, como el que enfrentamos al observar con sincero asombro, inteligentes y adultos homo sappiens sappiens, festejar la baja de un precio, por caso el combustible, del uno porciento, después de haber subido el trescientos porciento.
+
+> ¿Sospechará este buen hombre, o buena mujer, que sus padres son primos?  --The Odes to Pascal.  John Sunday Bigpear.
+
 **Proteico**  Relativo a *Proeus* el maestro del disfraz.  Erroneamente es utilizado para calificar algo rico en proteínas, adjetivo que debería ser proteínico.
  
 **Prohibición** *Lat. Prohibere.  Pro adelante, primero y habere tener*.  La publicidade mas efectiva.  El cristianismo es su mejor ejemplo, pasa de ser un sistema endeble de creencias a la verdad absoluta, en pocos siglos.  Aquiere en el medioevo patente para carbonizar opositores, al tiempo que basa su marketing en el *amor al prójimo*.  En 1949 el colorado *Jorge Abelardo Ramos* escribe su famoso **América Latina, un Pais.**  La llegada del golpe de estado del 55, nombra una comision para perseguir *actividades antiargentinas*[^28] dedicada a la actividad preferida de la derecha, la prohibición y fogata de opositores, conocimiento aprendido de la inquisición, puesto que muchos de sus integrantes provienen de las filas de la Santa Iglesia Católica Apostólica Romana.  Prohibición que dispara las ventas del libro, incluídos aquellos ejemplajes incautados por las fuerzas represoras.
