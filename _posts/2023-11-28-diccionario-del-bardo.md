@@ -418,6 +418,10 @@ Ella lo corrige, ojos entrecerrados:
 
 **Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
 
+**Evento**  *Lat. eventus*.  Originalmente un hecho imprevisto o de realización inciera o contingente, luego, todo aquello que pueda suceder.  Ahora, quedaría vedado el uso en tiempo pasado, puesto que lo que era incierto, ya sabemos a ciencia cierta si sucedió o no, puesto que ya perdió su caracter de incierto o eventual.  De allí la imposibilidad de la frase.
+
+> El evento ocurrió el lunes.
+
 **Experiencia**  *Lat. Prueba, ensayo*.  La felicidad está oculta en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
 > Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
