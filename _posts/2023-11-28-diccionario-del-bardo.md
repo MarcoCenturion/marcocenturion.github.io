@@ -733,6 +733,10 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
 
+**Libro**  *Lat. liber.*  Esta era la materia de la que se elaboraba el papel, la corteza de ciertos árboles.  Papel a su vez se origina en papyrus.  Libro pareciera sugerir algo que nos hace libres. 
+
+> ¿Qué es un libro sino un acto de fe?  Cuando se termina el libro se queda dentro del lector para siempre.  
+
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las *Islas Trobriand*, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo* 
 
 > Como los estadounidenses.
