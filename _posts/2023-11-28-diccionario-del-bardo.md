@@ -733,9 +733,9 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
 
-**Libro**  *Lat. liber.*  Esta era la materia de la que se elaboraba el papel, la corteza de ciertos árboles.  Papel a su vez se origina en papyrus.  Libro pareciera sugerir algo que nos hace libres. 
+**Libro**  *Lat. liber.*  Esta era la materia de la que se elaboraba el papel, la corteza de ciertos árboles.  Papel a su vez se origina en papyrus.  La palabra *libro* sugiere algo que nos hace *libres*. 
 
-> ¿Qué es un libro sino un acto de fe?  Cuando se termina el libro se queda dentro del lector para siempre.  
+> Es un objeto plano, hecho de un árbol, con partes flexibles en las que están impresos montones de curiosos garabatos.  Pero en cuanto se empieza a leer se entra en la mente de otra persona; tal vez de alguien que ha muerto hace miles de años.  A través del tiempo un autor habla clara y silenciosamente dirigiéndose a nosotros y entrando en nuestra mente.   La escritura es, tal vez, el más grande de los inventos humanos. Une a personas que no se conocen entre sí; personajes de libros de épocas lejanas rompen la cadena del tiempo… Un libro es la prueba de que los hombres son capaces de hacer que la magia funcione. --Carl Sagan.
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las *Islas Trobriand*, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo* 
 
