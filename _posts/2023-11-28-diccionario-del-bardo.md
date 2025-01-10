@@ -337,8 +337,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 [^65]: La coincidencia espacial de los retretes -ano- con la sala de juegos -genitales- alerta sobre el poco conocimiento de arquitectura, por lo menos en homo sappiens.  
 
-[^62]: **Evita** la protagonista de la ópera de Broadway llevada al cine y a varios idiomas.  Aquiere su popularidad gracias a que su nombre es utilizado a modo de conjuro, por sectores secundarios de la sociedad argentina.  Funciona como brújula perfecta también con otros personajes, merced a su fama, el Che Guevara, el Papa Francisco, Hebe de Bonafini, Diego Maradona.  Es suficiente observar quienes los odian para colocarse justo en frente y saberse en el lugar correcto.
-
+[^62]: **Evita** la protagonista de la ópera de Broadway llevada al cine y a varios idiomas.  Aquiere su popularidad gracias a que su nombre es utilizado a modo de conjuro, por sectores secundarios de la sociedad argentina.  Funciona como brújula perfecta a la par de otros personajes famosos argentinos, el Che Guevara, el Papa Francisco, Hebe de Bonafini, Diego Maradona, Cristina Fernandez y similares, que trascienden fronteras topológicas, de idiomas, de credos.  Un ejercicio tan simple como eficaz es observar quienes los odian, para colocarse justo en frente y saberse, sin lugar a dudas, en el lugar correcto.
 
 **Divertículo**  *Med.*  Es un sustantivo pero pareciera aludir a una acción en imperativo:
 
@@ -442,7 +441,7 @@ Ella lo corrige, ojos entrecerrados:
 
 [^79]: Los indivíduos famosos de las redes adquieren el título nobiliario de *influencers,* vaya a saber uno en virtud de que capricho de la moda, o debido al triunfo de alguna deidad malévola que se divierte con la estupidez colectiva. 
 
-> Una mañana el ruso Grigori Yakovlevich Perelerman recibe un llamado en su domicilio de Moscú, el interlocutor debe ser el décimo que llama insistiendo en que acepte la **medalla Fields**, el mayor honor al que puede aspirar un matemático en su vida.  Se la ofrecen por haber resuelto en 2010 la conjetura de Poincaré.  No menos honorable y famoso es quien lo llama, Sir algo, un caballero de la reina.  El objetivo de la llamada es rogarle que concurra, reciba la medalla y el dinero.  No es para menos, la conjetura llevaba cien años comiendo cerebros de generaciones completas de matemáticos del mundo.  Después de diez horas de intento de convencerlo, Grigori solo acepta el honor, rechaza viajar y el millón de dólares.  *No quiero estar expuesto como un animal en el zoológico*.  Dice.  Existe un esfuerzo global, genralizado por ridiculizar el accionar de Grigori porque vivimos en tiempos donde todo *pareciera* medible, comprable, cotizable.  Mercantil.  Afortunadamente, muchos sabemos que no es así y compartimos con muchas personas en el mundo ese tan extraño como enorme honor.  
+> Una mañana el ruso Grigori Yakovlevich Perelerman recibe un llamado en su domicilio de Moscú, el interlocutor debe ser el décimo que llama insistiendo en que acepte la **medalla Fields**, el mayor honor al que puede aspirar un matemático en su vida.  Se la ofrecen por haber resuelto en 2010 la conjetura de Poincaré.  No menos honorable y famoso es quien lo llama, Sir algo, un caballero de la reina.  El objetivo de la llamada es rogarle que concurra, reciba la medalla y el dinero.  No es para menos, la conjetura llevaba cien años comiendo cerebros de generaciones completas de matemáticos del mundo.  Después de diez horas de intento de convencerlo, Grigori solo acepta el honor, rechaza viajar y el millón de dólares.  *No quiero estar expuesto como un animal en el zoológico*.  Dice.  Existe un esfuerzo global, generalizado por ridiculizar el accionar de Grigori porque vivimos en tiempos donde todo *pareciera* medible, comprable, cotizable.  Mercantil.  Afortunadamente, muchos sabemos que no es así y compartimos con muchas personas en el mundo ese tan extraño como enorme honor.  
 
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
@@ -733,7 +732,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
 
-**Libro**  *Lat. liber.*  Esta era la materia de la que se elaboraba el papel, la corteza de ciertos árboles.  Papel a su vez se origina en papyrus.  La palabra *libro* sugiere algo que nos hace *libres*. 
+**Libro**  *Lat. liber.*  Liber era la materia de la que se elaboraba el papel, a partir de la corteza de ciertos árboles, y los libros son la materia de la que se elaboran los humanos.  Papel a su vez se origina en papyrus.  La palabra *libro* sugiere algo que nos hace *libres*. 
 
 > Es un objeto plano, hecho de un árbol, con partes flexibles en las que están impresos montones de curiosos garabatos.  Pero en cuanto se empieza a leer se entra en la mente de otra persona; tal vez de alguien que ha muerto hace miles de años.  A través del tiempo un autor habla clara y silenciosamente dirigiéndose a nosotros y entrando en nuestra mente.   La escritura es, tal vez, el más grande de los inventos humanos. Une a personas que no se conocen entre sí; personajes de libros de épocas lejanas rompen la cadena del tiempo… Un libro es la prueba de que los hombres son capaces de hacer que la magia funcione. --Carl Sagan.
 
@@ -939,7 +938,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 > Paternidad, esa ficción legal. --Ulysses, James Joyce. 
 
-**Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*. 
+**Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*.  El antagónico masculino *pacto* designa las palabras de lo convenido, estén escritas o no.
+
+> Un jefe mafioso de la familia Gambino recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora.
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
 
@@ -1180,6 +1181,10 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 **Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  
  
 > Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
+
+**Taza**  Espejo.  En mi pequeño mundo de significados, una taza es un espejo, no por el reflejo del rostro en el líquido.  
+
+> El indivíduo aprende rápidamente el concepto de *Fight or Flight* puesto que está en su ADN, en el sector mas interno, el reptil.  Recuerdo las siestas de los setentas investigando, preguntando, destripando radios y aparatos electrónicos en búsqueda de respuestas.  Muchas veces no las tenía y recurría a los adultos.  Entre risas el Rulo me dijo que la gente no estaba dentro de la radio, que de ahora en mas no funcionaría.  Siempre había una respuesta.  Hasta que una tarde entramos a la casa de una prima de mi abuela, miro en el bargueño, detrás de todas las copas dos tazas con dos personas.  Pregunto en voz alta y la abuela abre enorme los ojos, cuando pasa el momento incómodo me lleva de una oreja y me dice en secreto que de eso no se habla, que son Perón y esa mujer, porque no se puede hablar de eso.  Ahí descubro que esas tazas son un espejo, donde me veo a mi mismo, donde no me interesa si fueron buenos o malos, descubro que nunca voy a estar del lado de la prohibición.
 
 **Temporal**  *Lat. Temporalis*.  Temporal es la región craneana como también el período de tiempo en el que se desarrolla una tormenta.  Junta de temporalidad, se llamó la institución que sucedió a los jesuitas en el control de los bienes que dejaron al partir, de un gris bastante oscuro, negro en realidad.  Parte de una tan confusa como hermética nube de instituciones secretas de la iglesia católica, donde parece ser mucho mas importante el manejo de los bienes que la espiritualidad.
 
