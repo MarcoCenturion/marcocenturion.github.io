@@ -12,9 +12,9 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 ## A
 
-**Abeja**  *Lat. Apis Mellifera*.  La vida en el planeta depende de la polinización.   Si desaparecieran las abejas del planeta, cosa que no es muy improbable, desaparecería la vida en menos de un siglo, si desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
+**Abeja**  *Lat. apícula, de apis mellifera*.  Mas de veinte mil tipos de abejas hay en el planeta, muchas desconocidas, por eso lo incierto de la cifra final.  Primas hermanas de hormigas y termitas, las abejas son las responsables de la polinización.  Si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos de un siglo.   Si en cambio desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
 
-[^52]: Amable de amabilidad selectiva, conocimos tiempo atrás una colaboradora de mayorista de turismo a la que apodaban "abeja" por ser chiquitita, rayada y mala.
+[^52]: Amable de amabilidad selectiva, dimos tiempo atrás con una colaboradora de mayorista de turismo a la que sus pares apodaron graciosamente *abeja* por ser chiquitita, rayada y mala.
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
@@ -890,7 +890,9 @@ Existe otro No, el de la poesía.
 
 **Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  *Todos los colectivos los dejan cerca*.  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores. 
 
-**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  
+**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  Pululan supernumerarios en los mas diversos ámbitos, guardando especial predilección por puestos en el estado y los medios masivos de difusión, suele vérselos en otros ámbitos como el turismo y el rugby.   Fruto de esta combinación es dimos con un muchacho al que apodaban tractor, ante la consulta del porque, la respuesta era simple:
+
+> Grandote, pesado y de pocas luces.
 
 **Ojalá**  *Castellano antiguo Oxala, del Ar. hispánico لَوْ شَاءَ اللّٰه (law šá lláh, "si Dios quisiera"), este del árabe لو شاء الله (law-šā’ allāh, "quiera Dios")*  Una de las palabras mas bellas de nuestro idioma tiene su origen en la Andalucía ocupada.  Fue grito de resistencia en los ochenta, su par antagónico hoy es "se dobadon todo"
 
