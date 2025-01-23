@@ -1124,6 +1124,10 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 **Sexto**  *Lat. Sextus*.  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.   
  
 > Del drama Enrique VI la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
+
+**Sexy**  *Ing. Sex*. Se refiere con este adjetivo a aquello que despierta la sensualidad.  Asistimos a tiempos en que para vender dentífrico la publicidad muestra un cuerpo femenino, valiéndose de la supremacía estética de estas por sobre el sexo masculino.
+
+> Una mujer que al bajar por una escalera, el tajo de la pollera muestra apenas el elástico de su media de encaje, es sexy, un hombre que se agacha en el capó del auto a revisar la batería y deja ver la línea que divide sus nalgas, no es sexy.  Una mujer que en una conversación corrige ligeramente la posición del bretel del corpiño, es sexy; un hombre que mete una mano al bolsillo del pantalón para acomodar un testículo, no es sexy. --Eda Bustamente. 
  
 **Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social.
  
