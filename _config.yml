@@ -6,6 +6,9 @@ twitter_username: Odiseo_Torres
 github_username: MarcoCenturion 
 include: ['_pages']
 
+google_analytics: G-LP8Y9SKG53 
+author: Odiseo Torres
+
 # Build settings
 markdown:    kramdown
 highlighter: pygments
