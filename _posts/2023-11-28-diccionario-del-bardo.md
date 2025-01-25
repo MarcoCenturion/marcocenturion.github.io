@@ -214,15 +214,15 @@ Símil del contemporáneo:
 
 **Chacra**  *Quechua.  Granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales.
 
-**Champán**  *Fr. Champagne*.  Vino espumoso obtenido a partir de cepas puntuales.  Tóxico careta.  Por una protección de la unión euroea, utilizar su nombre equivale a una violación de la propiedad intelectual.  Los americanos en vano intentamos ampararnos en el derecho que nos asiste después de quinientos años de saqueo económico y cultural.  
+**Champán**  *Fr. Champagne*.  Vino espumoso obtenido a partir de cepas puntuales.  Tóxico careta.  Por una protección de la unión europea, utilizar su nombre equivale a una violación de la propiedad intelectual.  Los americanos en vano intentamos ampararnos en el derecho que nos asiste después de quinientos años de saqueo económico y cultural.  
 
-> Dos amigas cruzan el Atlántico en la clase *Magnífica* a bordo de una cía aérea italiana, invitadas por ejecutivos de alguna multinacional.  Interrumpe el sueño de una de ellas, un excesivamente correcto auxiliar de vuelo masculino, en mitad de la noche artificial de ventanillas cerradas, llamándola *principessa*, quien al escuchar esa palabra, le devuelve una sonrisa palaciega.  Pregunta la hora a su compañera, expulsándola bruscamente de su condición de *bella durmiente del subdesarrollo*.  Esta última hace el check in a la realidad de mala gana, al tiempo que contiene palabras de ofuscación mayores.  El humor producido por la brusquedad de salida del sueño, es transversal a todas las clases sociales, es por ello que se recomienda evitar las armas de fuego debajo de almohadas. 
+> Dos amigas cruzan el Atlántico en la clase *Magnífica* a bordo de una cía aérea italiana, invitadas por ejecutivos de alguna multinacional.  Interrumpe el sueño de una de ellas, un excesivamente correcto auxiliar de vuelo masculino, en mitad de la noche artificial de ventanillas cerradas, llamándola *principessa*, quien al escuchar esa palabra, le devuelve una sonrisa palaciega.  Pregunta la hora a su compañera, expulsándola bruscamente de su condición de *bella durmiente del subdesarrollo*.  Esta última hace el check in a la realidad de mala gana, al tiempo que contiene palabras de ofuscación mayores.  El mal humor producido por la brusquedad de la salida del sueño, es transversal a todas las clases sociales y culturas, es por ello que se desaconsejan las armas de fuego debajo de almohadas. 
 
 > Escuchame.  ¿Só pelotuda vó? 
 
 > Es para saber que pido, si nos sirven el desayuno o la cena.  --Se defiende quien iniciara la discusión, queriendo justificar haberla despertado.
  
-> Pedí champán y dejá de romper las pelotas. Peltuda.  --Corrige sabiamente la segunda, acentuando vocales y vuelve de la mejor manera posible a la paz de palacio, ese palacio conocido universalmente como sueño.
+> Pedí champán y dejá de romper las pelotas. Pelotuda.  --Corrige sabiamente la segunda, acentuando vocales y vuelve de la mejor manera posible a la paz de palacio, ese palacio conocido universalmente como sueño.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
@@ -251,8 +251,6 @@ Símil del contemporáneo:
 **Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
-
-**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.
 
 **Confesión**  *Lat con, junto; fateri, reconocer*.  Una de las cuatro partes del sacramento de la penitencia católica[^53].  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
 
