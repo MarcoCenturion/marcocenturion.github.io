@@ -1048,7 +1048,9 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 [^28]: Guarda una simetría sugestiva respecto de la *comisión contra actividades antiamericanas* que presidía el tristemente célebre Joseph Mc Arty en EEUU.
 
-**Publicidad**  Estrategia para generar en otros el deseo sobre un bien o servicio.  La mayor exposición la tienen los deportes, por las imágenes de los deportistas.  Durante gran parte del siglo pasado, el objeto de deseo a exponer lo tenían las empresas tabacaleras, por algún extraño motivo pasaron a ser las empresas lácteas con diferentes tipos de postres llenos de aditivos, donde se destacan los laxantes, mientras que en entrado el siglo XXI lo son los medicamentos y pastas de dientes, desplazadas por sitios de apuestas y cursos de hacerse rico con la bolsa.  Debido a la segmentación de los públicos en tribus muy específicas, cada vez contamos con herramientas mas precisas, para llegar a públicos mas pequeños y precisos, mientras que para hacer un producto de venta masiva, debemos apuntar a un sujeto de doce años.  Aplica a marketing político, por sobre otros. 
+**Publicidad**  Estrategia para generar en otros el deseo sobre un bien o servicio[^93].  La mayor exposición la tienen los deportes.  A juzgar por el predominio del fútbol, basquet y box, esto se origina en deseos sexuales reprimidos, de otra forma lo lógica y esperable sería que el publico adulto masculino pase horas viendo voley playero femenino.    Durante gran parte del siglo pasado, el objeto de deseo a exponer lo tenían las empresas tabacaleras, por algún extraño motivo pasaron a ser las empresas lácteas con diferentes tipos de postres llenos de aditivos, donde se destacan los laxantes, mientras que en entrado el siglo XXI lo son los medicamentos y pastas de dientes, desplazadas por sitios de apuestas y cursos de hacerse rico con la bolsa.  Debido a la segmentación de los públicos en tribus muy específicas, cada vez contamos con herramientas mas precisas, para llegar a públicos mas pequeños y precisos, mientras que para hacer un producto de venta masiva, debemos apuntar a un sujeto de doce años.  Aplica a marketing político, por sobre otros. 
+
+[^93]:En el primer cuadro de la tira aparece Felipe llevando algo extraño en las manos, nos llama la atención su cara a mitad de camino entre asombro y extrañeza.  En el segundo cuadro Mafalda le pregunta *"¿Que llevas ahí Felipe?"*, en el siguiente este le contesta rascándose la cabeza, *"La tele dice que esto es la felicidad"*.
 
 > Peridiodismo es decir algo que moleste al poder, todo lo demás es publicidad.  El periodismo es libre o farsa.  --Rodolfo Walsh.
 
@@ -1056,10 +1058,8 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 ## Q 
  
-**Quinto**  *Lat. Quintus.*  El que viene después del cuatro[^93].
+**Quinto**  *Lat. Quintus.*  El que viene después del cuatro.
 
-[^93] En el primer cuadro de la tira aparece Felipe llevando algo extraño en las manos, nos llama la atención su cara a mitad de camino entre asombro y extrañeza.  En el segundo cuadro Mafalda le pregunta *"¿Que llevas ahí Felipe?"*, en el siguiente este le contesta rascándose la cabeza, *"La tele dice que esto es la felicidad"*.
- 
 > El cinco de mayo del mil novecientos cincuenta y cinco, nacía el quinto hijo de una familia modesta, de los suburbios del sur de de Buenos Aires.  Lo bautizaron Quinto Torres, hermano del divinal Odiseo Torres.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado lo que parece una historia digna de Ludovica u Horangel.  Adivina un guiño de la diosa fortuna.  En la quinta carrera de Palermo, corre un caballo llamado **Cinq** -cinco en francés-.  Malvendió todos sus magros bienes y apostó un total cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
  
 ## R
