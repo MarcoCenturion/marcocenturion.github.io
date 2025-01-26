@@ -300,11 +300,11 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > Si, seguro, y homosexual.  Si van a odiar, que odien bien.
 
-**Delito** *Lat. sustantivo Delictum.*  Del verbo *Delinquere* no hacer.  El origen del vocablo alude a una falta por omisión.  Por alguna extraña razón, el argentino clase media alta, entiende que defraudar -como la evasión fiscal- al estado es una *picardía* y no un Delito, existe una explicación muy inteligente por parte de Borges[^69].  La novela inconclusa *El Proceso* de Franz Kafka, en tono de paródica burla, la aceitada burocracia del aparato represivo.  Contemporáneo al nazismo, es natural en el indivíduo la sensación de cucaracha que va a ser aplastada sin tener la menor idea del crimen cometido.  Un agente de la salud extirpa un feto de una mujer y corre peligro de empujar una pieza del dominó que puede hacerlo terminar en la cárcel, en otro plano, un estado inicia un genocidio y desdibujan las responsabilidades de los niños y niñas descuartizados.  
+**Delito** *Lat. sustantivo Delictum.*  Del verbo *Delinquere* no hacer.  La génesis del vocablo aludiría a una falta por omisión.  Por alguna extraña razón, el argentino clase media alta, supone que defraudar al estado constituye una *picardía* o diablura y no un Delito, existe una explicación muy interesante por parte de Borges[^69].  Personaje central e invisible de la novela inconclusa *El Proceso* de Franz Kafka, en tono de paródica burla, acerca de la aceitada burocracia del aparato represivo.  Contemporáneo al nazismo, es natural en el indivíduo la sensación de cucaracha que va a ser aplastada sin tener la menor idea del crimen cometido.  Un agente de la salud extirpa un feto de una mujer y corre peligro de empujar una pieza del dominó que puede hacerlo terminar en la cárcel, en otro plano, un estado inicia un genocidio y desdibujan las responsabilidades de los niños y niñas descuartizados.  
 
 [^69]: El Estado es impersonal: el argentino sólo concibe una relación personal. Por eso, para él, robar dineros públicos no es un crimen. Compruebo un hecho, no lo justifico o excuso. --Jorge Luis Borges.
 
-**Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. 
+**Demiurgo** *Gr. Demius, público y ergon, trabajo*.  El que trabaja para el público. Durante mucho tiempo asocié este término con el de demonio, tal vez intuyendo que es un demonio quien trabaja para mover el mundo.
 
 **Democracia**  *Gr. δημοκρατία Demos pueblo y Kratos poder.*   Nace en la antigua Grecia y se perfecciona a tal extremo que en la actualidad, opinan sobre las buenas democracias elegidas por el pueblo, monarcas de todo el mundo a los que eligió un dios en que solo creen ellos.  Una extraña sensación se expande ultimamente, que sostiene que valen tanto la estupidez como el conocimiento.  La tecnología ha desarrollado mas y mejores métodos de convencer a las poblaciones de un extraño *sentido común.*
 
@@ -1047,14 +1047,20 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 **Prohibición** *Lat. Prohibere.  Pro adelante, primero y habere tener*.  La publicidade mas efectiva.  El cristianismo es su mejor ejemplo, pasa de ser un sistema endeble de creencias a la verdad absoluta, en pocos siglos.  Aquiere en el medioevo patente para carbonizar opositores, al tiempo que basa su marketing en el *amor al prójimo*.  En 1949 el colorado *Jorge Abelardo Ramos* escribe su famoso **América Latina, un Pais.**  La llegada del golpe de estado del 55, nombra una comision para perseguir *actividades antiargentinas*[^28] dedicada a la actividad preferida de la derecha, la prohibición y fogata de opositores, conocimiento aprendido de la inquisición, puesto que muchos de sus integrantes provienen de las filas de la Santa Iglesia Católica Apostólica Romana.  Prohibición que dispara las ventas del libro, incluídos aquellos ejemplajes incautados por las fuerzas represoras.
  
 [^28]: Guarda una simetría sugestiva respecto de la *comisión contra actividades antiamericanas* que presidía el tristemente célebre Joseph Mc Arty en EEUU.
- 
+
+**Publicidad**  Estrategia para generar en otros el deseo sobre un bien o servicio.  La mayor exposición la tienen los deportes, por las imágenes de los deportistas.  Durante gran parte del siglo pasado, el objeto de deseo a exponer lo tenían las empresas tabacaleras, por algún extraño motivo pasaron a ser las empresas lácteas con diferentes tipos de postres llenos de aditivos, donde se destacan los laxantes, mientras que en entrado el siglo XXI lo son los medicamentos y pastas de dientes, desplazadas por sitios de apuestas y cursos de hacerse rico con la bolsa.  Debido a la segmentación de los públicos en tribus muy específicas, cada vez contamos con herramientas mas precisas, para llegar a públicos mas pequeños y precisos, mientras que para hacer un producto de venta masiva, debemos apuntar a un sujeto de doce años.  Aplica a marketing político, por sobre otros. 
+
+> Peridiodismo es decir algo que moleste al poder, todo lo demás es publicidad.  El periodismo es libre o farsa.  --Rodolfo Walsh.
+
 **Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene el idioma nos juega malas pasadas, por las que, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que, al mismo tiempo, utilizamos el calificativo de puto para homosexuales que los enfrentaban sin temor.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
 
 ## Q 
  
-**Quinto**  *Lat. Quintus.*  El que viene después del cuatro.
+**Quinto**  *Lat. Quintus.*  El que viene después del cuatro[^93].
+
+[^93] En el primer cuadro de la tira aparece Felipe llevando algo extraño en las manos, nos llama la atención su cara a mitad de camino entre asombro y extrañeza.  En el segundo cuadro Mafalda le pregunta *"¿Que llevas ahí Felipe?"*, en el siguiente este le contesta rascándose la cabeza, *"La tele dice que esto es la felicidad"*.
  
-> El cinco de mayo del mil novecientos cincuenta y cinco, nacía el quinto hijo de una familia modesta, de los suburbios del sur de de Buenos Aires.  Lo bautizaron Quinto Torres, hermano del divinal Odiseo Torres.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado lo que parece una historia digna de Ludovica u Horangel.  Adivina un guiño de la diosa fortuna.  En la quinta carrera de Palermo, corre un caballo llamado **Cinq** -cinco en francés-.  Malvemdió todos sus magros bienes y apostó un total cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
+> El cinco de mayo del mil novecientos cincuenta y cinco, nacía el quinto hijo de una familia modesta, de los suburbios del sur de de Buenos Aires.  Lo bautizaron Quinto Torres, hermano del divinal Odiseo Torres.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado lo que parece una historia digna de Ludovica u Horangel.  Adivina un guiño de la diosa fortuna.  En la quinta carrera de Palermo, corre un caballo llamado **Cinq** -cinco en francés-.  Malvendió todos sus magros bienes y apostó un total cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
  
 ## R
  
