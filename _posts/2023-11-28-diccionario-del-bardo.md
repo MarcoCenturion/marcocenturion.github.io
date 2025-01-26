@@ -820,6 +820,10 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Mono**  Antecedente directo del Homo Sappiens.  Las sagradas escrituras sostienen que este último es el elegido de la creación, mientras que la evidencia muestra demasiada similitud con los primates superiores.  La derrota por el uso de los árboles en la sabana africana, forzaron a un grupo de estos a descender de estos, correr por la vida -como sugiere Homero Simpsons- esto hizo que pronto corrieran erguidos en dos patas, pulgares oponibles, crecimiento de la corteza cerebral y la historia conocida.  La segunda herida al narcisismo, fue enterarnos que todos somos africanos.
 
+**Muerte** *Lat. Mortis*.  Segun el psicoanálisis, el yo es incapaz de asumir su fin físico, por eso es inmortal.  De hecho aceptamos a regañadientes la mortalidad de Miguel de Cervantes pero no la de Alonso Quijano, aun leyendo en el tramo final la cordura a la que llega Don Quijote.  Vamos muriendo a medida que mueren los afectos y nos acercan a esa cordura, cuando ya no quedan locuras, no quedan motivos para ser.
+
+> Vive de tal forma que tu muerte sea una injusticia. --Miguel de Unamuno.
+
 **Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma más extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen, Estados Unidos y Japón.  Tal vez el principal -pero no el único como veremos- argumento en contra es la posibilidad de errores.  Después de 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  Una de las falacias a favor de la pena de muerte es económica, los datos más optimistas hablan de entre 10 y 250 millones de dólares, dependiendo el estado [^12].  Otra falacia es el miedo que produce y coacciona al futuro delincuente, desmentido a diario, en las cifras de homicidios violentos.  Estados que mantienen la pena de muerte, muestran igual o mayor tasa de homicidios violentos, respecto de aquellos que la abolieron.
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
@@ -950,7 +954,7 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*.  El antagónico masculino *pacto* designa las palabras de lo convenido, estén escritas o no.
 
-> Un jefe mafioso de la familia Gambino recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora.
+> Un ex jefe mafioso, de la familia Gambino, recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses, en su nueva vida fuera del hampa.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  "Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora" responde.
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión local, donde somos parte de esa madre tierra, no somos los elegidos, ni mejores.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
 
@@ -964,15 +968,15 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 > Ayer me golpeó un libro en la cabeza y perdí el conocimiento.
 
-**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones tan temidas como esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX, los vendedores ambulantes que circulaban por los barrios llevaban agua, soda, garrafas de gas, plumeros.  Se fué perdiendo, quedan pocas profesiones con este carácter social.
+**Pata de Lana** *Mit.*  Ser sobrenatural de apariciones, temidas, sospechadas y esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX, los vendedores ambulantes que circulaban por los barrios llevaban agua, soda, garrafas de gas, plumeros.  Se fué perdiendo, quedan pocas profesiones con este carácter social.
 
-> ¿Quiere que se la ponga?  --Pregunta el garrafero, que analiza las respuestas *no verbales* de las señoras, al bajar las garrafas mostrando los biceps de musculosa transpirada.
+> ¿Quiere que se la ponga?  --Pregunta Odiseo Torres, en sus tiempos de vendedor de garrafas en el Rastrojero, al tiempo que analiza las respuestas *no verbales* de las señoras, bajando las garrafas sobreactuando biceps de musculosa transpirada.
 
-**Patria**  *Lat.*  Textualmente, la tierra patria, o de los padres.  Ese pacto entre pares de defenderse entre ellos frente a los demás, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra, y los veinte años anhelando:  
+**Patria**  *Lat.*  Textualmente, la tierra de los padres.  Ese concepto que trasciende el pacto entre pares de defenderse entre ellos frente a un mal externo, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra y los veinte años anhelando:  
 
 > Ver crecer el humo en la casa de su padre --Odisea. Homero.  
 
-O la ya más reciente, de **Jorge Luis Borges**, al que acusamos de anglófilo, en su **Oda de 1966**: 
+O la ya más reciente, de **Jorge Luis Borges**, al que acusamos de anglófilo, en su **Oda de 1966** enumerando todo lo que es y no es la patria y el ruego final 
 
 > Nadie es la Patria ... Arda en mí ese fuego misterioso.
 
@@ -1048,13 +1052,13 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 [^28]: Guarda una simetría sugestiva respecto de la *comisión contra actividades antiamericanas* que presidía el tristemente célebre Joseph Mc Arty en EEUU.
 
-**Publicidad**  Estrategia para generar en otros el deseo sobre un bien o servicio[^93].  La mayor exposición la tienen los deportes.  A juzgar por el predominio del fútbol, basquet y box, esto se origina en deseos sexuales reprimidos, de otra forma lo lógica y esperable sería que el publico adulto masculino pase horas viendo voley playero femenino.    Durante gran parte del siglo pasado, el objeto de deseo a exponer lo tenían las empresas tabacaleras, por algún extraño motivo pasaron a ser las empresas lácteas con diferentes tipos de postres llenos de aditivos, donde se destacan los laxantes, mientras que en entrado el siglo XXI lo son los medicamentos y pastas de dientes, desplazadas por sitios de apuestas y cursos de hacerse rico con la bolsa.  Debido a la segmentación de los públicos en tribus muy específicas, cada vez contamos con herramientas mas precisas, para llegar a públicos mas pequeños y precisos, mientras que para hacer un producto de venta masiva, debemos apuntar a un sujeto de doce años.  Aplica a marketing político, por sobre otros. 
+**Publicidad**  Estrategia para generar en otros el deseo sobre un bien o servicio[^93].  La mayor exposición la tienen los deportes.  A juzgar por el predominio del fútbol, basquet y box, esto se origina en deseos sexuales reprimidos, de otra forma lo lógico y esperable sería que el publico adulto masculino malgastara horas diarias hipnotizado ante imágenes de voley playero femenino.    Durante gran parte del siglo pasado, el objeto de deseo a exponer lo tenían las empresas tabacaleras, por algún extraño motivo pasaron a ser las empresas lácteas con diferentes tipos de postres llenos de aditivos, donde se destacan los laxantes, mientras que en entrado el siglo XXI lo son los medicamentos y pastas de dientes, desplazadas por sitios de apuestas y cursos de hacerse rico con la bolsa.  Debido a la segmentación de los públicos en tribus muy específicas, cada vez contamos con herramientas mas precisas, para llegar a públicos mas pequeños y precisos, mientras que para hacer un producto de venta masiva, debemos apuntar a un sujeto de doce años.  Aplica a marketing político, por sobre otros. 
 
 [^93]:En el primer cuadro de la tira aparece Felipe llevando algo extraño en las manos, nos llama la atención su cara a mitad de camino entre asombro y extrañeza.  En el segundo cuadro Mafalda le pregunta *"¿Que llevas ahí Felipe?"*, en el siguiente este le contesta rascándose la cabeza, *"La tele dice que esto es la felicidad"*.
 
 > Peridiodismo es decir algo que moleste al poder, todo lo demás es publicidad.  El periodismo es libre o farsa.  --Rodolfo Walsh.
 
-**Puto** El que llega último.  El que lee.  El fascista homofóbico, misógino.  Por extraño que suene el idioma nos juega malas pasadas, por las que, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que, al mismo tiempo, utilizamos el calificativo de puto para homosexuales que los enfrentaban sin temor.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
+**Puto** El que llega último.  El que lee.  Se presenta de manera asintomática en el fascista homofóbico, el misógino.  Por extraño que suene el idioma nos juega malas pasadas, por las que, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que, al mismo tiempo, utilizamos el calificativo de puto para homosexuales que los enfrentaban sin temor.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
 
 ## Q 
  
