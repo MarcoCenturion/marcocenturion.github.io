@@ -625,7 +625,9 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 > Barbudos, judíos o sin corbata, se pueden retirar.
 
-**Inframundo**  *Underworld*  Film del género terror, saplicado de SciFi, que combina dos protagonistas icónicos del gótico, vampiros y vampiresas, por un lado, con hombres lobo del otro lado.  Puede prestarse a confusiones con el término **Infraestructura**.  En este la consmovisión del marxismo presenta dos protagonistas, también antagónicos, capitalistas y trabajadores en constante lucha.  Estos a su vez dan fundamento a la **Superestructura** donde se mueven las organizaciones religiosas, musicales y fílmicas, como en el primer caso.  Podemos imaginar un mundo sin vampiros, sin lycans y sin capitalistas, que comparten cartelera, pero sin trabajadores, las víctimas de los tres anteriores.  Los tres anteriores son construcciones intelectuales de la superstructura para servirse de estos.
+**Inframundo**  *Underworld*  Film del género terror, saplicado de SciFi, que combina dos protagonistas icónicos del gótico, vampiros y vampiresas, por un lado, con hombres lobo del otro lado.  Puede prestarse a confusiones con el término **Infraestructura**.  En este la consmovisión del marxismo presenta dos protagonistas, también antagónicos, capitalistas y trabajadores en constante lucha.  Estos a su vez dan fundamento a la **Superestructura** donde se mueven las organizaciones religiosas, musicales y fílmicas, como en el primer caso.  Podemos imaginar un mundo sin vampiros, sin lycans y sin capitalistas, que comparten cartelera, pero no sin trabajadores, las víctimas de siempre.  Los tres primeros son construcciones intelectuales de la superstructura para servirse de los últimos.
+
+> Dios no hizo el mundo, lo hicimos nosotros, los albañiles.  --El abuelo republicano al nieto en el libro de los Abrazos de Eduardo Galeano.
 
 **Ícono** *Gr. Eikon.*  Imagen, sumado a *Klao* literalmente *Yo rompo* forma iclonoclasta, quien rompe un ícono, una imagen.  Si imaginamos una computadora, podemos ver una figurita enviada a la papelera de reciclaje.  En el siglo VIII, los **Iconoclastas**, compartían el amor por destruir imágenes de santos.  De aquel entonces proviene tan bella costumbre, que sobreviven en varios credos.  El islam aduce, con argumentos de peso, que: *'no podemos copiar la obra de dios'* solo permite al arte, dibujar palabras, que son la única y exclusiva obra humana.  Los partidarios de Lutero siguen esa costumbre.   Se conocen como **idólatras** a su par antagónico, aquellos que veneran imágenes.  Podemos observar la convivencia pacífica de diferentes fés, en paragolpes de vehículos de mediana y alta gama, rosarios, curas en burro, cardos y manzanas mordidas.  Pareciera existir un orden de importancias en esto de la fe.  En primero lugar es importante el proselitis, lo siguiente, el mundo debe saber que tengo fe, cual si fuera Palito Ortega y por último, el hecho de tener Fe, _parece mas importante que el objeto de la fé mismo. 
 
@@ -842,7 +844,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
 
-De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que sin la existencia de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una corriente filosófica menor, perdida en el medioevo, como el arrianismo. 
+De no acceder de inmediato a la magia de la imagen anterior, se recomienda repetir la lectura tantas veces como sea necesario, hasta dar con ella.  Al carecer por completo de sentido, la vida encuentra motivos en el arte, puntualmente en la música.  Cierta corriente herética sostiene que sin la aparición de **Johann Sebastian Bach**, el cristianismo no hubiera pasado de ser una corriente filosófica menor, perdida en el medioevo o una pseudociencia del peso del zodíaco babilónico.
 
 ## N
 
@@ -1074,6 +1076,8 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 **República**  *Lat. Res Cosa, Publicae de todos*  La **cosa pública**, literalmente de todos.  Existe la creencia que la **cosa pública** no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo atestiguan[^45]. El mantenimiento de *lo público* es nuestra única virtud como especie, frente al resto del mundo animal.    
  
+> Presumes de ser, puro paisano, de haber sido y de ser, republicano. --Padre.  Patxi Andión.
+
 [^45]: El Estado es *impersonal*; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
  
 **Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
