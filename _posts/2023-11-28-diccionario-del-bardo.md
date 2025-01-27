@@ -1078,6 +1078,8 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 > Presumes de ser, puro paisano, de haber sido y de ser, republicano. --Padre.  Patxi Andión.
 
+> El Rulo entraba al almacén y dependiendo del humor decía en voz excesivamente alta *Viva el generalísimo Francisco Franco, caudillo de España por la voluntad de Dios*, dicho esto esperaba a que apareciera detrás de la cortina de plástico un anciano no mucho mas alto que yo a los ocho años.  Nunca eran mas de dos o tres segundos.  Salía don Luis maldiciendo en una lengua que no era la nuestra, pero que era de la península.  Todos reían.  Terminaba jurando *No voy a morirme sin que antes se muera el cabrón hijo de puta*.  Una mañana, años después, o meses -el tiempo corre de manera rara a esa edad- flameaba en la puerta del almacén de don Luis, la bandera de España.  Había muerto el *cabrón hijo de puta*.  Hoy imagino que no fué mucho tiempo, pero don Luis lo sobrevivió para festejar tamaña alegría.  Yo festejé en su nombre la exumación del 2018.  Videla está enterrado en una tumba sin nombre. 
+
 [^45]: El Estado es *impersonal*; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
  
 **Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
