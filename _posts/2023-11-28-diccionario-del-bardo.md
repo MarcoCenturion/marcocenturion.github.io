@@ -236,6 +236,10 @@ Símil del contemporáneo:
 
 > No estoy envejeciento, me estoy volviendo un clásico.  --Odiseo Torres, divinal, fecundo en ardides.
 
+**Clonación**  Método del siglo XXI para obtener seres vivos sin actividad sexual, sintomático de un tiempo de perros a upa, reguetón y fascismo, como en el imperativo del jefe pastelero que se volvió psicofármaco.
+
+> ¡Cloná ese pan!.
+
 **Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic* que bien puede oficiar de sobrenombre.  **CoCo** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. [^18] 
 
 [^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis pocas veces visto en estas latitudes.
@@ -244,7 +248,7 @@ Símil del contemporáneo:
 
 **Colectivo**  *Lat. Collectivus deriva de Collectionis, colección, colligere, con y legere recoger, leer*.  Algo así como leer juntos, elegir juntos.  Solo puede entender un objetvo colectivo, como la abstracción del concepto de nación, quien asuma un bien común, una cosa de todos.  Solo puede trabajar en pos de algo colectivo quien asuma que no existe salvación individual.  Una multiplicidad de cosas que no es lo mismo que la suma de sus partes.  Nunca.  Solo puede negar el valor terapéutico de una marcha del veinticuatro de marzo quien nunca estuvo ahí. 
 
-**Comedia**  *Gr. κωμωδια Komos desfile y oda canción*.  Nace en Mégara entre Atenas y Corintio, la ciudad del rey Bizas, que luego emigrara y fundara Bizancio.  El objetivo pareciera ser, a simple vista, liberar la tensión de la audiencia.  La utilización de términos zoeces, por encima de lo permitido por el decoro y la decencia, pareciera destinado a generar cierto rechazo.  Hasta que el protagonista tropieza y cae, fin último, la risa y verlo levantarse, de nuevo, para salir a pelear contra los molinos de viento, sabiendo que no hay esperanzas.
+**Comedia**  *Gr. κωμωδια Komos desfile y oda canción*.  Nace en Mégara entre Atenas y Corintio, la ciudad del rey Bizas, que luego emigrara y fundara Bizancio.  El objetivo pareciera ser, a simple vista, liberar la tensión de la audiencia.  La utilización de términos zoeces, por encima de lo permitido por el decoro y la decencia, destinado a generar cierto rechazo.  Hasta que el protagonista tropieza y cae, fin último, la risa y verlo levantarse, de nuevo, para salir a pelear contra los molinos de viento, con la absoluta certeza de la falta de esperanzas, riendo aún ahí, levantando el dedo medio.
 
 **Comodidad**  *Lat. Commoditas, de con, junto y modus, modo. Ausencia de molestia*.  Se aplica a la comodidad física pero bien puede utilizarse para describir a dos personas en silencio, en un banco de una plaza, sin decir nada.  Contrario sensu, incomodidad es la que puede tranquilamente experimentarse en sitios ideales, momentos ideales al estilo de **SPA** de resort caribeño, mientras un duende misterioso susurra al oído sus dudas.  Siempre llega una incomodidad a sugerir mejores puertos y valorar la capacidad de ciertas personas, documentado en esa expresión de deseo de la canción infantil.
 
@@ -756,6 +760,8 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 **Libro**  *Lat. liber.*  Liber era la materia de la que se elaboraba el papel, a partir de la corteza de ciertos árboles, y los libros son la materia de la que se elaboran los humanos.  Papel a su vez se origina en papyrus.  La palabra *libro* sugiere algo que nos hace *libres*. 
 
 > Es un objeto plano, hecho de un árbol, con partes flexibles en las que están impresos montones de curiosos garabatos.  Pero en cuanto se empieza a leer se entra en la mente de otra persona; tal vez de alguien que ha muerto hace miles de años.  A través del tiempo un autor habla clara y silenciosamente dirigiéndose a nosotros y entrando en nuestra mente.   La escritura es, tal vez, el más grande de los inventos humanos. Une a personas que no se conocen entre sí; personajes de libros de épocas lejanas rompen la cadena del tiempo… Un libro es la prueba de que los hombres son capaces de hacer que la magia funcione. --Carl Sagan.
+
+> Si me armo de libros, me libro de armas.  --Acción Poética.
 
 **Loco** *Lat. Locus.*  Alguien que carece por completo del temor al ridículo o a propasarse.  El antropólogo polaco *Bronislaw Malinowsky*, en su *trabajo de campo* en las *Islas Trobriand*, da cuenta que allí los locales utilizan este vocablo para aludir a quien *ríe cuando no hay motivo* 
 
