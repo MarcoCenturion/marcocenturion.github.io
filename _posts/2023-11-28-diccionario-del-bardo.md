@@ -244,7 +244,9 @@ Símil del contemporáneo:
 
 **Colectivo**  *Lat. Collectivus deriva de Collectionis, colección, colligere, con y legere recoger, leer*.  Algo así como leer juntos, elegir juntos.  Solo puede entender un objetvo colectivo, como la abstracción del concepto de nación, quien asuma un bien común, una cosa de todos.  Solo puede trabajar en pos de algo colectivo quien asuma que no existe salvación individual.  Una multiplicidad de cosas que no es lo mismo que la suma de sus partes.  Nunca.  Solo puede negar el valor terapéutico de una marcha del veinticuatro de marzo quien nunca estuvo ahí. 
 
-**Comodidad**  *Lat. Commoditas, de con, junto y modus, modo. Ausencia de molestia*.  Se aplica a la comodidad física pero bien puede utilizarse para describir a dos personas en silencio, en un banco de una plaza, sin decir nada.  Contrario sensu, incomodidad es la que puede tranquilamente experimentarse en sitios ideales, momentos ideales como de SPA de resort caribeño, mientras un duende misterioso susurra al oído sus dudas.  Siempre llega una incomodidad a sugerir mejores puertos y valorar la capacidad de ciertas personas.
+**Comedia**  *Gr. κωμωδια Komos desfile y oda canción*.  Nace en Mégara entre Atenas y Corintio, la ciudad del rey Bizas, que luego emigrara y fundara Bizancio.  El objetivo pareciera ser, a simple vista, liberar la tensión de la audiencia.  La utilización de términos zoeces, por encima de lo permitido por el decoro y la decencia, pareciera destinado a generar cierto rechazo.  Hasta que el protagonista tropieza y cae, fin último, la risa y verlo levantarse, de nuevo, para salir a pelear contra los molinos de viento, sabiendo que no hay esperanzas.
+
+**Comodidad**  *Lat. Commoditas, de con, junto y modus, modo. Ausencia de molestia*.  Se aplica a la comodidad física pero bien puede utilizarse para describir a dos personas en silencio, en un banco de una plaza, sin decir nada.  Contrario sensu, incomodidad es la que puede tranquilamente experimentarse en sitios ideales, momentos ideales al estilo de **SPA** de resort caribeño, mientras un duende misterioso susurra al oído sus dudas.  Siempre llega una incomodidad a sugerir mejores puertos y valorar la capacidad de ciertas personas, documentado en esa expresión de deseo de la canción infantil.
 
 > Que sepa abrir la puerta para ir a jugar.
 
@@ -254,7 +256,7 @@ Símil del contemporáneo:
 
 **Confesión**  *Lat con, junto; fateri, reconocer*.  Una de las cuatro partes del sacramento de la penitencia católica[^53].  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
 
-> Creo que soy homosexual padre.  ¿Me salvaré?  --Pregunta el adolescente en convesión.
+> Creo que soy homosexual padre.  ¿Me salvaré?  --Pregunta el adolescente en confesión.
 
 > Te salvás porque tengo misa en un ratito, sinó te doy hasta que chaca salga campeón de la libertadores.
 
@@ -377,6 +379,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 Ella lo corrige, ojos entrecerrados: 
 
 > ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de *"¿Que hice para merecer esto?"*.
+
+**Drama**  *Gr. hacer, yo hago*. La vida es drama, casi exclusivamente, con chispas, atisbos de felicidad.  La comedia toma prestado el motivo y convierte el sufrimiento existencial en risa.  Ya lo anticipara con mejor pluma otro autor.
+
+> El rock es drama.  Todo lo que había que decír sobre la felicidad ya lo hizo Ramón Ortega **La felicidad, ja ja ja ja**.  No hay mucho que agregar.  --Carlos Solari.
 
 **Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda[^7].  Su par antagónico *dogma* es la escrerosis del conocimiento. 
 
