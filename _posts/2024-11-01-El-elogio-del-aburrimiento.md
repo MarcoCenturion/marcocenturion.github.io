@@ -12,7 +12,6 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 La palabra siesta proviene de sexta, la hora de la sexta oración del día.  No comulgo con ninguna religión, pero tengo una temprana intriga por los rituales y sus significados.  Cuanto significan al indivíduo.  Cuan necesarios son a su formación, a su Yo.  No por estos rituales en sí, sino a la luz de la ausencia de rituales espirituales y la irrupción en la realidad de otros rituales, menos humanos.  
 
-
 La siesta de mi infancia estaba llena de rituales.  El silencio.  El aburrimiento.  Prohibiciones, toneladas de prohibiciones.  Teníamos terminantemente prohibido hacer ruido.  
 
 Al patio no se podía salir, porque existía un ser sobrenatural llamado **La Solapa**.  El testimonio incuestionable era la tía Elena, que la vió de chica una vez y corrió a esconderse.  Mi mamá y la su mamá -mi abuela- se miraban y asentían.  Tanto para mis hermanos como para mí, era tan verdad como cualquier otra.  No salíamos al patio.  

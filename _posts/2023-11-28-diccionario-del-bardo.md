@@ -234,9 +234,11 @@ Símil del contemporáneo:
 
 > ... Yo no se, cuando me quieres, si me extrañas, o me engañas.   --Esta Tarde ví llover.  Armando Manzanero.
 
-> No estoy envejeciento, me estoy volviendo un clásico.  --Odiseo Torres, divinal, fecundo en ardides.
+> No estoy envejeciento, estoy volviendome clásico.  --Odiseo Torres, divinal, fecundo en ardides.
 
 **Clonación**  Método del siglo XXI para obtener seres vivos sin actividad sexual, sintomático de un tiempo de perros a upa, reguetón y fascismo, como en el imperativo del jefe pastelero que se volvió psicofármaco.
+
+> ¿Que le dijo el genetista al pastelero ansioso?
 
 > ¡Cloná ese pan!.
 
