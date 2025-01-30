@@ -745,7 +745,11 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 > ... Éste es el final de la historia de los **cuarenta y siete hombres leales** —salvo que no tiene final, porque los otros hombres, que no somos leales tal vez, pero que *nunca perderemos del todo la esperanza de serlo*, seguiremos honrándolos con palabras."  --El incivil mastro de Ceremonias Kotsuke no Suke.  J.L. Borges.
 
-**Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas suponían la sabiduría.  Atenea, fue la deidad de ojos de Lechuza.
+**Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas otorgaban dones innatos como la sabiduría.  Atenea, fue la deidad de ojos de Lechuza, se la suele ver en grabados acompañada de lechuzas.
+
+**Legal**  *Lat. legalis de acuerdo a la ley, recolectar, juntar*.  Par antagónico perfecto de Justo.  La esclavitud fué(es) legal, está escrita en la sagrada escritura, la segregación racial es legal, las guerras son legales, el nazismo fue legal, el colonialismo fue(es) legal, el carry trade es legal, el saqueo de paises enteros en nombre de su propio bien, es legal.
+
+> Agonizaba tirado en la calle un motoquero fumón, al ver acercarse la luz al final del tunel, pide a los presentes: "Alguien que me convide un **legal**" --Guillermo Cabrera Infante.  Puro Humo.
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
 
@@ -797,13 +801,11 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Saque una carga y muéstresela al público.
 
-> ...
-
 > La carta.  ¡La carta, señor!
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*.
 
-**Mandrágora** Mit. planta de la que dan cuenta todos los bestiarios medievales, asegurándonos poderes mágicos.  La nombran la biblia, Plinio, Pitágoras y hasta **Shakesperae** la nombra en Romeo y Julieta.  Sugieren que está a mitad de camino entre el reino animal y vegetal.  Ante este tipo de afirmaciones, el poeta Maggi recapacita:
+**Mandrágora** Mit. planta de la que dan cuenta todos los bestiarios medievales, asegurándonos poderes mágicos.  La nombran la biblia, Plinio, Pitágoras y hasta lo hace el bardo **Shakesperae** en Romeo y Julieta.  Sugieren que está a mitad de camino entre el reino animal y vegetal.  Ante este tipo de afirmaciones, el poeta Maggi recapacita:
 
 > Conozco gente así.  Fui fiscal en una mesa en la elecciones, la derecha sacó el setenta por ciento.
 
@@ -825,11 +827,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Matrix**  Film de SciFi de las hermanas Wachowski, al que el tiempo ha otorgado el honor de Clásico, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guión que recubre la realidad, resulta ser mucho más burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelar el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
 
-**Masón**  *Fr. maçon y este del germánico makon, hacedor*.  De allí a los albañiles.  Originalmente organizaciones de ayuda mútua de obreros, proto gremios, posiblemente a esto deban su mala reputación y el general San Martín descanse fuera de *tierra sagrada*.  Pasada su etapa mitológica, estas organizaciones son las responsables de la liberación de toda América, desde los cincinatti[^35] en los primeros estados de la unión, hasta la logia Lautaro en el Virreinato del Río de la Plata.
-
-[^35]: En honor al general romano Lucio Quincio Cincinatto.  El mito narra que Cincinato estaba retirado de la milicia descreído de la política, labrando la tierra de su granja, cruzando el Tiber.  Los enviados del Senado le ruegan tome el mando del ejército, para frenar el avance de los voscos y eucos.  Le otorgan el título de Dictador.  En dieciseis días triunfa en la batalla, renuncia a todos los honores y vuelve a tomar el arado donde lo había dejado.  Su nombre pasa a ser sinónimo de rectitud, honradez y valentía.  Agrega a esto una frugalidad rústica y poner los intereses del pueblo por encima de los propios.  La logia de los primeros revolucionarios de Estados Unidos lleva el nombre de los Cincinnati, laicos y honorables, producto de ello es su constitución y emniendas.  Después vino lo otro.
-
-**Mensaje**  *Lat. Messagium*.  El mensaje es el objeto último de la comunicación, lo que nos separó definitivamente, hace algo mas de tres millones de años, de nuestros primos los chimpancés.  Tiene dos funciones, una estética y otra poética.  Esta voz de raiz latina, llega al castellano, de la misma manera que *messagio* al italiano, *message* al francés y pasa al ingles sin mayores contratiempos.  El canadiense **Marshal Mc Luhan** llegó en los sesentas con la crítica a la sociedad de masas sosteniendo que *el medio es el mensaje*.  Gracias a librerías de software libre de reconocimiento de caracteres e inteligencia artificial, un equipo multidisciplinario de investigadores ha sometido, lo que fuera hasta ese entonces fuera un bajorelive, con una inscripción indescifrable, en el sitio arqueológico conocido como la *Puerta del Leon* en Arlan Kaya, Turquía.  Descubierta en siglo XVIII, no había dejado asombrar a la comunidad científica, el deterioro de la piedra volcánica sumada la falta de otros indicios, hacían de la inscripción una incógnita hasta la actualizad.  Solo existían teorías del motivo del sitio, si este era funerario, si una puerta de ingreso. Hubo que esperar hasta recién el año 2020, cuando la semiótica británico-coreana Clarise Kim diera a conocer lo que, hasta ese momento, la ciencia conociera como el primer mensaje escrito de la historia, *Puto el que lee*.
+**Mensaje**  *Lat. Messagium*.  El mensaje es el objeto último de la comunicación, lo que nos separó definitivamente, hace algo mas de tres millones de años, de nuestros primos los chimpancés.  Tiene dos funciones, una estética y otra poética.  Esta voz de raiz latina, llega al castellano, de la misma manera que *messagio* al italiano, *message* al francés y pasa al ingles sin mayores contratiempos.  El canadiense **Marshal Mc Luhan** llegó en los sesentas con la crítica a la sociedad de masas sosteniendo que *el medio es el mensaje*.  Gracias a librerías de software libre de reconocimiento de caracteres e inteligencia artificial, un equipo multidisciplinario de investigadores ha sometido, lo que fuera hasta ese entonces fuera un bajorelive, con una inscripción indescifrable, en el sitio arqueológico conocido como la *Puerta del Leon* en Arlan Kaya, Turquía.  Descubierta en siglo XVIII, no había dejado de asombrar a la comunidad científica, el deterioro de la piedra volcánica sumada la falta de otros indicios, hacían de la inscripción una incógnita hasta la actualizad.  Solo existían teorías del motivo del sitio, si este era funerario, si una puerta de ingreso. Hubo que esperar hasta recién el año 2020, cuando la semiótica británico-coreana Clarise Kim diera a conocer lo que, hasta ese momento, la ciencia conociera como el primer mensaje escrito de la historia, *Puto el que lee*.
 
 **Mercería** *Sus.*  Comercio minorista especializado en la venta de cosas mersas, esto es, de escaso valor.
 
