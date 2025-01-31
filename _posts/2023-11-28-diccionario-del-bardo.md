@@ -761,7 +761,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez, proclives como son a caer en los embrujos de esta ultima.  
 
-**Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por extraño que parezca, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual. Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  
+**Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por contradictorio que suene, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual.  Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, el par antagónico perfecto de la libertad.  
 
 **Libro**  *Lat. liber.*  Liber era la materia de la que se elaboraba el papel, a partir de la corteza de ciertos árboles, y los libros son la materia de la que se elaboran los humanos.  Papel a su vez se origina en papyrus.  La palabra *libro* sugiere algo que nos hace *libres*. 
 
@@ -791,17 +791,15 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que abre una tabaquería y dedica a ello su fortuna.
 
-**Mandrágora** *Mit. Lat.* Un número finito de bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Resulta curioso pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de Mandrágoras, o anfisbenas o dragones, solo porque así lo afirmaban **Plinio** o **Plutarco** o algún otro famoso, meros *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
+**Mandrágora** *Mit. Lat.* Un número considerable de bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Resulta curioso pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de Mandrágoras, o anfisbenas o dragones, solo porque así lo afirmaban **Plinio** o **Plutarco** o algún otro famoso, simples *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
-**Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
+**Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Horacio Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
 
-> Porque no leer Rayuela, aunque sea por cercera vez.
+> Leer Rayuela, aunque sea por cercera vez.  Si comes pizza napolitana mas de una vez en tu vida. ¿Porque te gusta, porqué no hacer lo mismo con Rayuela?
 
 **Mago** Antónimo masculino de sustantivo anterior, con mucha menos magia.
 
-> Saque una carga y muéstresela al público.
-
-> La carta.  ¡La carta, señor!
+> Saque una carga y muéstresela al público.  ...  **La carta**.  ¡Muestre la carta al público, señor!
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*.
 
