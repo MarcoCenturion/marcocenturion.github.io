@@ -793,7 +793,9 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Mandrágora** *Mit. Lat.* Un número considerable de bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal.  Resulta curioso pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de Mandrágoras, o anfisbenas o dragones, solo porque así lo afirmaban **Plinio** o **Plutarco** o algún otro famoso, simples *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.
 
-**Maga, la**  *Literatura*.  Personaje central de **Rayuela**, antónimo emotivo de Horacio Oliveira.  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
+**Maga, la**  *Literatura*.  Protagonista de **Rayuela**, antagónico emotivo de Horacio Oliveira, podrido, basura, montón de mierda y parte del tercer personaje importante de la novela, la ciudad de París[^95].  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
+
+[^95]: El argentino, el sudamericano en general, es un hombre desvinculado del mundo europeo; no tiene pasado, o tiene un pasado muy corto. Por eso, cuando muere, no va al cielo, sino a París.  Y los que se portan mal, se quedan acá.  --Jorge Luis Borges.
 
 > Leer Rayuela, aunque sea por cercera vez.  Si comes pizza napolitana mas de una vez en tu vida. ¿Porque te gusta, porqué no hacer lo mismo con Rayuela?
 
