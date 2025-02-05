@@ -747,13 +747,13 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lechuza** *Lat. Noctua, por noxis.*  Ave de hábitos nocturnos al que multitud de culturas otorgaban dones innatos como la sabiduría.  Atenea, fue la deidad de ojos de Lechuza, se la suele ver en grabados acompañada de lechuzas.
 
-**Legal**  *Lat. legalis de acuerdo a la ley, recolectar, juntar*.  Par antagónico perfecto de Justo.  La esclavitud fué(es) legal, está escrita en la sagrada escritura, la segregación racial es legal, las guerras son legales, el nazismo fue legal, el colonialismo fue(es) legal, el carry trade es legal, el saqueo de paises enteros en nombre de su propio bien, es legal.
+**Legal**  *Lat. legalis de acuerdo a la ley, recolectar, juntar*.  Par antagónico perfecto de Justo.  La esclavitud fué legal, tan es así que está prolijamente documentada en la sagrada escritura, la segregación racial es legal, todas las guerras son legales, el nazismo fue legal, el saqueo colonislita de América, también, la bicicleta financiera con la que se vacían estados completos, es legal, el saqueo de paises enteros en nombre de su propio bien, es legal.  El listado no es para nada taxativo.
 
-> Agonizaba tirado en la calle un motoquero fumón, al ver acercarse la luz al final del tunel, pide a los presentes: "Alguien que me convide un **legal**" --Guillermo Cabrera Infante.  Puro Humo.
+> Luego del choque con su moto, el golpeado fumón adivina acercarse hacia la luz al final del tunel.  Con resignada paz, pide a la multitud de curiosos que lo rodéa sin ayudar, solo por el morbo de verlo "Alguien que me convide un **legal**" --Guillermo Cabrera Infante.  Puro Humo.
 
-**Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Librepensador.  A simple vista, pareciera perjudicial para el *status quo*.    
+**Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
-**Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.
+**Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.  ¿O al revés?  O Llamamos a la lenteja por su parecido al lente.
 
 **Ley** *Lat. Lex*  Status quo.  El imperio de la ley es un acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y -a menudo- separa cabezas de troncos de monarcas.  Quiza aludiendo esto es que a menudo las movilizaciones en **Francia**, son acompañadas por guillotinas, simulando carrozas de carnaval, con una bella leyenda tácita:
 
@@ -779,9 +779,9 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 ## M
 
-**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  De allí que macana sean sus "mentiras".  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
+**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  En la mezoamérica precolombina, era adornada con piedras de obsidiana que la convertían en mas cortante que el mejor acero europeo.  Puede que de allí *macana* sean sus *mentiras.  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
-**Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de banalización del Mal cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, las ayer víctimas judías se transforman en victimarios del pueblo palestino[^25].
+**Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de *Banalización del Mal* cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, las ayer víctimas judías se transforman en victimarios del pueblo palestino[^25].
 
 [^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo [Link](https://es.wikipedia.org/wiki/Hannah_Arendt)
 
@@ -820,6 +820,8 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 **Marte** *Astron.*  Nuestro vecino celeste más cercano.  Contaría con el mismo interés que Urano o Venus en la *vida real* si en los cincuentas el buen Ray Douglas Bradbury no hubiera escrito sus cuentos hilvanados bajo el título *Crónicas Marcianas*.  En la tercera expedición, el rudo y valiente capitán Williams descubre en Marte la misma calle de su pueblo, la casa de su infancia y  dentro de esa casa, los mismos padres de su niñez.  Cena y se va a su cama de niño llorandoede felicidad.  Duda si dormir será despertar y aviva una curiosa sensación de terror en el lector.  Hay una proliferación de señores y señoras **K**, como en las novelas de Kafka o en la primavera de la década ganada argentina.
 
 **Martes** Día de la semana que utilizamos para honrar al dios de la guerra Marte, de una religión que supo sincretizarse en el cristianismo, de alguna extraña forma.
+
+**Masa**  *Gr. μᾶζα*.   Pastel de cebada.  Sustantivo comodín utilizado tanto para aludir al pan, como a un martillo grande, como para la magnitud física de cantidad de materia.  Quizá el significado mas interesante venga dado por las ciencias sociales, para designar un grupo humano que confunde o unifica sus pasiones, de fáci o totaltamente sugestionable, cese del espíritu crítico.  El mayor de los elementos de esta *masa sociológica* es el contagio emocional, imitación, sentimiento de omnipotencia y anonimato personal.  Estas características pueden explicar en gran medida la realidad de las primeras decenas del siglo XXI.
 
 **Masón**  *Fr. maçon y este del germánico makon, hacedor*.  De allí a los albañiles.  Originalmente organizaciones de ayuda mútua de obreros, proto gremios, posiblemente a esto deban su mala reputación y el general **José de San Martín** descanse fuera de *tierra sagrada*.  Pasada su etapa mitológica, estas organizaciones son las responsables de la liberación de toda América, desde los cincinatti[^36] en los primeros estados de la unión, hasta la logia Lautaro en el Virreinato del Río de la Plata.  Al darse estas independencia fuera de la época del marketing político, explica en parte la ausencia de los esperables libertad, progreso, patria o esos símiles **AFJP**.
 
