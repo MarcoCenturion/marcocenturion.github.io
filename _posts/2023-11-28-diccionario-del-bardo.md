@@ -859,7 +859,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Quien iba a decir *mulato*, terminamos siendo parientes.
 
-**Música** *Gr. μουσική arte de las musas*.  Paraíso de atéos y disconformes.  *Recuerdo de una felicidad que nunca existió*, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante. 
+**Música** *Gr. μουσική arte de las musas*.  Paraíso de atéos y disconformes.  *Recuerdo de una felicidad que nunca existió*, según Oscar Wilde.  Como todo concepto realmente interesante, definirla es insultante.  En principio, enfatizando la precaución de la frase en principio, la música se trata de la combinación de cuatro elementos, o eso debería ser.  Melodía, armonía, ritmo y asombro.  Asistimos con el mismo estupor a la ausencia de valores éticos en la sociedad, como también a la desaparición de melodía y armonía en la música.  Hacía rato que habíamos perdido la producción de asombro.  Será que deberemos sobrevivir en un mundo hecho solo de ritmo y discursos racistas. 
 
 > La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
 
