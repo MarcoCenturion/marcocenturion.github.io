@@ -1050,6 +1050,8 @@ La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador
 > Anda cruzando el invierno, con un ponchito de vino.
  
 En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
+
+**Ponzi**  Estafas piramidales que fueran inventadas con anterioridad, mucha, a la popularizada en la década del veinte por Carlo Ponzi, que alcanza la fama, no por la invención en sí del esquema que lleva su nombre, sino por el tamaño alcanzado.  Esta estafa se basa en que A le promete una renta extraordinaria a B, por lo cual B sale corriendo a contarle a C.  A paga a B la renta extraordinaria cuando llega C y así sucesivamente.  Explota el terminarse las letras del abecedario.  Las señales de peligo mas evidentes para las futuras víctimas no son las económicas, como la excesiva y rápida rentabilidad, sino lo extraordinariamente estúpidos que parecen tanto víctimas, como vícitmarios tras un simple examen visual de sus caras y auditivas de sus argumentos.  Curisamente, opera también a nivel del lenguaje, donde ciertas ideas demasiado optimistas se replican por usuarios creyentes.  Es requisito indispensable para ambas, la ingenuidad y la fe.  Asistimos en tiempo real a la proliferación de camionetas enormes a doscientos kilómetros por hora, esquemas piramidales de cripto divisas, gobiernos fascistas y reguetón.  Existe un público que no encuentra una correlación lineal en esto.
  
 **Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas, justo antes que el tío comience con los comentarios políticos y con ello los sillazos, por lo que conviene apurar siempre los postres.
  
