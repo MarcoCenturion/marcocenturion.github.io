@@ -1204,7 +1204,13 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
  
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
  
-**Sordera**  *Lat. Surdus, susurro inentendible*.  De aquí también provienen *Absurdo*.  Don Armando combinaba una mueca con la cara, a la que sumaba una mano sosteniendo la oreja y fruncido ocular.  El claro mensaje era que no escuchaba.  Se supone que lo había perfeccionado en el arte del chupino, para analizar las miradas de los contrincantes ante cojuros como envido o truco.  Al mirar a sus contrincantes decir por segunda o tercera vez Truco, terminaba adivinando la mentira.  Lo trasladó, a otros entornos de escucha, como la familia.  La clínica lo conoce como sordera selectiva.  
+**Sordera**  *Lat. Surdus, susurro inentendible*.  De allí también provienen *Absurdo*.  Don Armando escemoficaba una mueca de la cara, a la que sumaba una mano doblando y sosteniendo el pabellón de una oreja y fruncido ocular.  El claro mensaje *no verbal* era que no escuchaba.  Se supone que lo había perfeccionado en el arte del chupino, en el que era imbatible, para analizar las miradas de los contrincantes ante cojuros como *envido* o *truco*.  Analizaba rostros de contrincantes al decir por segunda o tercera vez **Truco**, terminaba adivinando la mentira.  Lo trasladó, a otros entornos de escucha, como la familia.  Cierto sector de la neurofisiología lo conoce como *sordera selectiva*.  Al parecer, existe una correlación entre esa sordera la novedad sexual.  Independientemente de la calidad estética de la pareja ocasional, se incrementan exponencialmente las posibilidades de escucha activa, cuanto mas nueva es esa relación.  Lo expone bellamente el freudianismo con los conceptos de tensión, cercanía del objeto, líbido y economía. 
+
+> Tomy decile al abuelo que saque sus cosas de la mesa que vamos a comer. --La abu.
+
+> Abuelo, dice la abuela que saques esas cosas de la mesa. --El Tomy.
+
+> ¿La mujer de quién murión? --El abuelo con su vaso de Cynar puro.
  
 **Sueldo** *Lat. Solidus.*  Pago sólido -monedas de oro- recibido por el soldado.  Por extraño que suene, hoy resulta más sólido un sueldo en *Cryptos* que en monedas *Fiat*.  Por esto del Yin y el Yan, lo sólido es mas volátil, la seguridad es solo una sensación. En tiempos de *One Peso is one dollar*  la policía custodiaba los supermercados, porque eran mas valiosos que los bancos. Caminas inseguro por la noche en barrios humildes pero te termina robando la yuta.
 
