@@ -710,6 +710,12 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 **Jabalí** / **Jabalina**. *Ar. hinzir gabalí, cerdo del monte*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*   Su sinónimo mas interesante es Venablo.  
 
+**Java**  *Informática*. Lenguaje de programación que impusiera el paradigma de la programación orietada a objetos.  Hacia él se apuntan encendidas críticas.   
+
+> "Recomendame un libro para llorar" pidió ella a su novio desarrollador "Algoritmos de OOP en JAVA"  Respondió él.
+
+> Uno de los argumentos de mayor peso en favor de Java es que se puede usar en todos los sistemas operativos, es como si dijera que el sexo anal es mejor porque funciona con todos los sexos.
+
 **Jazmín**  *Ar. yamasim a su vez del persa.* Flor Blanca.
 
 **Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, caput ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
