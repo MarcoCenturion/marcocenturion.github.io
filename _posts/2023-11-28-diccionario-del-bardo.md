@@ -516,6 +516,8 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Flúor**  *Física*.  En la tabla de Mendeleiev ocupa el número 9, entre los halógenos, que suena a extraterrestres a los indoctos.  Por cacofonía suele confundírselo con el adjetivo **Flúo** que destaca la vivacidad de los colores, sinónimo de *brioso* en el cinturón industrial de Córdoba city.
 
+**Foco**  No se porqué extraña patología, por muy interesante que esté la foto enfocada en las piernas o pechos de la mujer, ciertos indivíduos hacen zoom para leer título o autor del libro que tiene en las manos.
+
 **Fulano**  *Ar. فلان fulán*.  Persona cualquiera.  Forma despectiva de referirse a alguien, quitándole toda entidad.  Esto todavía admite un grado mas de menosprecio, que se alcanza en el femenino fulana, por considerarla inmoral.  Repárese en los verdaderos *ríos de tinta* que han corrido en forma de chistes sobre esta diferencia.  Tal como lo señalara Sigmund Freud, este es otro de los lugares donde se expresa el inconsciente.
 
 ## G
@@ -716,7 +718,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 > Uno de los argumentos de mayor peso en favor de Java es que se puede usar en todos los sistemas operativos, es como si dijera que el sexo anal es mejor porque funciona con todos los sexos.
 
-**Jazmín**  *Ar. yamasim a su vez del persa.* Flor Blanca.
+**Jazmín**  *Ar. yamasim a su vez del persa.* Flor Blanca muy perfumada.  Es anterior al árabe y ya existía en los cuentos ambientados en la Persia de las Mil y Una Noches.
 
 **Jefe** *Caput Lat.*  El periplo del sustantivo latino *caput* al castizo y seco *Jefe* es, como mínimo, curiosa o llamativa por su metamorfosis y el sonido de voces comunes que llegan a nosotros.  J. L. Boges sugiere que toda etimología, es feliz *per se*.  **Caput** surge en tiempos de la república romana alrededor del 300 AC.  El latín se desplaza -a la par que la conquista bélica del imperio- por todo el Mediterraneo, antes de cruzar los Apeninos, caput ya ha mutado a *Capo*, que aún sobrevive en el italiano hablado; los pueblos galos lo transforman en *Chapo*, como Guzmán, que cambia a *chepo* y de allí a *cheff*, actual francés.  Cruza como *chieff* el Canal de la Mancha.  Los catalanes lo cambian a *Jef* y finalmente llega para quedarse en el centro de España entre el 300 y 400 DC. el final de su metamorfosis a *jefe*.
 
