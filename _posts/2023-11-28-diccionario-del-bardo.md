@@ -204,6 +204,10 @@ Símil del contemporáneo:
 
 **Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado. Los antropólogos deducen la cantidad de habitantes de las ciudades a partir de los asientos en el teatro, puesto que toda la ciudad tenía acceso.  En la misma función se presentaban tragedia y comedia.  Esta última era en muchos casos excesiva en palabrotas, el objeto era obrar de espejo donde el público viera se viera a si mismo. 
 
+**Cerebro**  *Lat. Cerebrum.*  Pareciera suceder en el ingles antiguo braegen, desde donde sigue brain.  1- Personaje de serie televisiva compañero de Pinky.  2- Aparato con el que pensamos que pensamos, cuando en realidad lo hace la superestructura que nos dice lo que tenemos que pensar.  3- Madre natura a dotado al macho homo sapiens de dos cabezas, pero no suficiente sangre para que funcionen al mismo tiempo.
+
+> Los cerebros son como las latas, cuanto mas vacíos están mas ruido hacen.  --Truman Capote.
+
 **Cerveza**  Brebaje carbonatado a base de ciertos cereales como la cebada.  Controversial choque de civilizaciones originados en el tipo de ingestas tóxicas, tomadores de vino contra los de cerveza -Nuevo Testamento- alcohólicos adictos al wisky en el centro de la Unión, frente a los fumadores de cannabis centroamericanos. 
 
 > Cerveza, origen y solución a todos mis problemas. --Homero
@@ -227,6 +231,10 @@ Símil del contemporáneo:
 > Pedí champán y dejá de romper las pelotas.  Chica pelotuda.  --Corrige sabiamente la segunda, acentuando vocales y vuelve de la mejor manera posible a la paz de palacio, ese palacio conocido universalmente como sueño.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
+
+**Chocolate**  *Nahuatl xocolatl, color marrón.* Este tóxico se utilizaba en mezoamérica con fines ceremoniales, como todo alucinógeno que se precie, para inducir a los sacerdotes a entrar en comunicación con la divinidad[^100].  En ese entonces era moneda de cambio de la plebe, por su caracter escaso y valioso.  Uno de los mayores aportes de América a la civilización occidental y luego al mundo.  La ingesta del primer gramo produce placer en el indivíduo alcanzando el margen de peligro en el kilogramo, lo que nos da un excesivo margen de seguridad, al contrario de otros tóxicos como el alcohol, en el que ese margen es mucho menor.  El chocolate marrón lleva la mayor proporción de chocolate en sí, mientras que el blanco está compuesto de las grasas del cacáo.  Este último, al ser casi exclusivamente graso cede el sabor original en vavor del suavizante para ropa en todos los supermecados chinos, al lado del pan lactal, la manteca, el wisky a incluso el Fiat Duna estacionado en la vereda. 
+
+[^100]: Es un universal antropológico que en todo rito el chamán o sacerdote accede en exclusivo al tóxico, mientras la feligresía no.  En el ritual católico, solo el sacerdote accede simbólicamente al alcohol, mientras el resto solo come el pan.
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
