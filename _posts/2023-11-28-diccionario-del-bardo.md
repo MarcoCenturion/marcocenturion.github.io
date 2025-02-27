@@ -412,6 +412,10 @@ Ella lo corrige, ojos entrecerrados:
 
 ## E
 
+**Economía**  *Gr.οἰκονομία Oikos casa, nomos regla*.  En principio, la gestión de los bienes de la casa, luego, del estado ciudad. Extraño mundo en el que tomamos capitalismo como sinónimo de economía.  Si nos mantuviéramos fieles a la propuesta original de la palabra, el capitalismo sería el antagónico perfecto a economía.  El hogar perfecto, según esta visión, envenenaría el agua que toma, dilapidaría todos los recursos sin pensar en los hijos, gastaría mas de lo que gana y centraría su bienestar en la piratería de sus vecinos.  Todos conocemos gente así.  La economía surge de trabajadores y capitalistas en pacífica armonía, con el grato aprendizaje de la pandemia, si no hay trabajadores trabajando, no hay economía economizando.  
+
+> Cuando no entendés lo que dicen los economistas, es porque la vas a pasar mal.  --Axel Kicillof.
+
 **Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea.
 
 **Empatar** *Lat. pactare, quedar en paz.*  De allí provienen también pacto, pagar, compacto.  Un empate basa su eficacia en el honor de ambos contendientes y la paz que esto genere.  
