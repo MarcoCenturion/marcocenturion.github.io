@@ -36,6 +36,8 @@ lead_text: 'La lengua usada en __"La Docta"__'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
 
+**Alcalino**  *Ar. Al-qaly, القلوي cenizas calcinadas de plantas*.  Aquellas sales cuyo PH supera el 7 en la escala.  Al combinar cenizas -llamada potasa- carbonato de potasio, al calentar estos con calcio, lograron potasa cáustica.  Los alquimistas árabes lograban hidróxido de calcio y al mesclar estoscon grasas, obtuvieron los primeros jabones, algo desconocido en la Europa medieval, poco amiga de las duchas y el cuidado higiénico.
+
 **Alcohol**  *Ar. Al Kuhul Polvo fino para oscurecer los párpados de ahí a líquidos sublimados*.  El crecimiento demográfico empujó a los alquimistas en la búsqueda de métodos para el almacenamiento de alimentos y bebidas que eviten la corrupción.  El alcohol sirvió en las embarcaciones para reemplazar el agua potable.  Otra hubiera sido la historia del colonialismo europeo sin él.  Ocurre lo mismo con la sal, el azúcar, etc. Lo que en un comienzo fuera un método técnico de conservación de alimentos, deviene en otra cosa.  Según la opinión de los doctos en química y por extraño que suene, el alcohol es una solución.
 
 > Cerveza, origen y solución de todos mis problemas. --Homero Simpsons.
@@ -466,7 +468,7 @@ Ella lo corrige, ojos entrecerrados:
 
 ## F 
 
-**Fa fa fa**  *Sus. Fem*.  Nombre coloquial para aludir vergonzosamente al clorohidrato de cocaína, por caso, los círculos mas exclusivos de la política pública partidaria argentina o clubes de rugby.  Es el nombre elegante, que viene a reemplazar los vulgares merca, merluza, gilada, meresunda, de mucho menor valor estético poético.
+**Fa fa fa**  *Sus. Fem*.  Alusión coloquial para evitar el vergonznte *clorohidrato de cocaína*, utilizado en círculos exclusivos, como la política pública partidaria de derechas, mandos medios empresariales, cuevas financieras o clubes de rugby.  Los usuarios comparten esos entornos, casi con exclusividad.  Es el nombre elegante, que viene a reemplazar los vulgares merca, merluza, gilada o meresunda, de mucho menor vuelo poético demostrado para rimas octosilábicas.
 
 **Falacia** Mentira.  Puede asumirse maldad en la falacia, puesto que está puesta en el discurso para ocultar la verdad, pero damos con casos donde esta es necesaria, como en el amor[^99].  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
 
@@ -1091,6 +1093,9 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 > ¡Roberto, tenés que ser más positivo!
  
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
+
+
+**Potasio**  *Ing. Potashes, Pot = tarro, recipiente, pote y Ashes = cenizas*.  Literalmente un pote de cenizas, por la alcalinidad de las cenizas que utilizaban los alquimistas que buscaban en la materia eso oculto.  La **K** en la tabla periódica se debe a su nombre en árabe Kallium, la planta de la que se extraían esas cenizas, al-kalia, cenizas de plantas, luego alcalino.
 
 **Precio**  *Lat. Pretium*.  Cantidad a pagar por algo.  De allí aprecio, desprecio, justiprecio, menosprecio, sobreprecio.  Las voces pornografía y intérprete, provienen de esta raiz.  Reputación que se ganaba en las *justas*.  Es norma medir interlocutores poniéndole precio a su fidelidad, honradez, etc.  Invencible e inmortal a quien no tiene precio, solo quienes se esfuerzan en encontrar tu precio saben el miedo que sienten por tener uno. 
 
