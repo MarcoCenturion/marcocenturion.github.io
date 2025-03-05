@@ -464,9 +464,13 @@ Ella lo corrige, ojos entrecerrados:
 
 > Es el peine que te llega cuando ya no tenés más pelo --Oscar "Ringo" Bonavena.
 
-## F
+## F 
 
-**Falacia** Mentira.  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
+**Fa fa fa**  *Sus. Fem*.  Nombre coloquial para aludir vergonzosamente al clorohidrato de cocaína, por caso, los círculos mas exclusivos de la política pública partidaria argentina o clubes de rugby.  Es el nombre elegante, que viene a reemplazar los vulgares merca, merluza, gilada, meresunda, de mucho menor valor estético poético.
+
+**Falacia** Mentira.  Puede asumirse maldad en la falacia, puesto que está puesta en el discurso para ocultar la verdad, pero damos con casos donde esta es necesaria, como en el amor[^99].  Utilízase de manera elegante y sonriente frente a un antagonista de pocas luces, que sonreirá también, aún siendo tratado de mentiroso:
+
+[^99]:  Mi corazón una mentira pide.  --Soledad.  Carlos Gardel.
 
 > Temo que su argumento es falaz, mi buen amigo.
 
@@ -478,7 +482,7 @@ Ella lo corrige, ojos entrecerrados:
 
 **Fama**  *Lat. fama y este del Gr. φημί.*  Renombre, celebridad.  De aquí también provienen infame, difamar, afamado, famoso.  Entendemos la fama como la obtenida por proezas del alma, aunque puede lograrse por muy variados motivos.  El pastor Erástrato la alcanzó al incendiar intencionalmente en 356 AC el templo de Artemis en Efeso, habiendo desistido de encontrarla por medios algo mas lícitos.  Los jueces enterados de los motivos del crimen, lo condenaron a que nadie lo nombre en toda la Hélade.  Hoy, después de dos mil quienientos años, seguimos nombrándolo sin recordar uno solo de los nombres de los jueces.  Los cronopios, seres dulces por naturaleza y las esperanzas se cuidan de los famas, quienes a simple vista son predecibles y lógicos, lo que los hace dignos de lástima.  A diario asistimos a famosos de las redes[^79], en las que despliegan una violencia, hombría y lealtad verbal a altos valores, propios de Samurai, pero que llevados a la vida real, migran tan milagrosa como rapidamente a señorita de internado religioso londinense.
 
-[^79]: Los indivíduos famosos de las redes adquieren el título nobiliario de *influencers,* vaya a saber uno en virtud de que capricho de la moda, o debido al triunfo de alguna deidad malévola que se divierte con la estupidez colectiva. 
+[^79]: Los indivíduos famosos de las redes adquieren el título nobiliario de *influencers,* vaya a saber uno en virtud de que capricho de la moda, o debido al triunfo de alguna deidad malévola que se divierte investigando los límites de la estupidez colectiva. 
 
 > Una mañana el ruso Grigori Yakovlevich Perelerman recibe un llamado en su domicilio de Moscú, el interlocutor debe ser el décimo que llama insistiendo en que acepte la **medalla Fields**, el mayor honor al que puede aspirar un matemático en su vida.  Se la ofrecen por haber resuelto en 2010 la conjetura de Poincaré.  No menos honorable y famoso es quien lo llama, Sir algo, un caballero de la reina.  El objetivo de la llamada es rogarle que concurra, reciba la medalla y el dinero.  No es para menos, la conjetura llevaba cien años comiendo cerebros de generaciones completas de matemáticos del mundo.  Después de diez horas de intento de convencerlo, Grigori solo acepta el honor, rechaza viajar y el millón de dólares.  *No quiero estar expuesto como un animal en el zoológico*.  Dice.  Existe un esfuerzo global, generalizado por ridiculizar el accionar de Grigori porque vivimos en tiempos donde todo *pareciera* medible, comprable, cotizable.  Mercantil.  Afortunadamente, muchos sabemos que no es así y compartimos con muchas personas en el mundo ese tan extraño como enorme honor.  
 
@@ -647,7 +651,9 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 [^72]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
 
-**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.  La intuición se presenta de manera natural al indivíduo entrenado en ella.  Prueba de esto es la música, expresión directa de la mas abstracta de las invenciones humanas, la matemática, presente en los tres componentes de la música, ritno, armonía y melodía, excptuando el Reguetón que solo tiene el primero de sus componentes.  La intución susurra al oyente frases posibles, por lo que ciertos opiacios naturales se liberan en el cerebro, fruto del hallazgo estético intuido.  Ninguna otra invención humana logra ese cometido.  La sucesión de acores y ritmos sugiere al yo la aparición de la próxima estrofra musical y la recompensa es la emoción.  Compartir esa emoción produciendo música con pares, supera toda experiencia mística.  La Ilíada da origen a la literatura de occidente.  Sobreviven las palabras de esas *payadas* de los rápsodas, compiladas por el ciego Homero.  Al carecer de notación para la música nos perdemos una de las mayores maravillas del mundo antiguo.  Desconocemos los límites de sus emociones.
+**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que anticipa escalofríos y lágrimas.  Esta puede presentarse de manera natural al indivíduo, solo si fue entrenado en su uso.  Prueba de esto es la música, expresión directa de la mas abstracta y perfecta de las invenciones humanas, la matemática, presente en los tres componentes de aquella: ritno, armonía y melodía.  No hay lugar en esta categorización para el reguetón al solo contar el primero de sus componentes constitutivos[^98].  La intución susurra al oyente frases posibles, por lo que ciertos opiacios naturales se liberan en el cerebro, fruto del hallazgo estético intuido.  Ninguna otra invención humana logra ese cometido.  La sucesión de acores y ritmos sugiere al yo la aparición de la próxima estrofra musical y la recompensa es la emoción.  Compartir esa emoción produciendo música con pares, supera toda experiencia mística.  La Ilíada da origen a la literatura de occidente.  Sobreviven las palabras de esas *payadas* de los rápsodas, compiladas por el ciego Homero.  Al carecer de notación para la música nos perdemos una de las mayores maravillas del mundo antiguo.  Desconocemos los límites de sus emociones.
+
+[^98] El reguetón es a la música lo que la derecha a la política.  --Sisoco García, divinal igual a un Dios.
 
 > La única cosa realmente valiosa es la intuición.  --Albert Einstein
 
