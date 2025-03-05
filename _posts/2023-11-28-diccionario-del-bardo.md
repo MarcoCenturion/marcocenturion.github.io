@@ -647,16 +647,15 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 [^72]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
 
-**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.
+**Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.  La intuición se presenta de manera natural al indivíduo entrenado en ella.  Prueba de esto es la música, expresión directa de la mas abstracta de las invenciones humanas, la matemática, presente en los tres componentes de la música, ritno, armonía y melodía, excptuando el Reguetón que solo tiene el primero de sus componentes.  La intución susurra al oyente frases posibles, por lo que ciertos opiacios naturales se liberan en el cerebro, fruto del hallazgo estético intuido.  Ninguna otra invención humana logra ese cometido.  La sucesión de acores y ritmos sugiere al yo la aparición de la próxima estrofra musical y la recompensa es la emoción.  Compartir esa emoción produciendo música con pares, supera toda experiencia mística.  La Ilíada da origen a la literatura de occidente.  Sobreviven las palabras de esas *payadas* de los rápsodas, compiladas por el ciego Homero.  Al carecer de notación para la música nos perdemos una de las mayores maravillas del mundo antiguo.  Desconocemos los límites de sus emociones.
 
-> ¡Otra tóxica no!  --Oscar Wilde.  La importancia de ser Ernesto.
+> La única cosa realmente valiosa es la intuición.  --Albert Einstein
 
 **Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
 
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
 
 **Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
-
 
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano de la cátedra de Derecho Constitucional que compartía con el rock star televisivo Mariano Grondona.  Aquel tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación tan cordial como bondadosa, para poder dar inicio a la clase:
 
