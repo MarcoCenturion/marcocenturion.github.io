@@ -1295,7 +1295,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 
 > La iglesia es esa insitución que te pide dinero para resolver sus problemas, pero te sugiere oración para resolver los tuyos.
  
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, parecido a un dibujo japones de un hombre de smoking, saludando de manera nipona.  Su habitat es la llanura pampeana, aunque se lo puede observar disfrutando de las playas catarinenses y hasta paulistas.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, ataviado en escala de blancos, negros y grises.  Tanto por su estética esbelta, su monocromía, su elegancia y saludo, nos recuerdan mangas nipones.  Su habitat es la llanura pampeana, aunque merced a su caracter impetuoso, se lo puede observar disfrutando de desde playas catarinenses, hasta incluso paulistas.  Vaya a saber sobre el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
 > Viajando por el mundo en tero.  --Carta de un león a otro.  Chico Novarro, popularizada por Juan Carlos Baglietto y su banda de rosarinos autoacuartelados.
 
