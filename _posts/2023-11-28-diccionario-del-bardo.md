@@ -1295,9 +1295,9 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 
 > La iglesia es esa insitución que te pide dinero para resolver sus problemas, pero te sugiere oración para resolver los tuyos.
  
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, parecido a un dibujo japones de un hombre de smoking, saludando de manera nipona.  Su habitat es la llanura pampeana, aunque se lo ve distribuído hasta entrada la meseta de Brasilia.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, parecido a un dibujo japones de un hombre de smoking, saludando de manera nipona.  Su habitat es la llanura pampeana, aunque se lo puede observar disfrutando de las playas catarinenses y hasta paulistas.  Sabe dios bajo el influjo de que tóxicos, pudo alguien sugerir en una canción: 
 
-> Viajando por el mundo en tero.  --Carta de un león a otro.  Chico Novarro, popularizada por Juan Carlos Baglietto y su banda.
+> Viajando por el mundo en tero.  --Carta de un león a otro.  Chico Novarro, popularizada por Juan Carlos Baglietto y su banda de rosarinos autoacuartelados.
 
 **Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático algo improbable de conseguir, dado que el cuerpo expulsaría el excedente en forma de vómitos, pasados los doscientos gramos.  Al producto de estas dos marcas, le llamamos *margen de seguridad*.  Pareciera, a simple vista, que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^75].
  
