@@ -394,13 +394,13 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
  
 > Se administrará una dragma si el paciente debe solo animarse y pensar bien de sí mismo, el doble si debe delirar y sufrir alucinaciones, el triple si debe quedar permanentemente loco.  Se administrará una dosis cuádruple si debe morir. 
 
-**Dragón** *Mit. Lat. Draco, de ahí también Drácula*  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevo **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta tipo **shot them**:
+**Dragón** *Mit. Lat. Draco, de ahí también Drácula*.  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevos y dudosos **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta del tipo **shot them**:
 
 > En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -El acompaña las palabras con una expresión de incredulidad puesta a prueba.
 
-Ella lo corrige, ojos entrecerrados: 
+Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario, alternativo y labio mordido. 
 
-> ¡Drogones! Boludo. ¡Dro-gones! -Negando con la cabeza, inconfundible signo de *"¿Que hice para merecer esto?"*.
+> ¡Drogones! Boludo. ¡Dro-gones! --Cara de inconfundible estupor y detrñas de las pupilas se advina *"¿Que hice para merecer esto?"*.
 
 **Drama**  *Gr. hacer, yo hago*. La vida es drama, casi exclusivamente, con chispas, atisbos de felicidad.  La comedia toma prestado el motivo y convierte el sufrimiento existencial en risa.  Ya lo anticipara con mejor pluma otro autor.
 
@@ -876,9 +876,9 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Minga**  *Quíchua minka*.  En la Sudamérica prehispánica, existían taréas que solo podían realizarse gracias al esfuerzo colectivo, no solo por la imposibilidad técnica de la labor individual, sino porque el resultado de ese esfuerzo, beneficiaba a toda la comunidad.  Los antropólogos resaltan el caracter de bien común que refuerza el componente anímico de la taréa, por sobre el esfuerzo físico lógico y esperable.  El clásico ejemplo era la ejecución de acequias o canales de riego en la América andina, desértica e inhóspita.  Cincuenta indivíduos se reparten las distancias proporcionales de tierra a trabajar.  Era seguido de un alegre festejo que celebraba el esfuerzo, con algún tóxico facilitador de alegrías.  Tanto el trabajo como la fiesta que le sigue, comparten el nombre de *La Minga*, posiblemente, porque son inseparables.  Todos los indivíduos cuidan del bien común, porque sus ancestros están ahí, porque somos parte del trabajo que hacemos, somos parte de la pachamama en la cosmovisión andina.  Nadie se beneficia del trabajo de otros depositando excedentes en cuentas off shore.  
 
-**Mística**  *Gr. mystikós Misticos, cerrado luego misterioso*.  
+**Mística**  *Gr. mystikós Misticos, cerrado luego misterioso*.  Saberes, nociones o vivencias sagradas, solo accesible a ciertos iniciados. 
 
-> Luis observa embelesado, catatónico a su objeto de adoración, Paco de Lucía tocando entre dos tierras a escasos metros, su sistema nervioso solo es capaz de mantener la respiración.  Nosotros hacemos lo mismo con Luis Salinas cuando toca una zamba bluseada, como si hubiera ocurrido un milagro que se traslada a través de esas ondas sonoras, de un alma a la otra.  La música pareciera ser un misterio matemático que encierra la explicación divina del big bang o de la emoción.
+> Luis observa paralizado, catatónico a su objeto de adoración, Paco de Lucía ejecutando su famosa improvisación *Entre dos Tierras*, grabada originalmente como pista relleno para completar un disco, de un tirón.  A escasos metros, el sistema nervioso autónomo de Luis solo es capaz de mantener la respiración.  Nosotros, me consta, hacemos lo mismo con Luis Salinas al tocar una zamba bluseada, como si un milagro recurrente se trasladara a través de esas ondas sonoras, de un alma a la otra, atemporal e inexplicable.  La música pareciera estar destinada a develar un misterio matemático, que encierra la explicación divina del big bang, o de la emoción, o ambas y nos libera en forma de lágrimas.  La manifestación del caos sería el reguetón.  
 
 **Mito**  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repetirse.  Es por ello que lo repetimos sin tener certeza.  Más que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, preferimos una respuesta tranquilizadora a una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido. 
 
