@@ -102,6 +102,10 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
 
+**Autopsia**  *Gr. Autos uno mismo y ops observar*.  Los misterios mayores de elusis, los iniciados empezaban un ayuno en Atenas, al día siguiente una caminata[^103] hasta Eleusis, allí consumían el ciceón, un trago largo de ingredientes secretos.  Luego danzaban en honor a Deméter y Perséfone, seguido de barra libre.  Una prohibición alcanzaa a los iniciados, quienes violaban esa prohibición se arriesgaban a la muerte o el destierro, aún peor que la pena anterior.  Como en *Fight Club*.  Los iniciados aseguraban tener una vida mas plena.  Pareciera mucho mas interesante que la comunión católica.
+
+[^103]: El cristianismo sincretiza -plagia- esta costumbre en las peregrinaciones.
+
 ## B
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
@@ -871,6 +875,10 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 **Miércoles**  *Lat. Mercurio* El día que honramos a Mercurio.  De este vocablo provienen todas las palabras relacionadas con el comercio, mercancía, mercado.  Freud instaura las reuniones de los miércoles, quien esté en condiciones de ver un verdadero símbolo, siéntase cómodo de hacerlo.
 
 **Minga**  *Quíchua minka*.  En la Sudamérica prehispánica, existían taréas que solo podían realizarse gracias al esfuerzo colectivo, no solo por la imposibilidad técnica de la labor individual, sino porque el resultado de ese esfuerzo, beneficiaba a toda la comunidad.  Los antropólogos resaltan el caracter de bien común que refuerza el componente anímico de la taréa, por sobre el esfuerzo físico lógico y esperable.  El clásico ejemplo era la ejecución de acequias o canales de riego en la América andina, desértica e inhóspita.  Cincuenta indivíduos se reparten las distancias proporcionales de tierra a trabajar.  Era seguido de un alegre festejo que celebraba el esfuerzo, con algún tóxico facilitador de alegrías.  Tanto el trabajo como la fiesta que le sigue, comparten el nombre de *La Minga*, posiblemente, porque son inseparables.  Todos los indivíduos cuidan del bien común, porque sus ancestros están ahí, porque somos parte del trabajo que hacemos, somos parte de la pachamama en la cosmovisión andina.  Nadie se beneficia del trabajo de otros depositando excedentes en cuentas off shore.  
+
+**Mística**  *Gr. mystikós Misticos, cerrado luego misterioso*.  
+
+> Luis observa embelesado, catatónico a su objeto de adoración, Paco de Lucía tocando entre dos tierras a escasos metros, su sistema nervioso solo es capaz de mantener la respiración.  Nosotros hacemos lo mismo con Luis Salinas cuando toca una zamba bluseada, como si hubiera ocurrido un milagro que se traslada a través de esas ondas sonoras, de un alma a la otra.  La música pareciera ser un misterio matemático que encierra la explicación divina del big bang o de la emoción.
 
 **Mito**  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repetirse.  Es por ello que lo repetimos sin tener certeza.  Más que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, preferimos una respuesta tranquilizadora a una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido. 
 
