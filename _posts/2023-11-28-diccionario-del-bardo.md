@@ -1303,7 +1303,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 
 > La iglesia es esa insitución que te pide dinero para resolver sus problemas, pero te sugiere oración para resolver los tuyos.
  
-**Tero** *Sus. Americanismo.*  Ave de mediano porte, ataviado en escala de blancos, negros y grises.  Tanto por su estética esbelta, su monocromía, su elegancia y saludo, nos recuerdan mangas nipones.  Su habitat es la llanura pampeana, aunque merced a su caracter impetuoso, se lo puede observar disfrutando de desde playas catarinenses, hasta incluso paulistas.  Vaya a saber sobre el influjo de que tóxicos, pudo alguien sugerir en una canción: 
+**Tero** *Sus. Americanismo.*  Ave de mediano porte, ataviado en escala de blancos, negros y grises.  Su estética esbelta, su monocromía, su elegancia y respetuoso saludo, nos recuerdan mangas nipones del estilo Miyazaki.  Su habitat es la llanura pampeana, aunque merced a su caracter impetuoso, se lo puede observar disfrutando de desde playas catarinenses, hasta incluso paulistas.  Bajo el influjo de qué clase de tóxicos puede alguien sugerir en una canción: 
 
 > Viajando por el mundo en tero.  --Carta de un león a otro.  Chico Novarro, popularizada por Juan Carlos Baglietto y su banda de rosarinos autoacuartelados.
 
@@ -1311,7 +1311,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
  
 [^75]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando el umbral de peligro de este tóxico lúdico en particular, inyectaron el equivalente a cuarenta dosis de **Cannabis Sativa** en un pastor alemán, que se prestó de buena gana al experimento.  Dado por muerto, después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no estamos en condiciones de asegurar o negar la última frase.
  
-**Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
+**Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Si nos detenemos un segundo en la definición, caeremos inevitablemente en la conclusión que toda vestimenta es disfraz, es  una toma de posición.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
  
 > Cuando muera os suplico, no me obligen a entrar al horno crematorio de traje, no vaya que dios exista y tenga que vagar una eternidad ataviado de sorete, prefiero zunga atigrada, sil vous plais.  --Odiseo Torres, fecundo en ardides.
  
