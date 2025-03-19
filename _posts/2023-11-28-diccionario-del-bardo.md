@@ -789,6 +789,12 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
+**Lengua**  *Lat. lingua*.  Erronemanete creemos que utilizamos una lengua, cuando en realidad, según Jacques Lacan, la lengua se expresa a través nuestro, porque somos parte de una estructura mayor, anterior a nosotros, en la que terminamos encajando.  La lengua utilizada habla de nosotros, por ello es tan importante el cuidado que hacemos, o debemos hacer de ella.
+
+> Dicen que sos complicado para terminar.  --Dice un clítoris a otro.
+
+> Son las malas lenguas.  --Contesta el increpado.
+
 **Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.  ¿O al revés?  O Llamamos a la lenteja por su parecido al lente.
 
 **Ley** *Lat. Lex*  Status quo.  El imperio de la ley es un acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y -a menudo- separa cabezas de troncos de monarcas.  Quiza aludiendo esto es que a menudo las movilizaciones en **Francia**, son acompañadas por guillotinas, simulando carrozas de carnaval, con una bella leyenda tácita:
