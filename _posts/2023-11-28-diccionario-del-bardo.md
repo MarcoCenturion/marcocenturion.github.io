@@ -789,7 +789,11 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
-**Lengua**  *Lat. lingua*.  Concepto polisémico, que alude a uno de los mayores aportes humanos al planeta, el habla y con él, la cultura.  No estoy en condiciones de precisar quien es primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es ocioso.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según Jacques Lacan, la lengua se expresa a través nuestro, porque somos parte de una estructura mayor, anterior a nosotros, en la que terminamos encajando.  La lengua utilizada habla de nosotros, por ello es tan importante el cuidado que hacemos, o debemos hacer de ella.
+**Lengua**  *Lat. lingua*.  Concepto polisémico, que alude a uno de los mayores aportes humanos al planeta, el habla y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo y parirás con dolor[^111].  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente importamte es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua se expresa a través nuestro, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  La lengua utilizada habla de nosotros, por ello es tan importante el cuidado que hacemos, o debemos hacer de ella[^112].
+
+[^111]: Existe una metáfora interensante acerca del pecado original.  Esta sostiene que fué el conocmiento, el tamaño del cerebro hace que la hembra humana sea la única que sufre con el parto.
+
+[^112]: La feliz metáfora de niños en el jardín de infantes, encadenados y cubiertos de vaselina, habla mucho mas del usuario que de los niños, que esperemos, nunca tengan gente así cerca.
 
 > ¿Puede ser que dicen que sos complicado, que te cuesta acabar?  --Dice un clítoris a otro.
 
