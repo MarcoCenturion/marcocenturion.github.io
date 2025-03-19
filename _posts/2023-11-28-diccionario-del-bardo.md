@@ -789,11 +789,11 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
-**Lengua**  *Lat. lingua*.  Erronemanete creemos que utilizamos una lengua, cuando en realidad, según Jacques Lacan, la lengua se expresa a través nuestro, porque somos parte de una estructura mayor, anterior a nosotros, en la que terminamos encajando.  La lengua utilizada habla de nosotros, por ello es tan importante el cuidado que hacemos, o debemos hacer de ella.
+**Lengua**  *Lat. lingua*.  Concepto polisémico, que alude a uno de los mayores aportes humanos al planeta, el habla y con él, la cultura.  No estoy en condiciones de precisar quien es primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es ocioso.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según Jacques Lacan, la lengua se expresa a través nuestro, porque somos parte de una estructura mayor, anterior a nosotros, en la que terminamos encajando.  La lengua utilizada habla de nosotros, por ello es tan importante el cuidado que hacemos, o debemos hacer de ella.
 
-> Dicen que sos complicado para terminar.  --Dice un clítoris a otro.
+> ¿Puede ser que dicen que sos complicado, que te cuesta acabar?  --Dice un clítoris a otro.
 
-> Son las malas lenguas.  --Contesta el increpado.
+> No hagas caso.  Son las malas lenguas.  --Contesta el increpado.
 
 **Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.  ¿O al revés?  O Llamamos a la lenteja por su parecido al lente.
 
@@ -1339,7 +1339,9 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 > ... La evidencia señala posible mamadera fría entre el quinto y octavo mes.  --Correlación entre fascismo y estreñimiento, con falta de amor maternal.  T. Adorno.  Centro Editor de América Latina.
  
 **Uo**  Onomatopeya exclamativa, que agrega -en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza de forma aislada, en pares o tríadas, dependiendo de las necesidades estéticas.
- 
+
+**Usuario**  
+
 > Dale pelado se vino la pachanga, uo uo uo.  --Vilma Palma e Vampiro.  Et. Al.
  
 ## V
