@@ -789,13 +789,13 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
-**Lengua**  *Lat. lingua*.  Concepto polisémico, que alude a uno de los mayores aportes humanos al planeta, el habla y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo y parirás con dolor[^111].  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente importamte es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua se expresa a través nuestro, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  La lengua utilizada habla de nosotros, por ello es tan importante el cuidado que hacemos, o debemos hacer de ella[^112].
+**Lengua**  *Lat. lingua*.  Concepto polisémico, que alude a uno de los mayores aportes humanos al planeta, el habla y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo y parirás con dolor[^111].  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente importamte es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua se expresa a través nuestro, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  Las palabras que utiliza el usuario hablan mas de él que del motivo del habla.  Por ello es que debe guardarse un cuidado similar al gastronómico,  no consumir cualquier verbo debería ser similar a no consumir frituras[^112].  Es menester un soneto diario, no para editar, ni para ser bueno siquiera, solo para que la magia sea.
 
 [^111]: Existe una metáfora interensante acerca del pecado original.  Esta sostiene que fué el conocmiento, el tamaño del cerebro hace que la hembra humana sea la única que sufre con el parto.
 
 [^112]: La feliz metáfora de niños en el jardín de infantes, encadenados y cubiertos de vaselina, habla mucho mas del usuario que de los niños, que esperemos, nunca tengan gente así cerca.
 
-> ¿Puede ser que dicen que sos complicado, que te cuesta acabar?  --Dice un clítoris a otro.
+> Dicen que sos complicado, que te cuesta el orgasmo.  --Dice un clítoris a otro.
 
 > No hagas caso.  Son las malas lenguas.  --Contesta el increpado.
 
@@ -807,7 +807,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Libertad** *Lat. Libertus.*  Una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez, proclives como son a caer en los embrujos de esta ultima.  
 
-**Libertario [a,e]**  *Mit.*  Extraño homínido de características proto-humanas.  Por contradictorio que suene, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual.  Las unicas libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, el par antagónico perfecto de la libertad.  
+**Libertario [a,e]**  *Mit.*  Extraño homínido de características similares a las humanas, solo en la morfología anatómica.  Por contradictorio que suene, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual.  Las libertades que pregonan son las de mercado y portación de armas.  Pugnan por un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  En su endeble sistema de creencias se utilizan frases del tipo *estábamos bien, pero era mentira, ahora estamos mal pero es verdad*, como los pedidos al FMI de dinero que *No significan incrementar la deuda*.
 
 **Libro**  *Lat. liber.*  Liber era la materia de la que se elaboraba el papel, a partir de la corteza de ciertos árboles, y los libros son la materia de la que se elaboran los humanos.  Papel a su vez se origina en papyrus.  La palabra *libro* sugiere algo que nos hace *libres*. 
 
@@ -819,7 +819,9 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 > Como los estadounidenses.
 
-**Llanto**  Primera actividad humana.  Nos recuerda la condición de viviente al ocurrir, por alegría o tristeza.
+**Llanto**  Primera actividad humana.  Nos recuerda la condición de viviente al ocurrir, por alegría o tristeza. 
+
+> Todo mal se cura con agua salada, ya se esta transpiración, lágrimas o agua de mar.  --Acción Poética.
 
 **Llovizna** *Sus.*  La traductora autodidacta *Matilde Horne*, sostenía la existencia de palabras intrínsecamente bellas, su sonido tiene cierta capacidad para producir emoción.  Menciona esta en particular.  El solo sonido de la palabra llovizna es bello.  Matilde había traducido gran parte de la **Ciencia Ficción** anglófona al castellano para la mítica *Editorial Minotauro*, en los *convulsionados setentas*.  De Argentina al mundo hispano.  Emigró a España huyendo del horror de esos setentas.  En los *desdichados noventas*, Minotauro fue vendida a una editorial multinacional europea, como parte de un saqueo mayor.  Entre las traducciones estaban dos de tres **El Señor de los Anillos** de Tolkien.  Por todo concepto le pagan **Mil Euros**.  Termina sus días en un geriátrico sostenido por la generosidad del estado español, al tiempo que la multinacional vende cientos de miles de sus traducciones.      
 
@@ -829,11 +831,11 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de *Banalización del Mal* cuan simple es caer en su embrujo, cuan frecuente seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, las ayer víctimas judías se transforman en victimarios del pueblo palestino[^25].
 
-[^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo [Link](https://es.wikipedia.org/wiki/Hannah_Arendt)
+[^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo [Wikipedia Hannah Arendt](https://es.wikipedia.org/wiki/Hannah_Arendt)
 
 **Malas Palabras**  *Sin. Guarangada, Palabrota*.  Niño con hambre.  Fascista.  Las malas palabras, como la verdad, son las que dictamina el poder, que ejerce una fuerza de manera capilar.  Creo que un ejemplo es suficiente.  La peor de las malas palabras argentinas es **Hijo de puta**.  Habla mal de nuestra sociedad machista, en lugar del insultado.   Aqui una mujer muere cada veinte horas, donde redes de prostíbulos roban niñas para comerciar con ellas, que son pobres, analfabetas, esclavizadas, golpeadas, usadas, ninguneadas por varones.  El verbo es peor que la sociedad que protege a varones jueces y policías que mantienen esas redes, mientras que insulta a las víctimas.  La estupidez y la falta de lectura colaboran en con esa moral pacata del siglo XVIII.  Quien lea el Quijote aprenderá no solo nuevas excelentes malas palabras, sino también el correcto momento de su uso. 
 
-**Mambrú**  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por mueurto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
+**Mambrú**  *Musica Infantil*.  En Inglaterra el buen **John Churchill** duque de Marlborough, sale a combatir contra Francia y por un malentendido lo dan por muerto en la batalla de Malplaquet (1709).  Dándose por cierta la narración de su muerte, se popularizan estrofas de la canción infantil en la que este tal **Mambru** 
 
 > No vuelve para pascuas ni para trinidad.  
 
@@ -893,7 +895,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Mercería** *Sus.*  Comercio minorista especializado en la venta de cosas mersas, esto es, de escaso valor.
 
-**Miércoles**  *Lat. Mercurio* El día que honramos a Mercurio.  De este vocablo provienen todas las palabras relacionadas con el comercio, mercancía, mercado.  Freud instaura las reuniones de los miércoles, quien esté en condiciones de ver un verdadero símbolo, siéntase cómodo de hacerlo.
+**Miércoles**  *Lat. Mercurio* El día que honramos a Mercurio.  De este vocablo provienen todas las palabras relacionadas con el comercio, mercancía, mercado.  Freud instaura las reuniones de los miércoles, quien esté en condiciones de ver un verdadero símbolo, siéntase cómodo de hacerlo.  Un grupo humano conocido como *Jubilados* marchan para reclamar por sus haberes, con los que no alcanzan a la supervivencia, donde agentes del orden los reprimen con sumo cuidado *por su propio bien*.
 
 **Minga**  *Quíchua minka*.  En la Sudamérica prehispánica, existían labores que solo podían realizarse gracias al esfuerzo colectivo, no solo por la imposibilidad técnica de la labor individual, sino porque el resultado de ese esfuerzo, beneficiaba a toda la comunidad.  El resultado, de esa labor colectiva, también es un bien, colectivo y público.  Al parecer, gran parte del éxito del imperio Inca, se basó en este pequeño avance metodológico.  Los antropólogos resaltan el caracter de bien común que refuerza el componente anímico de la taréa, por sobre el esfuerzo físico lógico y esperable.  El clásico ejemplo era la ejecución de acequias o canales de riego en la América andina, desértica e inhóspita.  Cincuenta indivíduos se repartían las distancias alícuotas proporcionales de tierra a trabajar.  El fin del trabajo, era seguido de un alegre festejo, celebración el esfuerzo, con algún tóxico facilitador de alegrías, pero también celebración de seguir estando juntos.  Tanto el trabajo como la fiesta que le seguía, compartían el nombre de *La Minga*, posiblemente por su caracter único e inseparable.  Todos los indivíduos cuidan del bien común, porque sus ancestros están ahí, porque son parte del trabajo que hicieron, parte de la pachamama en la cosmovisión andina.  Nadie se benefició del trabajo de otros, depositando excedentes en cuentas off shore.  
 
