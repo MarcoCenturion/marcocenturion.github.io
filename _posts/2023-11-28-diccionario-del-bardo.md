@@ -1434,6 +1434,10 @@ Esta puntualmente es muy bonita. [^11].
  
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre lleva ísita la frente marchita.
 
+**Voluntad**  *Lat. Voluntas, volo querer, desear*.  Facultad intelectual de quienes deciden y eligen que hacer.  De la raiz común *well* se desprenden el inglés *will* y el alemán *wollen* y *galant* en francés.  De aquí benevolencia, malévolo, involuntario.
+
+> Yo, pronto al sucidio, usuario involuntario de Reguetón.  --Oda mononeuronal.  Odise Torres.
+
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
 
 **Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^41].
