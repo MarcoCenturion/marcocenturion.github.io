@@ -1394,7 +1394,7 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
  
 > La compañía --Respondió el Dragón.
  
-**Vida**  *Biol.*  Antónimo de Muerte.  
+**Vida**  *Biol.*  Antónimo de Muerte.  Eso que se escurre entre los dedos mientras trabajamos en lugares donde no somos reconocidos, a efectos de conseguir dinero y así comprar cosas que no necesitamos, para agradar a gentes que para quienes somos invisibles. 
 
 > Una chispa entre dos nadas --Jorge Luis Borges.
  
@@ -1403,11 +1403,11 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 **Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
 
 > ¿Que hacés los viernes?
-> 
+ 
 > Salgo a tomar unos wiskies.
-> 
+ 
 > ¿Y despues?
-> 
+ 
 > Es Lunes.
 
 **Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio, ya que si bien en 2010 la modificación al código civil habilita el matrimonio entre contrayentes del mismo sexo, persiste la prohibición de casarse sobre los sacerdotes católicos.
@@ -1430,7 +1430,6 @@ Esta puntualmente es muy bonita. [^11].
  
 [^11]:  "I'll give you viscachs on evening."  Paradise Lost.  --John Milton.
  
-**Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar tales adjetivos con las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de contar solamente con ladrones, puesto que con estos, se tiene garantizado un solo tipo penal, los **delitos contra la propiedad**.  La yuta colabora en el agregado del resto de la parte especial del Código Penal.  Completo.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, comercio de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa, ni se agota en un par de renglones.  La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
  
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre lleva ísita la frente marchita.
 
@@ -1455,6 +1454,8 @@ Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pe
 > Yo te explico...
 
 Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
+
+**Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar tales adjetivos con las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de contar solamente con ladrones, puesto que con estos, se tiene garantizado un solo tipo penal, los **delitos contra la propiedad**.  La yuta colabora en el agregado del resto de la parte especial del Código Penal.  Completo.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, comercio de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa, ni se agota en un par de renglones.  La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
 
 ## Z
 
