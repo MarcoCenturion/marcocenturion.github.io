@@ -439,7 +439,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > La envidia es una declaración de inferioridad.  --Napoleón Bonaparte.
 
-**Envido**  Palabra reservada con caracter de conjuro, al igual que **Truco** en el conocido juego de mesa rioplatense.  Su sola mención dispara miradas en todas direcciones, al igual que la envidia, lo que nos inclina a pensar su relación etimológica.
+**Envido**  *Sus. el primero*.  Conjuro que debe expresarse en la primera mano, del conocido juego de mesa rioplatense, de aritmética fácil de entender y difícil de explicar, como todo aquello realmente interesantes de la vida, el amor, la lealtad, el peronismo.  Su sola mención dispara miradas en todas direcciones, al igual que la envidia, lo que nos fuerza a imaginar alguna relación etimológica.  Como supo enseñarnos el sabio chino **Tzun Zu** , la guerra es el *arte del engaño*, el chupino, luego, es un simulacro de *Teg* rioplatense en el que los contendientes nuestran debilidades donde descubren fuerzas, simulan movimientos faciales y distraen con narraciones a los rivales, cambian timbres de voz y tics.  El juego, por lo general, es excusa paracontar historias que intentan distraer al adversario para hacerlo pagar el asado.
 
 **Escalofrío**  Sensación corporal de frío, violenta y repentina, por lo general, acompañada de contracciones musculares.
 
