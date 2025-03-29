@@ -451,7 +451,11 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 **Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las cosas últimas, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos traspasada la muerte.  Controversial es su uso, dado que dependerá de la calidad de su interlocutor sea el uso del término en cuestión de buen o mal gusto.
 
-> La señora de Perez y sus hijas, comunican al público y al clero, que han abierto un taller de chupar pijas, en la calle Santiago del Estero.  --Diccionario Escatológico Argentino.  --Jorge Luis Borges y Adolfo Bioy Casares.
+> La señora de Perez y sus hijas, 
+> comunican al público y al clero, 
+> que han abierto un taller de chupar pijas, 
+> en la calle Santiago del Estero.  
+>   --Diccionario Escatológico Argentino.  --Jorge Luis Borges y Adolfo Bioy Casares.
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Ya que muchos especialistas no son muy listos. 
 
