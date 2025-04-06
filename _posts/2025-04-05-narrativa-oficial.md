@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'La narrativa como un cuento'
+title: 'La política narrada como cuentoi de terror'
 date: 2024-12-05 11:41:34
 categories: apestoso, blog, política
 tags: Cuento, Casciari, Cortazar, Poe, Quiroga.
