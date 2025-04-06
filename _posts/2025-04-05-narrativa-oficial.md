@@ -1,10 +1,10 @@
 ---
 layout: blog
 title: 'La narrativa como un cuento'
-date: 2025-04-05 19:41:34
+date: 2024-12-05 11:41:34
 categories: apestoso, blog, política
 tags: Cuento, Casciari, Cortazar, Poe, Quiroga.
-image: '/images/default.jpg'
+image: '/images/Marco.jpg'
 lead_text: 'El cuento en realidad son dos narraciones superpuestas'
 ---
 
