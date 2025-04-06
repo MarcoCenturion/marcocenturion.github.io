@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'La política narrada como cuentoi de terror'
+title: 'La política narrada como cuento de terror'
 date: 2024-12-05 11:41:34
 categories: apestoso, blog, política
 tags: Cuento, Casciari, Cortazar, Poe, Quiroga.
@@ -10,11 +10,15 @@ lead_text: 'El cuento en realidad son dos narraciones superpuestas'
 
 ## La política como narración
 
-Demoramos bastante en aceptar ser parte de la estructura narrativa, caracteres involuntarios y manipulables de una entramada red de medios, social media, aparatos ideológicos del estado -al decir de Althusser- Nos cuesta creer que nuestro accionar y pensar son manipulados por entes invisibles que moldean nuestros comportamientos a la medida de las necesidades de vender cremas para las hemorroides, ropa deportiva o teléfonos inteligentes.
+Demoramos bastante en aceptar ser personajes secundarios de la estructura narrativa, seres de caracteres involuntarios y manipulables de una entramada red de discursos, medios, social medias y aparatos ideológicos del estado -al decir de Althusser- Nos cuesta creer que nuestro accionar y pensar son manipulados por entes invisibles que moldean nuestros comportamientos a la medida de las necesidades de vender cremas para las hemorroides, ropa deportiva o teléfonos inteligentes.
 
 Observamos a diario seres moviendo dedos sobre pantallas y descubrimos quien es el inteligente.
 
-La realidad es una narración, una ficción que recubre a la realidad real, una especie de cubrepileta o funda protectora.  Entiendo que colaboramos involuntariamente en la producción y viralización de esa funda.  El objeto es mitigar la angustia existencial.  Luego, todo lo que colabore en esa mitigación es bienvenido.  El sistema en su conjunto se beneficia.  El indivíduo posterga el recuerdo de la finitud, mientras que la economía crece vendiendo bienes y servicios, formando la funda protectora.
+> ¿Alguien tiene una respuesta lógica a porqué seguimos bautizando niños, niñas?
+
+> Cumplimos rituales con el solo objeto de pertenecer a la institución mas macrabra de la historia de la humanidad, la iglesia católica.
+
+La realidad es una narración, una ficción que recubre a la realidad a modo de funda protectora.  Supongo para hacerla mas digerible.  Entiendo que colaboramos involuntariamente en la producción y viralización de esa cubierta anti polvo.  El objeto probable es mitigar la angustia existencial.  Luego, todo lo que colabore en esa mitigación, es bienvenido.  El sistema en su conjunto se beneficia.  El indivíduo posterga el recuerdo, la certeza de la finitud, mientras que la economía crece vendiéndole bienes y servicios, un escudo protector marveliano.
 
 Esa narración global, pareciera ser una novela joiceana. 
 
