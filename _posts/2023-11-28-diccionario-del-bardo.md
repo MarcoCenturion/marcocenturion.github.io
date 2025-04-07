@@ -1,14 +1,14 @@
 ---
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
-date: 2023-11-28 19:41:34
-categories: blog
+date: 2025-01-28 19:41:34
+categories: idioma, humor.
 tags: Diccionario, Bestiario
 image: '/images/default.jpg'
-lead_text: 'La lengua usada en __"La Docta"__'
+lead_text: 'La lengua usada en La Docta'
 ---
 
-*Porque utilizamos el idioma como un lugar común sin notar que las palabras, si, incluso ellas, son prolijamente seleccionadas para atravesarnos y repetir, continuar, formar el poder.*  
+*Porque utilizamos el idioma como un lugar común sin notar que las palabras, si, incluso ellas, son prolijamente seleccionadas para atravesarnos y repetir, continuar, formas el poder.*  
 
 ## A
 
