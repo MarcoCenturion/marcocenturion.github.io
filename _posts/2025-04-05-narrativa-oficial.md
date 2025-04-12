@@ -10,7 +10,8 @@ lead_text: 'El cuento en realidad son dos narraciones superpuestas'
 
 ## La política como narración
 
-Demoramos bastante en aceptar ser personajes secundarios de la estructura narrativa, seres de caracteres involuntarios y manipulables de una entramada red de discursos, medios, social medias y aparatos ideológicos del estado -al decir de Althusser- Nos cuesta creer que nuestro accionar y pensar son manipulados por entes invisibles que moldean nuestros comportamientos a la medida de las necesidades de vender cremas para las hemorroides, ropa deportiva o teléfonos inteligentes.
+Posiblemente debido a un exceso de egocentrimo, demoramos aceptar ser personajes secundarios de la estructura narrativa, meros actrores involuntarios y manipulables, de una entramada red de discursos, en capas superpuestas, medios, social medias y aparatos ideológicos del estado -al decir de Althusser- Nos cuesta creer que nuestro accionar y pensar son manipulados por entes invisibles que moldean nuestros comportamientos a la medida de las necesidades de vender cremas para las hemorroides, ropa deportiva o teléfonos inteligentes.
+
 
 Observamos a diario seres moviendo dedos sobre pantallas y descubrimos quien es el inteligente.
 

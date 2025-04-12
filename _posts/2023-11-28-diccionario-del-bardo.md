@@ -12,9 +12,9 @@ lead_text: 'La lengua usada en La Docta'
 
 ## A
 
-**Abeja**  *Lat. apícula, de apis mellifera*.  Mas de veinte mil tipos de abejas hay en el planeta, muchas desconocidas, por eso lo incierto de la cifra final.  Primas hermanas de hormigas y termitas, las abejas son las responsables de la polinización.  Si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos de un siglo.   Si en cambio desaparecieran los homo sappiens, mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
+**Abeja**  *Lat. apícula, de apis mellifera*.  Mas de veinte mil tipos de abejas habitan este planeta, muchas desconocidas aún, de allí el caracter incierto de la cifra final.  Primas hermanas de hormigas y termitas, seres cuya existencia depende de la sociedad que los contiene, las abejas, además, son las responsables de la polinización de las flores, que mejoran de manera simbiótica el medio ambiente.  Cierta doctrina afirma que si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos un par de generaciones, siendo muy optimistas.   Si en cambio desaparecieran los homo sappiens, esa vida mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
 
-[^52]: Amable de amabilidad selectiva, dimos tiempo atrás con una colaboradora de mayorista de turismo a la que sus pares apodaron graciosamente *abeja* por ser chiquitita, rayada y mala.
+[^52]: Amable de amabilidad selectiva, dimos tiempo atrás con una colaboradora de mayorista de turismo a la que sus pares apodaron graciosamente *abeja* por ser pequeñita, gordita, rayada y mala.
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
@@ -523,11 +523,17 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide es literalmente, buena fe.  Deriva de esta **Fiel**, algo en que depositar la Fe.  Ciertos apologistas gnósticos, sugieren el producto de una *conjunción* entre dos notas musicales, **Fa** y **Re**.  Esto nos lleva por decucción simple a la nota **Mi**.  Ergo, la única confianza -FE- que debemos observar es hacia nosotros mismos.
 
-**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Sacar, succionar, mamar, aplicado a la agricultura y a la madre que amamanta un niño y por añadidura, la felicidad que produce ver el crecimiento de estos.  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.  Suele estar encerrada en datalles pequeñísimos y simples, basta observar al infante puesto a elegir entre un juguete carísimo frente a una cucharita y jugar con tierra, lo deslumbrará en el primero, pronto lo abandonará para jugar el resto del día con barro, puesto que el origen del placer no está fuera sino dentro de sí, en lo que pasa por esa imaginación.  Alcanzada la adultez, la felicidad cobra forma de pote de un kilogramo de dulce de leche sin abrir, exista o no la ingesta anterior de faso.
+**Felicidad** *Lat felix felicitas, fertil o fructífero.*  Sacar, succionar, mamar, aplicado a la agricultura y a la madre que amamanta un niño y por añadidura, la felicidad que produce ver el crecimiento de estos.  Ausencia de displacer, según el psicoanálisis, una verdad de perogrullo.  En el Ulises de Joyce un caballo llamado *Copula Felix* gana una carrera.  Suele estar -esta, la felicidad- encerrada en datalles pequeñísimos, absurdos y simples, basta observar al infante puesto a elegir entre un juguete carísimo frente a una cucharita y jugar con tierra, lo deslumbrará en el primero, pronto lo abandonará para jugar el resto del día con barro, puesto que el origen del placer no está fuera sino dentro de sí, en lo que pasa por esa imaginación.  Alcanzada la adultez, la felicidad muta y cobra distintas formas, gol de San Lorenzo, la ausencia temporal de regetones o descubrir en la alacena un pote de un kilogramo de dulce de leche Manfrey sin abrir, exista o no la ingesta previa de marihuana.
 
 > En el mundo actual, todas las ideas de felicidad acaban en una tienda.  --Zygmund Bauman.
 
 > Haz feliz a otros, aunque sean enemigos, la gente feliz no rompe las pelotas.  --Levítico 11-1. Sobre las impurezas. 
+
+> ¡Mamá!  --Grita la hija al abrir el regalo de cumpleaños.  Me compraste un juguete sexual.
+
+> Me pediste un *palito para ser feliz*  --Se justifica la madre ojos enormes.
+
+> ¡Te pedí un **Palito para selfie** mamá!  --Corrige la hija, mano abierta tapándose el rostro.
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
