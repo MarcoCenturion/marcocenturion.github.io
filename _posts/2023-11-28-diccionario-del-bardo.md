@@ -1459,6 +1459,8 @@ Esta puntualmente es muy bonita. [^11].
 
 ## Y
 
+**Yapa**  *Quechua regalo*.   En la América Andina, el verbo yapar significa(ba) agregar, adicionar un extra al arreglo comercial.  Luego el sustantivo se convierete en *La Yapa* femenino.  Propina o excedente que el almacenero agregaba por fuera de lo pactado.  En otros tiempos y otros formatos sociales, dar mas de lo que se recibe, es un cohagulante social difícil de transcribir en palabras del siglo XXI.
+
 **Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el **Superyó** y el **Ello**.  Al asumir su inmortalidad, quita protagonismo por completo a los otros actores, mucho más interesantes en términos del drama.  Ríos de tinta han corrido sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
 
 > Yo, O sea, Nada.  A ver, o sea.  Tal cual.  Yo, o sea.  Re no dá.  O sea, yo.
