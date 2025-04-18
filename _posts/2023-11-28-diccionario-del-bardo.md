@@ -2,9 +2,9 @@
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2025-01-28 19:41:34
-categories: idioma, humor.
+categories: idioma, humor, blog.
 tags: Diccionario, Bestiario, Lengua, Historia
-image: '/images/dic.jpg'
+image: '/images/dic.png'
 lead_text: 'La lengua usada en La Docta'
 ---
 
