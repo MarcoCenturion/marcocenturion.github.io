@@ -90,11 +90,13 @@ Luego de una ligera pausa agrega:
 
 > Ningún artista tolera la realidad  --Friedrich Niesztche.
 
-> Nunca te burles de tus padres por no adaptarse a la tecnología, recuerda que ellos te enseñaron a manejar la cuchara.
+> No te burles de tus padres por sus magros procesos al adaptarse a la tecnología, recuerda siempre que ellos te enseñaron a utilizar la cuchara y la pelela.
 
-Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* recuerda a su abuelo, pero no a la persona sino a todas las cosas que perdio el mundo con su muerte.
+Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* de Bradbury, recuerda a su abuelo, no a la persona, sino a todas las cosas que perdio el mundo, al vacío que deja con su muerte.
 
 >  ... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on.  --Ray Bradbury.
+
+En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mundos maravillosos, nos recuerdan el derecho irrenunciable a imaginar.
 
 **Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
