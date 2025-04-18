@@ -110,7 +110,7 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
 
-**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo **Quilombo**, de origen africano, sin arribar a conclusiones serias.
+**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo *Quilombo*, de origen africano, sin arribar a conclusiones serias.
 
 **Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos* también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses. 
 
