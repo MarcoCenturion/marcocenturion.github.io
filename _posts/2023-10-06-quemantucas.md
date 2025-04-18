@@ -14,9 +14,9 @@ Altivos y valientes marchan los últimos hombres del general **Jürgen Slamastik
 
 Merma la soldadesca de forma alarmante, producto de la última hambruna.
 
-Algún sector la atribuyó a una audaz iniciativa oficial, orientada a reducir el peso corporal promedio de la tropa, cuando en realidad todo parece indicar que fue una **grave desinteligencia logística**.
+Cierto sector vió ahí una audaz iniciativa oficial orientada a reducir el peso corporal promedio de la tropa, cuando en realidad todo parece indicar que fue una **grave desinteligencia logística**.
 
-La locura, la envidia malogran la moral de la tropa.
+La insanía, la pocombría, la megalomanía, los programas de Badía, menoscaban la moral de la tropa.
 
 Detalles nimios -al vulgo- son motivo de **berrinche histérico** de parte de la soldadesca. 
 
