@@ -104,9 +104,7 @@ En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mu
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
 
-**Autopsia**  *Gr. Autos uno mismo y ops observar*.  Los misterios mayores de elusis, los iniciados empezaban un ayuno en Atenas, al día siguiente una caminata[^103] hasta Eleusis, allí consumían el ciceón, un trago largo de ingredientes secretos.  Luego danzaban en honor a Deméter y Perséfone, seguido de barra libre.  Una prohibición alcanzaa a los iniciados, quienes violaban esa prohibición se arriesgaban a la muerte o el destierro, aún peor que la pena anterior.  Como en *Fight Club*.  Los iniciados aseguraban tener una vida mas plena.  Pareciera mucho mas interesante que la comunión católica.
-
-[^103]: El cristianismo sincretiza -plagia- esta costumbre en las peregrinaciones.
+**Autopsia**  *Gr. Autos uno mismo y ops observar*.  Sinónimo, tal vez, de introspección.  En los **misterios mayores Elusinos**, los iniciados comenzaban con un ayuno en Atenas, al día siguiente una caminata hasta la vecina Eleusis, distante unos 40 km.  Allí consumían el ciceón, un trago largo compuesto de ingredientes secretos.  Mas tarde llegaba ese *tutor amigable*, que se recomienda en estos casos con el cotillón, para dar comienzo al carnaval carioca en honor a Deméter y Perséfone, acompañado de barra libre.  Una prohibición muy importante alcanza a esos iniciados.  Quienes la violaban se arriesgaban a la muerte o el destierro, aún peor que la pena anterior.  Como en *Fight Club*, solo que mas efectiva, puesto que llega muy poca infomación a la actualidad.  Los iniciados aseguraban tener una vida mas plena.  El sincretismo católico plagia la marcha, troca la denominación por **peregrinación** y elimina paulatinamente todo vestigio de alegría.  En el siglo VI se prohiben definitivamente, por las faltas al decoro.
 
 ## B
 
