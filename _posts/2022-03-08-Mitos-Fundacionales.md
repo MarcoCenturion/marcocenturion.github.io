@@ -1,10 +1,10 @@
 ---
 layout: blog
 title: 'Peronismo asintomático'
-date: 2024-09-26 19:41:34
+date: 2024-10-26 19:41:34
 categories: blog
 tags: Peronismo, Dolina, Shakespeare, Leonardo Fabio, Cristina, Nestor
-image: '/images/default.jpg'
+image: '/images/per.png'
 lead_text: 'Mitos, leyendas, apostasías y otras delicias de esta corriente de pensamiento nacional y popular.'
 ---
 
