@@ -4,7 +4,7 @@ title: 'Los Argonautas'
 date: 2022-03-26 19:41:34
 categories: blog
 tags: Linux
-image: '/images/default.jpg'
+image: '/images/Jason.jpg'
 lead_text: 'Los viajes y el sino de gloria.'
 ---
 
