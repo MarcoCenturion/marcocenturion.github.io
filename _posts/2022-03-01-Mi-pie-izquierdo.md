@@ -52,13 +52,15 @@ que le faltaba la **sandalia derecha**.  Mirá que hay que ser retorcido para ma
 Que le costaba mandarle datos mas concretos.  Cada email de la pitonisa es un rompecabezas, lo que nos lleva a suponer consumos tóxicos poco "caretas".
 
 ## Mi pie Izquierdo
+
 La historia se pone interesante justo aquí, ya que los historiadores deducen de ese hecho un comportamiento que trasciende esta historia hasta nuestros días.
 
 Supone Tucídides que Jasón era un guerrero, puesto que solo los guerreros iban *"calzados"* de un solo pié.  Esta particularidad demostraría que era una especia de Rambo de la época.  
 
-Los guerreros etolios y luego los plateos en las guerras del peloponeso, adoptaron este comportamiento de combate en terrenos planos, ya que el pie izquierdo -el que porta el escudo- se apoya en el barro para afirmarse, dejando el brazo derecho -el que lleva el arma- y la pierna izquierda para agredir al enemigo.  Suponemos llúvias, barro y enfrentamientos de infanterías ligeras de ropas.
+Los guerreros etolios y luego los plateos en las guerras del peloponeso, adoptaron este comportamiento de combate en terrenos planos, ya que el pie izquierdo -el que porta el escudo- se apoya en el barro para afirmarse, dejando el brazo derecho -el que lleva el arma- y la pierna derecha para agredir al enemigo.  Suponemos llúvias, barro y enfrentamientos de infanterías ligeras de ropas.
 
 ## Los emails del señor
+
 El **pensamiento mágico** trata de encontrar -y encuentra de hecho- relaciones entre **hechos inconexos**, como por ejemplo destripar un ave y esperar un mensaje divino para una batalla, o rezar un rosario para rendir una materia, por caso __"historia de la Grecia antigua"__
 
 El capítulo Numérico del antiguo testamento es hermoso en este aspecto, y lo que los cabalistas judíos posteriores hacen de esto, más aun.  Luego, asistimos a infinidad de cálculos del tipo: 
