@@ -1,10 +1,10 @@
 ---
 layout: blog
 title: 'El asedio final a la amurallada fortaleza de los quemantucas'
-date: 2023-10-06 19:41:34
+date: 2024-10-02 19:41:34
 categories: blog
 tags: Paradoja, Inteligencia Militar.
-image: '/images/default.jpg'
+image: '/images/soldadezca.jpg'
 lead_text: 'Inteligencia militar, un contrasentido interesante.'
 ---
 
@@ -14,21 +14,21 @@ Altivos y valientes marchan los últimos hombres del general **Jürgen Slamastik
 
 Merma la soldadesca de forma alarmante, producto de la última hambruna.
 
-Cierto sector vió ahí una audaz iniciativa oficial orientada a reducir el peso corporal promedio de la tropa, cuando en realidad todo parece indicar que fue una **grave desinteligencia logística**.
+Mientras un sector adivinó una audaz iniciativa oficial, orientada a reducir el peso corporal promedio de la tropa, el antagonista descubrió la realidad una **grave desinteligencia logística**.  Cosas que pasan.
 
-La insanía, la pocombría, la megalomanía, los programas de Badía, menoscaban la moral de la tropa.
+La insanía, la pocombría, la megalomanía, los programas de Badía, socaban la moral de la tropa.
 
 Detalles nimios -al vulgo- son motivo de **berrinche histérico** de parte de la soldadesca. 
 
-Cuando no son los entallados uniformes del enemigo, lo es el corte de las calzas, que ofenden el intelecto y la hombría del General.
+Ni bien termina la queja envidiosa por los entallados uniformes del enemigo, comienza el *susurro de pasillo* por el corte de las calzas, o el levantamiento de ojos por el color de los subfusiles que ofenden el intelecto y la hombría del General.
+
+> ¿Porqué siempre Negros? --Aclara la voz un mando medio, *thiking out of the box*.  
 
 > Como se nota que el enemigo tiene gente que se preocupa **De verdad** en sus soldados. 
 
 Alza la voz un subalterno ojeando un **Especial Vogue** sobre moda militar.
 
-> Ese pañuelo rosa chicle, realza el durazno de las botas 
-
-Responde otro levantando el cuello y simulando un pañuelo con círculos concentricos sobre los hombros.
+> Ese pañuelo rosa chicle, realza el durazno de las botas.   --Apunta el índice demasiado arqueado otro sobre la hoja, estirando el cuello y simulando un pañuelo con círculos concentricos sobre los hombros.
 
 No menos nocivos son el *Netflix* o el *Candycrush*, distraedores de los buenos hombres haciendo guardia.
 
