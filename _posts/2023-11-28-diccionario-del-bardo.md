@@ -1446,6 +1446,10 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 
 **Virgósfera**  *Geogr. porción del globo habitada por los seres del punto anterior*.  Término de cuño reciente.  Llamamos así a los sitios de predilección, locales de comidas rápidas donde se los observa en su hábitat, realizar su actividad favorita, fotografiarse o filmarse y subirlo a las redes, si y solo si, los filtros corresponden a un iphone.
 
+**Vista**  *It. Vedere del Lat. videre, lo que se vé*.  Entendemos por vista, eso que creemos que vemos a *Ojo desnudo* pero nunca el ojo está completamente desnudo, ya que las cosas son del color del *cristal con que se mira*.  
+
+> En los ochentas, deambulaba la avenida Valparaiso entre Barrio Jardín e Iponá, en Córdoba un señor de aspecto triste, que el Guille había apodado el **Cantor de los cien barrios porteños**.  Siempre de traje y una guitarra muy vieja y *desafinada*.  La perspectiva del actor nos entregaba esa imagen visual y sonora.  El huevón Aballay, que sabía mucho de música, nos dijo un día, como si se tratara de una revelación:  *No está desafinada.  Está afinada una octava mas abajo y el canta bajo también*.  Con el tiempo descubrimos que tanto el traje como la tristeza, solo eran aparentes, errores de nuestra percepción.  El traje estaba arrugado y al parecer su vida también, pero no era un hombre triste, era nuestro torpe sistema de visión.
+
 **Vizcacha** *Amer. Quichua.*  Uiscacha.  Este pequeño animal de las pampas ha dado motivos sobrados a la literatura.  Conocidas son las enseñanzas del viejo malvado de la Vuelta de Martín Fierro:  
  
 > *Hacete amigo del juez, no le des de que quejarse, pues siempre es bueno tener, palenque ande ir a rascarse.*

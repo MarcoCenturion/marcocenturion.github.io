@@ -4,7 +4,7 @@ title: 'Los Arquetipos'
 date: 2022-04-08 19:41:34
 categories: blog
 tags: Linux
-image: '/images/default.jpg'
+image: '/images/chedie.jpg'
 lead_text: 'El origen de la cultura occidental.'
 ---
 
@@ -14,7 +14,9 @@ lead_text: 'El origen de la cultura occidental.'
 
 Los que habitamos el lado occidental del globo, aceptamos como valedera la historia que da nacimiento a nuestra cultura, allá muchos miles de años antes del nacimiento de un palestino de barba y pelo largo que vino a cambiar el mundo.
 
-Por convención aceptamos que entre *siete y diez mil años* antes del nacimiento de ese lider revolucionario que en honor a la brevedad llamaremos solo **Cristo**; en medio del Mediterraneo, mas precisamente en la isla de Creta, los minoicos mandaron construir un laberinto para encerrar un monstruo que amenazaba su civilización. El **Minotauro**, producto de amores bestiales de esos dioses malvados. Mitad bestia, mitad humano.  Minoicos, minotauro y su rey Minos, parecieran dar nombre a todo.  
+Por convención aceptamos que entre *siete y diez mil años* antes del nacimiento de ese lider revolucionario que en honor a la brevedad llamaremos solo **Cristo**; en medio del Mediterraneo, mas precisamente en la isla de Creta, los minoicos mandaron construir un laberinto para encerrar un monstruo que amenazaba su civilización. El **Minotauro**, producto de amores bestiales de esos dioses malvados. Mitad bestia, mitad humano.  Minoicos, minotauro y su rey Minos, parecieran dar nombre a todo. 
+
+![Pocho](/imagenes/pocho.jpg)
 
 Porque bien sabemos, amigos, amigas, las cosas son, realmente son, solo a partir de ser nombradas.
 
@@ -53,6 +55,8 @@ Parece que no tenemos elección de elegir ser algo muy distinto de aquello para 
 A eso se deba posiblemente su candidez, su bondad, su particular manera de darse a la vida.  Parecieran vivir mucho mas intensamente que sus pares, dependientes de comercio o bancarios, por solo citar dos ejemplos gremiales a la vista.
 
 El único que sabía de antemano que iba a morir de forma violenta por la paz del mundo era Cristo.  Yo particularmente opino que esto es parte de la historia que después narran de él sus cronistas.
+
+![Che Diego](/imagenes/chedie.jpg)
 
 Ni el **Che Guevara**, ni **Carlos Fuentealba**, ni **Maximiliano Kosteki**, ni **Darío Santillán**, ni **Mariano Ferreyra**, ni **Pocho Leprati**, ni el nuevo **Santiago Maldonado**, sospecharon que son la cíclica y eterna rencarnación de ese **Teseo**, que vuelve a camuflarse de hombre a este planeta, con el resto de los mortales, a entregarse a la pasión, morir en manos del monstruo, sacrificando su vida para que cambien algunas cositas mínimas, para que nada cambie.  Y solo estoy citando los casos de las últimas experiencias neoliberales.
 
