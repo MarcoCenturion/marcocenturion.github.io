@@ -1472,9 +1472,13 @@ Esta puntualmente es muy bonita. [^11].
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
 
-**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*[^41].
+**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*.
 
-[^41]:  Ya lo sugirió el poeta con pluma mucho más hábil:  "Falopas duras en tipos blandos, ahuecan corazones."
+>  Falopas duras en tipos blandos, ahuecan corazones. --Carlos Solari.
+  
+**Vulgar**  *Lat. Vulgus, vulgaris*.  Llamamos *Vulgata* a la versión de la Biblia, encargada por Jerónimo, para ser entendida por el *vulgo*, conocidos posteriormente como *la plebe*, llegando a nuestros días como *la gilada*.  Las versiones originales de la Biblia estaban escritas en latín, traducción directa del griego en que fuera escrita, por los evangelistas, analfabetos que hablaban arameo, para refutar a quienes sostienen que la ciencia ficción dió inicio en la Inglaterra posterior a la novela gótica.  La invención de la imprenta de parte del alemán Guttemberg, obligó a cierta homologación o estandarización, de este corpus, que operara durante varios cientos de años a modo de código penal.  Al estar este en un idioma inentendible, era bastante propenso a parecerse a los castigos que necesitaba el poder de turno.  Este error se ve corregido durante la Ilustración, hasta llegar a la actualidad donde... Nada.  Sigan con lo que estaban.
+
+> La esclavitud, el apartheid, el racismo, las cruzadas, el bombardeo a Plaza de Mayo y el reguetón, no son vulgares.  El lujo es vulgaridad, dijo y me conquistó.  --Carlos Solari.
 
 ## Y
 
