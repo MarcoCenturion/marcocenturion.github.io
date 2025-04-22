@@ -348,9 +348,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > When stupidity is considered patriotism, it is unsafe to be intelligent.  Existe un culto a la ignorancia, la presión del anti intelectualismo ha ido abriéndose paso a través de nuestra vida política y cultural, alimentando la falsa noción de que la democracia significa que mi ignoracia es tan válida como tu conocimiento.  ―Issac Asimov. 
 
-**Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**[^81].
+**Demodé**  Por algún extraño motivo, el cambio de una sola letra en la palabra, lo convierte en exactamente lo opuesto a **De moda**.
 
-[^81]: Ocurre lo mismo con la frase *viento en popa,* que es exactamente lo opuesto a *viento en papo*.
+> Ocurre lo mismo con la frase *viento en popa,* que es exactamente lo opuesto a *viento en papo*.
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
