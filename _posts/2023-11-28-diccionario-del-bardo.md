@@ -1405,7 +1405,7 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
 
 [^50]: "Con la verdad no ofendo ni temo"  -Sugiere el escudo que manda bordar José Gervasio Artigas.  Otras versiones dicen que la palabra elegida fue Libertad.
  
-**Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título es poder soltar sin esfuerzo un: 
+**Vejez** *Lat. Vetus*.  De allí *Vetusto*. Estado volitivo de la vida que acostumbramos confundir con la senectud.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual. **Eg**. Abandonar libros por la mitad, evitar ciertas ingestas, apagar el televisor ante series con excesiva prensa, evitar la intimidad de quién no sume.  El último de los aprendizajes para aquirir este título, consiste en un ejercicio diario, cuyo objeto convencer al yo de dar por finalizadas las discusiones, sin que se altere el ritmo cardíaco, con la frase  
  
 > ¡Tenés razón! 
  
