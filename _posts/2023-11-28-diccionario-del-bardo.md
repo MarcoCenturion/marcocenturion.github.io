@@ -112,7 +112,7 @@ En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mu
 
 > Cristo Vence, pague en término.
 
-**Azar**  *Ar. zahr, dado*.  Como en el juego de los dados, resultado casual, fortuito, el fonema viaja casi intacto del árabe al español sin mayores contratiempos.  Borges ejercita una ficción en las fronteras de la locura, imaginando una *Lotería en Babilonia* donde hay mucho mas en juego que solo dinero.  Festejando o tal vez homenajeando esa locura, un polaco hace un libro compuestos de prólogos a libros inexistentes.  En uno de estos prólogos un filósofo inexistente teoriza sobre la probabilidad.  El azar, en definitiva. 
+**Azar**  *Ar. زهر zahr, dado*.  Como en el juego de los dados, resultado casual, fortuito, el fonema viaja casi intacto del árabe al español sin mayores contratiempos.  Borges ejercita una ficción en las fronteras de la locura, imaginando una *Lotería en Babilonia* donde hay mucho mas en juego que solo dinero.  Festejando o tal vez homenajeando esa locura, un polaco hace un libro compuestos de prólogos a libros inexistentes.  En uno de estos prólogos un filósofo inexistente teoriza sobre la probabilidad.  El azar, en definitiva. 
 
 > Pero todos comprenden que incidentes tales como el choque en el aire de las balas de dos duelistas, romperse un diente comiendo pescado, al morder un anillo que uno había perdido en el mar hace seis años y que el pez había tragado, o bien la ejecución al compás de 3/4 de la sonatina en si menor de Tchaikovski por la metralla de una granada que estallara e un almacén de enseres de cocina, acertando a dar en ollas y cazuelas de distintos tamaños justo como la obra lo exige... --Imposibilitate Vitae.  Vacío Perfecto.  Stanislaw Lem.
 
