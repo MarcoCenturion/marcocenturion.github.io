@@ -112,6 +112,10 @@ En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mu
 
 > Cristo Vence, pague en término.
 
+**Azar**  *Ar. zahr, dado*.  Como en el juego de los dados, resultado casual, fortuito, el fonema viaja casi intacto del árabe al español sin mayores contratiempos.  Borges ejercita una ficción en las fronteras de la locura, imaginando una *Lotería en Babilonia* donde hay mucho mas en juego que solo dinero.  Festejando o tal vez homenajeando esa locura, un polaco hace un libro compuestos de prólogos a libros inexistentes.  No por nada una de las imágenes mas interesantes del infierno es el vacío.
+
+> Pero todos comprenden que incidentes tales como el choque en el aire de las balas de dos duelistas, romperse un diente comiendo pescado, al morder un anillo que uno había perdido en el mar hace seis años y que el pez había tragado, o bien la ejecución al compás de 3/4 de la sonatina en si menor de Tchaikovski por la metralla de una granada que estallara e un almacén de enseres de cocina, acertando a dar en ollas y cazuelas de distintos tamaños justo como la obra lo exige... --Imposibilitate Vitae.  Vacío Perfecto.  Stanislaw Lem.
+
 ## B
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
@@ -901,6 +905,12 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Masa**  *Gr. μᾶζα*.   Pastel de cebada.  Sustantivo comodín utilizado tanto para aludir al pan, como a un martillo grande, como para la magnitud física de cantidad de materia.  Quizá el significado mas interesante venga dado por las ciencias sociales, para designar un grupo humano que confunde o unifica sus pasiones, de fáci o totaltamente sugestionable, cese del espíritu crítico.  El mayor de los elementos de esta *masa sociológica* es el contagio emocional, imitación, sentimiento de omnipotencia y anonimato personal.  Estas características pueden explicar en gran medida la realidad de las primeras decenas del siglo XXI.
 
+**Mascota**  *Fr. Mascotte, amuleto*.  Animales que conviven con el Homo Sappiens Sappiens desde la edad de piedra, que por su condición de cercanía se salvan de servir de alimento.  No en todos los casos.  Una función importante fue ser la infantería en los hogares de la campiña, al ser estos los primeros en *saltar la bronca*.  Otra de las miles de funciones simular cariño hacia sus parientes humanos, incapaces estos últimos, por lo general, de recibirlo de otros humanos.  Una brillante ocurrencia de la iglesia durante el medioevo, sugirió que los gatos eran enviados del mismísimo Satanás, por lo que se procedió a su persecusión y muerte, privilegio compartido con mujeres contestatarias.  Esto desencadenó la multiplicación indiscriminadas de ratas en toda Europa, precursoras de la Peste Negra.   
+
+> ¿Cual es tu animal preferido abuelo?  --Preguntó la nieta de cinco años inocente.
+
+> La vaca, o el chanchoa.  Algunas partes puntuales.  A la parrilla.  --Respondió el venerable anciano, mientras desarrollaba la anacrónica actividad del lustrado de zapatos.
+
 **Masón**  *Fr. maçon y este del germánico makon, hacedor*.  De allí a los albañiles.  Originalmente organizaciones de ayuda mútua de obreros, proto gremios, posiblemente a esto deban su mala reputación y el general **José de San Martín** descanse fuera de *tierra sagrada*.  Pasada su etapa mitológica, estas organizaciones son las responsables de la liberación de toda América, desde los cincinatti[^36] en los primeros estados de la unión, hasta la logia Lautaro en el Virreinato del Río de la Plata.  Al darse estas independencia fuera de la época del marketing político, explica en parte la ausencia de los esperables libertad, progreso, patria o esos símiles **AFJP**.
 
 [^36]: En honor al general romano Lucio Quincio Cincinatto.  El mito narra que Cincinato estaba retirado de la milicia descreído de la política, labrando la tierra de su granja, cruzando el Tiber.  Los enviados del Senado le ruegan tome el mando del ejército, para frenar el avance de los voscos y eucos.  Le otorgan el título de Dictador.  En dieciseis días triunfa en la batalla, renuncia a todos los honores y vuelve a tomar el arado donde lo había dejado.  Su nombre pasa a ser sinónimo de rectitud, honradez y valentía.  Agrega a esto una frugalidad rústica y poner los intereses del pueblo por encima de los propios.  La logia de los primeros revolucionarios de Estados Unidos lleva el nombre de los Cincinnati, laicos y honorables, producto de ello es su constitución y emniendas.  Después vino lo otro.
@@ -1375,9 +1385,9 @@ A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a c
  
 **Uo**  Onomatopeya exclamativa, que agrega -en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza de forma aislada, en pares o tríadas, dependiendo de las necesidades estéticas.
 
-**Usuario**  
-
 > Dale pelado se vino la pachanga, uo uo uo.  --Vilma Palma e Vampiro.  Et. Al.
+
+**Usuario**  
  
 ## V
 
