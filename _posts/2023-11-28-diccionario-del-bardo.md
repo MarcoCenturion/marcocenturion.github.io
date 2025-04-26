@@ -98,7 +98,7 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mundos maravillosos, nos recuerdan el derecho irrenunciable a imaginar.
 
-**Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
+**Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por simpleza narrativa o simple caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
 **Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de **siglo XX**, al tiemp que se llevaban adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
