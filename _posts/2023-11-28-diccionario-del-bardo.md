@@ -46,13 +46,13 @@ lead_text: 'La lengua usada en La Docta'
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
-**Alien**  *Lat. otro, iura in res aliena, derechos sobre las cosas ajenas*.  Concepto acuñado durante uno de los imperios mas importantes del mundo antiguo.  Los nuevos imperios tecnológicos *corren el arco* y obligan a la población mundial a hablar recursiva y periódicamente acerca de aliens, ovnis e invasiones terroríficas.  El foco se pone en curiosas formas de vida provenientes de otras galaxias, distrayéndolos así del verdadero problema, el terror sembrado por acumuladores de riquezas, quienes son formas de vida que poco tienen en común con los trabajadores, que viven una vida *alienada* al decir de Hegel y posteriormente su sucesor, Karl Marx.  En los ensayos de este último, la alienación se cumple cuando el trabajador produce bienes y servicios que no alcanza a disfrutar.  
+**Alien**  *Lat. otro, iura in res aliena, derechos sobre las cosas ajenas*.  Sustantivo imaginado durante uno de los imperios mas importantes del mundo antiguo para referirse a los otros.  Los nuevos imperios tecnológicos *corren el arco* y obligan a la población mundial a hablar recursiva y periódicamente acerca de aliens, ovnis e invasiones terroríficas y hasta cosas mas horrorosas, como el reguetón.  El foco se pone en *curiosas formas de vida* provenientes de otras galaxias, distrayéndolos así del verdadero problema, el terror sembrado por acumuladores de riquezas, *curiosas formas de vida* proto humanas, que comparten ADN con otros homo sappiens sappiens, los trabajadores.  Estos últimos viven de manera  *alienada*, al decir de Hegel y posteriormente su sucesor, Karl Marx.  En los ensayos de este último, la alienación se cumple cuando el trabajador produce bienes y servicios que no alcanzan a disfrutar.  
 
-> La macdonalización del trabajo consiste en convencer a los asalariados que refutan la maxima de no disfrutar lo que producen, porque comen todos los días ahí.  --De imposibilitate vivere.  Odiseo Torres.  Op. Cit.
+> La macdonalización del trabajo hizo que los asalariados sueñen que disfrutan lo que producen, porque comen todos los días ahí.  --De imposibilitate vivere.  Odiseo Torres.  Op. Cit.
 
-> No olvides que eres lo mas importante para esta cía.  --Resaltaba la calco con el logo azul y rojo de la cía aérea en el espejo del baño de la cía aérea.  Igual que la nube de pines que llevan orugllosos el resto de los *colaboradores*.  
+> No olvides que eres lo mas importante para esta cía.  --Resaltaba la calco en letras juveniles, con el logo azul y rojo, en el espejo del baño de la cía aérea.  El mismo logo de la nube de pines que muestran orugllosos *colaboradores* donde quepa un lugar para ponerlo.  
 
-> Por eso cobro USD8 la hora.  --Arriesgaba una respuesta en *rouge*, con la caligrafía puntual de una *colaboradora,* que demoró poco en probar nuevos horizontes.
+> Por eso cobro cinco dólares la hora.  --Arriesgaba una respuesta en *rouge*, similar al del logo, con la caligrafía puntual de una *colaboradora,* que demoró poco en probar nuevos horizontes.  La lucha siempre es colectiva.
 
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte, luego aquello que vence la muerte.  Literalmente inmortal. 
 
@@ -1239,7 +1239,9 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 > Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
  
 > Si quieres decir una verdad hazlos reir, de lo contrario te matarán.  --Oscar Wilde.
- 
+
+**Rico**  Riqueza, del gótico *reiks* y este aparentemente del sánscrito *rajan*.  Por como se desarrolla y evoluciona el vocablo, entendemos que rico es anterior a riqueza.  Copioso, exuberante, mucho, exceso, etc.  Lo cual hace pensar que la condición de rico, es anterior a la obteción de riquezas.  Luego, contrario a la opinión popular, no es quien genera riqueza, sino quien acumula riquezas, si las generara se llamaría trabajador.  Prueba irrefutable de esto es que puede ser exitosa una economía sin ricos, como es el caso de la mayor economía del siglo XXI, China, mientras que no existe producción de riqueza cuando los trabajadores no pueden trabajar, como verificamos durante la pandemia del Covid 19.  
+
 **Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  
  
 **Ridiculez**. Unica virtud de un fascista.
