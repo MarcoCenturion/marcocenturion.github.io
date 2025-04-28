@@ -46,7 +46,13 @@ lead_text: 'La lengua usada en La Docta'
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
-**Alien**  *Lat. otro iura in res aliena, derechos sobre las cosas ajenas*.  Concepto acuñado durante uno de los imperios mas importantes del mundo antiguo.  Los nuevos imperios tecnológicos *corren el arco* y obligan a la población mundial a hablar recursiva y periódicamente acerca de aliens, ovnis e invasiones terroríficas.  El foco se pone en curiosas formas de vida provenientes de otras galaxias, distrayéndolos así del verdadero problema, el terror sembrado por acumuladores de riquezas, quienes son formas de vida que poco tienen en común con los trabajadores, que viven una vida *alienada* al decir de Hegel y posteriormente su sucesor, Karl Marx.    
+**Alien**  *Lat. otro, iura in res aliena, derechos sobre las cosas ajenas*.  Concepto acuñado durante uno de los imperios mas importantes del mundo antiguo.  Los nuevos imperios tecnológicos *corren el arco* y obligan a la población mundial a hablar recursiva y periódicamente acerca de aliens, ovnis e invasiones terroríficas.  El foco se pone en curiosas formas de vida provenientes de otras galaxias, distrayéndolos así del verdadero problema, el terror sembrado por acumuladores de riquezas, quienes son formas de vida que poco tienen en común con los trabajadores, que viven una vida *alienada* al decir de Hegel y posteriormente su sucesor, Karl Marx.  En este último, la alienación se cumple cuando el trabajador produce bienes y servicios que no alcanza a disfrutar.  
+
+> La macdonalización del trabajo consiste en convencer a los trabajadores que refutan la maxima de no disfrutar lo que producen, porque comen todos los días ahí, o vuelan con la cía aérea para la que trabajan.  
+
+> No olvides que eres lo mas importante para esta cía.  --Decía el cartel con el logo azul y rojo.  
+
+> Por eso cobro USD8 la hora.  --Rezaba la respuesta en *rouge*, con la caligrafía de una *colaboradora* que demoró poco en probar nuevos horizontes.
 
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte, luego aquello que vence la muerte.  Literalmente inmortal. 
 
