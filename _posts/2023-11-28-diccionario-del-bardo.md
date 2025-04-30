@@ -248,7 +248,7 @@ Símil del contemporáneo:
 
 > Dos amigas cruzan el Atlántico en la clase *Magnífica* a bordo de una cía aérea italiana, invitadas por ejecutivos de alguna multinacional.  Interrumpe el sueño de una de ellas, un excesivamente correcto auxiliar de vuelo masculino, en mitad de la noche artificial de ventanillas cerradas, llamándola *principessa*, quien al escuchar esa palabra, le devuelve una sonrisa palaciega.  Pregunta la hora a su compañera, expulsándola bruscamente de su condición de *bella durmiente del subdesarrollo*.  Esta última hace el check in a la realidad de mala gana, al tiempo que contiene palabras de ofuscación mayores.  El mal humor producido por la brusquedad de la salida del sueño, es transversal a todas las clases sociales y culturas, es por ello que se desaconsejan las armas de fuego debajo de almohadas. 
 
-> Escuchame unacosa pibita. ¿Só pelotuda vó?  --Suelta restregándose los ojos hasta que recuerda o fantasea el corrimiento del *makeup*. 
+> Escuchame una cosa pibita. ¿Só pelotuda vó?  --Suelta restregándose los ojos hasta que recuerda o fantasea el corrimiento del *makeup*. 
 
 > Es para saber que pido.  No sé que hora es, si están sirviendo el desayuno o la cena.  --Se defiende quien iniciara la discusión, queriendo justificar haberla despertado.
  
@@ -374,10 +374,13 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Detalle**   *Fr. détail a su vez del Lat. Taliare, talar*.  Fragmento, elemento, aspecto menor de lo que se tenía a primera vista, como una rama *talada* de un tronco.  Aquello en lo que no reparamos, por prestar atención al todo[^37].
 
-
 [^37]: La vida está hecha de minúsculos detalles, de momentos únicos e irrepetibles, destinados a pasar desapercibidos por cotidianos.  Un día tu hija, tal vez por vergüenza, te suelta la mano para cruzar la calle.  A una edad determinada va a pasar, sabemos que va a ocurrir, pero lo negamos.  Al otro día será la normalidad, no darte la mano.  Lo tomamos como un detalle a simple vista, fué lo mas importante que va a pasarte en la vida.  Años después esa niña traerá un nieto de la mano.  Otro día apretarás la mano de un ser amado, en el sanatorio por última vez.  Volverán de golpe todas esas manos que sostuviste con amor. 
 
 > Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  Antoine de Saint-Exupéry
+
+**Diezmo**  Curiosa institución, común a muchas religiones cristianas, que solicitan ayuda en metálico a sus fieles, para ayudar a la iglesia con sus problemas económicos, al mismo tiempo que recomiendan a estos oración para solucionar sus problemas económicos.  Comportamiento al menos curioso por su falta de conmutatividad.
+
+> No es un robo --Aclara el pibe con el arma de fuego apuntando el abdomen de un transeunte.  Preferimos llamarlo *diezmo compulsivo*.
 
 **Diletante** *Ital. Diletante*  Que se deleita con su arte.  El sonido de la palabra pareciera indicar un eterno tiempo pasado:  
 
