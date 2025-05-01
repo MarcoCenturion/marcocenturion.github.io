@@ -564,9 +564,9 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
 
-**Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurren a esta, para reclamar territorios, como en el pentateuco, para darle tarea a las ancianas a la hora de la cena, para mejorar relatos de pezca, o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, en la que se recogen cuentos populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos nos permiten otro punto de vista de hechos históricos como el asedio de Bizancio o las cruzadas.
+**Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurrieron y recurren a esta, a efectos de reclamar reinos o eerritorios, como lo hace el pentateuco; para darle tarea a las ancianas a la hora de la cena; para embellecer relatos de pezca; o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, donde se recogen narraciones populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos cuentos y leyendas, nos acercan otro punto de vista de hechos históricos, como el asedio de Bizancio o las cruzadas.
 
-> Oh buen Rashid, amo y señor --Saluda el el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Ten concedo la gracia de elegir que te convierta en el animal que se te ocurra, por haberme liberado de cinco mil años de encierro al que me forzara...
+> Oh buen Rashid, amo y señor --Saluda el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Ten concedo la gracia de elegir que te convierta en el animal que se te ocurra, por haberme liberado de cinco mil años de encierro al que me forzara...
 
 > Perro.  --Interrumpe Rashid en seco.
 
