@@ -190,11 +190,17 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana:  
 
-> Para las calendas griegas.  
+> Para las calendas griegas.  Segunda página de Google.
 
-Símil del contemporáneo:
+**Camino**  *Lat. Camminus del celta camanon*.  Terreno por el que se transita.    
 
-> Buscalo en la segunda página de Google.
+> Dice que no dejes que crezca el pasto en el camino de la amistad --Juan Carlos Onetti. 
+
+> Porque te quiero a ti, se hace mas corto el camino aquel.  --Tu nombre me sabe a hierba.  Joan Manuel Serrat.
+
+> Es preferible el camino a la posada.  --Dicen que la dijo Don Quijote, pero no está en la novela de Cervantes.
+
+> Si está depilada, es porque está ocupada, porque el pasto no crece en la tierra caminada.  --Flores de Valle Alegre.  Odiseo Torres.
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana más esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc. ya que es bien sabido que el sustantivo Maradona dejó de ser utilizado para nombrar una persona para convertirse en un conjuro de resistencia.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
@@ -536,15 +542,13 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Esperá que ya van a dragar la provincia.  
 
-**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. "No puede ser, seis a uno con Bolivia".  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14].  Profesor de ética ciudadana, alumnado aburrido:
+**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. *No puede ser, seis a uno con Bolivia*.  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14], entonces deja de ser vergonzoso, salen del closet y argumentan a los gritos sus estupideces.  Hasta una nueva masacre de inocentes a los que se culpó de todos los males del mundo y se vuelve al casillero uno. 
 
 [^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."  Cualquier semejanza con la Argentina de los libertarios es pura coincidencia.
 
-> ¿Saben que es el Fascismo?  
+> ¿Quien puede decirme que es el Fascismo?  --Profesor de ética ciudadanada, pregunta a un alumnado aburrido y somnoliento.
 
-El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo en señal 
-
-> ¿Estamos hablando del faso?
+> ¿Faso, fascismo? --El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo.
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos.  Bonafide es literalmente, buena fe.  Deriva de esta **Fiel**, algo en que depositar la Fe.  Ciertos apologistas gnósticos, sugieren el producto de una *conjunción* entre dos notas musicales, **Fa** y **Re**.  Esto nos lleva por decucción simple a la nota **Mi**.  Ergo, la única confianza -FE- que debemos observar es hacia nosotros mismos.
 
@@ -560,9 +564,11 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 > ¡Te pedí un **Palito para selfie** mamá!  --Corrige la hija, mano abierta tapándose el rostro.
 
+Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de García Lorca, sugiere otro tipo de *palito para ser feliz*: el **palito verde**.  Seguido, a modo de justificación innecesaria, de una teoría.  La narración de un yate, en el Mediterráneo, tripulado por prostitutas rusas, tóxicos y la dificultad para la producción de tristeza en ese ámbito.   La cátedra de Antropología de la Facultad de Psicología, de la Universidad Nacional de Córdoba, en un intento de validación empírica, solicitó fondos públicos al CONICET, fondos que fueran desestimados, aparentemente, por recortes en educación.  
+
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
-**Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
+**Fénix**  Ave mitológica cuyo super poder era resurgir de sus propias cenizas.  Tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
 
 **Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurrieron y recurren a esta, a efectos de reclamar reinos o eerritorios, como lo hace el pentateuco; para darle tarea a las ancianas a la hora de la cena; para embellecer relatos de pezca; o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, donde se recogen narraciones populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos cuentos y leyendas, nos acercan otro punto de vista de hechos históricos, como el asedio de Bizancio o las cruzadas.
 
@@ -578,7 +584,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 > Dejá perro nomas, gracias.
 
-**Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles.  La fe en dios es requisito sine quanon para la fe en el dinero, metálico o cripto. 
+**Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles.  La fe en dios es requisito sine quanon para la fe en el dinero, metálico o cripto. 
 
 **Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  En la Poética de Aristóteles, a los capítulos sobre física le seguían los de filosofía, bautizados metafísica, por estár mas allá de la física.
 
@@ -586,7 +592,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
-> Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.  --Flores de Valle Alegre.  Odiseo Torres.
+> Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, en frascos de mermelada, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.  --Flores de Valle Alegre.  Odiseo Torres.
 
 **Flúor**  *Física*.  En la tabla de Mendeleiev ocupa el número 9, entre los halógenos, que suena a extraterrestres a los indoctos.  Por cacofonía suele confundírselo con el adjetivo **Flúo** que destaca la vivacidad de los colores, sinónimo de *brioso* en el cinturón industrial de Córdoba city.
 
