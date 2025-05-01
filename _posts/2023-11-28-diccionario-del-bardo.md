@@ -608,7 +608,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Género**  Controversia del siglo XXI, propia de las clases dominantes, entretenidos mirándose el ombligo.  En la casa de mi infancia, éramos dos abuelos, dos padres y seis hermanos.  Al ser el mayor de esos niños, cargué desde temprano con obligaciones de *ambos* géneros con alguna que otra queja menor.  Después de volver en la bicicleta con bolsas de las compras, pelaba durante horas papas para el almuerzo.  Todos los días mamá cocinaba para diez personas, yo era el auxiliar obligado de cocina.  Recuerdo con ternura que cierta vez, siendo apenas un niño, se me ocurrió una idea brillante, argumentar en mi favor que hacer todas las compras me eximía de tareas que por sexo correspondían a mis hermanas mujeres.  Mamá con su providencial sabiduría y aplomo me explicó pacientemente, delante de todos, varones adultos incluídos.
 
-> Si por tener órganos sexuales masculinos supones que te exime de colaborar con las taréas de la casa, te los corto y eliminamos el problema. 
+> Si por tener órganos sexuales masculinos supones que te exime de colaborar con las taréas de la casa, te los corto y eliminamos el problema.  --Recurso ab absurdum.
 
 Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron un solo concepto a lo aprendido en la infancia sobre sexo y género, haciendo de mí un mejor hombre.
 
