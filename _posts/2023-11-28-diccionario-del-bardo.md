@@ -564,6 +564,20 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Fenix**  Ave que resurgía de sus propias cenizas, tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
 
+**Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurren a esta, para reclamar territorios, como en el pentateuco, para darle tarea a las ancianas a la hora de la cena, para mejorar relatos de pezca, o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, en la que se recogen cuentos populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos nos permiten otro punto de vista de hechos históricos como el asedio de Bizancio o las cruzadas.
+
+> Rashid --Saluda el el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Puedes elegir el animal que se te ocurra por haberme liberado de cinco mil años de encierro.
+
+> Perro.  --Interrumpe Rashid en seco.
+
+> ¿Perro?  --El genio sorprendido mira al pequeño bribón.  Pudiendo elegir el halcón que rápido zurca los cielos y desde los puntos mas altos...
+
+> ¿El halcón se chupa la pija solo?  --Interrumpe nuevamente Rashid.
+
+> Temo que no mi amo y señor.
+
+> Dejá perro nomas, gracias.
+
 **Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles.  La fe en dios es requisito sine quanon para la fe en el dinero, metálico o cripto. 
 
 **Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  En la Poética de Aristóteles, a los capítulos sobre física le seguían los de filosofía, bautizados metafísica, por estár mas allá de la física.
