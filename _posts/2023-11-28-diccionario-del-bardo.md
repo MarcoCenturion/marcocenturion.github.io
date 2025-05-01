@@ -566,7 +566,7 @@ El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonr
 
 **Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurren a esta, para reclamar territorios, como en el pentateuco, para darle tarea a las ancianas a la hora de la cena, para mejorar relatos de pezca, o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, en la que se recogen cuentos populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos nos permiten otro punto de vista de hechos históricos como el asedio de Bizancio o las cruzadas.
 
-> Rashid --Saluda el el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Puedes elegir el animal que se te ocurra por haberme liberado de cinco mil años de encierro.
+> Oh buen Rashid, amo y señor --Saluda el el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Ten concedo la gracia de elegir que te convierta en el animal que se te ocurra, por haberme liberado de cinco mil años de encierro al que me forzara...
 
 > Perro.  --Interrumpe Rashid en seco.
 
