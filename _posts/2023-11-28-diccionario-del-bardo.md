@@ -1008,11 +1008,15 @@ De no acceder de inmediato a la magia de la imagen anterior, se recomienda repet
 
 > O sea, Nada.  Digamos.
 
-Triste final tenían deparado los hados a un fonema con tamaño potencial. 
+Triste final tenían deparado los hados a un fonema con tamaño potencial.  La imaginación popular encontró una hermosa frase que resume toda una época.
 
-**Nadería**  Nieta de la palabra anterior.  Úsase para menospreciar argumentos contrarios.
+> La Nada Nisman.
 
-**Náusea** *Lat. nausea de nave.*   Mal causado por el movimiento de la nave.  Nau sobrevive en el catalán para reverirse a la nave.
+**Nadería**  Nieta de la palabra anterior.  Úsase para menospreciar argumentos contrarios aunque requiere de cierto IQ mínimo en el antagonista a efectos de ser comprendida.
+
+**Náusea** *Lat. nausea de nave.*   Mal, enferdad causada por el movimiento de la nave.  Nau sobrevive en el catalán para reverirse a la nave.
+
+**Nave**  *Lat. navis y este del Gr.ναῦς*.  Las naves fueron diseñadas originalmente para navegar aguas pero llegado el siglo XIX comienza el viaje por otros medios como el aire.  Pasada la mitad del siglo XX ya hay viajes a través del vacío del espacio.  Esta cuestión del vacío pone en duda la banderita gringa en la luna, flameando como si hubiera aire.  La fabricación de aviones a partir de largueros y costillas de madera, nos muestra cuanto dependemos de formas de pensar anteriores, en este caso particular, los barcos. 
 
 **Negocio** *Lat. Nec Otium - Nadie está ocioso.* Nadie puede obtener beneficios sin algo a cambio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poderi concluir satisfactoriamente la existencia de una **utilidad**.  La sociedad toda se encargó de ocultar estos datos.[^4]
 
