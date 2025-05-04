@@ -1200,12 +1200,11 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
  
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
+**Potasio**  *Ing. Potashes.  Pot, tarro, recipiente, pote y Ashes, cenizas*.  Literalmente un pote de cenizas, por la alcalinidad de las cenizas que utilizaban los alquimistas que buscaban en la materia eso oculto y que pudieron zafar de la inquisición.  La **K** en la tabla periódica se debe a su nombre en árabe Kallium, la planta de la que se extraían esas cenizas, *al-kalia*, cenizas de plantas, luego alcalino y no como pudiera parecer, a cierto sector del peronismo del siglo XXI, vagos, planeros y mandriles, por el simil fónico de tarro o termo y la forma de la cabeza de estos.
 
-**Potasio**  *Ing. Potashes.  Pot, tarro, recipiente, pote y Ashes, cenizas*.  Literalmente un pote de cenizas, por la alcalinidad de las cenizas que utilizaban los alquimistas que buscaban en la materia eso oculto y que pudieron zafar de la inquisición.  La **K** en la tabla periódica se debe a su nombre en árabe Kallium, la planta de la que se extraían esas cenizas, al-kalia, cenizas de plantas, luego alcalino y no como pudiera parecer, a cierto sector del peronismo del siglo XXI, vagos, planeros y mandriles, por el simil fónico de tarro o termo y la forma de la cabeza de estos.
+**Precio**  *Lat. Pretium*.  Cantidad a pagar por algo.  De allí la amplia familia de términos derivados: aprecio, desprecio, justiprecio, menosprecio, sobreprecio.  Las voces pornografía y intérprete, provienen de esta raiz.  Reputación que se ganaba en las *justas*.  Es norma medir interlocutores poniéndole precio a su fidelidad, honradez, etc.  Invencible e inmortal a quien no tiene precio, solo quienes se esfuerzan en encontrar tu precio saben el miedo que sienten por tener uno. 
 
-**Precio**  *Lat. Pretium*.  Cantidad a pagar por algo.  De allí aprecio, desprecio, justiprecio, menosprecio, sobreprecio.  Las voces pornografía y intérprete, provienen de esta raiz.  Reputación que se ganaba en las *justas*.  Es norma medir interlocutores poniéndole precio a su fidelidad, honradez, etc.  Invencible e inmortal a quien no tiene precio, solo quienes se esfuerzan en encontrar tu precio saben el miedo que sienten por tener uno. 
-
-> Es barato lo que puedas comprar con dinero.
+> Es barato lo que puedas comprar con dinero. --De las cosas y los cosos.  Odise Torres.
  
 **Primo**  *Lat. primus, primero*.  Literalmente, que se inicia con las primas.  Tuve ocasión de dar con gente así.  La locución latina Prima Facie hace referencia de algo a primera vista, en el ámbito del derecho y no como pudiéramos suponer que alude a femeninas de derechas, consanguineas en segundo grado.  La letra de este tango pareciera estar narrado en la primera persona de una de estas[^21].
  
