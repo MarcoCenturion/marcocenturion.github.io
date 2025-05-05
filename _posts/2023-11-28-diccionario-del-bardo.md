@@ -1180,9 +1180,9 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador.
 
-**Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El mendocino Marziali encontró una hermosa metáfora. 
+**Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El Rulo llamaba al sol hiperiónida con la metáfora *el poncho de los pobres*.   
  
-> Anda cruzando el invierno, con un ponchito de vino.
+> Anda cruzando el invierno, con un ponchito de vino.  --A este Manuel que yo canto.  Jorge Marzialli.
  
 En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de su esfuerzo en sus ponchos, de allí, ponchada.
 
