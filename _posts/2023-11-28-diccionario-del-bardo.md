@@ -1166,9 +1166,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.  De aquí surge el argentinismo *bien empilchado*.  
 
-**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea, al datar las piedras, deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes, *res publicae*, cosa de todos.  La última población realmente libre, según la antropología estructuralista, fueron los cazadores recolectores, como los nativos americanos anteriores a la conquista en el centro de la Argentina.  Vivían en medio de la naturaleza, en las márgenes de corrientes de agua, actividad vedada a los actuales trabajadores en su alucinación colectiva de libertad.  Los **comechingones**, trabajaban en promedio, seis horas semanales.  Este formato de bienes comunes hacía que aquellos que dedicaran solo cinco horas a la caza o la pesca fueran tildados por sus upares como
-
-> Vagos, planeros o simplemente kukas.
+**Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea, al datar las piedras, deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes, *res publicae*, cosa de todos.  La última población realmente libre, según la antropología estructuralista, fueron los cazadores recolectores, como los nativos americanos anteriores a la conquista en el centro de la Argentina.  Vivían en medio de la naturaleza, en las márgenes de corrientes de agua, actividad vedada a los actuales trabajadores en su alucinación colectiva de libertad.  Los **comechingones**, trabajaban en promedio, seis horas semanales.  Este formato de bienes comunes hacía forzaba a aquellos que dedicaran menos de cinco horas semanales, a la caza o la pesca fueran tildados por sus pares como *vagos, planeros o simplemente kukas*.
 
 [^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro.
 

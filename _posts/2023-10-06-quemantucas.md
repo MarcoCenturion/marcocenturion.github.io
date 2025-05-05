@@ -22,7 +22,7 @@ Detalles nimios -al vulgo- son motivo de **berrinche histérico** de parte de la
 
 Ni bien termina la queja envidiosa por los entallados uniformes del enemigo, comienza el *susurro de pasillo* por el corte de las calzas, o el levantamiento de ojos por el color de los subfusiles que ofenden el intelecto y la hombría del General.
 
-> ¿Porqué siempre Negros? --Aclara la voz un mando medio, *thiking out of the box*.  
+> ¿Porqué siempre Negros? --Aclara la voz un mando medio, *thinking out of the box*.  
 
 > Como se nota que el enemigo tiene gente que se preocupa **De verdad** en sus soldados. 
 
@@ -36,7 +36,7 @@ A esto se debe -indudablemente- que no sean tropas regulares, sino directamente 
 
 A las frecuentes deserciones, se sumó días atrás el grave incidente del batallón perdido en la espesura del monte jugando a **La Escondida**. 
 
-Serios informes de auditoría, adjudicaron -urgidos tal vez por esbozar una teoría- el error al excesivo alarde del uso del camuflaje.  El sector antagónico, a una impericia cartográfica, cuando lo mas probable fuera abuso de tóxicos lúdicos de parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incljuso disfrutada.  
+Serios informes de auditoría, adjudicaron -urgidos tal vez por esbozar una teoría- el error al excesivo alarde del uso del camuflaje.  El sector antagónico, a una impericia cartográfica, cuando lo mas probable fuera abuso de tóxicos lúdicos de parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incluso disfrutada.  
 
 Retumba aún la varonil voz del **Primer Teniente Patricio Del Coso**, gritando al poniente nombres de integrantes del batallón, al azar, con la vana esperanza de verlos aparecer detrás de un tronco añoso o un helecho serrucho:
 
