@@ -128,7 +128,7 @@ En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mu
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
 
-**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo *Quilombo*, de origen africano, sin arribar a conclusiones serias.
++**Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo *Quilombo*, de origen africano, sin arribar a conclusiones serias.  Bardo Todol es esa especie de estacionamiento para las almas a la espera de encontrar otro cuerpo, en la cosmogonía tibetana.  Es por ello que conviene andar sonriendo a la gente en la calle, no sea que nos crucemos con una reencarnación de alguien copado o incluso el abuelo Armando.  Esta doctrina sostiene la necesidad de ser amable con todo tipo de vida.  No sea cosa que en la próxima nos convirtamos en serpiente.
 
 **Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos* también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses. 
 
