@@ -16,53 +16,44 @@ Merma la soldadesca de forma alarmante, producto de la última hambruna.
 
 Mientras un sector adivinó una audaz iniciativa oficial, orientada a reducir el peso corporal promedio de la tropa, el antagonista descubrió la realidad una **grave desinteligencia logística**.  Cosas que pasan.
 
-La insanía, la pocombría, la megalomanía, los programas de Badía, socaban la moral de la tropa.
+La insanía, la pocombría, la megalomanía, los programas de Badía, socaban tanto la moral de la tropa como las posibilidades poéticas.
 
-Detalles nimios -al vulgo- son motivo de **berrinche histérico** de parte de la soldadesca. 
+Detalles nimios al vulgo son motivo de **berrinche histérico** de parte de la soldadesca. 
 
 Ni bien termina la queja envidiosa por los entallados uniformes del enemigo, comienza el *susurro de pasillo* por el corte de las calzas, o el levantamiento de ojos por el color de los subfusiles que ofenden el intelecto y la hombría del General.
 
 > ¿Porqué siempre Negros? --Aclara la voz un mando medio, *thinking out of the box*.  
 
-> Como se nota que el enemigo tiene gente que se preocupa **De verdad** en sus soldados. 
+> Como se nota que el enemigo tiene gente que se preocupa **De verdad** por lo que quieren sus soldados. 
 
-Alza la voz un subalterno ojeando un **Especial Vogue** sobre moda militar.
+Alza la voz un subalterno ojeando un **Especial Vogue** sobre tendencia militar para el verano boreal.  ¿Vuelve el chocolate?
 
-> Ese pañuelo rosa chicle, realza el durazno de las botas.   --Apunta el índice demasiado arqueado otro sobre la hoja, estirando el cuello y simulando un pañuelo con círculos concentricos sobre los hombros.
+> Ese pañuelo rosa chicle, realza el durazno de las botas.   --Otro infante apunta con el índice demasiado arqueado sobre la hoja, estirando el cuello y simulando un pañuelo con círculos concentricos sobre los hombros.
 
-No menos nocivos son el *Netflix* o el *Candycrush*, distraedores de los buenos hombres haciendo guardia.
+No menos nocivos son el *Netflix* o el *Tictoc*, distraedores de los buenos hombres haciendo guardia.
 
-A esto se debe -indudablemente- que no sean tropas regulares, sino directamente malas.
+A las frecuentes deserciones, se sumó días atrás un grave incidente, un batallón completo, perdido en la espesura del monte jugando a **La Escondida**. 
 
-A las frecuentes deserciones, se sumó días atrás el grave incidente del batallón perdido en la espesura del monte jugando a **La Escondida**. 
+Serios informes de auditoría, adjudicaron el origen del problema, tal vez urgidos tal vez por esbozar una teoría, al excesivo alarde del uso del camuflaje.  Un sector antagónico, a una impericia cartográfica o falta de pilas en el gps; cuando todo apunta a que solo se tratara de abuso de tóxicos lúdicos por parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incluso disfrutada.  
+Retumba aún la varonil voz del **Primer Teniente Patricio Del Coso**, gritando al poniente nombres de integrantes del batallón, al azar, con la vana esperanza de ver surgir las sonrisas detrás de una brea, un chañar, un palam palam o un helecho serrucho:
 
-Serios informes de auditoría, adjudicaron -urgidos tal vez por esbozar una teoría- el error al excesivo alarde del uso del camuflaje.  El sector antagónico, a una impericia cartográfica, cuando lo mas probable fuera abuso de tóxicos lúdicos de parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incluso disfrutada.  
+> Pietrabuona, Dani Alves.  Resistencia, Chaco!  ¡Lo vi soldado!
 
-Retumba aún la varonil voz del **Primer Teniente Patricio Del Coso**, gritando al poniente nombres de integrantes del batallón, al azar, con la vana esperanza de verlos aparecer detrás de un tronco añoso o un helecho serrucho:
-
-> Pietrabuona, Dani Alves.  Resistencia, Chaco!  -¡Lo vi soldado!
-
-> Arroyo Maldonado, Luis Enrique.  Monte Quemado, Santiago del Estero.  -Paso al frennnn ... te.  De frenteee.  ¡Mar!.
+> Arroyo Maldonado, Luis Enrique.  Monte Quemado, Santiago del Estero.  Paso al frennnn ... te.  De frenteee.  ¡Mar!.
 
 > Cansamelbaso, Aníbal.  Localización IDEM.  Salga.  Es una orden.
 
-Ahorra energía evitando repeticiones cartográficas, por lo que agrupa los soldados de las mismas localidades.
+Nada, silencio absoluto, aún pasadas la hora de las tortas fritas.  Esto ya toma ribetes preocupantes.
+
+Ahorra energía evitando repeticiones cartográficas, por lo que agrupa apellidos de soldados de las mismas localidades.
 
 El General Slamastik comanda algo mas que despojos de lo que otrora fuera un ejército invencible, ejemplo de gallardía en la región.
 
-Cuentos, poemas, óleos y hasta piezas musicales, aun recuerdan proezas bélicas y amores dejados al paso de la tropa.  A un suboficial de este regimiento se le adjudica una zamba compuesta para un noviazgo breve, antes de la batalla. 
+Cuentos, poemas, óleos y hasta piezas musicales, aun recuerdan proezas bélicas y amores dejados al paso de la tropa.  A un suboficial de este regimiento, se le adjudica la composición de una zamba, en homenaje a un noviazgo breve, antes de la batalla.  Dos horas.  El noviazgo.  La batalla duró algo mas.
 
-Dos horas.  
+Noviazgo perteneciente a ese preciso *esquema afectivo* que algún sector de la clínica denomina **amor express**. 
 
-El noviazgo. 
-
-La batalla duró algo mas.
-
-Ese preciso *esquema afectivo* que algún sector de la clínica denomina **amor express**.
-
-La zamba **"La Humectada"**
-
-Endecasílabo centrado en la llegada de la niña al batallón, en medio del aguacero.
+La zamba carpera **La Humectada**.   Endecasílabo en octavos mayores, centrado en la llegada de la niña al batallón, en medio del aguacero.
 
 Escuchando la zamba es casi verla, remera roja con un Círculo y una "A" negligente y tangencial, pañuelo verde proderechoso, a tono con el cabello.
 
