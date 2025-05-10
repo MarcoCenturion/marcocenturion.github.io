@@ -542,6 +542,8 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Esperá que ya van a dragar la provincia.  
 
+**Farra**.  *Ar. فرحة*  Fiesta, jolgorio.  Farah, Feria, de fiesta, de alegría.
+
 **Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. *No puede ser, seis a uno con Bolivia*.  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14], entonces deja de ser vergonzoso, salen del closet y argumentan a los gritos sus estupideces.  Hasta una nueva masacre de inocentes a los que se culpó de todos los males del mundo y se vuelve al casillero uno. 
 
 [^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."  Cualquier semejanza con la Argentina de los libertarios es pura coincidencia.
@@ -589,6 +591,8 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 **Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  En la Poética de Aristóteles, a los capítulos sobre física le seguían los de filosofía, bautizados metafísica, por estár mas allá de la física.
 
 > La que tenía un físico bárbaro, era la mujer de Einstein.  --Richard Feynman (1918-1988).
+
+**Flamenco**  *Ar.  فلاح من غير أرض  Felah mengu, campesino humilde, despojado de todo, errante*.  Una de las teorías mas interesantes habla de un tono despectivo, adoptado por los naturales de la Andalucía morisca hacia los Gitanos, o egipcianos, que es de donde se suponía venía este pueblo nómade, sin raigambre.  De allí viaja el sustantivo para nombrar a las aves esbeltas, que simulan el porte de un bailaor o cantaor.  
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
