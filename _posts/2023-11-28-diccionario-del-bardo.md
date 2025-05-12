@@ -542,7 +542,9 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Esperá que ya van a dragar la provincia.  
 
-**Farra**.  *Ar. فرحة*  Fiesta, jolgorio.  Farah, Feria, de fiesta, de alegría.
+**Farra**.  *Ar. فرحة*  Fiesta, jolgorio.  Farah, Feria, de fiesta, de alegría.  Del mismo lugar parecen provenir otros términos del español que llega a nuestros días, todos relacionados con el tiempo de alegría y fiesta.  El filósofo español Antonio Escothado, mencionaba la necesidad de vacaciones tóxicas, como los carnavales, para vestirse con el ropaje que mas nos gusta y terminar como Vadinho de Jorge Amado, con una calabza entre las piernas, vestido de colombina y en brazos de una enfermera que trata de reanimarlo...
+
+> Nada obtiveram, era sem jeito, Vadinho desertara para sempre do Carnaval da Bahia. --Dona Flor e Seus Dois Maridos --Jorge Amado.
 
 **Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. *No puede ser, seis a uno con Bolivia*.  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14], entonces deja de ser vergonzoso, salen del closet y argumentan a los gritos sus estupideces.  Hasta una nueva masacre de inocentes a los que se culpó de todos los males del mundo y se vuelve al casillero uno. 
 
@@ -592,7 +594,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > La que tenía un físico bárbaro, era la mujer de Einstein.  --Richard Feynman (1918-1988).
 
-**Flamenco**  *Ar.  فلاح من غير أرض  Felah mengu, campesino humilde, despojado de todo, errante*.  Una de las teorías mas interesantes habla de un tono despectivo, adoptado por los naturales de la Andalucía morisca hacia los Gitanos, o egipcianos, que es de donde se suponía venía este pueblo nómade, sin raigambre.  De allí viaja el sustantivo para nombrar a las aves esbeltas, que simulan el porte de un bailaor o cantaor.  
+**Flamenco**  *Ar.  فلاح من غير أرض  Felah mengu, campesino humilde, despojado de todo, errante*.  Una de las teorías mas interesantes habla de un tono despectivo, adoptado por los naturales de la Andalucía morisca hacia los Gitanos, o egipcianos, que es de donde se suponía venía este pueblo nómade, sin raigambre.  De allí viaja el sustantivo para nombrar a las aves esbeltas, que simulan el porte de un bailaor o cantaor.  El dato realmente curioso, es que el preconcepto que tiene occidente sobre el pueblo musulman, teniendo mil años de ocupación en la España del medioevo, donde nunca persiguieron a cristianos o judíos, incluso permitieron el ingreso del pueblo gitano a la culta Europa.  ¿Es imaginable una migración así en el siglo XXI?  De un pueblo sin tierra, con valores tan distintos sobre conceptos como trabajo e higiene.
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  *Chupino Ambas orillas del Rìo de La Plata.*  Aberración que en ciertas latitudes le quita emoción al envido.  Como bien sentenciara el bardo:
 
