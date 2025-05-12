@@ -602,6 +602,8 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Flúor**  *Física*.  En la tabla de Mendeleiev ocupa el número 9, entre los halógenos, que suena a extraterrestres a los indoctos.  Por cacofonía suele confundírselo con el adjetivo **Flúo** que destaca la vivacidad de los colores, sinónimo de *brioso* en el cinturón industrial de Córdoba city.
 
+> ¿Ia te compraste tu ior brioso, tespramo?  --Publicidad radial de Traslasierra, que traducido significa *Ya has adquirido tu pantalón corto de colores vivos, te esperamos.
+
 **Foco**  No se porqué extraña patología, por muy interesante que esté la foto enfocada en las piernas o pechos de la mujer, ciertos indivíduos hacen zoom para leer título o autor del libro que tiene en las manos.
 
 **Fulano**  *Ar. فلان fulán*.  Persona cualquiera.  Forma despectiva de referirse a alguien, quitándole toda entidad.  Esto todavía admite un grado mas de menosprecio, que se alcanza en el femenino fulana, por considerarla inmoral.  Repárese en los verdaderos *ríos de tinta* que han corrido en forma de chistes sobre esta diferencia.  Tal como lo señalara Sigmund Freud, este es otro de los lugares donde se expresa el inconsciente.
