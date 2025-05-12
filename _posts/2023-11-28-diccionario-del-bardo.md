@@ -602,7 +602,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Flúor**  *Física*.  En la tabla de Mendeleiev, o periódica, ocupa el número 9, entre los halógenos, que sugiere extraterrestres a los oídos indoctos.  Se lo suele confundir con un par fónico, el adjetivo **Flúo** que destaca la vivacidad de los colores, aunque no se trate de una homofonía en sentido estrico, por sobrar la letra *R* para que ello ocurra.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos.
 
-> ¿Ia te compraste tu ior brioso, tespramo?  --Publicidad radial de Traslasierra, para la fiesta de la cabritilla, que traducido al idioma cervantino significa: *Ya has adquirido tu pantalón corto de colores vivos, aguardamos por tí.
+> ¿Ia te compraste tu ior brioso, tespramo?  --Publicidad radial de Traslasierra, para la fiesta de la cabritilla, que traducido al idioma cervantino significa: *Ya has adquirido tu pantalón corto de colores vivos, aguardamos por tí*.
 
 **Foco**  No se porqué extraña patología, por muy interesante que esté la foto enfocada en las piernas o pechos de la mujer, ciertos indivíduos hacen zoom para leer título o autor del libro que tiene en las manos.
 
