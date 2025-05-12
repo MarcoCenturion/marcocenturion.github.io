@@ -600,7 +600,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, en frascos de mermelada, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.  --Flores de Valle Alegre.  Odiseo Torres.
 
-**Flúor**  *Física*.  En la tabla de Mendeleiev, o periódica, ocupa el número 9, entre los halógenos, que sugiere extraterrestres a los oídos indoctos.  Se lo suele confundir con un par fónico, el adjetivo **Flúo** que destaca la vivacidad de los colores, aunque no se trate de una homofonía en sentido estrico, por sobrar la letra *R* para que ello ocurra.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos.
+**Flúor**  *Física*.  En la tabla de Mendeleiev, o periódica, ocupa el número 9, entre los halógenos, que en oídos indoctos pareciera sugerir seres provenientes del planeta Halo.  Se lo suele confundir con un par fónico, el adjetivo **Flúo** que destaca la vivacidad de los colores, aunque no se trate de una homofonía en sentido estrico, por sobrar la letra *R* para que ello ocurra.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos, de uso común como el reguetón, el fascismos y otras desgracias del género humano.
 
 > ¿Ia te compraste tu ior brioso, tespramo?  --Publicidad radial de Traslasierra, para la fiesta de la cabritilla, que traducido al idioma cervantino significa: *Ya has adquirido tu pantalón corto de colores vivos, aguardamos por tí*.
 
