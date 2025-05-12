@@ -590,7 +590,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles.  La fe en dios es requisito sine quanon para la fe en el dinero, metálico o cripto. 
 
-**Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  En la Poética de Aristóteles, a los capítulos sobre física le seguían los de filosofía, bautizados metafísica, por estár mas allá de la física.
+**Física**  *Lat. Physica y este del Gr. φυσικά naturaleza*.  El estudio de la naturaleza.  En la Poética de Aristóteles, a los capítulos sobre física le seguían los de filosofía, bautizados metafísica por el Gr.Tὰ μετὰ τὰ φυσικά, por estar topológicamente *mas allá de la física* en el libro.
 
 > La que tenía un físico bárbaro, era la mujer de Einstein.  --Richard Feynman (1918-1988).
 
@@ -600,7 +600,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, en frascos de mermelada, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.  --Flores de Valle Alegre.  Odiseo Torres.
 
-**Flúor**  *Física*.  En la tabla de Mendeleiev, o periódica, ocupa el número 9, entre los halógenos, que sugiere extraterrestres a los oídos indoctos.  Por cacofonía suele confundírselo con el adjetivo **Flúo** que destaca la vivacidad de los colores.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos.
+**Flúor**  *Física*.  En la tabla de Mendeleiev, o periódica, ocupa el número 9, entre los halógenos, que sugiere extraterrestres a los oídos indoctos.  Se lo suele confundir con un par fónico, el adjetivo **Flúo** que destaca la vivacidad de los colores, aunque no se trate de una homofonía en sentido estrico, por sobrar la letra *R* para que ello ocurra.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos.
 
 > ¿Ia te compraste tu ior brioso, tespramo?  --Publicidad radial de Traslasierra, para la fiesta de la cabritilla, que traducido al idioma cervantino significa: *Ya has adquirido tu pantalón corto de colores vivos, aguardamos por tí.
 
