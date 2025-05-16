@@ -1299,31 +1299,37 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
 **Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece más proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
  
-**Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  Según esta corriente, toda prenda de vestir nos es ajena, para concluir felizmente en el siguiente concepto.
+**Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  Según esta corriente, toda prenda de vestir nos es ajena, puesto que nada traemos al llegar a este planeta, para concluir felizmente en el siguiente concepto.
  
 **Ropa Prestada**  Dícese de quienes usan ropa que no es propia, despectivamente las fuerzas del orden, como sugiere el díalogo reciente escuchado en el interurbano Sarmiento, Córdoba-Alta Gracia:
  
 > Ió le uá dá a la gorda ropa prestada, tirale onda al Braian.  La uá artá a puntaso.  [Yo le voy a dar a la señora obesa ropa prestada, tirarle onda al Bryan.  La voy a hartar a puntazos.]
  
-Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos en la obra y sino el que nos gustaría.  El buen **Theodore Sturgeon** se ofuscaba cuando alguien iba a verlo a su cuchitril del Bronx, sosteniendo su enojo en la obligación de adoptar normas del mundo exterior -por caso vestirse- en su micro mundo de desnudez.
+Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos en la obra y no el que nos gustaría.  Según el antropólogo Marvin Harris, lo que a finales del siglo XX conocíamos como Yupie y que entrado el XXI como Cheto, tanto como el mejor exponente de una sociedad rota, en la que es mas importante motrar que ser, no disfrutan su vestimenta, su disfraz, sino que lo sufren con una valentía envidiable.  El buen **Theodore Sturgeon** se ofuscaba cuando alguien iba a verlo a su cuchitril del Bronx, sosteniendo su enojo en la obligación de adoptar normas del mundo exterior -por caso vestirse- en su micro mundo de desnudez.
 
 > Es muy difícil mentir desnudo.  Se puede, pero es riesgso.  --Theodore Sturgeon. 
 
-**Rúcula** *Lat. Rústica.*  Llamada así porque no era cultivada en tiempos del imperio.  Se cosechaba de los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que se sirva en platos cuadrados junto a empanadas dentro de frascos.  Eufemismo entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al Dólar Paralelo, también llamado *blue* por similares motivos.
+**Rúcula** *Lat. Rústica.*  Llamada de esta forma porque no era cultivada en tiempos del imperio, sino recogida sin esfuerzo, ensalada cimarrona, guacha.  Se obtenía sin demasiado esfuerzos en los alrededores del hogar, donde crecía de forma silvestre.  Caprichos culinarios hacen que llegue a nuestros días para ser servida en platos cuadrados, junto a empanadas dentro de frascos por camareros demasiado locuaces sobre taninos y maderas presentes en el vino.  También es utilizado como eufemismo, entre muchos -todos relacionados a hortalizas- por las que en las cuevas de la city se refieren al *Dólar Paralelo*, también llamado *blue* por similares motivos.
+
+> Se paga un diez por ciento menos por el dolar cabeza chica.  --Dice Fer, el picapiedra de la city, hora pico.
+
+> ¿Y el cabeza grande?  --Pregunta ingénuo el cliente por teléfono.
+
+> Ese es para tu hermana.
  
 ## S
  
-**Salud** 1. Par antagónico de enfermedad.  2. La mejor de las utilidades del vocablo, conjuro para comenzar una borrachera.  Pasados los minutos iniciales y conforme pasa el tiempo, el vocablo muta a diferentes formas de que se le parecen solo en intención.
+**Salud**  *Lat. salvus, salvación, salvado, sano*.  1. Este par antagónico de enfermedad, parece aludir a la salvación del alma.  2. La mejor de las utilidades del vocablo, conjuro para comenzar una borrachera.  Pasados los minutos iniciales y conforme pasa el tiempo, el vocablo muta a diferentes formas de que se le parecen solo en intención.
 
 > No parece muy saludable adaptarse a una sociedad tan enferma.  --Jiddu Krishnamurti. 
  
-A partir de observar el saludo de la *teacher* de ingles y su alegre **bye** a cada uno de niños y niñas, la de informática, implementa un simpático sistema, acompaña las sonrisas, mano levantada y la voz **logout**, el de música con le chan chan tanguero, la de filo con una engmática muestra del vacío existencial y el profe de teatro ordena mutis por el foro con su máscara de comedia. 
+A partir de la prolija observación del saludo de la *teacher* de ingles, con su alegre **bye** a cada uno de niños y niñas, la seño de informática, *implementa* un simpático sistema, acompaña las sonrisas, mano levantada y la voz **logout**, mientras convida al profe de música que lo haga lo mismo con el **chan chan** tanguero, a la de filo, con una engmática muestra del vacío existencial y al profe de teatro, la reverencia y mutis *Pas de Bourée*.   Se que parece estúpido imaginar estos saludos, aunque interesante para resaltar sobre lo extremadamente pelotudo y cipayo que suena el bye.
  
 **Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
  
 [^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
 
-**Seannchie** *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Cuando Walt Disney llegó a Argentina, en esa época, no vino a ver la isla Victoria y los bambis, sino a la impresionante industria editorial.
+**Seannchie**  *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Todas las civilizaciones otorgaron privilegios a esos viejos y viejas memorisos, que ponían alrededor del fuego, junto a los nietos, cuando caía el sol, para contar historias, sin importar que fueran verdaderas, o ficticias, la sola condición era la emoción.  Luego llegó la mercantilización de esta noble profesión, Edgar Allan Poe, Vladimir Propp y la estandarización de los *tempos* y Holliwood.  Cuando Walt Disney llegó a Argentina, en aquella época, no vino a la isla Victoria y los bambis, sino a aprender de la impresionante industria editorial de las revistas de pulpa, Dartagnan, El Tony, Intervalo, Fantasía, Nippur y otras, de tirada que superaban el millón de ejemplares mensuales. 
  
 **Secular**  *Lat. Seculum*  Que no tiene nada que ver con ninguna religión.  Pareciera bastante sano a simple vista.
  
