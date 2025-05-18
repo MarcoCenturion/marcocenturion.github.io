@@ -26,7 +26,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien protagonista, esto es, primero y agonistis luchador.  Antagonista es el otro en la batalla, del tipo que esta fuera.
 
-> El pensador contemporáneo Marcelo Bielsa suele camuflarse de técnico de fútbol en sus apariciones televisivas.  Lo antecede cierta -bien ganada- fama de loco, que se ve reforzada en su andar cabizbajo y meditabundo, andar que bien podría montarse en sandálias, arrastrando una toga por el foro ateniense y pasar desapercibido.  Resulta extraño verlo encontrar diversión donde cualquier mortal explotaría en insultos.  En cierta conferencia de prensa, un lobista disfrazado de periodista de los medios dueños de la verdad, intenta una agresión *ad hominem*.  Lo vemos buscar las palabras en el torcer de su cuello, sonreir al ir encontrándolas, masticar la respuesta *Usted es el enemigo que me enaltece.  Cuanto mas lejos de usted estoy, mejor soy, no se si me entiende*.  Debería ser cita obligatoria de todo tratado de ética y estar grabado en letras de bronce, sobre el friso de la entrada de las facultades de filosofía y letras de todo el país.
+> El pensador contemporáneo Marcelo Bielsa suele camuflarse de técnico de fútbol en sus apariciones televisivas.  Lo antecede cierta -bien ganada- fama de loco, que refuerza volitivamente con su andar cabizbajo y meditabundo, mascullando, andar que bien podría montarse en sandálias, arrastrando una toga por el foro ateniense y pasar desapercibido.  Resulta extraño verlo encontrar diversión donde cualquier mortal explotaría en insultos.  En cierta conferencia de prensa, un lobista disfrazado de periodista de los medios dueños de la verdad, intenta una agresión *ad hominem*.  Lo vemos buscar las palabras en el torcer de su cuello, sonreir al ir encontrándolas, masticar la respuesta *Usted es el enemigo que me enaltece.  Cuanto mas lejos de usted estoy, mejor soy, no se si me entiende*.  Debería ser cita obligatoria de todo tratado de ética y estar grabado en letras de bronce, sobre el friso de la entrada de las facultades de filosofía y letras de todo el país.
 
 > Un triunfo frente a tales antagonistas es verguenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Habiendo ganado una disputa en una discusión.
 
@@ -54,7 +54,7 @@ lead_text: 'La lengua usada en La Docta'
 
 > Por eso cobro cinco dólares la hora.  --Arriesgaba una respuesta en *rouge*, similar al del logo, con la caligrafía puntual de una *colaboradora,* que demoró poco en probar nuevos horizontes.  La lucha siempre es colectiva.
 
-**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte, luego aquello que vence la muerte.  Literalmente inmortal. 
+**Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte, luego aquello que vence la muerte.  Literalmente inmortal.  Sublimación del Yo de instintos gregarios, suavizado a lo largo de los milenios hasta llegar a este, tal vez el único dios humano, que fuerza seres simples y ordinarios a jugarse la vida, tanto por seres a quines ama, lo sepan o no.  Toda la literatura versa sobre amores en potencia o finalizados, nunca sobre amores en acto, lo que refuerza su caracter de utópico. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
 
