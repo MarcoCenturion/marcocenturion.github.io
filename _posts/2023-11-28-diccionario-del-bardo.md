@@ -8,6 +8,8 @@ image: '/images/dic.png'
 lead_text: 'La lengua usada en La Docta'
 ---
 
+# Somos hablados por el idioma que utilizamos 
+
 *Porque utilizamos el idioma como un lugar común sin notar que las palabras, si, incluso ellas, son prolijamente seleccionadas para atravesarnos y repetir, continuar, formas el poder.*  
 
 ## A
