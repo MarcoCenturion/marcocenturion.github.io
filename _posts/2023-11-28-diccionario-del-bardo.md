@@ -847,8 +847,11 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 **Lapso**  *Lat. Pasus-us deslizamiento, caida, tropezón.*  La idea de transcurrir del tiempo puede provenir del paso del agua por la clepsidra.  *Lapsus Linguae* es el mas conocido de sus usos, al ser una de las voces del inconciente.
 
-
 **Larva** *Biol.*  Estado de ciertos organismos antes de alcanzar la adultez.  En el bestiario argentino cierto *homínido*, este estado llega hasta la adolescencia.  En casos excepcionales, la supera holgadamente. Conserva el mismo nombre -dato curioso- para ambos géneros, además de ser odiado por igual por todo el espectro político.  La izquierda, por falta de compromiso social y la derecha guarda hacia el/la larga un sentimiento a mitad de camino entre el odio y la repugnancia. 
+
+**Laurel** *Lat. Larus*. Se le solicita eternidad en el Himno, que supimos conseguir pero ahora nos averguenzan seres pequeños.  Sirve para dictaminar quien lava los platos, cuando le toca en la salsa.  Hermosa epopeya la de esta hermosa palabra latina, *loretum* era el bosque de laureles en la Roma antigua, de allí hereda el loreto italiano, pueblo al que llevan una imagen de María, traida por los cruzados de Tierra Santa.  Raro este dato, puesto que *Dafne* perseguida por Apolo, que anhelaba su virginidad se convierte en el árbol de Laurel. 
+
+> Cesal no tenía corona sino un gajo e mata.  --Julio Cesar según John Huston, según Shakespeare, según Suetonio, pero narrado por el lustrín del cine de La Habana.  --Guillermo Cabrera Infante.
 
 **Lealtad**  Etimológicamente es respeto a la Ley.  En tiempos de traiciones y bajezas, esta se convierte en un bien mas preciado que las criptodivisas.  Tan es así que es estimada hasta en las filas del enemigo.  Cuenta la leyenda que un oficial contrario a Roma se presentó ante el ejército invasor en la *Hispania*, solicitando unos sestercios, a cambio de delatar a sus propias tropas.
 
