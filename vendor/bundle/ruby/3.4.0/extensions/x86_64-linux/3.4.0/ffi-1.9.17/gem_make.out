@@ -1,0 +1,538 @@
+current directory: /home/marco/MarcoCenturion-github-io/vendor/bundle/ruby/3.4.0/gems/ffi-1.9.17/ext/ffi_c
+/usr/bin/ruby extconf.rb
+checking for pkg-config for libffi... [" ", "", "-lffi"]
+checking for ffi_call() in -lffi... yes
+checking for ffi_prep_closure()... yes
+checking for ffi_raw_call()... yes
+checking for ffi_prep_raw_closure()... yes
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... yes
+creating extconf.h
+creating Makefile
+
+current directory: /home/marco/MarcoCenturion-github-io/vendor/bundle/ruby/3.4.0/gems/ffi-1.9.17/ext/ffi_c
+make DESTDIR\= sitearchdir\=./.gem.20250520-708818-6121r7 sitelibdir\=./.gem.20250520-708818-6121r7 clean
+
+current directory: /home/marco/MarcoCenturion-github-io/vendor/bundle/ruby/3.4.0/gems/ffi-1.9.17/ext/ffi_c
+make DESTDIR\= sitearchdir\=./.gem.20250520-708818-6121r7 sitelibdir\=./.gem.20250520-708818-6121r7
+compiling AbstractMemory.c
+AbstractMemory.c: En la función ‘memory_put_int8’:
+AbstractMemory.c:246:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  246 | NUM_OP(int8, int8_t, NUM2INT, INT2NUM, NOSWAP);
+      | ^~~~~~
+En el fichero incluido desde /usr/include/ruby-3.4.0/ruby/internal/core.h:27,
+                 desde /usr/include/ruby-3.4.0/ruby/ruby.h:29,
+                 desde /usr/include/ruby-3.4.0/ruby.h:38,
+                 desde AbstractMemory.c:43:
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_int8’:
+AbstractMemory.c:246:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  246 | NUM_OP(int8, int8_t, NUM2INT, INT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_int8’:
+AbstractMemory.c:246:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  246 | NUM_OP(int8, int8_t, NUM2INT, INT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_int8’:
+AbstractMemory.c:246:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  246 | NUM_OP(int8, int8_t, NUM2INT, INT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_uint8’:
+AbstractMemory.c:247:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  247 | NUM_OP(uint8, uint8_t, NUM2UINT, UINT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_uint8’:
+AbstractMemory.c:247:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  247 | NUM_OP(uint8, uint8_t, NUM2UINT, UINT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_uint8’:
+AbstractMemory.c:247:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  247 | NUM_OP(uint8, uint8_t, NUM2UINT, UINT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_uint8’:
+AbstractMemory.c:247:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  247 | NUM_OP(uint8, uint8_t, NUM2UINT, UINT2NUM, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_int16’:
+AbstractMemory.c:248:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  248 | NUM_OP(int16, int16_t, NUM2INT, INT2NUM, SWAPS16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_int16’:
+AbstractMemory.c:248:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  248 | NUM_OP(int16, int16_t, NUM2INT, INT2NUM, SWAPS16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_int16’:
+AbstractMemory.c:248:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  248 | NUM_OP(int16, int16_t, NUM2INT, INT2NUM, SWAPS16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_int16’:
+AbstractMemory.c:248:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  248 | NUM_OP(int16, int16_t, NUM2INT, INT2NUM, SWAPS16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_uint16’:
+AbstractMemory.c:249:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  249 | NUM_OP(uint16, uint16_t, NUM2UINT, UINT2NUM, SWAPU16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_uint16’:
+AbstractMemory.c:249:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  249 | NUM_OP(uint16, uint16_t, NUM2UINT, UINT2NUM, SWAPU16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_uint16’:
+AbstractMemory.c:249:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  249 | NUM_OP(uint16, uint16_t, NUM2UINT, UINT2NUM, SWAPU16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_uint16’:
+AbstractMemory.c:249:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  249 | NUM_OP(uint16, uint16_t, NUM2UINT, UINT2NUM, SWAPU16);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_int32’:
+AbstractMemory.c:250:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  250 | NUM_OP(int32, int32_t, NUM2INT, INT2NUM, SWAPS32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_int32’:
+AbstractMemory.c:250:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  250 | NUM_OP(int32, int32_t, NUM2INT, INT2NUM, SWAPS32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_int32’:
+AbstractMemory.c:250:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  250 | NUM_OP(int32, int32_t, NUM2INT, INT2NUM, SWAPS32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_int32’:
+AbstractMemory.c:250:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  250 | NUM_OP(int32, int32_t, NUM2INT, INT2NUM, SWAPS32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_uint32’:
+AbstractMemory.c:251:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  251 | NUM_OP(uint32, uint32_t, NUM2UINT, UINT2NUM, SWAPU32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_uint32’:
+AbstractMemory.c:251:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  251 | NUM_OP(uint32, uint32_t, NUM2UINT, UINT2NUM, SWAPU32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_uint32’:
+AbstractMemory.c:251:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  251 | NUM_OP(uint32, uint32_t, NUM2UINT, UINT2NUM, SWAPU32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_uint32’:
+AbstractMemory.c:251:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  251 | NUM_OP(uint32, uint32_t, NUM2UINT, UINT2NUM, SWAPU32);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_int64’:
+AbstractMemory.c:252:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  252 | NUM_OP(int64, int64_t, NUM2LL, LL2NUM, SWAPS64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_int64’:
+AbstractMemory.c:252:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  252 | NUM_OP(int64, int64_t, NUM2LL, LL2NUM, SWAPS64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_int64’:
+AbstractMemory.c:252:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  252 | NUM_OP(int64, int64_t, NUM2LL, LL2NUM, SWAPS64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_int64’:
+AbstractMemory.c:252:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  252 | NUM_OP(int64, int64_t, NUM2LL, LL2NUM, SWAPS64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_uint64’:
+AbstractMemory.c:253:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  253 | NUM_OP(uint64, uint64_t, NUM2ULL, ULL2NUM, SWAPU64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_uint64’:
+AbstractMemory.c:253:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  253 | NUM_OP(uint64, uint64_t, NUM2ULL, ULL2NUM, SWAPU64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_uint64’:
+AbstractMemory.c:253:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  253 | NUM_OP(uint64, uint64_t, NUM2ULL, ULL2NUM, SWAPU64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_uint64’:
+AbstractMemory.c:253:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  253 | NUM_OP(uint64, uint64_t, NUM2ULL, ULL2NUM, SWAPU64);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_long’:
+AbstractMemory.c:254:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  254 | NUM_OP(long, long, NUM2LONG, LONG2NUM, SWAPSLONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_long’:
+AbstractMemory.c:254:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  254 | NUM_OP(long, long, NUM2LONG, LONG2NUM, SWAPSLONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_long’:
+AbstractMemory.c:254:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  254 | NUM_OP(long, long, NUM2LONG, LONG2NUM, SWAPSLONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_long’:
+AbstractMemory.c:254:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  254 | NUM_OP(long, long, NUM2LONG, LONG2NUM, SWAPSLONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_ulong’:
+AbstractMemory.c:255:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  255 | NUM_OP(ulong, unsigned long, NUM2ULONG, ULONG2NUM, SWAPULONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_ulong’:
+AbstractMemory.c:255:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  255 | NUM_OP(ulong, unsigned long, NUM2ULONG, ULONG2NUM, SWAPULONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_ulong’:
+AbstractMemory.c:255:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  255 | NUM_OP(ulong, unsigned long, NUM2ULONG, ULONG2NUM, SWAPULONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_ulong’:
+AbstractMemory.c:255:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  255 | NUM_OP(ulong, unsigned long, NUM2ULONG, ULONG2NUM, SWAPULONG);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_float32’:
+AbstractMemory.c:256:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  256 | NUM_OP(float32, float, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_float32’:
+AbstractMemory.c:256:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  256 | NUM_OP(float32, float, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_float32’:
+AbstractMemory.c:256:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  256 | NUM_OP(float32, float, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_float32’:
+AbstractMemory.c:256:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  256 | NUM_OP(float32, float, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_float64’:
+AbstractMemory.c:257:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  257 | NUM_OP(float64, double, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_float64’:
+AbstractMemory.c:257:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  257 | NUM_OP(float64, double, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_float64’:
+AbstractMemory.c:257:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  257 | NUM_OP(float64, double, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_float64’:
+AbstractMemory.c:257:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  257 | NUM_OP(float64, double, NUM2DBL, rb_float_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_longdouble’:
+AbstractMemory.c:258:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  258 | NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_longdouble’:
+AbstractMemory.c:258:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  258 | NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_longdouble’:
+AbstractMemory.c:258:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  258 | NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_longdouble’:
+AbstractMemory.c:258:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  258 | NUM_OP(longdouble, long double, rbffi_num2longdouble, rbffi_longdouble_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_pointer’:
+AbstractMemory.c:280:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  280 | NUM_OP(pointer, void *, get_pointer_value, rbffi_Pointer_NewInstance, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_pointer’:
+AbstractMemory.c:280:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  280 | NUM_OP(pointer, void *, get_pointer_value, rbffi_Pointer_NewInstance, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_pointer’:
+AbstractMemory.c:280:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  280 | NUM_OP(pointer, void *, get_pointer_value, rbffi_Pointer_NewInstance, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_pointer’:
+AbstractMemory.c:280:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  280 | NUM_OP(pointer, void *, get_pointer_value, rbffi_Pointer_NewInstance, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put_bool’:
+AbstractMemory.c:294:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  294 | NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_write_bool’:
+AbstractMemory.c:294:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  294 | NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_bool’:
+AbstractMemory.c:294:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  294 | NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_read_bool’:
+AbstractMemory.c:294:1: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  294 | NUM_OP(bool, unsigned char, rbffi_bool_value, rbffi_bool_new, NOSWAP);
+      | ^~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_size’:
+AbstractMemory.c:320:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  320 |     Data_Get_Struct(self, AbstractMemory, ptr);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get’:
+AbstractMemory.c:343:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  343 |     Data_Get_Struct(self, AbstractMemory, ptr);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c:344:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  344 |     Data_Get_Struct(nType, Type, type);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_put’:
+AbstractMemory.c:375:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  375 |     Data_Get_Struct(self, AbstractMemory, ptr);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c:376:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  376 |     Data_Get_Struct(nType, Type, type);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_get_string’:
+AbstractMemory.c:415:12: error: declaración implícita de la función ‘rb_tainted_str_new’; ¿quiso decir ‘rb_utf8_str_new’? [-Wimplicit-function-declaration]
+  415 |     return rb_tainted_str_new((char *) ptr->address + off,
+      |            ^~~~~~~~~~~~~~~~~~
+      |            rb_utf8_str_new
+AbstractMemory.c: En la función ‘memory_get_array_of_string’:
+AbstractMemory.c:441:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  441 |     Data_Get_Struct(self, AbstractMemory, ptr);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c:451:58: error: declaración implícita de la función ‘rb_tainted_str_new2’; ¿quiso decir ‘rb_utf8_str_new’? [-Wimplicit-function-declaration]
+  451 |             rb_ary_push(retVal, (strptr == NULL ? Qnil : rb_tainted_str_new2(strptr)));
+      |                                                          ^~~~~~~~~~~~~~~~~~~
+      |                                                          rb_utf8_str_new
+AbstractMemory.c: En la función ‘memory_put_bytes’:
+AbstractMemory.c:581:9: error: declaración implícita de la función ‘rb_safe_level’ [-Wimplicit-function-declaration]
+  581 |     if (rb_safe_level() >= 1 && OBJ_TAINTED(str)) {
+      |         ^~~~~~~~~~~~~
+AbstractMemory.c:581:5: aviso: ‘RB_OBJ_TAINTED’ es obsoleto: taintedness turned out to be a wrong idea. [-Wdeprecated-declarations]
+  581 |     if (rb_safe_level() >= 1 && OBJ_TAINTED(str)) {
+      |     ^~
+En el fichero incluido desde /usr/include/ruby-3.4.0/ruby/internal/core/rstring.h:30,
+                 desde /usr/include/ruby-3.4.0/ruby/internal/arithmetic/char.h:29,
+                 desde /usr/include/ruby-3.4.0/ruby/internal/arithmetic.h:24,
+                 desde /usr/include/ruby-3.4.0/ruby/ruby.h:28:
+/usr/include/ruby-3.4.0/ruby/internal/fl_type.h:792:1: nota: se declara aquí
+  792 | RB_OBJ_TAINTED(VALUE obj)
+      | ^~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_type_size’:
+AbstractMemory.c:636:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  636 |     Data_Get_Struct(self, AbstractMemory, ptr);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_aref’:
+AbstractMemory.c:654:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  654 |     Data_Get_Struct(self, AbstractMemory, ptr);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘memory_copy_from’:
+AbstractMemory.c:672:5: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  672 |     Data_Get_Struct(self, AbstractMemory, dst);
+      |     ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+AbstractMemory.c: En la función ‘rbffi_AbstractMemory_Cast’:
+AbstractMemory.c:684:9: aviso: ‘rb_data_object_get_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
+  684 |         Data_Get_Struct(obj, AbstractMemory, memory);
+      |         ^~~~~~~~~~~~~~~
+/usr/include/ruby-3.4.0/ruby/internal/core/rdata.h:325:1: nota: se declara aquí
+  325 | rb_data_object_get_warning(VALUE obj)
+      | ^~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Makefile:251: AbstractMemory.o] Error 1
+
+make failed, exit code 2
