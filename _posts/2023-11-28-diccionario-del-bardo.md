@@ -10,8 +10,6 @@ lead_text: 'La lengua usada en La Docta'
 
 # Somos hablados por el idioma que utilizamos 
 
-*Porque utilizamos el idioma como un lugar común sin notar que las palabras, si, incluso ellas, son prolijamente seleccionadas para atravesarnos y repetir, continuar, formas el poder.*  
-
 ## A
 
 **Abeja**  *Lat. apícula, de apis mellifera*.  Mas de veinte mil tipos de abejas habitan este planeta, muchas desconocidas aún, de allí el caracter incierto de la cifra final.  Primas hermanas de hormigas y termitas, seres cuya existencia depende de la sociedad que los contiene, las abejas, además, son las responsables de la polinización de las flores, que mejoran de manera simbiótica el medio ambiente.  Cierta doctrina afirma que si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos un par de generaciones, siendo muy optimistas.   Si en cambio desaparecieran los homo sappiens, esa vida mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.
