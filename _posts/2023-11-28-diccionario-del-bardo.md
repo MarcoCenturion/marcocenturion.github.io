@@ -278,11 +278,9 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > No estoy envejeciento, estoy volviendome clásico.  --Odiseo Torres, divinal, fecundo en ardides.
 
-**Clonación**  Método para obtener seres vivos sin actividad sexual, totalmente gráfico y sintomático de una época de mascotas a upa, con independencia total de su peso; de la génesis de la estupidez melódica, política y armónica, causa y consecuencia tanto del reguetón y como del fascismo, tal cual lo señala el imperativo del pastelero ansioso, que se volviera psicofármaco.
+**Clonación**  Método para obtener seres vivos sin actividad sexual, de dificultosa comprensión, por el lado libidinal freudiano, pero totalmente gráfico y sintomático de una época de mascotas a upa -con independencia de su peso- de falta de asombros, de horfandad melódica, cortedad política política y ausencia armónica, causa y consecuencia tanto del reguetón y como del fascismo.  Por otra parte, existe una bella frase, en modo imperativo,  que no demorara en converse en psicofármaco.
 
-> ¿Que le dijo el genetista al pastelero ansioso?  --Pregunta incrédulo el hombre de blanco.
-
-> ¡Cloná ese pan!.  --Responde su compñaero de apertura ocular excesiva.
+> ¡Cloná ese pan!.  
 
 **Cobarde**  *Fr. Couard Ing. Coward y estos del Lat. cauda, cola*.  Todo parece indicar la imagen de un perro escondiendo la cola, aunque tranquilamente podría haberse utilizado en su lugar *agachar la cabeza*, bastante mas humano, imaginando la ucronía y pasar a nombrar a estas personas como *cabezardes*.  El código de justicia militar argentino va mas allá y establece la pena de **traición a la patria** a la oficialidad que se rinda ante enemigo sin agotar la munición.  En la batalla de Vuelta de Obligado, mis paisanos de Baradero no se rindieron, pero si agotaron la munición.  Algo que no hizo Alfredo Astiz en las islas Sandwich del Sur, con sus fuerzas de elite, los albatros, lagartos, pumas u otro nombre, valientes solo en su caracter nominal.  Al serle consultado el motivo de su accionar, este argumentó en su defensa un vil ardid del enemigo ingles, vestir ropa militar.  Astiz y sus hombres no estaban práticos, puesto que en su etapa de *training* solo había disparado sobre monjas y civiles.  Visto está que para el valor, es menester no pertenecer a las fuerzas armadas.
 
