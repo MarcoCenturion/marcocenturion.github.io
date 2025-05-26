@@ -1585,7 +1585,8 @@ Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en 
 
 ## Z
 
-**Zapar** *Argentinismo*.  Actividad no exclusivamente emotiva, donde indivíduos de diferentes actividades, posición económica, preferencias políticas y condición de salud mental, coinciden de manera intencional o accidental, en un entorno espaciotemporal, para ejecutar música y cantar.  A esas condiciones iniciales se pueden agregar otras, de caracter optativo, a saber: ingesta alimenticia, alcohólica, conocimiento sobre teoría musical y ejecución correcta de instrumentos.   Pocas actividades lúdicas aportan a la producción de endorfinas como una zapada con desconocides.
+**Zapar** *Argentinismo*.  Actividad no exclusivamente emotiva, donde indivíduos de diferentes actividades, posición económica, preferencias políticas y condición de salud mental, coinciden de manera intencional o accidental, en un entorno espaciotemporal dado, para ejecutar música.  A esas condiciones iniciales se pueden agregar otras, de caracter no condicionantes, a saber: ingesta alimenticia y-o alcohólica, conocimiento sobre teoría musical, incluso la ejecución correcta de instrumentos.   Pocas actividades lúdicas aportan a la producción de endorfinas como una zapada con desconocides.
+
 
 **Zarpado**  *Adj*.  Este tan curioso como bello adjetivo, nace a fines de siglo XX en esa tierra fértil para el idioma que es el conurbano bonaerense.  Alude a desmesura en el objeto o persona aludadida, denotando asombro y admiración por esta, y no como pareciera a simple vista que anuncie la partida de un navío en modo participio pasado. 
 
