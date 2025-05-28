@@ -108,6 +108,10 @@ En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mu
 
 **Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por simpleza narrativa o simple caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
+> Arqueándose yacen los grasofaldezcos huesos, que descansan inertes sobre los hierros paralelos de escasa higiene, escanciad las cráteras simples mortales, convodad a los niños y ancianos. --Odiseo Torres, repasador al hombro, facón criollo en alto.  Brillo ocular producto de la emición de la puesta en escena, posiblemente algo de alcohol aporte algo a la actuación.
+
+> ¡A comer que el tío dice que se pasa el asado!  Desde que lee a Homero está insoportable.  
+
 **Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de **siglo XX**, al tiemp que se llevaban adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
@@ -1181,7 +1185,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Solo voy con mi pene --Radio Bemba.  Manu Chao.
 
-> Ven Estevez, menéese ese endeble Pene!  --Test de vejez.  1934.  Odiseo Torres.
+> Che Estevez, déjese ese endeble Pene!  --Test de vejez.  1934.  Odiseo Torres.
 
 **Persona**  *Lat. Persona y este del Etrusco Phersu y posiblemente este el Gr. Prosopon πρόσωπον* pros, adelante y opos, cara. Para sonar, para hacer sonar.  Alude a la máscara que utilizaban en el teatro los actores para sus *personificaciones* actuar el papel de su personaje, esto es casi lo que actualmente conocemos con el verbo **caretear**.  Los actores cambiaban de máscaras para mostrar sus estados de ánimo.  De aquí que suponemos la existencia, en todos los indivíduos, de una vida pública, una privada y una secrecta.  El psicoanálisis ha definido como neurosis al resultado de esas divisiones, cuanto mas separadas están esas vidas, mas neuróticos son sus usuarios.
 
@@ -1213,7 +1217,7 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 
 **Posponer**  Existe la creencia errónea de la necesidad de posponer la felicidad, o escribir ese libro, o decirle a ella que la amas.  Tarde, siempre tarde, descubrimos que no conviene posponer nada, ni los pedos porque el tiempo no para.  El discípulo apóstata de Freud, Karl Jung, recomendaba el uso del I Ching a sus pacientes, a la hora de tomar decisiones podatadas o demoradas en resolver.  Si se demoró esa toma de decisión indica que el yo no está muy seguro y peor que elegir un mal camino es no tomar ninguno.  En el peor de los casos, la culpa la pasa a tener el destino y no el yo.
 
-**Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas, justo antes que el tío comience con los comentarios políticos y con ello los sillazos, por lo que conviene apurar siempre los postres.
+**Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas.  Se recomienda apurarlos, mientras el tío piola esté callado, justo antes que comience con los comentarios contra los fachos cornudos y con ello los sillazos, es lo que observamos en el apurado comportamiento alimenticio de las generaciones mas viejas.  
  
 **Porno**  Primer puesto en el buscador global Google.  Le sigue inmediatamente después **Ponro**. Explicaría, en gran medida, la ola de triunfos de derecha en el mundo.
  
@@ -1297,11 +1301,13 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
  
 > Si quieres decir una verdad hazlos reir, de lo contrario te matarán.  --Oscar Wilde.
 
-**Rico**  Riqueza, del gótico *reiks* y este aparentemente del sánscrito *rajan*.  Por como se desarrolla y evoluciona el vocablo, entendemos que rico es anterior a riqueza.  Copioso, exuberante, mucho, exceso, etc.  Lo cual hace pensar que la condición de rico, es anterior a la obteción de riquezas.  Luego, contrario a la opinión popular, no es quien genera riqueza, sino quien acumula riquezas, si las generara se llamaría trabajador.  Prueba irrefutable de esto es que puede ser exitosa una economía sin ricos, como es el caso de la mayor economía del siglo XXI, China, mientras que no existe producción de riqueza cuando los trabajadores no pueden trabajar, como verificamos durante la pandemia del Covid 19.  
+**Rico**  Riqueza, del gótico *reiks* y este aparentemente del sánscrito *rajan*.  Por como se desarrolla y evoluciona el vocablo, reforzado en eso que conocemos como sentido común, entendemos que la condición de rico es anterior a la producción de riqueza.  Copioso, exuberante, mucho, exceso, etc.  Luego, contrario a la opinión popular, rico no es quien **genera** la riqueza, sino quien **acumula** riquezas, si las generara se llamaría trabajador.  Prueba irrefutable de esto es que puede ser totalmente viable y exitosa una economía sin ricos, como lo demuestra el caso de la mayor economía del siglo XXI, China, mientras que, por el contrartio, no existe producción de riqueza cuando los trabajadores no pueden trabajar, como verificamos durante la pandemia del Covid 19.  Aprendizajes que demoran poco en desaparecer merced a toneladas de operaciones de prensa y películas de navidad de Netflix. 
 
-**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  
+**Ridículo**  *Adj. Lat. Retículus, redecilla*  Esta era una bolsa pequeña que llevaban las mujeres de la sociedad a fines de siglo XVIII.  Por su rareza o extravagancia, puede mover a risa.  En latitudes meridionales de la provincia de Córdoba se utiliza precedido del imperativo que llama a silencio.
+
+> Caiate, redículo.
  
-**Ridiculez**. Unica virtud de un fascista.
+**Ridiculez**. Unica virtud de un fascista.  
 
 **Ritmo**  *Lat. Rhythmus y este del Gr. ῥυθμός fluir*.  Posiblemente se deba a esto que el algoritmo acusa un flujo.  Orden acompasado de acontecimientos.  En la trilogía de elementos obligatorios que componen la música, este es el único tenido en cuenta en la producción del Reguetón, con el perdón de la palabra.  Tanto Armonía, como Melodía, son absolutamente ignoradas.  La existencia de elementos no obligatorios como el *buen gusto* y el *asombro*, intensifican la carencia de estímulos al cerebro.
  
@@ -1356,11 +1362,11 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 **Sexy**  *Ing. Sex*. Se refiere con este adjetivo a aquello que despierta la sensualidad.  Asistimos a tiempos en que para vender dentífrico la publicidad muestra un cuerpo femenino, valiéndose de la supremacía estética de estas por sobre el sexo masculino.
 
-> Una mujer que al bajar por una escalera, el tajo de la pollera muestra apenas el elástico de su media de encaje, es sexy, un hombre que se agacha en el capó del auto a revisar la batería y deja ver la línea que divide sus nalgas, no es sexy.  Una mujer que en una conversación corrige ligeramente la posición del bretel del corpiño, es sexy; un hombre que mete una mano al bolsillo del pantalón para acomodar un testículo, no es sexy. --Eda Bustamente. 
+> Una mujer que al bajar por una escalera, el tajo de la minifalda sugiere, muestra apenas el elástico de su media de encaje, es sexy; por el contrario un hombre que se inclina sobre el capó del duna, a revisar un desperfecto cualquiera, al hacerlo deja entrever la línea que divide sus pilosas nalgas, no es sexy.  Una mujer que en una conversación corrige inconsciente y ligeramente la posición del bretel del corpiño, es sexy; un hombre que mete una mano al bolsillo para sacar la tarjeta del transporte urbano y del pantalón, mientras aprovecha el movimiento para acomodar un testículo, no es sexy. --Edda Bustamente. 
  
-**Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social.
+**Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social, de malnacidos incapaces de entender el significado de la palabra empatía.
  
-**Sincretismo** Plagio de mitos que operas nivel religiones.  En lugar de inventar dioses nuevos, esta doctrina elige valerse de otros anteriores, de probada eficacia.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores. 
+**Sincretismo** Plagio de mitos que opera a nivel de religiones nacientes.  Estas no se toman la molestia de inventar dioses nuevos, sino que le agregan capas nuevas de significados.   Este valerse de mitos anteriores, probada eficacia, ha mostrado sobraba eficacia a lo largo de los siglos.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores.  Iglesias franquiciadas al mejor estilo Mc Donnald, pueblan el tercer mundo, en lugar de Starbucs o Subway, solo que en lugar de alimentos venden vida eterna, un bien de bajísima tasa de reclamos.
  
 **Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
  
