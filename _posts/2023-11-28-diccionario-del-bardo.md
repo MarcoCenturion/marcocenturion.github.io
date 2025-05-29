@@ -1159,7 +1159,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones, temidas, sospechadas y esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX, los vendedores ambulantes que circulaban por los barrios llevaban agua, soda, garrafas de gas, plumeros.  Se fué perdiendo, quedan pocas profesiones con este carácter social.
 
-> ¿Quiere que se la ponga?  --Pregunta Odiseo Torres, en sus tiempos de vendedor de garrafas en el Rastrojero, al tiempo que analiza las respuestas *no verbales* de las señoras, bajando las garrafas sobreactuando biceps de musculosa transpirada.
+> ¿Quiere que se la ponga?  --Pregunta cándidadamente Odiseo Torres, en sus tiempos de vendedor de garrafas en su Rastrojero IME azul, caja de madera, al tiempo que analiza las respuestas *no verbales* de sonrisas de señoras que lo observan, bajando las garrafas sobreactuando esfuerlos para trabar biceps detrás de una remera transpirada, al tiempo que restriegan sus manos en el delantal.
+
+> El deiforme Odiseo Torres, corrige la mirada anternativamente al horizonte argentino y al olfato, midiendo si eso que percibe es milanesas, si, se autofesteja la sagacidad, y con puré y agrega.  --No se preocupe señora, yo se la pongo.  --Al tiempo que encara con la prusiana en la mano derecha y la garraba al hombro izquierdo.
 
 **Patria**  *Lat.*  Textualmente, la tierra de los padres.  Ese concepto que trasciende el pacto entre pares de defenderse entre ellos frente a un mal externo, incluye cuidar de los más débiles.  Tan importante es el concepto de Patria, que el origen de toda la literatura occidental trata de un héroe, que parte a una guerra y los veinte años anhelando:  
 
