@@ -104,13 +104,13 @@ Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451
 
 >  ... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on.  --Ray Bradbury.
 
-En realidad, esos revolucionarios memoriosos no recuerdan libros, ni siquiera mundos maravillosos, nos recuerdan el derecho irrenunciable a imaginar.
+Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros, ni siquiera mundos maravillosos, nos recuerdan el derecho irrenunciable a imaginar.  Se niegan a la segunda muerte que sobreviene a aquellos que son olvidados.
 
 **Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por simpleza narrativa o simple caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
 
-> Arqueándose yacen los grasofaldezcos huesos, que descansan inertes sobre los hierros paralelos de escasa higiene, escanciad las cráteras simples mortales, convodad a los niños y ancianos. --Odiseo Torres, repasador al hombro, facón criollo en alto.  Brillo ocular producto de la emición de la puesta en escena, posiblemente algo de alcohol aporte algo a la actuación.
+> Arqueándose yacen los grasofaldezcos huesos, que descansan inertes hasta recién, sobre los hierros paralelos de escasa higiene.  ¡Escanciad las cráteras simples mortales, convodad a los niños y ancianos!  --Odiseo Torres, repasador al hombro, facón criollo en alto.  Brillo ocular producto de la emoción de la puesta en escena, posiblemente algo de alcohol aporte algo a la actuación.
 
-> ¡A comer que el tío dice que se pasa el asado!  Desde que lee a Homero está insoportable.  
+> ¡A comer que el tío dice que se pasa el asado!  Desde que lee La Odisea está insoportable.  
 
 **Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de **siglo XX**, al tiemp que se llevaban adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
@@ -1200,6 +1200,10 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 **Pirca** *Quichua*  Pared o muro hecho con piedras apiladas[^29]. Sabemos que se trató de una costumbre europea, al datar las piedras, deducimos que ninguna nación americana disfrutaba de los beneficios de la propiedad privada, siendo todas las haciendas y cultivos, bienes comunes, *res publicae*, cosa de todos.  La última población realmente libre, según la antropología estructuralista, fueron los cazadores recolectores, como los nativos americanos anteriores a la conquista en el centro de la Argentina.  Vivían en medio de la naturaleza, en las márgenes de corrientes de agua, actividad vedada a los actuales trabajadores en su alucinación colectiva de libertad.  Los **comechingones**, trabajaban en promedio, seis horas semanales.  Este formato de bienes comunes hacía forzaba a aquellos que dedicaran menos de cinco horas semanales, a la caza o la pesca fueran tildados por sus pares como *vagos, planeros o simplemente kukas*.
 
 [^29]:Vengo desde Aimogasta pa las pirquitas.  --Coplas del valle.  Ramón Navarro.
+
+**Pobreza**  *Antagonico de Riqueza*.  
+
+> Entre las virtudes de vivir en el vado del río Suquía, una muy importante era que el río era proveedor de todo.  La creciente nos trajo el primer placard.  --Odiseo Torres.  El barrio San Vicente.
 
 **Poder**  *Lat. Potere que proviene de Potis y Sum "capaz de ser"*.  La verdad es la verdad del poder, la estética es la estética del poder y la bondad es la bondad del poder.  Las normas morales las dictan los que ganaron la guerra.  Japón hacía meses que había perdido la guerra no obstante EEUU lanzó una bomba atómica sobre una población civil, para que sepa el mundo quien es el malo.  Para que no queden dudas, a los tres días, lanzó una segunda contra otra ciudad indefensa.  Asistimos en tiempo real al genocido del pueblo palestino, pero creemos que es de mal gusto hacer chistes sobre judíos.    
 
