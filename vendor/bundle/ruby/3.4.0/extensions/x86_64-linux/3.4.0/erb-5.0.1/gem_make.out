@@ -1,0 +1,18 @@
+current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-bek63y sitelibdir\=./.gem.20250602-55295-bek63y clean
+
+current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-bek63y sitelibdir\=./.gem.20250602-55295-bek63y
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-bek63y sitelibdir\=./.gem.20250602-55295-bek63y install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250602-55295-bek63y/erb
+
+current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-bek63y sitelibdir\=./.gem.20250602-55295-bek63y clean

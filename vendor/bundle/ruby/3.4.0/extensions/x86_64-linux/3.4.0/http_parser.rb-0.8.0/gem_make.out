@@ -3,10 +3,10 @@ current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0
 creating Makefile
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250602-33078-39gael sitelibdir\=./.gem.20250602-33078-39gael clean
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-uourwf sitelibdir\=./.gem.20250602-55295-uourwf clean
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250602-33078-39gael sitelibdir\=./.gem.20250602-33078-39gael
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-uourwf sitelibdir\=./.gem.20250602-55295-uourwf
 compiling ruby_http_parser.c
 ruby_http_parser.c: En la función ‘Parser_alloc_by_type’:
 ruby_http_parser.c:296:3: aviso: ‘rb_data_object_wrap_warning’ es obsoleto: by TypedData [-Wdeprecated-declarations]
@@ -163,8 +163,8 @@ compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250602-33078-39gael sitelibdir\=./.gem.20250602-33078-39gael install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250602-33078-39gael
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-uourwf sitelibdir\=./.gem.20250602-55295-uourwf install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250602-55295-uourwf
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250602-33078-39gael sitelibdir\=./.gem.20250602-33078-39gael clean
+make DESTDIR\= sitearchdir\=./.gem.20250602-55295-uourwf sitelibdir\=./.gem.20250602-55295-uourwf clean

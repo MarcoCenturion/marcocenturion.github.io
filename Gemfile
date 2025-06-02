@@ -15,6 +15,10 @@ gem "ffi", "~>1.15.0"
 gem "minima", "~>2.5.0"
 gem "csv"
 gem "logger"
+gem "webrick", "~>1.8"
+gem "safe_yaml", "~>1.0.5"
+gem "base64"
+gem "erb"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
