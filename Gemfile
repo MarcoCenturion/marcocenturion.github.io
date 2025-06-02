@@ -9,10 +9,12 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.8.5"
+gem "jekyll", "4.3.0"
 gem "jekyll-feed", "~>0.15.0"
 gem "ffi", "~>1.15.0"
-gem "minima", "~>2.1.0"
+gem "minima", "~>2.5.0"
+gem "csv"
+gem "logger"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
