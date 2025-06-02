@@ -24,7 +24,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Acelga**  *Gr. σικελή sikele.  Ar. silqah*.  El español toma el nombre del árabe hispánico assílqa, durante el milenio de ocupación andalusí.  Este a su vez proviene del árabe, que a su vez lo toman del griego, que significa *siciliana* por suponer que estos que la acelga provenía de la isla del Etna.  Este tan curioso como rico derrotero histórico, no termina para nada ah.  Llegado el siglo XXI, en las cuevas de la city se lo utiliza para referirse en código al dólar paralelo, o blue, que en nada condice con el verde flúo de este vegetal.
+**Acelga**  *Gr. σικελή sikele.  Ar. silqah*.  El español toma el nombre del árabe hispánico assílqa, durante el milenio de ocupación andalusí.  Este a su vez proviene del árabe, que a su vez lo toman del griego, que significa *siciliana* por suponer que estos que la acelga provenía de la isla del Etna.  Este tan curioso como rico derrotero histórico, no termina para nada ah.  Llegado el siglo XXI, en las cuevas de la city se lo utiliza para referirse, cripticamente, al dólar paralelo, o blue, que en nada condice con el verde flúo de este vegetal.
 
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien protagonista, esto es, primero y agonistis luchador.  Antagonista es el otro en la batalla, del tipo que esta fuera.
 
