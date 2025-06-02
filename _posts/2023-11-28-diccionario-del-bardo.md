@@ -648,6 +648,14 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 
 **Guagua**  *Sus. Quechua. bebé*
 
+**Guitarra**   *Ar. جيتارا  Gr. κιθάρα khithára, cítara*.  El origen de la literatura occidental se dá en un rápsoda ciego, que compila las historias de unos navegantes, este pide a la diosa que cante las desventuras del *pélida Aquiles*.  Al parecer, estas historias de tradición oral, acompañadas de cítaras, eran cantadas por narradores que enriquecían el contenido de la letra y de la música, de uso común y licencia GNU.  Evidencia empírica da cuenta de khitaras mas de dos mil años antes de la era común.  Otro de los ninguneados aportes a la cultura mundial, de prate de los pueblos de medio origente, que llegan a Europa a partir de los mil años de ocupación Omeya.  Luego deducimos que la civilización puede prescindir de algunas actividades humanas como la intermediación bancaria, el cripto tradding o los influencers pokemonenses, pero no de guitarristas y narradoreso.  O incluso gente peor.
+
+Los diez de Marzo se celebra el día del guitarrista en Argentina en homenaje a Norberto Anibal Napolitano.  
+
+> Es conveniente tener la guitarra siempre a mano, visible, para recordar que la felicidad es una cuestión volitiva.  Si no fuera por ella, yo hubiera muerto sin dejar descendencia.  --Sisoco García. 
+
+> Una guitarra mas es un fusil menos.  --Facundo Cabral.
+
 ## H
 
 **Haiku**  *Jap.*  Ideogramas caprichosamente dispuestos de manera vertical.  Hay algo de felicidad al verlo.  Dá el lector con unas imágenes curiosas en blanco y negro.  Al igual que toda experiencia interesante de la vida, requiere paciencia y segundas oportunidades, como el cilantro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
