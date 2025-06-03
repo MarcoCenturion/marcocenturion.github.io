@@ -989,7 +989,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Mate**  Infusión que no solo es un alimento, sino un aglutinador social.  Toda buena historia, en ciertas puntos de Sudamérica, comienzan en un mate.  Muchas otras, se resuelven entre mates.  Debemos al único gobernador indígena de la Argentina, de la provincia de Msisiones, la viralización de esta costumbre guaraní.  Se consumen alrededor de cien litros de mate per capita en Argentina, con la excepción de ciertos territorios especiales, como queda documentado a continuación.
 
-> En Córdoba el mate se toma con agua tibia, edulcorante, yerba compuesta y reguetón de fondo.  --Este hecho posiblemente colabore en la comprensión de resultados electorales.  --Los resultados electorales y los consumos tóxicos.  Sisoco García.  2016.
+> En la mediterránea provincia de Córdoba, el mate se ceba con agua apenas tibia, edulcorante, yerba compuesta y reguetón de fondo.  --Antropología de resultados electorales.  UNC.  Sisoco García.  2016.
 
 > El mate es la calefacción de los pobres.  --María, amiga de Pinpín.
 
