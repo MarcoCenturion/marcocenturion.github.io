@@ -2,7 +2,7 @@
 layout: blog
 title: 'El asedio final a la amurallada fortaleza de los quemantucas'
 date: 2024-10-02 19:41:34
-categories: blog, estupidez.
+categories: blog estupidez
 tags: Paradoja, Inteligencia Militar.
 image: '/images/soldadezca.jpg'
 lead_text: 'Inteligencia militar, un contrasentido interesante.'

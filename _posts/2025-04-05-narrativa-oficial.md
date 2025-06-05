@@ -2,7 +2,7 @@
 layout: blog
 title: 'La política narrada como cuento de terror'
 date: 2024-12-05 11:41:34
-categories: apestoso, blog, política
+categories: apestoso blog política
 tags: Cuento, Casciari, Cortazar, Poe, Quiroga.
 image: '/images/Marco.jpg'
 lead_text: 'El cuento en realidad son dos narraciones superpuestas'

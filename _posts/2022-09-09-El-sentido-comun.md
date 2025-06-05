@@ -2,7 +2,7 @@
 layout: blog
 title: 'La construcción del sentido común'
 date: 2022-09-09 11:41:34
-categories: blog
+categories: blog política estupidez
 tags: Linux, política, poesía.
 image: '/images/default.jpg'
 lead_text: 'La inversión de la Prueba.'

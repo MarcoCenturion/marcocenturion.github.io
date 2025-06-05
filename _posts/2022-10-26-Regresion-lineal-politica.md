@@ -3,7 +3,7 @@ layout: blog
 title: 'La Regresión Lineal Matemática aplicada a la Política'
 date: 2022-03-26 19:41:34
 categories: blog
-tags: Fascismo, derecha, bancos, economía.
+tags: fascismo derecha bancos economía
 image: '/images/default.jpg'
 lead_text: 'Los miedos publicitarios.'
 ---
