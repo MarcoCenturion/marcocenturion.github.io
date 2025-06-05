@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'La construcción del sentido común"
+title: 'La construcción del sentido común'
 date: 2022-09-09 11:41:34
 categories: blog
 tags: Linux, política, poesía.
