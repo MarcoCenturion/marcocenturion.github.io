@@ -3,16 +3,16 @@ current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0
 creating Makefile
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-mpvi1i sitelibdir\=./.gem.20250605-196263-mpvi1i clean
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-fk797f sitelibdir\=./.gem.20250605-319372-fk797f clean
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-mpvi1i sitelibdir\=./.gem.20250605-196263-mpvi1i
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-fk797f sitelibdir\=./.gem.20250605-319372-fk797f
 compiling escape.c
 linking shared-object erb/escape.so
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-mpvi1i sitelibdir\=./.gem.20250605-196263-mpvi1i install
-/usr/bin/install -c -m 0755 escape.so ./.gem.20250605-196263-mpvi1i/erb
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-fk797f sitelibdir\=./.gem.20250605-319372-fk797f install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250605-319372-fk797f/erb
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-mpvi1i sitelibdir\=./.gem.20250605-196263-mpvi1i clean
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-fk797f sitelibdir\=./.gem.20250605-319372-fk797f clean

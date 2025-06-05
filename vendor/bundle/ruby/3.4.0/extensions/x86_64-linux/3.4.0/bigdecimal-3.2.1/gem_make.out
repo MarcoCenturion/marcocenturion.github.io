@@ -28,17 +28,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-wgc192 sitelibdir\=./.gem.20250605-196263-wgc192 clean
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-q959g9 sitelibdir\=./.gem.20250605-319372-q959g9 clean
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-wgc192 sitelibdir\=./.gem.20250605-196263-wgc192
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-q959g9 sitelibdir\=./.gem.20250605-319372-q959g9
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-wgc192 sitelibdir\=./.gem.20250605-196263-wgc192 install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250605-196263-wgc192
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-q959g9 sitelibdir\=./.gem.20250605-319372-q959g9 install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250605-319372-q959g9
 
 current directory: /home/marco/marcocenturion.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250605-196263-wgc192 sitelibdir\=./.gem.20250605-196263-wgc192 clean
+make DESTDIR\= sitearchdir\=./.gem.20250605-319372-q959g9 sitelibdir\=./.gem.20250605-319372-q959g9 clean
