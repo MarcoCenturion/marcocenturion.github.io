@@ -2,7 +2,7 @@
 layout: blog
 title: 'El asedio final a la amurallada fortaleza de los quemantucas'
 date: 2024-10-02 19:41:34
-categories: blog estupidez
+categories: blog, estupidez.
 tags: Paradoja, Inteligencia Militar.
 image: '/images/soldadezca.jpg'
 lead_text: 'Inteligencia militar, un contrasentido interesante.'
@@ -14,59 +14,53 @@ Altivos y valientes marchan los últimos hombres del general **Jürgen Slamastik
 
 Merma la soldadesca de forma alarmante, producto de la última hambruna.
 
-Mientras un sector adivinó una audaz iniciativa oficial, orientada a reducir el peso corporal promedio de la tropa, el antagonista descubrió la realidad una **grave desinteligencia logística**.  Cosas que pasan.
+Mientras cierto sector del comando mayor superior supuso una audaz iniciativa oficial, orientada a reducir el peso corporal promedio de la tropa, el antagonista, en cambio, descubrió en realidad una **grave desinteligencia logística**.  Cosas que pasan.
 
 La insanía, la pocombría, la megalomanía, los programas de Badía, socaban tanto la moral de la tropa como las posibilidades poéticas.
 
-Detalles nimios al vulgo son motivo de **berrinche histérico** de parte de la soldadesca. 
+Detalles nimios al vulgo son motivo de **berrinche histérico** de parte de la soldadesca bravía, rima consecuente en lo fonético, con la imagen anterior, pero no con los significados. 
 
-Ni bien termina la queja envidiosa por los entallados uniformes del enemigo, comienza el *susurro de pasillo* por el corte de las calzas, o el levantamiento de ojos por el color de los subfusiles que ofenden el intelecto y la hombría del General.
+Ni bien termina la queja envidiosa por los entallados uniformes del enemigo, comienza el *susurro de pasillo* por el corte de las calzas, o el levantamiento de ojos por el color de los subfusiles que ofenden el intelecto y la hombría del General.  
 
 > ¿Porqué siempre Negros? --Aclara la voz un mando medio, *thinking out of the box*.  
 
-> Como se nota que el enemigo tiene gente que se preocupa **De verdad** por lo que quieren sus soldados. 
+> Como se nota que el enemigo tiene gente que se preocupa **de verdad** por lo que quieren sus soldados. 
 
-Alza la voz un subalterno ojeando un **Especial Vogue** sobre tendencia militar para el verano boreal.  ¿Vuelve el chocolate?
+Alza la voz un subalterno, al tiempo que va ojeando un **Especial Vogue** sobre tendencia militar para el verano boreal.  ¿Vuelve el chocolate en composé con el pistacho?
 
-> Ese pañuelo rosa chicle, realza el durazno de las botas.   --Otro infante apunta con el índice demasiado arqueado sobre la hoja, estirando el cuello y simulando un pañuelo con círculos concentricos sobre los hombros.
+> Ese pañuelo rosa chicle, realza el durazno de las botas.   --Otro infante apunta con el índice sobreactuado sobre la hoja, estirando el cuello al tiempo que dibuja un pañuelo de círculos concentricos sobre los hombros, con la mano izquierda.
 
 No menos nocivos son el *Netflix* o el *Tictoc*, distraedores de los buenos hombres haciendo guardia.
 
 A las frecuentes deserciones, se sumó días atrás un grave incidente, un batallón completo, perdido en la espesura del monte jugando a **La Escondida**. 
 
-Serios informes de auditoría, adjudicaron el origen del problema, tal vez urgidos tal vez por esbozar una teoría, al excesivo alarde del uso del camuflaje.  Un sector antagónico, a una impericia cartográfica o falta de pilas en el gps; cuando todo apunta a que solo se tratara de abuso de tóxicos lúdicos por parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incluso disfrutada.  
-Retumba aún la varonil voz del **Primer Teniente Patricio Del Coso**, gritando al poniente nombres de integrantes del batallón, al azar, con la vana esperanza de ver surgir las sonrisas detrás de una brea, un chañar, un palam palam o un helecho serrucho:
+Serios informes de auditoría, adjudicaron el origen del problema, urgidos tal vez por esbozar una teoría, al excesivo alarde del uso del camuflaje.  Un sector antagónico, a una impericia cartográfica o falta de pilas en el gps; cuando todo apunta a que solo se tratara de abuso de tóxicos lúdicos por parte de la oficialidad al mando del grupo, conducta por todos sabida y tolerada.  Muchas veces, incluso disfrutada.  
+Retumba aún la varonil voz del **Primer Teniente Patricio Del Coso**, gritando al poniente nombres de integrantes del batallón, al azar, con la vana esperanza de ver surgir las sonrisas detrás de una brea, un chañar, un palam palam, un chañar o un helecho serrucho:
 
-> Pietrabuona, Dani Alves.  Resistencia, Chaco!  ¡Lo vi soldado!
+> Pietrabuona, Dani Alves.  Resistencia, Chaco!  ¡Lo vi soldado!  --Nada.  Silencio absoluto.
 
 > Arroyo Maldonado, Luis Enrique.  Monte Quemado, Santiago del Estero.  Paso al frennnn ... te.  De frenteee.  ¡Mar!.
 
 > Cansamelbaso, Aníbal.  Localización IDEM.  Salga.  Es una orden.
 
-Nada, silencio absoluto, aún pasadas la hora de las tortas fritas.  Esto ya toma ribetes preocupantes.
+Desiste el primer teniente, pasadas la hora de las torta fritas.  ¡Esto ya toma ribetes preocupantes!  Piensa, recapacita mirando el excedente de azucar en la colasión criolla.  Ahorra energía evitando repeticiones cartográficas, por lo que agrupa apellidos de soldados de las mismas localidades.
 
-Ahorra energía evitando repeticiones cartográficas, por lo que agrupa apellidos de soldados de las mismas localidades.
-
-El General Slamastik comanda algo mas que despojos de lo que otrora fuera un ejército invencible, ejemplo de gallardía en la región.
-
-Cuentos, poemas, óleos y hasta piezas musicales, aun recuerdan proezas bélicas y amores dejados al paso de la tropa.  A un suboficial de este regimiento, se le adjudica la composición de una zamba, en homenaje a un noviazgo breve, antes de la batalla.  Dos horas.  El noviazgo.  La batalla duró algo mas.
+El General Slamastik comanda algo mas que despojos de lo que otrora fuera un ejército invencible, ejemplo de gallardía en la región.  Se ensimisma el general, o se ensisisma.   Vienen a él cuentos, poemas, óleos y hasta piezas musicales, aun recuerdan proezas bélicas y amores dejados al paso de la tropa, de glorias pasadas.  A un suboficial de este regimiento, se le adjudicó, años atrás, la composición de una zamba, en homenaje a un noviazgo breve, antes de la batalla.  Dos horas.  El noviazgo.  La batalla duró algo mas.
 
 Noviazgo perteneciente a ese preciso *esquema afectivo* que algún sector de la clínica denomina **amor express**. 
 
-La zamba carpera **La Humectada**.   Endecasílabo en octavos mayores, centrado en la llegada de la niña al batallón, en medio del aguacero.
+La milonga **La Humectada**.  Endecasílabo en octavos mayores, centrado en la llegada de la niña al batallón, en medio del aguacero.
 
-Escuchando la zamba es casi verla, remera roja con un Círculo y una "A" negligente y tangencial, pañuelo verde proderechoso, a tono con el cabello.
+Escuchando la zamba es casi verla, remera roja con un Círculo y una **A** negligente y tangencial, pañuelo verde proderechoso, a tono con el cabello.
 
 Mirada mas firme que toda la tropa.  Bandera de cuadritos multicolor, gritando algo extemporáneo, quillapayunesco:
 
 >"... Y tu vendrás, marchando junto a mi...
 >la luz de un rojo amanecer... "
 
-Marchan los hombres de Slamastik al asedio final de la fortificada ciudadela de los quemantucas, pueblo célebre entre sus enemigos por su hostil comercio verbal, su literatura idealista y su incipiente, aún, turismo gastronómico.
+Apuran la marcha los hombres de Slamastik, al asedio final de la fortificada ciudadela de los quemantucas, pueblo célebre entre sus enemigos por su hostil comercio verbal, su literatura idealista y su incipiente, aún, turismo gastronómico.
 
-Llama poderosamente la atención la práctica que los sociólogos estructuralistas bautizaron **"Filantropía de lo Ajeno"**.
-
-Encuentran los locales, un extraño placer en la bajeza discursiva hacia los pueblos vecinos, en la chanza grosera que tantas vidas cobrara en propios y ajenos, cual teucros y aqueos "a los pies de la bien amurallada Ilión".
+Los sociólogos estructuralistas bautizaron **Filantropía de lo Ajeno** al comportamiento de los quemantuqneses, además de disfrutar de ese patológico placer en la bajeza discursiva hacia los pueblos vecinos, en la chanza grosera que tantas vidas cobrara en propios y ajenos, cual teucros y aqueos *a los pies de la bien amurallada Ilión*.
 
 Placer que atenta con los planes oficiales de incrementar el Turismo Receptivo. 
 
