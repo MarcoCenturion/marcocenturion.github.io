@@ -1485,6 +1485,10 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Si nos detenemos un segundo en la definición, caeremos inevitablemente en la conclusión que toda vestimenta es disfraz, es  una toma de posición.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
  
 > Cuando muera os suplico, no me obligen a entrar al horno crematorio de traje, no vaya que dios exista y tenga que vagar una eternidad ataviado de sorete, prefiero zunga atigrada, sil vous plais.  --Odiseo Torres, fecundo en ardides.
+
+**Tristeza** *Lat. tristis y de allí tristitia*.   Pasión de cabotaje.  Ya Baruch Spinoza denigraba a quienes son *presa de pasiones tristes*, puesto que solo reciben tristeza por toda contraoferta.  Lacan nos acerca la idea de la alegría especular, a modo de espejo, que nos refleja la mirada del amor del otro.  Quienes son presa de pasiones tristes no contarán nunca con ese don.   Se trataría solo de una cobardía moral, según este.
+
+> No existen revolucionarios pesimistas ni tristes.  --Rómulo, de Iponá.
  
 ## U 
  
