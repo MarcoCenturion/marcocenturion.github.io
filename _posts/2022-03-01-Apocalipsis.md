@@ -3,7 +3,7 @@ layout: blog
 title: 'Apocalipsis'
 date: 2022-03-26 19:41:34
 categories: blog
-tags: Linux, Ludovica, Horangel, Lluvias de inversiones.
+tags: Linux Ludovica Horangel Inversiones.
 image: '/images/default.jpg'
 lead_text: 'Los miedos publicitarios.'
 ---
