@@ -1489,6 +1489,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Tristeza** *Lat. tristis y de allí tristitia*.   Pasión de cabotaje.  Ya Baruch Spinoza denigraba a quienes son *presa de pasiones tristes*, puesto que solo reciben tristeza por toda contraoferta.  Lacan nos acerca la idea de la alegría especular, a modo de espejo, que nos refleja la mirada del amor del otro.  Quienes son presa de pasiones tristes no contarán nunca con ese don.   Se trataría solo de una cobardía moral, según este.
 
 > No existen revolucionarios pesimistas ni tristes.  --Rómulo, de Iponá.
+
+> Tristeza, por favor vai embora, a minha alma que chora, está vendo o meu fim.  --Vinicius de Moraes.
  
 ## U 
  
