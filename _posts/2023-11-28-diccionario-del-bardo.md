@@ -526,6 +526,8 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 **Eternidad**  *Lat. aeternitas aevum tiempo y -ter comparativo y -dad calidad de.*  Aquello que no tiene principio ni fin.  En la promesa del cielo o el infierno eterno, el horror proviene no del sustantivo sino del adjetivo.  Lo realmente aterrador no es el mal o el bien sino el concepto central de la eternidad.   
 
+> La eternidad es hoy, para cantar y derrotar al tiempo.  --El Valle y el Volcán.  María Elena Walsh.
+
 **Ex**  *Lat.*. Que perdió todo tipo de encantamiento.  Se alcanza está condición por varias razones, una de estas es abusar del bello arte de la *sordera selectiva*. 
 
 **Evento**  *Lat. eventus*.  Originalmente un hecho imprevisto o de realización inciera o contingente, luego, todo aquello que pueda suceder.  Ahora, quedaría vedado el uso en tiempo pasado, puesto que lo que era incierto, ya sabemos a ciencia cierta si sucedió o no, puesto que ya perdió su caracter de incierto o eventual.  De allí la imposibilidad de la frase.
@@ -1119,10 +1121,6 @@ Existe otro No, el de la poesía.
 
 **Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  *Todos los colectivos los dejan cerca*.  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores.  El antropólogo Marvin Harris sugiere que ingerimos conceptos y no alimentos.
 
-**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  Pululan supernumerarios en los mas diversos ámbitos, guardando especial predilección por puestos en el estado y los medios masivos de difusión, suele vérselos en otros ámbitos como el turismo y el rugby.   Fruto de esta combinación es dimos con un muchacho al que apodaban tractor, ante la consulta del porque, la respuesta era simple:
-
-> Grandote, pesado y de pocas luces.
-
 **Ojalá**  *Castellano antiguo Oxala, del Ar. hispánico لَوْ شَاءَ اللّٰه (law šá lláh, "si Dios quisiera"), este del árabe لو شاء الله (law-šā’ allāh, "quiera Dios")*  Una de las palabras mas bellas de nuestro idioma tiene su origen en la Andalucía ocupada.  Fue grito de resistencia en los ochenta, su par antagónico hoy es "se dobadon todo"
 
 > Ojalá pase algo que te borre de pronto.  --Silvio Rodriguez.
@@ -1138,6 +1136,12 @@ Existe otro No, el de la poesía.
 > Esto se lo darás a alquien muy especial, en circunstancias muy especiales y luego de mucha insistencia.  Nunca lo ofrezcas.  Por grotezco que suene, se trata de la opinión.
 
 **Opinión pública**  Sentido común organizado y distribuído por los medios dominantes.  La agenda, la opinión, la razón, el sentido común, la fé siempre son los del poder de turno.
+
+**Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  Pululan supernumerarios en los mas diversos ámbitos, guardando especial predilección por puestos en el estado y los medios masivos de difusión, suele vérselos en otros ámbitos como el turismo y el rugby.   Fruto de esta combinación es dimos con un muchacho al que apodaban tractor, ante la consulta del porque, la respuesta era simple:
+
+> Grandote, pesado y de pocas luces.
+
+**Orko**   Su dieta está basada en harina de maiz hervida, conocida en el vulgo orko con el nombre de **polenta**.  Estos se esfuerzan por tomar el poder para cambiar esta dieta por el asado y el vino en caja.
 
 **Oro** *Lat Aurun*  La mayor y más feliz de las utopías.  A lo largo de los siglos civilizaciones completas han sido víctimas de su embrujo.  El rey **Midas** solicita a los dioses que lo auxilien para convertir todo lo que tocara en Oro, con las consecuencias que todos sabemos.  El oro es el patrón para medir la estupidez humana.  Llegado a un punto en las obras del Canal de Panamá, los gringos dan con un problema técnico, destruir una montaña llevaría mucho tiempo y dinero -muchísimo-.  Para resolverlo de manera simple inventan, o pagan, o ambas cosas, una nota en el **New York Times**.  Por una ínfima parte de de los millones de dólares prespuestados el periódico titula en tapa.
 
@@ -1240,6 +1244,8 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 > In principio erat Verbum, et Verbum erat apud Deum.
 
 La palabra es un milagro, máxime si admitimos que esa frase la dijo un pescador.
+
+**Polenta**  Alimento popular hecho a base de harina de maiz, molido de manera muy fina, que simula el polen, a lo que posiblemente deba su nombre.  Es el cereal con mayor aporte proteínico, al igual que varias culturas americanas, que también basaron su alimentación en tortillas, arepas, motes, humitas, locros, mazamorras y un larguísimo etcétera aromas y sabores, que devuelven al lector, lectora a esa patria privada que es la infancia.  Base de supervivencia de todo el continente Americano, a la par del zapallo y las habas.  Se lo suele usar de modo peyorativo, por parte de las elites gringas, para referirse a las clases populares, lo que no solo desnuda tanto su cortedad intelectual, como su etnocentrismo.  Tanto es el aporte de proteinas, que pronto se convierte en adjetivo de potencia.  En la mediterránea Córdoba la **o** original troca a **u**, por razones que desconocemos, que se utiliza para resaltar cualidades de un tercero que lindan con la envídia: **negro pulenta**.  Friederich Engels en su obra sobre la familia, la propiedad privada y el estado, nos cuenta que América contaba con el mejor cereal pero casi no teníamos ganadería.  Esto que en principio pareciera una desventaja, nos emparenta a milenarias culturas del mundo que carecen de proteinas animales como en la India o el Japón.      
 
 **Poncho** *Quechua.*  Frazada.  El poncho es vestimenta de día y abrigo de la cama por la noche.  El Rulo llamaba al sol hiperiónida con la metáfora *el poncho de los pobres*.   
  
