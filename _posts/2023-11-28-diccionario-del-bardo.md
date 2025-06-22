@@ -1119,7 +1119,7 @@ Existe otro No, el de la poesía.
 
 > Ojalá pase algo que te borre de pronto.  --Silvio Rodriguez.
 
-**Ojota** *Quechua, Usuta[^54].*  Calzado simple documentado en el gato popular:
+**Ojota** *Quechua, Usuta.* [^54] Calzado simple documentado en el gato popular:
 
 [^54]: En la asamblea que declara la independencia de España, Tucumán 1816, un sector importante de la intelectualidad propuso una monarquía como modo de gobierno con un rey descendiente de los Incas. Representantes de las familias patricias pusieron el grito en el cielo al visualizar un *"rey en ojotas"*.   
 
@@ -1129,7 +1129,7 @@ Existe otro No, el de la poesía.
 
 > Esto se lo darás a alquien muy especial, en circunstancias muy especiales y luego de mucha insistencia.  Nunca lo ofrezcas.  Por grotezco que suene, se trata de la opinión.
 
-**Opinión pública**  Sentido común organizado y distribuído por los medios dominantes.  La agenda, la opinión, la razón, el sentido común, la fé siempre son los del poder de turno.
+**Opinión pública**  Sentido común organizado y distribuído por los medios dominantes.  La agenda, la opinión, la razón, el sentido común, la fé, el criterio de lo bueno y malo, la belleza, la salud, siempre son los del poder de turno, se los engloba a todos estos en el sustantivo compuesto sentido común.
 
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  Pululan supernumerarios en los mas diversos ámbitos, guardando especial predilección por puestos en el estado y los medios masivos de difusión, suele vérselos en otros ámbitos como el turismo y el rugby.   Fruto de esta combinación es dimos con un muchacho al que apodaban tractor, ante la consulta del porque, la respuesta era simple:
 
