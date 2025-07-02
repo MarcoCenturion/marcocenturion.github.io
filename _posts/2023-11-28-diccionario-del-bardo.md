@@ -100,25 +100,27 @@ Luego de una ligera pausa agrega:
 
 > Ningún artista tolera la realidad  --Friedrich Niesztche.
 
-> No te burles de tus padres por sus magros progresos en adaptarse a la tecnología, recuerda siempre que ellos te enseñaron a utilizar la cuchara y la pelela.
+> No te burles de ancianos y sus magros progresos en adaptarse a la tecnología, recuerda siempre que ellos te enseñaron, con mucho amor, a utilizar la cuchara y la pelela.
 
 Uno de los memoriosos revolucionarios, al final de la distópica *Farenheith 451* de Bradbury, recuerda a su abuelo, no a la persona, sino a todas las cosas que perdio el mundo, al vacío que deja con su muerte.
 
 >  ... He shaped the world. He did things to the world. The world was bankrupted of ten million fine actions the night he passed on.  --Ray Bradbury.
 
-Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros, ni siquiera mundos maravillosos, nos recuerdan el derecho irrenunciable a imaginar.  Se niegan a la segunda muerte que sobreviene a aquellos que son olvidados.
+Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros, ni siquiera mundos maravillosos, no es un recuerdo sino una advertecia sobre el derecho irrenunciable a imaginar.  Se niegan a la segunda muerte que sobreviene a aquellos que son olvidados.
 
-**Asado** *Sus.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por simpleza narrativa o simple caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.
+**As**  *Lat. Assis*.  Naipe con valor uno, o cara del dado con un solo punto.  As fué la primera moneda en la monarquía romana.  Pasan los siglos y se acuñan denarios de plata, bronce y cobre.  El as para tiempos de la repúbica fue una moneda de muy escaso valor.
 
-> Arqueándose yacen los grasofaldezcos huesos, que descansan inertes hasta recién, sobre los hierros paralelos de escasa higiene.  ¡Escanciad las cráteras simples mortales, convodad a los niños y ancianos!  --Odiseo Torres, repasador al hombro, facón criollo en alto.  Brillo ocular producto de la emoción de la puesta en escena, posiblemente algo de alcohol aporte algo a la actuación.
+**Asado** *Lat. assare, assus de arder, seco en su participio pasado.*  En su infancia de sustantivo, asado fué el adjetivo que acompañaba al sustantivo carne.  Carne asada.  Por simpleza narrativa o simple caprichos rioplatenses, adquiere entidad propia y calidad de sustantivo *per sé*.  Otros idiomas prefieren el germánico rosten en el roast inglés, el rostizar español, o el arrostire italiano.  
 
-> ¡A comer que el tío dice que se pasa el asado!  Desde que lee La Odisea está insoportable.  
+> Arqueándose yacen los grasofaldezcos huesos, descansaron inertes hasta recién, sobre los ígneos hierros paralelos, de escasa higiene.  ¡Escanciad las cráteras simples mortales, convodad a los niños y ancianos!  --Odiseo Torres, repasador al hombro, facón criollo en alto.  Brillo ocular producto de la emoción de la puesta en escena, posiblemente algo de alcohol aporte también a la actuación.
+
+> ¡A comer, el tío dice que se pasa el asado!  Desde que lee La Odisea está insoportable.  
 
 **Atorrante**  Ser mitológico aparecido en Buenos Aires, a principios de **siglo XX**, al tiemp que se llevaban adelante infinidad de obras de infraestructura, los inmensos caños cloacales para toda la red tenían inscripta la leyenda **A. Torrant** aparentemente de la firma catalana constructora.  Ahí encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo.   
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
 
-**Autopsia**  *Gr. Autos uno mismo y ops observar*.  Sinónimo, al parecer, de introspección, pero de dudoso éxito al imaginar bisturíes en el propio cuerpo.  Encontramos los orígenes de esta última, en los **misterios mayores elusinos**.  Allí se anoticiaba a los candidatos atenienses -ansiosos y ansiosas de toda condición social y género, que esperan por este ritual durante toda la vida- que comenzaran con un ayuno el día anterior, cual si una colonoscopía fuera[^103].  Lo seguía una caminata a la mañana siguiente, hasta llegar al templo de las diosas de la agricultura y la fertilidad en la vecina Eleusis, distante unos 40 km.  Una vez allí, un *tutor amigable*, entregaba un trago largo llamado κυκεών para el brindis al tiempo que repartía el cotillón, dando comienzo así al carnaval carioca, cual casorio a las tres AM, *otra cerveza voy a tomar*, seguido de *de reversa mami*, luego el *como le digo a mi mujer*, y todo el resto de las danzas en honor a Deméter y Perséfone, acompañado siempre de barra libre pero ya no del tóxico secreto.  Una prohibición muy importante alcanzaba a esos iniciados.  Quienes la violaban se arriesgaban a la muerte o el destierro, aún peor que la pena anterior.  **Contar que había pasado**, como en *Fight Club*, solo que mas efectiva, puesto que llega muy poca infomación -casi nada- a la actualidad.  Todes aseguraban comenzar una vida mas plena luego de esta *experiencia mística*.  El sincretismo católico plagia la marcha, troca la denominación por **peregrinación** y elimina paulatinamente todo vestigio de alegría.  En el siglo VI se prohiben definitivamente, por graves faltas al decoro y el pudor.
+**Autopsia**  *Gr. Autos uno mismo y ops observar*.  Sinónimo, al parecer, de introspección, pero de dudoso éxito al imaginar bisturíes en el propio cuerpo.  Encontramos los orígenes de esta última, en los **misterios mayores elusinos**.  Allí se anoticiaba a los candidatos atenienses -ansiosos y ansiosas de toda condición social y género, que esperan por este ritual durante toda la vida- que comenzaran con un ayuno el día anterior, cual si una colonoscopía fuera[^103].  Lo seguía una caminata a la mañana siguiente, hasta llegar al templo de las diosas de la agricultura y la fertilidad en la vecina Eleusis, distante unos 40 km.  Una vez allí, un *tutor amigable*, entregaba un trago largo llamado κυκεών para el brindis al tiempo que repartía el cotillón, dando comienzo así al carnaval carioca, cual casorio a las tres AM, *otra cerveza voy a tomar*, seguido de *de reversa mami*, luego el *como le digo a mi mujer*, y todo el resto de las danzas en honor a Deméter y Perséfone, acompañado siempre de barra libre pero ya no del tóxico secreto.  Una prohibición muy importante alcanzaba a esos iniciados.  Quienes la violaban se arriesgaban a la muerte o el destierro, aún peor que la pena anterior.  **Contar que había pasado**, era la primera prohibición como en *Fight Club*, solo que mas efectiva, a juzgar por la escaza información que llega -casi nada- a la nuestros días.  Todes aseguraban comenzar una vida mas plena luego de esta *experiencia mística*.  El sincretismo católico plagia la marcha, troca la denominación por **peregrinación** y elimina paulatinamente todo vestigio de alegría con el paso de los siglos y la falta del tóxico.  En el siglo VI se prohiben definitivamente, por graves faltas al decoro y el pudor.  El conocimiento de lo divino pierde su cara alegre en beneficio de la culpa, mucho mas efectiva para el control de los cuerpos.
 
 [^103]:  No está tan equivocado quien encuentra similitudes entre el ritual y la práctica médica.
 
@@ -410,7 +412,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  Antoine de Saint-Exupéry
 
-**Diezmo**  Curiosa institución, común a muchas religiones cristianas, que solicitan ayuda en metálico a sus fieles, para ayudar a la iglesia con sus problemas económicos, al mismo tiempo que recomiendan a estos oración para solucionar sus problemas económicos.  Comportamiento al menos curioso por su falta de conmutatividad.
+**Diezmo**  *Lat. Decimus*.  Curiosa institución, común a muchas religiones cristianas, que solicitan ayuda en metálico a sus fieles, para auxiliar a esas iglesia con sus problemas económicos, al tiempo que aconsejan a esos mismos fieles, oración para solucionar sus problemas económicos.  Comportamiento al menos curioso por carencia de conmutatividad.  Proviene del derecho del rey a cobrar el diez porciento de toda marcancía que transitara por su territorio, origen también de todo tributo.  Una familia que vive de rentas por mandato divino, el mismo que sugiere mantener cultos en el mismo siglo XXI en que el telescopio Hubble no ha dado aún con rastros de esos dioses en todo el espacio interesatelar.
 
 > No es un robo --Aclara el pibe con el arma de fuego apuntando el abdomen de un transeunte.  Preferimos llamarlo *diezmo compulsivo*.
 
@@ -418,7 +420,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > Se delitaba, antes.
 
-**Dinero**  *Lat. Denarius diez ases, unidad monetaria en tiempos del imperio romano*.  Moneda, guita[^77].  Conserva un curioso sinónimo: *plata* por el vulgo, cuando bien sabemos que este es un elemento más de la **tabla periódica**.  Objeto central del culto que conocemos como **Capitalismo**. Conserva el mismo método de fé importante con el Dios de las mitologías.  Todas.  Tanto el Dinero como Dios, en virtud de su abstracción, dependen de la fé en ellos.  Desaparecida dicha fé, desaparece su poder.  ¡Pensalo!   
+**Dinero**  *Lat. Denarius diez ases, puesto que el As fue la unidad monetaria en tiempos del imperio romano*.  El dinero, etimológicamente hablando fué una moneda, guita[^77].  Conserva un curioso sinónimo: *plata* por el vulgo, cuando bien sabemos que este es un elemento más de la **tabla periódica**.  Objeto central del culto que conocemos como **Capitalismo**. Conserva el mismo método de fé importante con el Dios de las mitologías.  Todas.  Tanto el Dinero como Dios, en virtud de su abstracción, dependen de la fé en ellos.  Desaparecida dicha fé, desaparece su poder.  ¡Pensalo!   
 
 [^77]: ¿E Amice, sobrarum um ase, sobrarum?  --Metamorfosis.  Ovidio.
  
