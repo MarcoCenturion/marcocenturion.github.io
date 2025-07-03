@@ -380,7 +380,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > beter than saying is doing.  --John Sunday Bigpear.
 
-**Delgado** *Lat. Delicatus.*  Fino, delgado, delicado, ergo los gordos son grotescos, lo cual prueba que los criterios estéticos son **profundamente superficiales** al decir de un antropólogo hijo de madre judía y padre árabe.  Consultado por un interlocutor, de pocas luces, si era también marxista, por casualidad.  El buen Taham respondió sin abandonar la sonrisa
+**Delgado** *Lat. Delicatus.*  Fino, delgado, delicado, ergo los gordos son grotescos, lo cual prueba que los criterios estéticos son **profundamente superficiales** al decir de un antropólogo hijo de madre judía y padre árabe.  Consultado por un interlocutor, de pocas luces, si era también marxista, por casualidad.  El buen Taham respondió sin abandonar la cordial sonrisa
 
 > Si, seguro, y homosexual.  Si van a odiar, que odien bien.
 
@@ -1385,6 +1385,12 @@ Los *ropajes* son el disfraz donde claramente vemos el papel que desempeñamos e
 > No parece muy saludable adaptarse a una sociedad tan enferma.  --Jiddu Krishnamurti. 
  
 A partir de la prolija observación del saludo de la *teacher* de ingles, con su alegre **bye** a cada uno de niños y niñas, la seño de informática, *implementa* un simpático sistema, acompaña las sonrisas, mano levantada y la voz **logout**, mientras convida al profe de música que lo haga lo mismo con el **chan chan** tanguero, a la de filo, con una engmática muestra del vacío existencial y al profe de teatro, la reverencia y mutis *Pas de Bourée*.   Se que parece estúpido imaginar estos saludos, aunque interesante para resaltar sobre lo extremadamente pelotudo y cipayo que suena el bye.
+
+**Salvación** *Lat. salvatio acción de salvar*.  En la cosmogonía judeo cristiana, acción que da al indivíduo la vida etenerna, a cambio de reprimir todo tipo de deseo en esta, lo que la convierte en un infierno, el resultado nos deja indivíduos extremadamente malvados, que de existir ese paraiso, indidudablemente califican en un todo, manteniendo una tan ilusoria como absurda sensación de pertenencia, gracias a la institución de la confesión.  
+
+> Padre, soy homosexual.  ¿Me salvaré?
+
+> Te salvás porque tengo una comunión en un ratito, sino te doy como a cajón que no cierra.
  
 **Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
  
