@@ -1181,13 +1181,13 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Papa** *Quechua. tubérculo comestible.*  El alimento múltiple de los adoradores de la tierra, parecido a ella, barro del barro del que venimos y hacia el que vamos.  La tradición oral quechua contaba con mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.  El alimento recien llegado a Europa salva al continente de hambrunas constantes y recurrentes, favoreciendo a los campesinos que antes de su llegada, escapaban a la miseria enrolándose en cuanta guerra aparecía, como salida laboral.  La papa vino a mejorar sus ingresos y a obligar a las milicias a pagar un gasto muy superior en el reclutamiento.
 
-**Payar** *Quechua recoger.*  De allí payador es que recoge -escoge, selecciona- las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
-
 **Pánico** *Lat.  Pan, el dios perruno.*  En tiempos de la república romana, el pánico era producido por los sonidos del bosque, donde conviven elfos, druidas, hadas, animales y otros seres.  Entre todos los sonidos, uno en particular, resultaba más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
 > Ayer me golpeó un libro en la cabeza y perdí el conocimiento.
+
+**Paraíso**  *Lat paradisus, jardín del Gr. παράδεισος y este del persa پرديس cercado.* Al parecer paraiso y huerto tienen el mismo significado, aludiendo a una vida hortícola antes que carnívora.   
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones, temidas, sospechadas y esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX, los vendedores ambulantes que circulaban por los barrios llevaban agua, soda, garrafas de gas, plumeros.  Se fué perdiendo, quedan pocas profesiones con este carácter social.
 
@@ -1204,6 +1204,8 @@ O la ya más reciente, de **Jorge Luis Borges**, al que acusamos de anglófilo, 
 > Nadie es la Patria ... Arda en mí ese fuego misterioso.
 
 La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la más noble de las causas, intentar soplar ese fuego fatuo en las nuevas generaciones, señalar la abismal diferencia entre **Nosotros** sobre el ínfimo **Yo**.  Vg. *Todos tenemos derecho a vivir*, es infinitamente superior a *yo tengo derecho a andar en moto* o *Yo quiero un Iphone*. 
+
+**Payar** *Quechua recoger.*  De allí payador es que recoge -escoge, selecciona- las palabras y el juego de la *payana* se centra en recoger piedras, o payarlas.  
 
 **Pedante** *Lat.*  Soldado de a pié.  De allí pedestre.  Igual origen suponemos para infante, aunque nos sintamos tentados a asumir un soldado menor de edad.
 
