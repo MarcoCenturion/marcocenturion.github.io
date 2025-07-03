@@ -1181,7 +1181,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Papa** *Quechua. tubérculo comestible.*  El alimento múltiple de los adoradores de la tierra, parecido a ella, barro del barro del que venimos y hacia el que vamos.  La tradición oral quechua contaba con mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.  El alimento recien llegado a Europa salva al continente de hambrunas constantes y recurrentes, favoreciendo a los campesinos que antes de su llegada, escapaban a la miseria enrolándose en cuanta guerra aparecía, como salida laboral.  La papa vino a mejorar sus ingresos y a obligar a las milicias a pagar un gasto muy superior en el reclutamiento.
 
-**Pánico** *Lat.  Pan, el dios perruno.*  En tiempos de la república romana, el pánico era producido por los sonidos del bosque, donde conviven elfos, druidas, hadas, animales y otros seres.  Entre todos los sonidos, uno en particular, resultaba más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.
+**Pánico** *Lat.  Pan, el dios perruno.*  En tiempos de la república romana, el pánico era producido por los sonidos del bosque, donde conviven elfos, druidas, hadas, animales y otros seres.  Entre todos los sonidos, uno en particular, resultaba más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.  
+
+> Los faunos eran una tribu cuyo animal totem era el perro, no como cree el vulgo un lycan, al igual que los centauros, una tribu cuyo totem era el caballo.  --Los Mitos Griegos.  Robert Graves.
 
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del órden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
