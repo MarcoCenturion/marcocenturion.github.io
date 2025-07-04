@@ -1329,7 +1329,11 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 [^45]: El Estado es *impersonal*; por consiguiente no debemos tratarlo con exceso de escrúpulos; por consiguiente el contrabando y la coima son operaciones que merecen el respeto y, sin duda, la envidia.  --Jorge Luis Borges.  Nota sobre los argentinos.
  
-**Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
+**Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica, regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.
+
+**Respeto**  *Lat. respectare, volver a prestar atención alrededor*.  Alude, a simple vista, a mirar nuevamente, reconocer el entorno y comportarse acorde a él, evitar decir groserías en templos o guardar silencio en el teatro.  Existe errónea creencia en un respeto puro e impersonal, que se adquiere al calificar para un rol social tal que sacerdote, o juez, o la vejez, cuando bien sabemos que el respeto hay que ganárselo.  Existe abundante bibliografía sobre sacerdotes violadores, políticos o jueces que valen menos que la grosería con la que se los nombra, al tiempo que pretender ser tratados de usted.  Mientras que por otro lado, tratamos de vos a seres casi divinos como Diego Maradona.  Así de paradógica es la condición humana.  
+
+> A la tía Ganga, en virtud de su edad, en la tribu la respetan mucho, por lo que se fué a vivir a otra tribu.  --Les Luthiers.
  
 **Revolución** *Lat. revolutio, una vuelta*  Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor corrige levemente la apertura ocular, como toda ofuscasión permitida a un inglés y pregunta:
  
