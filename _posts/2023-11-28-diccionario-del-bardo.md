@@ -737,6 +737,8 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 > ¿Te ocupaste hoy de tí?  --Sócrates en Atenas.  Dando origen a toda la filosofía de occidente.
 
+**Imagen**  *Lat. imago*.  Copia de otra cosa, espejo, retrato, imitación de la realidad.  Por ello, seguramente, varias cosmogonías como la musulmana, castigan copiar la obra de dios.  Motivo de disputas desde la prehistoria, en sus animismos hasta el psicoanálisis lacaniano, pasando por las toneladas de imágenes que invaden al yo diariamente para venderle yogurt o autos importados.   
+
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
 **Infiel**  *Lat. Infidelis, no confiable.*  Originalmente se refería a quienes renegaban de la religión, los cristianos llaman infieles a los musulmanes y estos a su vez, kafir a los cristianos o quienes tengan mas que un dios.  Afortunadamente el espíritu crítico del siglo XXI ha demostrado las falacias de las religiones.  Infieles pasaron a ser quienes descrean de las leyes de mercado[^67].
@@ -745,7 +747,7 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
  
 [^67]: El manual del usuario del Renault 12 en los años setentas, indicaba como calibrar la apertura de las válvulas de admisión y escape.  El Manual de usuario del Renault Duster, sugiere no ingerir líquido de la batería, ya que es tóxico.
 
-**Informar** *Del Lat. dar forma*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^66].
+**Informar** *Del Lat. dar forma.*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^66].
 
 [^66]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
 
