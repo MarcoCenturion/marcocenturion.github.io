@@ -1299,6 +1299,12 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 > Peridiodismo es decir algo que moleste al poder, todo lo demás es publicidad.  El periodismo es libre o farsa.  --Rodolfo Walsh.
 
+**Pulpería**  Comercio de ramos generales, común a toda América del Sur, donde concurren las clases trabajadoras a peleas de gallos, juegos de naipes, guitarreadas y compras de todo tipo, siendo el Facebook del siglo XVIII y XIX.  Todo parece indicar que debe su nombre a los pulperos, cazadores de pulpos en la restinga cercana, lo que abona la teoría de su origen en el Puerto de El Callao.  En el territorio argentino se convierte en el lugar de encuentro social, presente en toda la literatura gauchezca y superstite en zambas y valses de principios de siglo XX, como la Pulpera de Santa Lucía.
+
+> La llevó un payador ... cuando el año cuarenta moría.  --Hector Blomberg y Enrique Maciel.  
+
+> ¿Ese payador era mazorquero o de Lavalle?
+
 **Puto** El que llega último.  El que lee.  Se presenta de manera asintomática en el fascista homofóbico, el misógino.  Por extraño que suene el idioma nos juega malas pasadas, por las que, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que, al mismo tiempo, utilizamos el calificativo de puto para homosexuales que los enfrentaban sin temor.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
 
 ## Q 
