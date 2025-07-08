@@ -24,7 +24,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
-**Acelga**  *Gr. σικελή sikele.  Ar. silqah*.  El español toma este sustantivo del árabe hispánico assílqa, durante el milenio de ocupación andalusí.  Este a su vez proviene del árabe, que a su vez lo toma del griego, que significa *siciliana* por suponer estos que la acelga provenía de la isla del Etna y la Medusa.  Tan curioso como rico derrotero histórico, no termina para nada ahí.  El siglo XXI, observa su llegada a las cuevas de la city, donde se lo utiliza para referirse, cripticamente, al dólar paralelo, o blue, color que nada tiene que ver con el verde flúo de este vegetal o la isla de Sicilia, que es Gris.
+**Acelga**  *Gr. σικελή sikele.  Ar. silqah*.  El español toma este sustantivo del árabe hispánico assílqa, durante el milenio de ocupación andalusí.  Este a su vez proviene del árabe, que a su vez lo toma del griego, que significa *siciliana* por suponer estos que la acelga provenía de la isla del Etna y la Medusa.  Tan curioso como rico derrotero histórico, no termina para nada ahí.  El siglo XXI, observa su llegada a las cuevas de la city, donde se lo utiliza para referirse, cripticamente, al dólar paralelo en **negro**, que se lo apoda blue, a efectos de suavizar su caracter ilegal, colores que nada tienen que ver con el verde flúo de este vegetal o la isla de Sicilia con su alegre degradé de grises, azules y amarillos.
 
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien protagonista, esto es, primero y agonistis luchador.  Antagonista es el otro en la batalla, del tipo que esta fuera.
 
@@ -36,7 +36,7 @@ lead_text: 'La lengua usada en La Docta'
 
 > Desagote, aquí llueve cincuenta milímetros diarios.  --Haciendo señales con las manos en sentido contrario.
 
-**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  
+**Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  Luego, alinear la comida es ponerla en línea con un lineamiento dado como estándar, el formato estándar del lugar.
 
 **Alcalino**  *Ar. Al-qaly, القلوي cenizas calcinadas de plantas*.  Aquellas sales cuyo PH supera el 7 en la escala.  Al combinar cenizas -llamada potasa- carbonato de potasio, al calentar estos con calcio, lograron potasa cáustica.  Los alquimistas árabes lograban hidróxido de calcio y al mesclar estos con grasas, obtuvieron los primeros jabones, algo desconocido en la Europa medieval, poco amiga de las duchas y el cuidado higiénico.
 
