@@ -316,6 +316,12 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > Que sepa abrir la puerta para ir a jugar.
 
+**Comunista**  Calificativo con el que se nombraban los miembros de la comuna de París, a fines de siglo XIX.  La utilización peyorativa por parte de las elites intelectuales de derecha del siglo XXI, habla mas de su cortedad intelecual que de los aludidos, al tiempo que la economía mas pujante es la china, manejada por el partido comunista, lo que deja de ser un contrasentido y pasa directamente al ridículo.  Concepto bastante útil ante dudas existenciales, dudas, de que lado estar.  Basta mirar a quienes señalan a los comunistas -que no lo son- como Chapplin o Mercedes Sosa, de un listado larguísimo, para saber **inmediatamente** de que lado estar. 
+
+> ¿Señor Hammet, que opinaría usted si supiera que el Congreso de Estados Unidos envía libros al tercer mundo con fondos públicos, para luchar contra el comunismo, mientras que dentro de esos libros hay material de escritores comunista?  --Senador Joseph McArthy en el interrogatorio público durante la caza de brujas del comité de atividades antiamericanas. 
+
+> No se mucho de política, senador, pero si quisiera luchar contra el comunismo, no enviaría libros.  
+
 **Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
