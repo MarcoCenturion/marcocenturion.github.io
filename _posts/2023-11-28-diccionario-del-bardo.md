@@ -322,7 +322,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > No se mucho de política, senador, pero si quisiera luchar contra el comunismo, no enviaría libros.  
 
-**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  
+**Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  En el pais de la libertad, esta palabra estubo prohibida, junto con símbolos, otros nombres propios y el calificativo **peronista**.  
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
 
