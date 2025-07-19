@@ -918,7 +918,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
-**Lengua**  *Lat. lingua*.  Concepto polisémico, que alude a uno de los mayores aportes humanos al planeta, el habla y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo y parirás con dolor[^111].  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente importamte es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua se expresa a través nuestro, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  Las palabras que utiliza el usuario hablan mas de él que del motivo del habla.  Por ello es que debe guardarse un cuidado similar al gastronómico,  no consumir cualquier verbo debería ser similar a no consumir frituras[^112].  Es menester un soneto diario, no para editar, ni para ser bueno siquiera, solo para que la magia sea.
+**Lengua**  *Lat. lingua*.  Término polisémico, con el que se nombra uno de los mayores aportes humanos al planeta, *el verbo* y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo, parirás con dolor y un larguísimo etc.[^111]  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente interesante es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua espera por nosotros para poder expresarse, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  Las palabras que utiliza el usuario hablan mas de él que del motivo del habla.  Por ello es que debe guardarse un cuidado similar al gastronómico,  no consumir cualquier verbo debería ser similar a no consumir frituras[^112].  Es menester ejercitar una rima diaria, una historia, cuarteta o soneto, no para editar, ni para ser bueno siquiera, solo para que esa magia oculta en las letras, solo **sea**.
 
 [^111]: Existe una metáfora interensante acerca del pecado original.  Esta sostiene que fué el conocmiento, el tamaño del cerebro hace que la hembra humana sea la única que sufre con el parto.
 
@@ -926,9 +926,9 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 > Dicen que sos complicado, que te cuesta el orgasmo.  --Dice un clítoris a otro.
 
-> No hagas caso.  Son las malas lenguas.  --Contesta el increpado.
+> No hagas caso.  Son las malas lenguas.  --Responde el increpado.
 
-**Lente** *Sus. Lat. Lens, Lentis*  Lenteja por el formato parecido a un lente de cristal.  ¿O al revés?  O Llamamos a la lenteja por su parecido al lente.
+**Lente** *Sus. Lat. Lens, Lentis*  Lenteja es un cereal llamado así por el formato parecido a un lente de cristal.  ¿O al revés?  Que si quieres las tomas, sino las dejas.  Las lentejas, porque las lentes es conveniente no dejarlas.   
 
 **Ley** *Lat. Lex*  Status quo.  El imperio de la ley es un acuerdo temporal de no agresión entre sectores de poder, para aprovecharse de los más débiles aplicándoles esta.  Hasta una nueva revolución que renueva instituciones y -a menudo- separa cabezas de troncos de monarcas.  Quiza aludiendo esto es que a menudo las movilizaciones en **Francia**, son acompañadas por guillotinas, simulando carrozas de carnaval, con una bella leyenda tácita:
 
@@ -1192,6 +1192,8 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 > Paternidad, esa ficción legal. --Ulysses, James Joyce. 
 
+**Paila**  *Lat. Patella, diminutivo de patina*.  Recipiente circular donde se cocina la paella.  Esta última comparte un destino común de muchos alimentos sociales, grupales.  La leyenda sugiere que la paella nace de los vendedores del puerto a quienes le sobran productos sin vender, inútiles para un plato único, por lo que se conviene con otros para un plato común.  Lo mismo parece ocurrir con otros platos comunes alrededor del mundo como el chop swei.   
+
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*.  El antagónico masculino *pacto* designa las palabras de lo convenido, estén escritas o no.
 
 > Un ex jefe mafioso, de la familia Gambino, recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses, en su nueva vida fuera del hampa.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  "Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora" responde.
@@ -1316,6 +1318,8 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 > Peridiodismo es decir algo que moleste al poder, todo lo demás es publicidad.  El periodismo es libre o farsa.  --Rodolfo Walsh.
 
+**Pucho**  *Quechua puchu, resíduo, pequeña cantidad*.  Resto del cigarrillo de tabaco.  De uso coloquial en el buenos aires del siglo XX y por añadidura al resto del país.  
+
 **Pulpería**  Comercio de ramos generales, común a toda América del Sur, donde concurren las clases trabajadoras a peleas de gallos, juegos de naipes, guitarreadas y compras de todo tipo, siendo el Facebook del siglo XVIII y XIX.  Todo parece indicar que debe su nombre a los pulperos, cazadores de pulpos en la restinga cercana, lo que abona la teoría de su origen en el Puerto de El Callao.  En el territorio argentino se convierte en el lugar de encuentro social, presente en toda la literatura gauchezca y superstite en zambas y valses de principios de siglo XX, como la Pulpera de Santa Lucía.
 
 > La llevó un payador ... cuando el año cuarenta moría.  --Hector Blomberg y Enrique Maciel.  
@@ -1425,11 +1429,15 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 [^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
 
+**Sartén**  *Lat. Sus, Fem.  Sartigium*.  Recipiente para freir.  De allí que una *sarta* es una porción que cabe en la sartén. 
+
+> Lo apodaron sartén, por la eterna duda si es **el** o **la**.
+
 **Seannchie**  *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Todas las civilizaciones otorgaron privilegios a esos viejos y viejas memorisos, que ponían alrededor del fuego, junto a los nietos, cuando caía el sol, para contar historias, sin importar que fueran verdaderas, o ficticias, la sola condición era la emoción.  Luego llegó la mercantilización de esta noble profesión, Edgar Allan Poe, Vladimir Propp y la estandarización de los *tempos* y Holliwood.  Cuando Walt Disney llegó a Argentina, en aquella época, no vino a la isla Victoria y los bambis, sino a aprender de la impresionante industria editorial de las revistas de pulpa, Dartagnan, El Tony, Intervalo, Fantasía, Nippur y otras, de tirada que superaban el millón de ejemplares mensualesa
  
 **Secular**  *Lat. Seculum*  Que no tiene nada que ver con ninguna religión.  Pareciera bastante sano a simple vista.
  
-**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.
+**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.  Las posiciones antagónicas al respecto tienen argumentos por igual de valiosos.  Quienes llenan su vida de sentido, por un lado, buscan dejar un mundo mejor, mientras quienes por el contrario intentan despojarse totalmente de sentidos, posiblemente busquen dejar el menor dolor posible a su partida terrena.
  
 > ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
 
