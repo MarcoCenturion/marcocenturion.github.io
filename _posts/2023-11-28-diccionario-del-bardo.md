@@ -244,6 +244,8 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Cara**  *Lat. cara del Gr. Kara*.  Semblante humano, de allí características, pareciera a simple vista algo mas relacionado a lo que el indivíduo finge ser, por sobre lo que realmente es.
 
+**Carpa**  *Quechua tienda, choza, toldo*.  Se extiende en toda América su uso.
+
 **Cartel**  *Lat. Charta, carta*.  Pasa al frances cartel, literal carta.  En español pasó a ser una carta, solo que para todo el público y tomar ese tono *publicitario*.  Las mafias alemanas en la unión, durante los años cuarenta, se comunicaban a través de *Kartells* por lo que pasó a nombrarse así a los grupos mafiosos en adelante, como los calabreses lo hacían con las cansonetas.  Cierta mañana un grupo de ancianas creyentes, posiblemente por carecer de otro tipo de afectos, entraron en algunas tarbernas y las incendiaron.  Unos cuantos legisladores pollerudos, luego, dictaron una enmienda a la constitución y decretaron la famosa **ley seca**.  Toda vez que se prohibe un producto sin modificar la demanda, veremos crecer carteles, que lucharán con mayor o menor violencia por el control de la sustancia prohibida.  El método ideado en la primera mitad del siglo XX, continuó proliferando para el contrabando de bienes y personas.  El laboratorio Bayer, gran proveedor a posteriori de la Alemania nazi del gas utilizado en los campos de exterminio, había inventado al iniciar el siglo XX, la aspirina, a base de acido acetil salicilico y la cocaina.  *No espere por la felicidad* decía el Kartell pubicitario sobre los gruesos frascos de vidrio en las boticas, al lado del bicarbonato de sodio.  Con el aprendizaje de la Ley Seca y la llegada del nuevo fármaco, las mafias de la unión pronto atisban el negocio.  Al ser un proceso bastante mas complejo que el de producción de alcohol, se establecen los laboratorios offshore.  Durante la guerra de Viet Nam, de cada tres féretros que llegaban de regreso, solo dos contenían restos de un patriota adolescente para descansar en Arlington. 
 
 > Hasta para drogarse hay que tener código, cada gramo de merca tiene sangre de todo el proceso, la producción, el transporte, la distribución de la cana.  --Sisoco García.  Lemiteliusansin.
@@ -266,7 +268,11 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 [^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre, **Cerveza sin alcohol** al notar el escaso valor de marketing del original **Fanta Maiz**.
 
-**Chacra**  *Quechua.  Granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales.
+**Chacra**  *Quechua granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales, unidad económica generalente mantenida por una familia amplia no monogámica.
+
+**Champa** *Quechua hierbas con tierra adherida*.
+
+> Se le volaron las champas.  --Odiseo Torres, aludiendo a Jacinto Ruiz y su alopecía.
 
 **Champán**  *Fr. Champagne*.  Vino espumoso obtenido a partir de cepas puntuales.  Tóxico careta.  Por una protección de la unión europea, utilizar su nombre equivale a una violación de la propiedad intelectual.  Los americanos en vano intentamos ampararnos en el derecho que nos asiste después de quinientos años de saqueo económico y cultural.  
 
@@ -277,6 +283,12 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 > Es para saber que pido.  No sé que hora es, si están sirviendo el desayuno o la cena.  --Se defiende quien iniciara la discusión, queriendo justificar haberla despertado.
  
 > ¡Pedí champán y dejá de romper las pelotas!  Chica pe lo tu da.  --Corrige sabiamente la segunda, acentuando vocales y vuelve de la mejor manera posible a la paz de palacio, ese palacio conocido universalmente como sueño.
+
+**Chango**  *Quechua niño*.
+
+**Charqui**  *Quechua carne secada al sol*.  Base alimenticia de toda la América andina pre colombina, que tiene su par en el bacalao nórdico.  
+
+**Chaucha**  *Quechua vaina*.  Monedas de escaso valor.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
@@ -325,6 +337,8 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 **Compañero**  *Lat. cumpanis, comedere panis.*  Aquellos que comieron del mismo pan.  Término que utilizaban anarquistas y socialistas a principios del siglo veinte para referirse mutuamente.  Pocas voces el idioma otorga tanto valor simbólico a un fonema.  En el pais de la libertad, esta palabra estubo prohibida, junto con símbolos, otros nombres propios y el calificativo **peronista**.  
 
 **Comué**  *Sus masc*.  Modismo de las provincias del norte argentino, que se utiliza en reemplazo del elegante y culto rioplatense **"el coso"**.
+
+**Cóndor**  *Quechua Kuntur*.  Ave carroñera, la de mayor envergadura alar del mundo.  Apelativo de muchos narigones en Argentina.
 
 **Confesión**  *Lat con, junto; fateri, reconocer*.  Una de las cuatro partes del sacramento de la penitencia católica.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
 
@@ -506,6 +520,8 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 **Envido**  *Sus. el primero*.  Conjuro que debe expresarse en la primera mano, del conocido juego de mesa rioplatense, de aritmética fácil de entender y difícil de explicar, como todo aquello realmente interesantes de la vida, el amor, la lealtad, el peronismo.  Su sola mención dispara miradas en todas direcciones, al igual que la envidia, lo que nos fuerza a imaginar alguna relación etimológica.  Como supo enseñarnos el sabio chino **Tzun Zu** , la guerra es el *arte del engaño*, el chupino, luego, es un simulacro de *Teg* rioplatense en el que los contendientes nuestran debilidades donde descubren fuerzas, simulan movimientos faciales y distraen con narraciones a los rivales, cambian timbres de voz y tics.  El juego, por lo general, es excusa para contar historias, cuyo fin último es distraer al adversario a efectos de hacerlo pagar el asado.
 
+**Epa**  *Quechua suficiente*.  
+
 **Escalofrío**  Sensación corporal de frío, violenta y repentina, por lo general, acompañada de espasmos musculares.  Se experimenta al sacar del bolillero la única bolilla de las treinta que no viste siquiera, la primera vez que escuchas el invierno porteño, cuando cambia la frase melódica y no sugiere la primavera, los veinte minutos mas escalofriantes de la vida, cuando desnudas el alma confesandole tu amor a alguien.
 
 > Nunca rechaces el consejo de un escalofrío.  --Oda a Francisco Urondo.  Sisoco García.  1918.
@@ -674,7 +690,11 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 
 **Grifo**  *Mit*.  El grifo de los bestiarios clásicos era un ser sobrenatural, par de un personaje femenino de mi infancia, la Solapa.  Teníamos penado salir en horas de la siestam, asomarnos al partio.  La abuela Amanda la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural y amonestadora.  Por algo nadie sale a la calle a la siesta.  Nunca dudamos de la veracidad de sus palabras.  Encontraba complicidad en otros mayores a su alrededor: *la tía Helena la vió una vez cuando era chica*.  Siempre se lleva a los mas revoltosos.  A juzgar por la edad, la tía **Helena**, bien puede haber sido la protagonista de la Ilíada del rápsoda Homero, que causara tanto penar entre teucros y aqueos.  Tal vez por simpatía narrativa, es que hoy asocio al Grifo con La Solapa.  Tarde descubrí que suponía en la Solapa cierta capacidad de volar, aunque nunca nos fuera aclarado su método de traslación de las víctimas.
 
-**Guagua**  *Sus. Quechua. bebé*
+**Guaso**  *Quechua wacho huérfano*.  Se lo utiliza también para referirse a los animales que perdieron a sus progenitores, tanto como a vegetales silvestres, que no fueron cultivados.  
+
+**Guagua**  *Sus. Quechua. bebé*.
+
+**Guano**  *Quechua huano* estiércol.  Fertilizante natural proveniente de los excrementos de aves y por añadidura, de todos.  En el Perú, sobrevino una guerra con los democráticos estadounidenses por el guano de pelicán de la isla frente al puerto de El Callao.
 
 **Guitarra**   *Ar. جيتارا  Gr. κιθάρα khithára, cítara*.  El origen de la literatura occidental ocurre en palabras del rápsoda ciego Homero, quien compila las historias de unos navegantes que van a una guerra a recuperar una princesa raptada.  En la Ilíada, el poeta pide a la diosa que cante las desventuras del *pélida Aquiles*.  Al parecer, estas historias de tradición oral, acompañadas de cítaras, eran cantadas por narradores que enriquecían el contenido de la letra y de la música, de uso común y licencia GNU.  Nada queda de aquellas músicas, solo las letras.  Si queda evidencia empírica que dá cuenta de khitaras, mas de dos mil años antes de la era común.  Otro de los ninguneados aportes a la cultura mundial, de prate de los pueblos de medio origente, que llegan a Europa a partir de los mil años de ocupación Omeya.  Luego deducimos que la civilización puede prescindir de algunas actividades humanas como la intermediación bancaria, el cripto tradding o los influencers pokemonenses, pero no de guitarristas y narradoreso.  O incluso gente peor.
 
@@ -860,6 +880,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 **Jabalí** / **Jabalina**. *Ar. hinzir gabalí, cerdo del monte*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*   Su sinónimo mas interesante es Venablo.  
 
+**Jaku**  *Quechua jaca*.  Lienzo tendido a la espalada de las mujeres con los que transportaban a los niños.
+
 **Java**  *Informática*. Lenguaje de programación que impusiera el paradigma de la programación orietada a objetos.  Hacia él se apuntan encendidas críticas.   
 
 > "Recomendame un libro para llorar" pidió ella a su novio desarrollador "Algoritmos de OOP en JAVA"  Respondió él.
@@ -970,7 +992,6 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que abre una tabaquería y dedica a ello su fortuna.
 
-
 **Maga, la**  *Literatura*.  Protagonista de **Rayuela**, antagónico emotivo de Horacio Oliveira, podrido, basura, montón de mierda y parte del tercer personaje importante de la novela, la ciudad de París[^95].  Destaco este nombre porque soy de quienes creen que los libros son meras referencias u homenajes a otros libros.  Esto debería disparar algún neurotransmisor en el cerebro del lector que le diga:
 
 [^95]: El argentino, el sudamericano en general, es un hombre desvinculado del mundo europeo; no tiene pasado, o tiene un pasado muy corto. Por eso, cuando muere, no va al cielo, sino a París.  Y los que se portan mal, se quedan acá.  --Jorge Luis Borges.
@@ -982,7 +1003,6 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 > Saque una carga y muéstresela al público.  ...  **La carta**.  ¡Muestre la carta al público, señor!
 
 **Magia** *Gr. Mago, Hechicero.*  De allí deriva el pensamiento mágico, a través del cual atribuimos cambios en la realidad producto de la voluntad.  La característica más importante de la magia posiblemente sea la *impermeabilidad a la experiencia* y la *simplificación de las explicaciones*.  Imanuel Kant escribió: *Temo al hombre que encuentra todas las respuestas en un solo libro*.
-
 
 **Mandrágora** *Mit. Lat mantícora.*  Conocida también, como **manzana de satán**.  Un número importante de bestiarios medievales dan cuenta de este híbrido a mitad de camino entre el reino animal y el vegetal al que la medicina tradicional utilizaba como sedante, analgésico, afrodisíaco y alucinógeno.  Esto explicaría, en gran medida, la persecusión por parte de la iglesia.  Resulta curioso pensar que hubo generaciones completas de humanos que dejaron este *valle de lágrimas* en la total crencia de Mandrágoras, o anfisbenas o dragones, solo porque así lo afirmaban **Plinio** o **Plutarco** o algún otro famoso, simples *influencers* dotados de otra tecnología.  Nuestras limitaciones intelectuales, son solo las limitaciones de nuestra época.  Es nombrada en la Biblia y las Mil y una Noches.  Plinio, Pitágoras y hasta lo hace el bardo **Shakesperae** en Romeo y Julieta.  Los herbolarios de la edad oscura sugerían que está a mitad de camino entre el reino animal y vegetal.  Ante este tipo de afirmaciones, el poeta Maggi recapacita:
 
@@ -1012,11 +1032,11 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 [^36]: En honor al general romano Lucio Quincio Cincinatto.  El mito narra que Cincinato estaba retirado de la milicia descreído de la política, labrando la tierra de su granja, cruzando el Tiber.  Los enviados del Senado le ruegan tome el mando del ejército, para frenar el avance de los voscos y eucos.  Le otorgan el título de Dictador.  En dieciseis días triunfa en la batalla, renuncia a todos los honores y vuelve a tomar el arado donde lo había dejado.  Su nombre pasa a ser sinónimo de rectitud, honradez y valentía.  Agrega a esto una frugalidad rústica y poner los intereses del pueblo por encima de los propios.  La logia de los primeros revolucionarios de Estados Unidos lleva el nombre de los Cincinnati, laicos y honorables, producto de ello es su constitución y emniendas.  Después vino lo otro.
 
-**Mate**  Infusión que no solo es un alimento, sino un aglutinador social.  Toda buena historia, en ciertas puntos de Sudamérica, comienzan en un mate.  Muchas otras, se resuelven entre mates.  Debemos al único gobernador indígena de la Argentina, de la provincia de Msisiones, la viralización de esta costumbre guaraní.  Se consumen alrededor de cien litros de mate per capita en Argentina, con la excepción de ciertos territorios especiales, como queda documentado a continuación.
+**Mate**  *Quechua calabaza*.  Infusión que no solo es alimento, sino un aglutinador social.  Toda buena historia, en ciertas puntos de Sudamérica, comienzan en un mate.  Muchas otras, se resuelven entre mates.  Debemos al único gobernador indígena de la Argentina, de la provincia de Msisiones, la viralización de esta costumbre guaraní.  Se consumen alrededor de cien litros de mate per capita en Argentina, con la excepción de ciertos territorios especiales, como queda documentado a continuación.  De las muy escasas imágenes que llegan a nosotros del general José Gervasio Artigas, protector de los pueblos libres, resaltan algunas pocas en actitud pensativa frente a un mate y sus gauchos rodeándolo.  Esa sola imágen nos absuelve de posteriores vindicaciones del héroe.
 
-> En la mediterránea provincia de Córdoba, el mate se ceba con agua apenas tibia, edulcorante, yerba compuesta y reguetón de fondo.  --Antropología de resultados electorales.  UNC.  Sisoco García.  2016.
+> En la mediterránea provincia de Córdoba, el mate se ceba con agua *apenas tibia*, edulcorante, yerba compuesta y **reguetón** de fondo.  --Antropología de resultados electorales.  UNC.  Sisoco García.  Jul 2025.
 
-> El mate es la calefacción de los pobres.  --María, amiga de Pinpín.
+> El mate es la calefacción de los pobres.  --María, amiga del Chicho.
 
 **Matrix**  Film de SciFi de las hermanas Wachowski, al que el tiempo ha otorgado el honor de Clásico, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guión que recubre la realidad, resulta ser mucho más burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelar el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
 
@@ -1200,6 +1220,12 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión andina, en la que los humanos no son el pueblo elegido, ni el privilegiado, ni el heredero del cielo, sino parte de esa madre tierra, hermanos de ríos y árboles.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
 
+**Palta**  *Quechua fruto americano*.  Término infinitamente superior en lo estético y cacofónico, al risible aguacate.
+
+**Pampa** *Quechua terreno llano y amplio sin árboles*.  Sinónimo de planicie en el cono sur.  Tanto que da nombre a regiones completas, da forma al arte y todo método de comunicación humana.  
+
+> Son gente de montaña, la geografía los condiciona, no ven mas allá.  --Odiseo Torres, en referencia a Sisoco García.  Este se decía descendiente de padre italiano y madre de Traslasierra, por lo que se autoproclamaba **ítaloserrano**.
+
 **Papa** *Quechua. tubérculo comestible.*  El alimento múltiple de los adoradores de la tierra, parecido a ella, barro del barro del que venimos y hacia el que vamos.  La tradición oral quechua contaba con mas de cien vocablos para nombrarla, igual número tiene la cultura esquimal para nombrar el blanco, en su blanco mundo.  El alimento recien llegado a Europa salva al continente de hambrunas constantes y recurrentes, favoreciendo a los campesinos que antes de su llegada, escapaban a la miseria enrolándose en cuanta guerra aparecía, como salida laboral.  La papa vino a mejorar sus ingresos y a obligar a las milicias a pagar un gasto muy superior en el reclutamiento.
 
 **Pánico** *Lat.  Pan, el dios perruno.*  En tiempos de la república romana, el pánico era producido por los sonidos del bosque, donde conviven elfos, druidas, hadas, animales y otros seres.  Entre todos los sonidos, uno en particular, resultaba más aterrador, los gritos del dios Pan.  Contrario sensu, el pánico hoy es producido por el precio del Pan.  
@@ -1282,7 +1308,9 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 
 **Posponer**  Existe la creencia errónea de la necesidad de posponer la felicidad, o escribir ese libro, o decirle a ella que la amas.  Tarde, siempre tarde, descubrimos que no conviene posponer nada, ni los pedos porque el tiempo no para.  El discípulo apóstata de Freud, Karl Jung, recomendaba el uso del I Ching a sus pacientes, a la hora de tomar decisiones posdatadas o demoradas en resolver.  Si se demoró esa toma de decisión indica que el yo no está muy seguro y peor que elegir un mal camino es no tomar ninguno.  En el peor de los casos, la culpa la pasa a tener el destino y no el yo.
 
-**Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas.  Se recomienda apurarlos, mientras el tío piola esté callado, justo antes que comience con los comentarios contra los fachos cornudos y con ello los sillazos, es lo que observamos en el apurado comportamiento alimenticio de las generaciones mas viejas.  
+**Postre**  *Lat. Postrerum.*  Posterior, postrero, póstumo, postergar.  Los postres son los alimentos dulces al final de las comidas.  Se recomienda apurarlos, mientras el tío piola esté callado, justo antes que comience con los comentarios contra los fachos cornudos y con ello los sillazos, es lo que observamos en el apurado comportamiento alimenticio de las generaciones mas viejas. 
+
+**Poroto**  *Quechua purutu*.  Leguminosa americana, rica en proteinas, tanto que junto al zapallo, el maiz y la papa fueron el sustento del continente completo durante varios siglos.  En un entorno de escasa proteina animal, el aporte de los porotos resultó vital para todas las culturas precolombinas.  Sobrenombre popular para los hombres blancos y pequeños, despectivo.
  
 **Porno**  Primer puesto en el buscador global Google.  Le sigue inmediatamente después **Ponro**. Explicaría, en gran medida, la ola de triunfos de derecha en el mundo.
  
@@ -1293,6 +1321,13 @@ En los ingenios yerbateros, adultos y niños juntaban y anudaban el producto de 
 Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.   Por lo menos en este contínuo espacio-tiempo, respetando la primera ley de la termodinámica de Newton.
 
 **Potasio**  *Ing. Potashes.  Pot, tarro, recipiente, pote y Ashes, cenizas*.  Literalmente un pote de cenizas, por la alcalinidad de las cenizas que utilizaban los alquimistas que buscaban en la materia eso oculto y que pudieron zafar de la inquisición.  La **K** en la tabla periódica se debe a su nombre en árabe Kallium, la planta de la que se extraían esas cenizas, *al-kalia*, cenizas de plantas, luego alcalino y no como pudiera parecer, a cierto sector del peronismo del siglo XXI, vagos, planeros y mandriles, por el simil fónico de tarro o termo y la forma de la cabeza de estos.
+
+**Poto**  *Quechua putu cuenco, recipiente*.  Tal vez por la forma cóncava, ahuecada se aplica por añadidura a las nalgas. 
+
+> Una vieja se forró,
+> se forró el poto con mimbre.
+> No le habrá quedao bonito, 
+> pero si le quedó firme. --Aro en Chacarera. Noche cordobesa 1985, Tonos y Toneles.  Autor anónimo. 
 
 **Precio**  *Lat. Pretium*.  Cantidad a pagar por algo.  De allí la amplia familia de términos derivados: aprecio, desprecio, justiprecio, menosprecio, sobreprecio.  Las voces pornografía y intérprete, provienen de esta raiz.  Reputación que se ganaba en las *justas*.  Es norma medir interlocutores poniéndole precio a su fidelidad, honradez, etc.  Invencible e inmortal a quien no tiene precio, solo quienes se esfuerzan en encontrar tu precio saben el miedo que sienten por tener uno. 
 
@@ -1318,7 +1353,9 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 > Peridiodismo es decir algo que moleste al poder, todo lo demás es publicidad.  El periodismo es libre o farsa.  --Rodolfo Walsh.
 
-**Pucho**  *Quechua puchu, resíduo, pequeña cantidad*.  Resto del cigarrillo de tabaco.  De uso coloquial en el buenos aires del siglo XX y por añadidura al resto del país.  
+**Pucho**  *Quechua puchu, resíduo, sobrante, pequeña cantidad*.  Resto del cigarrillo de tabaco.  De uso coloquial en el buenos aires del siglo XX y por añadidura al resto del país.  
+
+**Puma**  *Quechua Puma*.  El mayor de los felinos americanos.
 
 **Pulpería**  Comercio de ramos generales, común a toda América del Sur, donde concurren las clases trabajadoras a peleas de gallos, juegos de naipes, guitarreadas y compras de todo tipo, siendo el Facebook del siglo XVIII y XIX.  Todo parece indicar que debe su nombre a los pulperos, cazadores de pulpos en la restinga cercana, lo que abona la teoría de su origen en el Puerto de El Callao.  En el territorio argentino se convierte en el lugar de encuentro social, presente en toda la literatura gauchezca y superstite en zambas y valses de principios de siglo XX, como la Pulpera de Santa Lucía.
 
@@ -1329,7 +1366,11 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 **Puto** El que llega último.  El que lee.  Se presenta de manera asintomática en el fascista homofóbico, el misógino.  Por extraño que suene el idioma nos juega malas pasadas, por las que, asociamos hombría a cobardes uniformados en patota que torturaban y abusaban de detenidos y detenidas indefensos, mientras que, al mismo tiempo, utilizamos el calificativo de puto para homosexuales que los enfrentaban sin temor.  El idioma, muchas veces, es al menos curioso, demostrando -nuevamente- que toda verdad es la verdad del poder. 
 
 ## Q 
- 
+
+**Quena**  *Quechua flauta de bisel*.  Eufemismo escatológico para referirse a actividades de amor rentado.
+
+**Quincha** *Quechua*.  Reparo hecho de cañas, en mucho casos, todo hogar del gaucho.  También aplica a la techumbre del rancho, altamente utilizado por vinchucas y otras alimañas.
+
 **Quinto**  *Lat. Quintus.*  El que viene después del cuatro.  Cierta vez leí con asombro un cuento en el que el vencedor de una contienda, resultaba ser el que llegara en quinto lugar.  Un tal Nash.
 
 > El cinco de mayo del mil novecientos cincuenta y cinco, nacía el quinto hijo de una familia modesta, de los suburbios del sur de de Buenos Aires.  Lo bautizaron Quinto Torres, hermano del divinal Odiseo Torres.  En 2010, días antes de cumplir cincuenta y cinco años, lee asombrado lo que parece una historia digna de Ludovica u Horangel.  Adivina un guiño de la diosa fortuna.  En la quinta carrera de Palermo, corre un caballo llamado **Cinq** -cinco en francés-.  Malvendió todos sus magros bienes y apostó un total cinco mil quinientos cincuenta y cinco dólares a ese caballo, el que como era de esperar, llegó en quinto lugar.
@@ -1462,6 +1503,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera de mucho mejor calidad poética que el excesivamente utilizado siestero.
 
 > Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
+
+> Quien duerme la siesta, amanece dos veces.  --John Sunday Bigpear.
  
 **Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
  
@@ -1473,11 +1516,11 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 > Estamos de acuerdo.  Militares, Jueces, Obispos --Neo.
  
-> Corré que vienen los cuetazos --Morpheus.
- 
 **Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los indivíduos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogénea, conservando, sin embargo, una tan absurda como ingénua sensación de libertad.  
  
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
+
+**Sonqo**  *Quechua corazón*.  
  
 **Sordera**  *Lat. Surdus, susurro inentendible*.  De allí también provienen *Absurdo*.  Ante ciertos requerimientos, Armando sobreactuaba una mueca de la cara, a esta sumaba una mano doblando y sosteniendo el pabellón de una oreja, rematándolo con fruncido ocular simil estornudo.  El claro mensaje *no verbal* parecía ser no escuchar.  Se supone que lo había perfeccionado practicando el noble arte del *chupino*, en el que era imbatible.  Utilizaba este vil recurso, con el objeto de analizar las miradas de los contrincantes ante los cojuros *envido* o *truco*.  Analizaba rostros de estos al repetir por segunda o tercera vez **Truco**, terminaba **siempre** adivinando la mentira.  Trasladó este aprendizaje, a otros entornos de escucha, como la familia.  Cierto sector de la neurofisiología cataloga este comportamiento como *sordera selectiva*.  Al parecer, existe una correlación negativa entre esa sordera y la novedad de la pareja sexual.  Al incrementarse la variable novedad, independientemente de su calidad estética, decrece exponencialmente la sordera, desapareciendo completamente cuando esta es totalmente nueva.  Lo expone bellamente el freudianismo con los conceptos de *tensión, cercanía del objeto, líbido* y *economía*. 
 
@@ -1506,6 +1549,10 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 [^86]: Volvían del acto de la escuela confesional Anibal y Álvaro uniformados y peinados, un veinte de junio, los paró en seco su papá, el Rulo, en la puerta "No se cambien de ropa que murió la abuela." 
 
 > Tacto es la manera de mandar a la mierda a alguien, de forma tan cortés, que pregunte el precio del viaje con alegría.  --Odiseo Torres.  Agente de Viajes.
+
+**Taita**  *Quechua padre*.  De donde viene tata.
+
+**Tambo**  *Quechua almacén*.  Sitio de trueque de mercancías.
 
 **Tango**  Género musical rioplatense que transcurrió durante todo el siglo XX en el forzado error de creerse el último ritmo blanco.   Este error seguramente estaba originado en la falacia también de la existencia de una correlación aritmética entre los ritmos musicales y pigmentaciones cutáneas, en la imperiosa necesidad, o deseo de perder menos terreno.  Hay algo de mortal herida al narcisismo *blanco* originada en actividades inventadas por pulcros varones blancos de las clases ociosas, a las que llegan negros a desplazarlos.  Las hay deportivas como boxeo, basquetbol, fútbol, o golf a modo de mero ejemplo, como también la ejecución de todos los instrumentos musicales y varias actividades de las que fueron relegados por afrodescendientes, afortunadamente.  El paroxismo llega a darles el tiro de gracia, con las imágenes de un joven que por toda vestimenta solo lleva un piluso escocés y una tohalla verde al hombro, que circula a modo de chiste, mediante teléfonos celulares, exponiendo la patología conocida por los clínicos como *vértigo rectal*, en los viralizadores.  Tal es el grado de envídia, casi freudiana, la que nos lleva a la arqueología del tango.  Don Alfredo Zitarroza sostiene que *el tango es hijo de la milonga, que es hija del candombe*.  Al parecer, el mismo sustantivo que lo nombra tiene origen directamente africano, **tamgú**, baile en la lengua de Nigeria y el Congo.  Desde ahí fueron importados indivíduos de piel oscura, a manos de devotos creyentes europeos, temerosos del señor, junto con sus dioses, idiomas, costumbres y por sobre todo músicas, para *extenuarse en las minas antillanas* sugerido por el padre Bartolomé De Las Casas, condolido de los nativos americanos que se *extenuaban en las minas antillanas*.[^96]  Viaje no esperado ni solicitado, por cierto.  El tango *el Choclo*, tal vez el primer tango popular o viral, fue compuesto por el hijo de una esclava liberta de nombre Casimira, en casa de los Alcorta, llamado, como es de esperar, **Casimiro Alcorta**.  Otra de sus composiciones, llevaba originalmente el elegante nombre de *Concha Sucia*, que debió mutar a *Cara Sucia*, para poder acompañar la mudanza del tango *del barro al asfalto* y aggionarse a pacatas costumbres de los niños bien, temerosos de la ira divina o de conchas sucias, posiblemente no en ese orden.  Entre sus muchas virtudes, el tango se destaca por una inentendible en el siglo XXI; *la paciencia*, como lo atestigua la sentencia siguiente.
 
@@ -1658,7 +1705,6 @@ Esta puntualmente es muy bonita. [^11].
  
 [^11]:  "I'll give you viscachs on evening."  Paradise Lost.  --John Milton.
  
- 
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre lleva ísita la frente marchita.
 
 **Voluntad**  *Lat. Voluntas, volo querer, desear*.  Facultad intelectual de quienes deciden y eligen que hacer.  De la raiz común *well* se desprenden el inglés *will* y el alemán *wollen* y *galant* en francés.  De aquí benevolencia, malévolo, involuntario.
@@ -1677,7 +1723,7 @@ Esta puntualmente es muy bonita. [^11].
 
 ## Y
 
-**Yapa**  *Quechua regalo*.   En la América Andina, el verbo yapar significa(ba) agregar, adicionar un extra al arreglo comercial.  Luego el sustantivo se convierete en *La Yapa* femenino.  Propina o excedente que el almacenero agregaba por fuera de lo pactado.  En otros tiempos y otros formatos sociales, dar mas de lo que se recibe, es un cohagulante social difícil de transcribir en palabras del siglo XXI.
+**Yapa**  *Quechua añadido a la transacción, regalo*.   En la América Andina, el verbo yapar significa(ba) agregar, adicionar un extra al arreglo comercial.  Luego el sustantivo se convierete en *La Yapa* femenino.  Propina o excedente que el almacenero agregaba por fuera de lo pactado.  En otros tiempos y otros formatos sociales, dar mas de lo que se recibe, es un cohagulante social difícil de transcribir en palabras del siglo XXI, pero que define una cosmogonía muy distinta, una necesidad de buscar en el otro una deuda hacia sí.  Par antagónico del regateo comercial.  Dos filosofías opuestas y contradictorias, que apuntan a dos mundos totalmente distintos.
 
 **Yo** Personaje central del triunvirato en la novela del psicoanálisis freudiano, que comparte cartelera con el **Superyó** y el **Ello**.  Al asumir su inmortalidad, quita protagonismo por completo a los otros actores, mucho más interesantes en términos del drama.  Ríos de tinta han corrido sobre el tema.  Explica, solo parcialmente, el uso excesivo por parte de personas que alternan este sustantivo junto a frases como:
 
@@ -1690,6 +1736,16 @@ Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pe
 Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
 
 **Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar tales adjetivos con las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de contar solamente con ladrones, puesto que con estos, se tiene garantizado un solo tipo penal, los **delitos contra la propiedad**.  La yuta colabora en el agregado del resto de la parte especial del Código Penal.  Completo.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, comercio de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa, ni se agota en un par de renglones.  La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
+
+**Yuyo**  *Quechua hierba*.  Por añadidura a las pasturas silvestres.  No era un tema menor para nuestros ancestos argentinos, ya que si recorremos un poco el país, veremos que las buenas pasturas son una excepción y no la regla.  Yuyos pal amor, eran los seleccionados por ciertas ancianas sabedoras, para que un enamorado pudiera *tejer* cierto embrujo sobre otra persona.  Todo parece indicar que las habladurías de esas ancinas, produjeran mas efectos que los alcaloides o bencenos propios de las hierbas medicinales.
+
+> Cuales son los mejores yuyos para el amor, doña Jovita.   --Pregunta el periodista.
+
+> Y, yo preferriría los altos.  --Responde el actor disfrazado de anciana venerable, a quien era fácil perdonar este tipo de comentarios, en la tele, en horas pico.
+
+## W
+
+**Wasi**  *Quechua casa*.  Quilla Wasi es la casa de la luna mientras que Inti wasi es la casa del sol.
 
 ## Z
 
