@@ -180,6 +180,8 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 **Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
+> Boedo and Boston are the same, in this kingdom inside my heart.  --El cuervo -The Raven-  Edgar Allan Poe.
+
 **Botica** *Gr. Apothiki.*  Depósito.  Tal es el concepto occidental.  En América, más precisamente en la Tenochtitlan anterior de la conquista, existía una **Calle de los herbolarios** donde estos funcionarios públicos diagnosticaban y medicaban sobre un vademecum diez veces superior al europeo, que paradojicamente queda al Oriente de América. [^3]
 
 [^3]: Hernán Cortés en sus "Cartas de Relación" informó al rey de España al respecto: "...hay calle de herbolarios, donde hay todas las raíces y yerbas medicinales que en la tierra se hallan. Hay cosas como de boticarios donde se venden medicinas hechas así potables como ungüentos y emplastos"
