@@ -56,6 +56,10 @@ lead_text: 'La lengua usada en La Docta'
 
 > Por eso cobro cinco dólares la hora.  --Arriesgaba una respuesta en *rouge*, similar al del logo, con la caligrafía puntual de una *colaboradora,* que demoró poco en probar nuevos horizontes.  La lucha siempre es colectiva.
 
+**Amigo**  Hermano que se crió en otra familia.  
+
+> Amigo es uno en otro cuero.  --Atahualpa Yupanqui palabras de un peon de campo.
+
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte, luego aquello que vence la muerte.  Literalmente inmortal.  Sublimación del Yo de instintos gregarios, suavizado a lo largo de los milenios hasta llegar a este, tal vez el único dios humano, que fuerza seres simples y ordinarios a jugarse la vida, tanto por seres a quines ama, lo sepan o no.  Toda la literatura versa sobre amores en potencia o finalizados, nunca sobre amores en acto, lo que refuerza su caracter de utópico.  Quienes descreen de la inmortalidad de las religiones se cobijan en otro tipo de inmortalidades, el final terreno de Alfonsina Storni inspira a Ariel Ramirez y Felix Luna a componer una zamba que en la voz de Mercedes Sosa se vuelve inmortal, trasfiriendo esa característica a todos los participantes y dotando, a su vez, a todas las generaciones posteriores de un amor distinto a los usuales. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
