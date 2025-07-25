@@ -54,7 +54,7 @@ lead_text: 'La lengua usada en La Docta'
 
 > No olvides que eres lo mas importante para esta cía.  --Resaltaba la calco de *jovial tipografìa*, con el logo azul y rojo, en el espejo del baño de la cía aérea.  El mismo logo de la nube de pines que cuelgan orugllosos *colaboradores* donde quepa un lugar para ponerlo con sonrisas que lindan la estupidez.  
 
-> Por eso cobro cinco dólares la hora.  --Arriesgaba una respuesta en *rouge*, similar al del logo, con la caligrafía puntual de una *colaboradora,* que demoró poco en probar nuevos horizontes.  La lucha siempre es colectiva.
+> Por eso cobro cinco dólares la hora.  --Una leyenda debajo en *rouge*, ponía en duda lo anterior.  Una pericia caligráfica simple y puntual, por parte de esos personajes nefastos que hay en toda oficina, dió con los datos de una *colaboradora,* que escuchó pocos segundos los tartamudeos y abandonó las oficinas aeroportuarias, camianando hacia atrás, utilizando la traslación inventada Michael Jakson, su mejor sonrisa y los dedos medios de ambos puños firmes y erguidos. 
 
 **Amigo**  *Lat. amicis, amare, de amor de madre*.  Gente igual a uno, una, que se crió en otra familia, seguramente producto de errores burocráticos de cigueñas en conflicto laboral, meteorología adeversa o cosas de la aeronavegación comercial.  
 
