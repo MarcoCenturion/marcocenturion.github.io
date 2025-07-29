@@ -992,7 +992,7 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 ## M
 
-**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  En la mezoamérica precolombina, era adornada con piedras de obsidiana que la convertían en mas cortante que el mejor acero europeo.  Puede que de allí *macana* sean sus *mentiras.  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
+**Macana** *Amer.*  Espada de madera empleada por los índios caribes.  En la mezoamérica precolombina, era adornada con piedras de obsidiana que la convertían en mas cortante que el mejor acero europeo.  Puede que de allí *macana* sean sus *mentiras*.  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
 **Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de *Banalización del Mal* lo simple es caer en su embrujo, con que facilidad, seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, las ayer víctimas judías se transforman en victimarios del pueblo palestino[^25].
 
