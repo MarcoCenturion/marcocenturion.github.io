@@ -1,3 +1,4 @@
+---
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2025-01-28 19:41:34
