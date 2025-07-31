@@ -1190,6 +1190,10 @@ Existe otro No, el de la poesía.
 
 **Opinión pública**  Sentido común organizado y distribuído por los medios dominantes.  La agenda, la opinión, la razón, el sentido común, la fé, el criterio de lo bueno y malo, la belleza, la salud, siempre son los del poder de turno, se los engloba a todos estos en el sustantivo compuesto sentido común.
 
+**Oportunidad**  *Lat. Ob frente, portus puerto*.  Salir de la tranquilidad de la ciudad, de la zona de confort.  A simple vista pareciera una invitación a la aventura en solitario, a buscarse la vida, a ser un(a) oportunista.  Otra muy distinta es la realidad, quien encare una escapatoria en soledad, no llegará muy lejos, las salidas, como los viajes, como las luchas, siempre son colectivas.
+
+> Si quieres ir rápido, viaja solo, si quieres llegar lejos, viaja acompañado.  --Proverbio árabe.
+
 **Opus** *Lat. Obra* Opus Dei, la obra de dios.  Todo parece indicar que no le puso la mejor onda.  Pululan supernumerarios en los mas diversos ámbitos, guardando especial predilección por puestos en el estado y los medios masivos de difusión, suele vérselos en otros ámbitos como el turismo y el rugby.   Fruto de esta combinación es dimos con un muchacho al que apodaban tractor, ante la consulta del porque, la respuesta era simple:
 
 > Grandote, pesado y de pocas luces.
