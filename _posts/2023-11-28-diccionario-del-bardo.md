@@ -544,15 +544,15 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > La soberbia es una discapacidad que suele afectar a pobres infelices mortales que se encuentra de golpe con una miserable cuota de poder.  --José de San Martín.
 
-**Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las cosas últimas, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos traspasada la muerte.  Controversial es su uso, dado que dependerá de la calidad de su interlocutor sea el uso del término en cuestión de buen o mal gusto.  Existe de antaño, una freudiana pulsión a revisar el contenido del pañuelo, una vez soplada la nariz, transversal a civilizaciones y culturas, como la inspección final, el vistazo validador del contenido intestinal, antes del último adios acuo.  De existir documentación fotográfica en grupos whatsapp familiares de este último caso, se aconseja la consulta a un especialista de salud mental.
+**Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las cosas últimas, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos traspasada la muerte.  Controversial es su uso, dado que dependerá de la calidad de su interlocutor sea el uso del término en cuestión de buen o mal gusto.  Alcanzan categoría de *universales antropológico*, ciertas freudianas pulsiónes como revisar el contenido del pañuelo una vez soplada la nariz, como otra tan simpática como extraña, el vistazo validador al contenido intestinal depositado en el hinodoro, antes del *último adios acuo*.  De existir documentación fotográfica de este último caso en grupos whatsapp familiares, se aconseja la inmediata derivación a especialistas de salud mental, puesto que a alguna tía puede *darle algo*.
 
 > La señora de Perez y sus hijas,
 > 
 > comunican al público y al clero,
 > 
-> que han abierto un taller de chupar pijas,
+> que han abierto un taller de chupar *pijas*,
 > 
-> en la calle Santiago del Estero.  --Diccionario Escatológico Argentino. Jorge Luis Borges y Adolfo Bioy Casares.
+> en la calle Santiago del Estero.  --Literalmente extraído del **Diccionario Escatológico Argentino**. Jorge Luis Borges y Adolfo Bioy Casares.
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Existe de anaño una controversia interesante, al encontrarnos con especialistas que no son muy listos. 
 
