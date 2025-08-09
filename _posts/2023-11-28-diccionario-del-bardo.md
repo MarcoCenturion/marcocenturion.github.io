@@ -544,7 +544,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > La soberbia es una discapacidad que suele afectar a pobres infelices mortales que se encuentra de golpe con una miserable cuota de poder.  --José de San Martín.
 
-**Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las **cosas últimas**, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos los seres vivos en su regreso al caos.  De uso controversial, ya que la popularidad del usuario del vocablo, será quien le otorgará calidad o vulgaridad al término, el uso sea de buen o mal gusto y no al revés como podría pensarse, que el término sea vulgar *per se*.  Léase el Quijote en caso de desacuerdo.  Alcanzan categoría de *universales antropológico*, ciertas freudianas pulsiónes como revisar el contenido del pañuelo una vez soplada la nariz, como otra tan simpática como extraña, el vistazo validador al contenido intestinal depositado en el hinodoro, antes del *último adios acuo*.  De existir documentación fotográfica de este último caso en grupos whatsapp familiares, se aconseja la inmediata derivación a especialistas de salud mental, puesto que a alguna tía puede *darle algo*.
+**Escatología**  *Gr.  ἔσχᾰτος éschatos, último y λόγος logos estudio*.  Luego, estudio de las **cosas últimas**, el fin, la muerte.  Por simpatía, seguramente, es que nos referimos a la caca, esto es, el destino final de todos los seres vivos en su regreso al caos.  De uso controversial, ya que la popularidad del usuario del vocablo, será quien le otorgará calidad o vulgaridad al término, el uso sea de buen o mal gusto y no al revés como podría pensarse, la vulgaridad de la palabra *per se*.  Léase el Quijote en caso de desacuerdo.  Alcanzan categoría de *universales antropológicos*, ciertas freudianas pulsiónes como revisar el contenido del pañuelo una vez soplada la nariz, como otra tan simpática como extraña, el vistazo validador al contenido intestinal depositado en el hinodoro, antes del *último adios acuo*.  De existir documentación fotográfica de este último caso en grupos whatsapp familiares, se aconseja la inmediata derivación a especialistas de salud mental, puesto que a alguna tía puede *darle algo*.
 
 > La señora de Perez y sus hijas,
 > 
@@ -553,6 +553,8 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 > que han abierto un taller de chupar *pijas*,
 > 
 > en la calle Santiago del Estero.  --Literalmente extraído del **Diccionario Escatológico Argentino**. Jorge Luis Borges y Adolfo Bioy Casares.
+
+> Yo soy Urquiza.  Si me pongo un sorete en la cabeza, eso tiene que ser moda.  --Cesar G. increpado en público por el color de una chalina extemporánea.
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Existe de anaño una controversia interesante, al encontrarnos con especialistas que no son muy listos. 
 
