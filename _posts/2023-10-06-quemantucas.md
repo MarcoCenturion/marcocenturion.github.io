@@ -49,11 +49,9 @@ El General Slamastik comanda algo mas que despojos de lo que otrora fuera un ej�
 
 Noviazgo perteneciente a ese preciso *esquema afectivo* que algún sector de la clínica denomina **amor express**. 
 
-La milonga **La Humectada**.  Endecasílabo en octavos mayores, centrado en la llegada de la niña al batallón, en medio del aguacero.
+La zamba **La Humectada**.  Endecasílabo en octavos mayores, centrado en la llegada de la niña al batallón, en medio del aguacero, autoría del reconocido poeta y músico  Diógenes L'achott.
 
-Escuchando la zamba es casi verla, remera roja con un Círculo y una **A** negligente y tangencial, pañuelo verde proderechoso, a tono con el cabello.
-
-Mirada mas firme que toda la tropa.  Bandera de cuadritos multicolor, gritando algo extemporáneo, quillapayunesco:
+Escuchar la zamba fuerza en el intelecto humano la imagen de la niña, remera roja, círculo negro y **A** negligente en grafía mano alzada, pañuelo verde proderechoso, a tono con el cabello, pañuelo de algodón palestiniano.   Mirada más firme que toda la tropa.  Bandera de cuadritos multicolor, gritando algo extemporáneo, quillapayunezco:
 
 >"... Y tu vendrás, marchando junto a mi...
 >la luz de un rojo amanecer... "
