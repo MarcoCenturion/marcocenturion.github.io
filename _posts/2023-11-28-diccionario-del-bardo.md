@@ -1745,7 +1745,7 @@ o
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
 
-**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, primera herida al ego de los simios con pulgares oponibles.  La fábula recuerda a los Hermanos Wrigh como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*.
+**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, separados de nosotros los mamíferos hace varios millones de años, primera gran herida al ego de los simios con pulgares oponibles.  Cierta fábula gringa recuerda a los **Hermanos Wrigh** como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*, ese tipo de auxiliar no solo con sufiiente amor hacia uno, sino además con la fuerza suficiente como para bajarnos de la baranda del balcón en el piso once.  3- La primera experiencia, volviendo a la teoría evolutivai, parte de las F||F *fight or flight*.  
 
 >  Falopas duras en tipos blandos, ahuecan corazones. --Carlos Solari.
   
