@@ -1584,7 +1584,9 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Tacto es la manera de mandar a la mierda a alguien, de forma tan cortés, que pregunte el precio del viaje con alegría.  --Odiseo Torres.  Agente de Viajes.
 
-**Taita**  *Quechua padre*.  De donde viene tata.  En el lunfardo del conurbano de principios del siglo XX, pasó a ser un personaje malevo, prepontente, mandón, por lo general *bancaba con el cuero lo que decía con la boca*, poco relacionado con el libertario del siglo XXI, hábil escapador de mujeres increpadoras, seguramente por ser portadoras del arma anti fascista, la temida vulva.
+**Taita**  *Quechua padre*.  De donde viene tata.  En el lunfardo del conurbano de principios del siglo XX, pasó a ser un personaje malevo, prepontente, mandón, por lo general *bancaba con el cuero lo que decía con la boca*, poco relacionado con el libertario del siglo XXI al carecer por completo este último de cualquier tipo de código de honor, además de su innata capacidad para huir de mujeres de todo tipo, seguramente por ser portadoras de la mejor arma anti fascista, la temida vulva, con la que se llevarán adelante las verdaderas revoluciones que nos sucedan.
+
+> Que la revolución, viene oliendo a jazmín.  --Feliz Luna y Ariel Ramirez.
 
 **Tambo**  *Quechua almacén*.  Sitio de trueque de mercancías.  De allí los gringos de dedos amplios del oeste cordobés que terminan sus frases con *ma vá*.  
 
