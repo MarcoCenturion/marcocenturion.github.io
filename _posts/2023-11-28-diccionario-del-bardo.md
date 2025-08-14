@@ -1735,9 +1735,7 @@ o
  
 > *Jamás llegues a parar, a donde veas perros flacos*.
  
-Esta puntualmente es muy bonita. [^11].
- 
-[^11]:  "I'll give you viscachs on evening."  Paradise Lost.  --John Milton.
+> I'll give you viscachs on evening. -- Paradise Lost. John Milton.
  
 **Volver** *Lat. Volvere, hacer rodar.*  Vuelto, el remanente de un pago.  De ahí, quedarse con un vuelto, donde ya no hay vuelta.  Envolver.  Involucrar, pareciera ser *envolver para lucrar.*  Volver, siempre lleva ísita la frente marchita.
 
