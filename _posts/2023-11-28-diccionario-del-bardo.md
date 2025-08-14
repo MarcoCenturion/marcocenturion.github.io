@@ -50,7 +50,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Alien**  *Lat. otro, iura in res aliena, derechos sobre las cosas ajenas*.  Sustantivo imaginado durante uno de los imperios mas importantes del mundo antiguo para referirse a los otros.  Los nuevos imperios tecnológicos *corren el arco* y obligan a la población mundial a hablar recursiva y periódicamente acerca de aliens, ovnis e invasiones terroríficas y hasta cosas mas horrorosas, como el reguetón.  El foco se pone en *curiosas formas de vida* provenientes de otras galaxias, distrayéndolos así del verdadero problema, el terror sembrado por acumuladores de riquezas, *curiosas formas de vida* proto humanas, que comparten ADN con otros homo sappiens sappiens, los trabajadores.  Estos últimos viven de manera  *alienada*, al decir de Hegel y posteriormente su sucesor, Karl Marx.  En los ensayos de este último, la alienación se cumple cuando el trabajador produce bienes y servicios que no alcanzan a disfrutar.  
 
-> La *macdonalización* del trabajo hizo que los asalariados sueñen que disfrutan lo que producen, porque comen todos los días ahí.  --De imposibilitate vivere.  Odiseo Torres.  Op. Cit.
+> El triunfo de la *macdonalización* del trabajo, es que la máxima aspiración de los asalariados, es que alucinen que disfrutan lo que producen, porque *almuerzan* el objeto de deseo todos los días.  --De imposibilitate vivere.  Odiseo Torres.  Opit.
 
 > No olvides que eres lo mas importante para esta cía.  --Resaltaba la calco de *jovial tipografìa*, con el logo azul y rojo, en el espejo del baño de la cía aérea.  El mismo logo de la nube de pines que cuelgan orugllosos *colaboradores* donde quepa un lugar para ponerlo con sonrisas que lindan la estupidez.  
 
