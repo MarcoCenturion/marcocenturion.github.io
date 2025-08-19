@@ -632,20 +632,11 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > ¿Faso, fascismo? --El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo.
 
-![Caricatura Fascismo]({{"/images/carica.jpg =x260", | relative_url}})
-
 <div style="width: 260px; margin: 0 auto;">
     <img src="{{ '/images/carica.jpg' | relative_url }}" 
          alt="Caricatura Fascismo" 
          style="max-width: 100%; height: auto;">
 </div>
-
-<img 
-    src="{{ '/images/carica.jpg' | relative_url }}" 
-    alt="Caricatura Fascismo" 
-    width="260"
-    style="height: auto; max-width: 100%;"
->
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos, basada en una necesidad suprema de encontrar sentido a la vida.  Bonafide es literalmente, buena fe.  Deriva de esta **Fiel**, algo en que depositar la Fe.  Ciertos apologistas gnósticos, sugieren el producto de una *conjunción* entre dos notas musicales, **Fa** y **Re**.  Esto nos lleva por decucción simple a la nota **Mi**.  Ergo, la única confianza -FE- que debemos observar es hacia nosotros mismos.  La fe no necesita datos para su justificación, o no debería necesitarlos.  No obstante, de haberlos son bienvenidos por los usuarios de esa Fé sin cuestionamiento alguno, es por esto que un pastor evangelista cien mil pesos en una caja y al retirarlos encuentra cien mil dólares.  Si bien el pastor y sus fieles no dudan de la obra del señor, que sabemos se manifiesta de manera misteriosa, los inspectores de la oficina del ministerio de economía no creen lo mismo, lo que muestra claramente que son enviados del maligno.
 
