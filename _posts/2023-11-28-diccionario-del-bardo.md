@@ -608,6 +608,12 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Una mañana el ruso Grigori Yakovlevich Perelerman recibe un llamado en su domicilio de Moscú, el interlocutor debe ser el décimo que llama insistiendo en que acepte la **medalla Fields**, el mayor honor al que puede aspirar un matemático en su vida.  Se la ofrecen por haber resuelto en 2010 la conjetura de Poincaré.  No menos honorable y famoso es quien lo llama, Sir algo, un caballero de la reina.  El objetivo de la llamada es rogarle que concurra, reciba la medalla y el dinero.  No es para menos, la conjetura llevaba cien años comiendo cerebros de generaciones completas de matemáticos del mundo.  Después de diez horas de intento de convencerlo, Grigori solo acepta el honor, rechaza viajar y el millón de dólares.  *No quiero estar expuesto como un animal en el zoológico*.  Dice.  Existe un esfuerzo global, generalizado por ridiculizar el accionar de Grigori porque vivimos en tiempos donde todo *pareciera* medible, comprable, cotizable.  Mercantil.  Afortunadamente, muchos sabemos que no es así y compartimos con muchas personas en el mundo ese tan extraño como enorme honor.  
 
+<div style="width: 360px; margin: 0 auto;">
+    <img src="{{ '/images/grigori.jpg' | relative_url }}" 
+         alt="Grigori Perelermán" 
+         style="max-width: 100%; height: auto;">
+</div>
+
 **Familia** *Lat. Famulus, sirviente, esclavo.*  En rigor, conjunto de esclavos, cargen consigo o no el ADN del **Caput Familiae**.    
 
 **Fantasma** *Gr. Phantasia.*   Aparición, espectro, imagen.  Esqueleto gaseoso[^6].  Condición de afantasmado.  Todo parece indicar que este es el origen del nombre comercial de ciertas bebidas carbonatadas, justamente por ser *gaseosas*, *Fanta Naranja, Fanta Pomelo* y esa aberración que vemos en Brasil, *Fanta Uva*.  Según Borges, toda la literatura de terror era producto de una falencia tecnológica.  Las penumbras anteriores a la invención de la electricidad hacían que veamos espectros.  La llegada de la luz hizo que desaperecieron los espíritus y luces malas dejando en su lugar manchas de humedad y tíos bromistas.  Piglia sugería un período de tiempo entre la desaparición de dios, pronosticada por Nietzsche y la llegada del Psiconálisis, como el motivo de la novéla gótica.  En la mediterránea Córdoba, suele utilizárselo como descalificador de un antagonista en una discusión.
