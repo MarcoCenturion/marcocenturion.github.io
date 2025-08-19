@@ -188,7 +188,13 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
     
 **Boludo**  Este gracioso sustantivo, se reservaba para nombrar a los integrantes de las primeras líneas de la infantería patriota, para el tiempo de las guerras por la independencia de la corona española.  Aquellos batallones estaba compuestos por humildes indios, esclavos, mujeres y los niños de estos, equipados por todo armamento de **boleadoras**, una rústica herramienta de fabricación casera, hecha de bolas de piedra atadas con tientos de cuero.  A estas bolas deben su nombre, tal como lo deben los granaderos a las granadas, los fusileros los fusiles, los mosqueteros a los mosquetes y un larguísimo etc.  La herramienta bautiza al trabajador genérico.  Aquellos boludos enfrentaban a la bien formada y equipada caballería enemiga, el **ejército mas poderoso de Europa** que venía de combatir al ejército de Napoleón.  Les boludes arrojaban todo lo diestramente posible estos rudimentarios proyectiles hacia las patas de los caballos enemigos, al llegar la feroz carga de caballería.  Nótese la desproporción del coraje y valor.  En los pocos casos en que se *maneaban* los caballos, hacían rodar al jinete y -con algo de fortuna- algunos posteriores, quitándoles la ventaja inicial de la altura.  Acompañaban su accionar con agudos *sapukais*, que en muchos casos, resultaban mas efectivos que las boleadoras.  Pocos, sino ninguno, sobrevía a la primera carga, como es de esperar.  La falta de registro de estos NN, nos da una idea del menosprecio del que fueron históricamente víctimas.  A estos *boludos* debemos la **libertad de los Pueblos Unidos de América del Sur**.  Machitos alfa del **siglo XXI** que nunca fueron a pie a la escuela, rinden culto a monarquías europeas, mostrando su escasa o nula lectura de la historia, o su menosprecio, que posiblemente sea peor.  Seguramente a esto último deban la calificación de **Boludos** y no al uso de boleadoras, como podría imaginarse.  Entrado el siglo XXI, leemos asombrados que el Ejército Argentino festeja haber luchado por la **independencia Argentina**, cuando en realidad esta la debemos a gauchos, indios, esclavos y esclavas.  Bien es sabido que el glorioso Ejército Argentino, en su larga historia, solo puede enorgullecerce de masacar civiles desarmados, como niños en la guerra del Paraguay, nativos en la patagonia o monjas francesas en los terribles setentas.    
 
-**Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
+<div style="width: 360px; margin: 0 auto;">
+    <img src="{{ '/images/soldadezca.jpg' | relative_url }}" 
+         alt="Ejercito quemantucas" 
+         style="max-width: 100%; height: auto;">
+</div>
+**
+Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
 > Boedo and Boston are the same, in this kingdom inside my heart.  --El cuervo -The Raven-  Edgar Allan Poe.
 
@@ -234,7 +240,13 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > ¡Abrid Cancha opacos, al paso de su alteza!  --Peronian Tales.  Acto segundo.  Rómulo de Iponá.
 
-**Cancerbero**  Mascota de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que cuenta con tantos pares de ojos que puede dormir con algunos, mientas mantiene una vigilia espectante respecto de intrusos con el resto.  Resulta particularmente asombroso imaginar el grado de curiosidad de alguien para ir al infierno, primero y asumido esto, enfrentar a un perro así.  Borges sugirió alguna vez que si aceptamos al averno como la *casa de Hades*, es lógico y esperable imaginar a su perro guardián tan atroz e infernal.  También sugiere que los autores clásicos cifraban un cómputo de **las** cabezas de este perro, por encima de mil, pero se redujo el número a tres, seguramente **para comodidad de las artes plásticas**[^53].
+<div style="width: 360px; margin: 0 auto;">
+    <img src="{{ '/images/chedie.jpg' | relative_url }}" 
+         alt="Inmortales" 
+         style="max-width: 100%; height: auto;">
+</div>
+**
+Cancerbero**  Mascota de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que cuenta con tantos pares de ojos que puede dormir con algunos, mientas mantiene una vigilia espectante respecto de intrusos con el resto.  Resulta particularmente asombroso imaginar el grado de curiosidad de alguien para ir al infierno, primero y asumido esto, enfrentar a un perro así.  Borges sugirió alguna vez que si aceptamos al averno como la *casa de Hades*, es lógico y esperable imaginar a su perro guardián tan atroz e infernal.  También sugiere que los autores clásicos cifraban un cómputo de **las** cabezas de este perro, por encima de mil, pero se redujo el número a tres, seguramente **para comodidad de las artes plásticas**[^53].
 
 [^53]: La notación matemática romana, tenía una serie de errores conceptuales, como los números negativos, las fracciones y las cifras por encima de mil, problema resuelto recién con la llegada de los números árabes.  El chiste sobre las cabezas del cancerbero se deba a ese error y tomar el número mil como infinito.  --Bestiario medieval.  Jorge Luis Borges.  
 
