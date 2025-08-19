@@ -564,7 +564,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
 
-**Eter**  *Lat æthēr a su vez del Gr. αἰθήρ, cielo*.  En la cosmogonía del medioevo, las ciencias duras estaban bastante atravesadas por la fé.  Contradecir un libro canónico y probar teorías nuevas, no era muy aconsejable para la salud física.  Por ello es que por mas de mil años se suponía la existencia de un quinto elemento llamado Eter, a los clásicos agua, tierra, aire y fuego.  Los materiales ardían por la cantidad de *eter* y *flogisto* que contenían en su interior.  Es sintomático, aunque no extraño, que aún llamemos **eter** al espacio por el que viajan las ondas de radio, sabiendo sobradamente de su inexistencia, en tiempos en que volvemos a discutir la esfericidad del planeta, la validez de las vacunas o lo irracional del racismo. 
+**Eter**  *Lat æthēr a su vez del Gr. αἰθήρ, cielo*.  En la cosmogonía del medioevo, las ciencias duras estaban bastante atravesadas por la fé.  Contradecir un libro canónico y probar teorías nuevas, no era muy aconsejable para la salud física.  Por ello es que por mas de mil años, se sostenía a modo de dogma, la existencia de un quinto elemento llamado **Eter**, que se sumaba a los clásicos **agua, tierra, aire** y **fuego**.  Los materiales ardían por la cantidad de *eter* y *flogisto* que contenían en su interior.  Es sintomático, aunque no extraño, que aún llamemos **eter** al espacio por el que viajan las ondas de radio, sabiendo sobradamente de su inexistencia, en tiempos en que volvemos a discutir la esfericidad del planeta, la validez de las vacunas o lo irracional del racismo. 
 
 **Eternidad**  *Lat. aeternitas aevum tiempo y -ter comparativo y -dad calidad de.*  Aquello que no tiene principio ni fin.  En la promesa del cielo o el infierno eterno, el horror proviene no del *sustantivo* sino del *adjetivo*.  Lo realmente aterrador no es el mal o el bien sino el concepto central de la eternidad.   
 
@@ -573,6 +573,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 **Ex**  *Lat. ex eso que ya no es, del Gr. Ek*.  Sufijo que antecede palabras para señalar el afuera presente en explorador, exilio, exprofeso o las de base griegas como eclipse, ecléctico o ectoplasma.  Se aplica despectivamente hacia quien perdiera todo tipo de encantamiento.  Multitud de razones fuerzan al indivíduo a esta condición, como la definición de fantasma en boca de Stephen en el Ulises de Joice: *por muerte, ausencia o cambio de costumbres*.  Mi favorita es la que ejercía el abuelo Armando, el bello arte de la *sordera selectiva*.  La condición para el uso de esta es no hacerla extensa en el tiempo, puesto que es asumida como abusiva.
 
 > Cruzate a comprar pan.  --Abuela Amanda.
+> 
 > ¿La mujer de quien murió?  --Ahuecando la mano sobre el pabellón de la oreja izquierda.  Abuelo Armando.
 
 **Evento**  *Lat. eventus*.  Originalmente un hecho imprevisto o de realización inciera o contingente, luego, todo aquello que pueda suceder.  Ahora, quedaría vedado el uso en tiempo pasado, puesto que lo que era incierto, ya sabemos a ciencia cierta si sucedió o no, puesto que ya perdió su caracter de incierto o eventual.  De allí la imposibilidad de la frase.
@@ -651,7 +652,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Feligresía** *Lat. Filii eclesia.*  Los hijos de la iglesia.
 
-**Fénix**  Ave mitológica cuyo super poder era resurgir de sus propias cenizas.  Tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, muere constantemente.  Se refieren a él los antiguos Herodoto y Plinio.
+**Fénix**  *Lat. phoenix, Gr. φοῖνιξ*.   Ave mitológica cuyo super poder era resurgir de sus propias cenizas.  Tal vez el misterio interesante radique en su periodicidad y no en su inmortalidad, porque de hecho, morir le sale bién, de lo que no es capaz, es de dejar de resucitar.  Se refieren a él los antiguos Herodoto y Plinio.  Malos lectores, que nunca faltan, lo citan de manera errónea, tanto topológica como temporalemnte, olvidando su longevidad, que algunos clásicos hacen llegar a mas de quinientos años, antes de una nueva regeneración.  Otorga el nombre a la zona de donde provenía, según los romanos, Fenicia, actual Líbano.
 
 **Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurrieron y recurren a esta, a efectos de reclamar reinos o eerritorios, como lo hace el pentateuco; para darle tarea a las ancianas a la hora de la cena; para embellecer relatos de pezca; o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, donde se recogen narraciones populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos cuentos y leyendas, nos acercan otro punto de vista de hechos históricos, como el asedio de Bizancio o las cruzadas.
 
@@ -663,9 +664,9 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > ¿El halcón se chupa la pija solo?  --Interrumpe nuevamente Rashid.
 
-> Temo que no mi amo y señor.
+> Temo que no, mi amo y señor.
 
-> Dejá perro nomas, gracias.
+> Dejá perro nomas.  Gracias.
 
 **Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles.  La fe en dios es requisito sine quanon para la fe en el dinero, metálico o cripto. 
 
@@ -679,7 +680,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > Para mis *últimas disposiciones* prohibo expresamente misas y liturgias, las únicas flores permitidas que sean las que traigan mis peores amigos, en frascos de mermelada, para acompañar wiskies baratos y rock and roll.  Debe escucharse *Juguetes Perdidos* una vez por hora.  --Flores de Valle Alegre.  Odiseo Torres.
 
-**Flúor**  *Física*.  En la tabla de Mendeleiev, o periódica, ocupa el número 9, entre los halógenos, que en oídos indoctos pareciera sugerir seres provenientes del planeta Halo.  Se lo suele confundir con un par fónico, el adjetivo **Flúo** que destaca la vivacidad de los colores, aunque no se trate de una homofonía en sentido estrico, por sobrar la letra *R* para que ello ocurra.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos, de uso común como el reguetón, el fascismos y otras desgracias del género humano.
+**Flúor**  *Fís del Lat. fluor, corriente, deslizamiento, de donde provienen tambien flojo, influir, fluido, fluir*. En la tabla de Mendeleiev, o periódica, ocupa el número 9 y se lo nombra como **F**, entre los halógenos, que en oídos indoctos pareciera sugerir seres provenientes del planeta Halo.  El vulgo lo suele confundir con un par fónico, el adjetivo **Flúo** que destaca la vivacidad de los colores, aunque no se trate de una homofonía en sentido estrico, por sobrar la letra *R* para que ello ocurra.  Tarde o temprano, se impondrá el uso y pasarán a ser sinónimos, de uso común como el reguetón, el fascismos y otras desgracias del género humano.
 
 > **¿Ia te compraste tu ior brioso, tespramo?**  --Publicidad radial de Traslasierra, para la fiesta de la cabritilla, que traducido al idioma cervantino significa: *Has adquirido ya tu pantalón corto de colores vivos, aguardamos por tí*.
 
