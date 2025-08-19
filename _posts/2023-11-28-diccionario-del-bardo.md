@@ -1032,6 +1032,8 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Macana** *Amer.*  Espada de madera empleada por los índios caribes.  En la mezoamérica precolombina, era adornada con piedras de obsidiana que la convertían en mas cortante que el mejor acero europeo.  Puede que de allí *macana* sean sus *mentiras*.  Luego macanudo es quien utiliza la macana.  Parece un contrasentido.  Sinónimo cachiporra.
 
+**Machismo**  Condición de supremacía de género que asumen natural los varones homo sappiens sappiens, originado seguramente en su brevedad peneana y su deseo inconsciente reprimido, hacia otros indivíduos de su propio sexo, lo que la clínica sugiere como *puto en pausa*.  Como en todos los demás *ismos*, el indivíduo encuentra placer en conductas, mitos y creencias donde es mas que otro por voluntad de dios.  Curiosa paradoja, esta del *machito alfa*, puesto que una mujer lo trae, con dolor, a este planeta, esa misma lo instruye en el uso de la cuchara y la pelela, otra mujer le enseñará a garabatear la palabra **mamá**, luego su nombre y al final de un largo(ísimo) etcétera, una última será quien le ponga una chata y le higienice *las vergüenzas* justo antes de partir.
+
 **Mal**  *Lat. Malus*.  De errado, equivocado.  Sócrates sostenía que el malo lo era por estúpido.  Vemos en el concepto de *Banalización del Mal* lo simple es caer en su embrujo, con que facilidad, seres estúpidos comenten hechos atroces sin ser malos.  Como en poco tiempo histórico, las ayer víctimas judías se transforman en victimarios del pueblo palestino[^25].
 
 [^25]: Hanna Arendt en su libro Eichman en Jerusalem analiza esto, como llegó la sociedad mas erudita de la culta europa, pudo dar nacimiento al nazismo [Wikipedia Hannah Arendt](https://es.wikipedia.org/wiki/Hannah_Arendt)
@@ -1637,7 +1639,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 > Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
 
-**Taza**  *Ar. Tassah, Lat. pocillum*.  Recipiente con una sola asa, para ingerir líquidos calientes simulando bonomía, esta última es la parte mas importante del embrujo.  Se la debe utilizar en presencia de otros.  En geografías puntuales de latinoamérica, como la Argentina, el comportamiento social de *tomar un caf*e bien puede llevar el resto del día, incluso mas[^43].  En mi pequeño mundo de significados, una taza es un espejo, no por el reflejo del rostro en el líquido.  
+**Taza**  *Ar. Tassah, Lat. pocillum pocullum*.  Recipiente con una sola asa, para ingerir líquidos calientes simulando bonomía, esta última es la parte mas importante del embrujo.  Se la debe utilizar en presencia de otros.  En geografías puntuales de latinoamérica, como la Argentina, el comportamiento social de *tomar un caf*e bien puede llevar el resto del día, incluso mas[^43].  En mi pequeño mundo de significados, una taza es un espejo, no por el reflejo del rostro en el líquido.  
 
 [^43]: En una gira por Estados Unidos, le preguntan a Oscar Wilde sobre las diferencias entre los ingleses y los irlandeses, este responde con su acidez habitual "El imperio británico ha legado al mundo las tres cosas mas importantes de la cultura, el té, el wisky y la literatura.  Pero resulta que el té es chino, el wisky, escocés y yo soy irlandés".  
 
