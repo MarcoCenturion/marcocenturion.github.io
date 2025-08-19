@@ -632,7 +632,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > ¿Faso, fascismo? --El más inteligente, atento, se lleva los dedos pulgar e índice a la boca, sonríe de manera pícara y guiña un ojo.
 
-<div style="width: 260px; margin: 0 auto;">
+<div style="width: 360px; margin: 0 auto;">
     <img src="{{ '/images/carica.jpg' | relative_url }}" 
          alt="Caricatura Fascismo" 
          style="max-width: 100%; height: auto;">
