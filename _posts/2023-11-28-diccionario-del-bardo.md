@@ -572,7 +572,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 > 
 > en la calle Santiago del Estero.  --Literalmente extraído del **Diccionario Escatológico Argentino**. Jorge Luis Borges y Adolfo Bioy Casares.
 
-> Yo soy Urquiza.  Si me pongo un sorete en la cabeza, eso tiene que ser moda.  --Cesar G. increpado en público por el color de una chalina extemporánea.
+> Yo soy Urquiza.  Si me pongo un sorete en la cabeza, eso tiene que ponerse de moda.  --Cesar G. increpado en público por el color de una chalina extemporánea.
 
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Existe de anaño una controversia interesante, al encontrarnos con especialistas que no son muy listos. 
 
