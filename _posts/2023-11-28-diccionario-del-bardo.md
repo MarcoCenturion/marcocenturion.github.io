@@ -154,7 +154,9 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 **Batalla**  *Lat. battuere, batirse*.  Aparentemente esta elegante palabra proviene del duelo que a lo largo de la historia, dos contendientes de ejércitos rivales disputan una *batalla singular* ampliamente documentado desde **La Ilìada** de Homero en adelante.  Esto lleva a un curioso paralelismo con la *batalla cultural* en la que observamos argentinos de bien, desconocer la localización topológica de la letra *H* en la casa de la luna *quilla huasi*, al tiempo que asumen como totalmente natural saber donde lleva la *H* la isla de *Manhattan*.  Nuestra bibliografía musical es rica en datos sobre el Jazz, el blues y músicas norteamericanas, mientras que pesa un denso silencio sobre la existencia de Ignacio Corsini o Agustín Barrios.
 
-**Belleza**  *Lat. bellusi bellitas*.  Concepto al menos ambíguo y moldeable a lo largo de la historia humana, parte de la tríada de las virtudes clásicas al lado de Verdad y Bondad.  No poca cosa.  Si la verdad es la verdad siempre del poder, podemos conjeturar, por simpatía, que la belleza también lo es.  Bástenos, en este sentido, trasladasnos temporalmente a los tiempos de Touluse-Lautreac, Van Gogh o Picaso y las fervientes oposiciones que enfrentaron.  
+**Belleza**  *Lat. bellusi bellitas*.  Concepto al menos ambíguo y moldeable a lo largo de la historia humana, parte de la tríada de las virtudes clásicas al lado de *Verdad* y *Bondad*.  No poca cosa.  Si la *verdad* es siempre la del poder de turno, luego podemos conjeturar, por simpatía, que la belleza también lo es, al igual, lamentablemente, de la bondad.  Bástenos, en este sentido, trasladasnos temporalmente a los tiempos de Touluse-Lautreac, Van Gogh o Picaso y las fervientes oposiciones que enfrentaron.  Asistimos pasmados al deterioro de los estándares de belleza, para acomodarlos al gusto berreta de las clases dominantes.  Esto explicaría, solo en parte, la acogida del reguetón y el arte figurativo.
+
+> Lo mas interesante de la lucha de clases, nos muestra que la clase obrera no tiene obras, la clase media no tiene medios y la clase alta, carece totalmente de altura.  --El XVIII de Brumario de Odiseo Torres.  Op. Cit.
 
 > La belleza es una reina muy poderosa, pero reina poco tiempo.  --In the kingdom by the sea.  --Odiseo Torres.
 
@@ -1289,7 +1291,7 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión andina, en la que los humanos no son el pueblo elegido, ni el privilegiado, ni el heredero del cielo, sino parte de esa madre tierra, hermanos de ríos y árboles.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
 
-**Palta**  *Quechua fruto americano*.  Término infinitamente superior en lo estético y cacofónico, al risible aguacate.
+**Palta**  *Quechua fruto americano*.  Es un árbol sudamericano por excelencia.  Término infinitamente superior en lo estético y cacofónico, al risible aguacate.  El hueso o caroso, resulta útil para saludar el paso de candidatos de derecha en campaña.
 
 **Pampa** *Quechua terreno llano y amplio sin árboles*.  Sinónimo de planicie en el cono sur.  Tanto que da nombre a regiones completas, da forma al arte y todo método de comunicación humana.  
 
