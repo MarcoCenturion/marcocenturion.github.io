@@ -1662,6 +1662,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 > Cuando preguntás un concepto económico y no entendés la respuesta, es porque te están caminando.  --Axel Kichiloff.  Economista.
 
 > La iglesia es esa insitución que te pide dinero para resolver sus problemas, pero te sugiere oración para resolver los tuyos.
+
+**Termidor** *Fr. Enero*.  A la par que separaba troncos de cabezas, la revolución francesa se propuso quitar todo dejo de religiones y vestigios reales en la vida diaria.  La asamblea votó cambiar el calendario gregoriano, o careta, por un calendario revolucionario o *Calendrier républicain*, acorde a los tiempos agrícolas.  Una utopía algo romántica, puesto que para no otra cosa fueron inventadas las utopías.  El mes mas cálido del hemisferio boreal, será llamado de esta manera, mes de sed.  Por extraños caprichos de la utopía, termina convertido en vino en caja.
  
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, ataviado en escala de blancos, negros y grises.  Su estética esbelta, su monocromía, su elegancia y respetuoso saludo, nos recuerdan mangas nipones del estilo Miyazaki.  Su habitat es la llanura pampeana, aunque merced a su caracter impetuoso, se lo puede observar disfrutando de desde playas catarinenses, hasta incluso paulistas.  Bajo el influjo de qué clase de tóxicos puede alguien sugerir en una canción: 
 
