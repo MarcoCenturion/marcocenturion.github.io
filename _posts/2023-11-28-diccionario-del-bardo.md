@@ -842,7 +842,11 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 
 **Informar** *Del Lat. dar forma.*  Pareciera abonar la tesis estructuralista, donde la realidad disfruta de una cobertura de los **medios masivos**, que la hace más llevadera. Luego, informar es exactamente lo opuesto a la formación de los indivíduos, tal cual la entendemos[^66].
 
-[^66]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado.*
+[^66]: Saluel Clemmens, que escribía bajo el Pseudónimo de Mark Twain sostenía que *Quien no lee el periódico está desinformado, mientas que quien lo hace, está mal informado*.
+
+**Inmortal**  *Lat. In morten, no puede morir*.  Extraño deseo que puede ser una maldición.  Encerrado en algún libro o en una canción, aparece un sentido de una frase, de una imágen que nos coloca en *situación de inmortalidad*, nos recuerda una sonrisa que nos refleja y queda girando dentro del indivíduo.  Dura un instante, pero una serie de procesos somáticos nos anotician de la certeza irrefutable.  Picor nasal, erizado de piel, saliva profusa y cierta taquicardia mínima.  
+
+> El anticuario Joseph Cartaphilus, de Esmirna... Era, nos dice, un hombre consumido y terroso de ojos grises.  --El inmortal.  J. L. Borges.
 
 **Inquisición** *Santo Oficio de la.* Sistema de creencias de imposición compulsiva. Puede observarse, mucho de sus originales faltas estéticas o de estilo, en sus derivados contemporáneos, *Terraplanismo* o el *Antivacunismo*, apenas camufladas detrás de modales amanerados y vestimentas que atrasan varios siglos, por caso: las corbatas. Se le reconoce la invención de un enemigo, las brujas. No poca cosa. Las cifras más optimistas estiman la ejecución de **quinientas mil mujeres** durante los mil años que duró el medioevo, por prodigios tales como volar en escobas, o inventar cosas, tal el caso de **María la alquimista**. Los pesimistas arriesgan cifras mayores, sugieren una por encima de diez millones. Sea como fuere, recién entrado el siglo XXI está el movimiento feminista recuperándose de aquel *empujoncito disciplinatorio*, el mismo siglo XXI en que enviamos sondas a los gigantes gaseosos del sistema solar o descubierto indicios del Bosón de Higgs, compartimos el planeta con indivíduos incapaces de utulizar la palabra *Bruja*, sin agregar 
 
