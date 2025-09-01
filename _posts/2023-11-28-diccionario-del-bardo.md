@@ -199,8 +199,8 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
          alt="Ejercito quemantucas" 
          style="max-width: 100%; height: auto;">
 </div>
-**
-Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
+
+**Boston** *Sus. Propio.* Ciudad capital del estado de **Masachusets. USA.**  En iroqués de las tribus del norte, literalmente *Caca Grande*.
 
 > Boedo and Boston are the same, in this kingdom inside my heart.  --El cuervo -The Raven-  Edgar Allan Poe.
 
