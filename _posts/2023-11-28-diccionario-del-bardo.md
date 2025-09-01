@@ -224,7 +224,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Cafiolo**  *Ing. Stockfish*.  Pareciera origianse en cargamentos de pescado seco.  Inicia sus andanzas de sustantivo en cafishio, va perdiendo sílabas hasta simplificarse a fiolo.  Indivídulo que lucra con el sexo de terceros y terceras.  Metáfora perfecta del capitalismo, un indivíduo repulsivo, que promete proteger a sus *empleados*, fuerza a estos últimos a una semi exclavitud a cambio de *protección* que poco demora en demostrar que no es tal.  Elige sus víctimas en los rincones mas vulnerables de la sociedad, como es el ejemplo de mujeres, pobres, jóvenes, iletradas -la enumeración no es taxativa y puede extenderse hasta el hartazgo- único comercio afectivo al que acceden ejércitos de varoncitos, machitos alfa y bravucones incapaces de *ganarse* un amor por medios algo mas dignos que el dinero.  En realidad, menos digno que el dinero es la violencia física, que no dudan en ejercer en caso de poder.  Las similitudes entre ambos conceptos, amenaza con extenderse hasta el infinito.   
 
-**Cabeza**  *Lat. Caput*  La parte gestual del cuerpo humano.  Los chalecos amarillos franceses sacan la guillotina regularmente ante medidas anti populares, en clara señal de la fragil unión con las clases dominantes, unión erroneamente sobreentendida y sobre estimada, un extraño *status quo* que asumen durará eternamente, como esa misma cabeza sobre sus troncos.
+**Cabeza**  *Lat. Caput*  La parte gestual del cuerpo humano con la que estos interrelacionan con otros de la misma especia, en el habla, guiños y miradas.  El colectivo *chalecos amarillos* franceses sacan en peregrinación una máquina simple de madera, llamada la guillotina, por lo general en respuesta a medidas anti populares, en clara e inequívoca señal de la *fragil* unión con las clases dominantes, unión erroneamente sobre entendida y sobre estimada, un extraño *status quo* que asumen durará eternamente, tan delicada y frágil como la unión de esa misma cabeza sobre sus troncos corporales. 
 
 **Calendario** *Lat. Calendae.*  Primer día del mes.  Los griegos no tenían calendario, de allí la **feliz** promesa de pago, en tiempos de la república romana:  
 
@@ -253,7 +253,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
          alt="Inmortales" 
          style="max-width: 100%; height: auto;">
 </div>
-**
+
 **Cancerbero**  Mascota de **Hades** en el inframundo.  Es controversial el cómputo de sus cabezas, lo cierto es que cuenta con tantos pares de ojos que puede dormir con algunos, mientas mantiene una vigilia espectante respecto de intrusos con el resto.  Resulta particularmente asombroso imaginar el grado de curiosidad de alguien para ir al infierno, primero y asumido esto, enfrentar a un perro así.  Borges sugirió alguna vez que si aceptamos al averno como la *casa de Hades*, es lógico y esperable imaginar a su perro guardián tan atroz e infernal.  También sugiere que los autores clásicos cifraban un cómputo de **las** cabezas de este perro, por encima de mil, pero se redujo el número a tres, seguramente **para comodidad de las artes plásticas**[^53].
 
 [^53]: La notación matemática romana, tenía una serie de errores conceptuales, como los números negativos, las fracciones y las cifras por encima de mil, problema resuelto recién con la llegada de los números árabes.  El chiste sobre las cabezas del cancerbero se deba a ese error y tomar el número mil como infinito.  --Bestiario medieval.  Jorge Luis Borges.  
