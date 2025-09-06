@@ -752,7 +752,7 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 
 **Grifo**  *Mit*.  El grifo de los bestiarios clásicos era un ser sobrenatural, par de un personaje femenino de mi infancia, la Solapa.  Teníamos penado salir en horas de la siestam, asomarnos al partio.  La abuela Amanda la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural y amonestadora.  Por algo nadie sale a la calle a la siesta.  Nunca dudamos de la veracidad de sus palabras.  Encontraba complicidad en otros mayores a su alrededor: *la tía Helena la vió una vez cuando era chica*.  Siempre se lleva a los mas revoltosos.  A juzgar por la edad, la tía **Helena**, bien puede haber sido la protagonista de la Ilíada del rápsoda Homero, que causara tanto penar entre teucros y aqueos.  Tal vez por simpatía narrativa, es que hoy asocio al Grifo con La Solapa.  Tarde descubrí que suponía en la Solapa cierta capacidad de volar, aunque nunca nos fuera aclarado su método de traslación de las víctimas.
 
-**Guaso**  *Quechua wacho huérfano*.  Se lo utiliza también para referirse a los animales que perdieron a sus progenitores, tanto como a vegetales silvestres, que no fueron cultivados.  
+**Guaso**  *Quechua wacho huérfano*.  Se lo utiliza también para referirse a los animales que perdieron a sus progenitores, tanto como a vegetales silvestres, que no fueron cultivados. La rúcula es un claro ejemplo de verdura de hoja consumida durante el imperio romano, pero que no era cultivada, de hecho debe su nombre al adjetivo *rustica*, guacha.  Extraño derrotero que termina en la city como eufemismo del dólar paralelo. 
 
 **Guagua**  *Sus. Quechua. bebé*.
 
