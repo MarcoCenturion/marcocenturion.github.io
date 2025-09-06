@@ -1523,7 +1523,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Rock'n roll**  Los revolucionarios años sesentas fueron el golpe de timón, frente al rumbo trazado por los fascistas cincuentas, las cazas de brujas y el oscurantismo semi medieval, en el primer mundo.  Allá lejos, se presentó como el fenómeno contracultural opuesto al consumismo y alienación, a guerras tan inútiles como interminables, donde no solo hacen el ridículo militar, sino principalmente, moral.  El rock aparece para redimir a juventudes que se niegan a repetir la novela familiar, hasta que pierden todo vestigio de rebeldía contra el sistema con el primer embarazo.
 
-> Si vas a cambiar el mundo, aprovechá a hacerlo de soltero o soltera, poderque después no podes cambiar ni de canal.  --Sobre la revolución permanente.  Odiseo Torres.
+> Si vas a cambiar el mundo, aprovechá a hacerlo de soltero o soltera, porque después no podes cambiar ni de canal.  --Sobre la revolución permanente.  Odiseo Torres.
 
 > Con el Rock, intentábamos aprender algo de inglés, con el reguetón estamos olvidando incluso el español.  --Anónimo.
  
