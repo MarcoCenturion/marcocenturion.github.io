@@ -216,6 +216,8 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  Ningún clásico sale de edades de Oro económicas.  Luego el regetón es producto terminado perfecto de épocas felices, de la ausencia de crítica y el fin de la historia.
 
+**Bulimia**  *Gr. βουλιμία bous limos, hambre de buey*.  La bulimia nerviosa es un trastorno alimenticio que lleva a quienes lo padecen a la errónea sensación de obesidad.  La sufren por lo general la población femenina, cuando se trata del fenómeno exclusivamente alimenticio, en una relación de nueva a uno respecto de los varones.  Existe en este grupo un proceso de *culpa* por la ingesta de alimentos, que las obliga a vómitar las ingestas, sin digerirlas.  La población masculina, en cambio, sufren una patología similar, pero no es de orden alimentício, sino intelectual.  Luego de atracones de ideas fascistas, homofóbicas, xenófobas o misóginas, sin ningún tipo de filtro intelectual, vomitan, sin diger, conceptos anacrónicos, al carecer de la culpa que confiere la lectura, la escucha paciente del rock and roll.
+
 ## C
 
 **Cábala** En el judaísmo, estudios que deducen la existencia divina a partir de los números presentes en la naturaleza.  No forman parte de esta corriente de pensamiento, la secuencia de Fibonacci, el número Pi y el teorema de Sheldon Cooper. Tal vez el hallazgo más curioso sea la *constante del estornudo*, que se presenta en los homínidos avanzados en tríadas o múltiplos de tres.  Es curioso el deleite que encuentran ciertos indivíduos en coincidencias numéricas presentes en la naturaleza, que los hace predecir el fin del mundo o la quiniela, mientras que no ven un patrón delictivo en las solicitudes de auxilio al FMI, accesible al intelecto sin demasiado esfuerzo.
@@ -1518,6 +1520,12 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
  
 **Rocío** *Lat. Rucsidus.*  Goza del embrujo sonoro de la palabra, mostrándonos cuanta felicidad encierra un sonido, cuando la palabra capta el amor de madre natura.  No falta quien sugiere un patrón que asocia belleza con fenómenos meteorológicos, milagros mínimos.  Véase en el mismo sentido Llovizna.  
 **Rojo** *Lat. Russeus.*  Primo hermano dialectal del italiano *Rosso*, el portugués *Roxo*, el francés *Rouge* -aunque parece más proveniente de Roux-, el catalán *Roig*.  En todos los idiomas latinos, conserva asperezas del color de la sangre en su sonido.  Afortunadamente, con escasa relación con el insulso y desganado *red* inglés.
+
+**Rock'n roll**  Los revolucionarios años sesentas fueron el golpe de timón, frente al rumbo trazado por los fascistas cincuentas, las cazas de brujas y el oscurantismo semi medieval, en el primer mundo.  Allá lejos, se presentó como el fenómeno contracultural opuesto al consumismo y alienación, a guerras tan inútiles como interminables, donde no solo hacen el ridículo militar, sino principalmente, moral.  El rock aparece para redimir a juventudes que se niegan a repetir la novela familiar, hasta que pierden todo vestigio de rebeldía contra el sistema con el primer embarazo.
+
+> Si vas a cambiar el mundo, aprovechá a hacerlo de soltero o soltera, poderque después no podes cambiar ni de canal.  --Sobre la revolución permanente.  Odiseo Torres.
+
+> Con el Rock, intentábamos aprender algo de inglés, con el reguetón estamos olvidando incluso el español.  --Anónimo.
  
 **Ropa** *Gotico Raupa, botín*  Prendas de vestir que se tomaban de los asaltos.  Posiblemente de allí provengan también Rapaz y rapiña.  Según esta corriente, toda prenda de vestir nos es ajena, puesto que nada traemos al llegar a este planeta, para concluir felizmente en el siguiente concepto.
  
