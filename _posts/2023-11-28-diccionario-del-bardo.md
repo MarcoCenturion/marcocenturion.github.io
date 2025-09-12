@@ -424,7 +424,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 [^81]: El telex o teletipo era un híbrido entre máquina de escribir y teléfono.  Su mayor virtud consistía en convertir un caracter en un pulso eléctrico puntual, así pulsada una letra L en un punto del planeta, replicaba una L también, en otro teletipo en otro extremo del globo.  Al ser estos minutos de comunicación excesivamente costosas, los operadores escribían el mensaje en unas cintas perforadas, que una vez establecida la comunciación, se hacían correr automáticamente.  Estas eran el antecedente directo de toda la mensajería por chat.    
 
-**Cuadriciclo**  Neologismo que pareciera referirse a un medio de transporte cuyas ruedas son cuadradas, algo poco eficiente en este contínuo espaciotiempo, dado el esfuerzo significativo del torque, momento de la fuera aplicada al objeto, conceptos del todo ajenos a este sencillo paper.  Otra opción, que requiere mas esfuerzo poético por parte del lector, es que esas ruedas sean cuadros, lo que nos lleva a imaginar pinturas de Dalí y no este medio de transporte, el **cuatriciclo** diseñado originalmente para ser usado en la arena y no en urbes, donde ha dado muestras sobradas de su capacidad de producir adolescentes *cuadrapléjicos*.  Quizá la poesía se escondía ahí. 
+**Cuadriciclo**  Neologismo que pareciera referirse a un medio de transporte cuyas ruedas son cuadradas, algo poco eficiente en este contínuo espaciotiempo, dado el esfuerzo significativo del torque, momento de la fuerza aplicada al objeto, conceptos del todo ajenos a este sencillo paper.  Otra opción, que requiere mas esfuerzo poético por parte del lector, es que esas ruedas sean cuadros, lo que nos lleva a imaginar pinturas de Dalí y no este medio de transporte, el **cuatriciclo** diseñado originalmente para ser usado en la arena y no en urbes, donde ha dado muestras sobradas de su capacidad de producir adolescentes *cuadrapléjicos*.  Quizá la poesía se escondía ahí. 
 
 **Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
 
@@ -969,6 +969,12 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 **Juez**  *Lat. Iudex*. Quien indica como proseguir en una disputa.  Último refugio monárquico dentro de las democracias occidentales.   
 
 **Jueves**  *Lat. dies iovis.*  Día de Júpiter, dios de todos los dioses.  La mayor de las maldiciones y el mas firme juramento durante la antiguedad clásica *Por Júpiter Capitolino*.
+
+## K 
+
+**Kuka**  *Sus. colectivo*.  Homínidos proto humanos habitantes del conurbano bonaerense, aunque no esclusivamente en este ámbito, ya que se lo puede observar pintando posters de D10s o del Che en otras latitudes.  Se los distingue por su dieta basada en polenta, defecar en baldes y sonreir de alegría bailando ante los ojos castos e impolutos de la derecha mas rancia y cobarde del universo.  Su tasa de natalidad es muchas veces superior a la de las razas superiores, hecho que se explica en gran medida por el solo hecho de practicar el sexo con regularidad, hecho visiblemente inexistente en las capas superiores de la sociedad, a juzgar por sus rostros.  El poeta urbano Ernesto Anibal Gauna, nos anotició allá lejos y hace tiempo de la llegada de estas hordas, del aluvión zoológico y no tomamos las precauciones del caso.  Como vemos, lejos de reducirse su número, las generaciones venideras superan a las anteriores en cantidad, pero sobre todo, en calidad.
+
+> Como le gusta el baile, al hijo de Cuca. --Pocho, la Pantera. 
 
 ## L
 
