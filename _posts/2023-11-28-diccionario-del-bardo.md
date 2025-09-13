@@ -1460,7 +1460,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 **Querosén**  Líquido inflamable obtenido de hidrocarburos, en la base de la escala evolutiva de los combustibles, por debajo de Gasoil, naftas, etc.  Arrojó luz a la noche de las primeras décadas del siglo XX.  Esa luz no era del todo estable, por lo que dió lugar a toda la literatura de horror de ese período.  La popularidad de la electricidad trajo consigo la desaparición, tanto de lámparas ahumadas, como de fantasmas, luces malas y tíos bromistas haciendo asustar a les niñes.  Encontró un uso nuevo con la aviación comercial.  Por motivos que desconocemos, los helicópteros son menos eficaces que los jets en el control del combustible, lo que los hace mucho mas olfatibles.  Los gobiernos de derecha temen a esa *espada de Damocles olfativa*.
 
-> Hay olor a helicóptero.  --En honor al rigor literario, el olor es a kerosén.
+> Hay olor a helicóptero.  --En honor al rigor literario, el olor es a querosén.
 
 **Quincha** *Quechua*.  Reparo hecho de cañas, en mucho casos, todo hogar del gaucho.  También aplica a la techumbre del rancho, altamente utilizado por vinchucas y otras alimañas.
 
