@@ -28,15 +28,17 @@ lead_text: 'La lengua usada en La Docta'
 
 > ¿Que acelga?
 
+**Acequia**  *Ar assáqya, الساقية al-sāqiyah irrigadora*.  Al igual que los pueblos esquimales tienen mas de cien palabras para nombrar el blanco, los pueblos andinos otro tanto para las papas, los pueblos árabes festejaban el agua, una cosmovisión en derredor del líquido vital desde el transporte hasta el uso ritual.  El humano medio se mueve dentro de sus límites intelectuales, es lógico que los pueblos del desierto hayan especializado su saber en el transporte del agua.  Así lo ve un poblador del centro de argentina, mirando sendas canaletas entre los bananos de las plantaciones costarricences, pregunta al chofer del taxi "¿Riego?" haciendo un gesto con ambos brazos indicando agua que fluye.  El conductor mira asombrado y niega con la cabeza.
+
+> Desagote, aquí llueve cincuenta milímetros diarios.  --Haciendo señales con las manos en sentido contrario.
+
 **Agonía**  Angustia y congoja del moribundo.  Del *Lat. Agonia y este del Gr. ἀγωνία* Lucha, combate.  De aqui surgen también tambien protagonista, esto es, primero y agonistis luchador.  Antagonista es el otro en la batalla, del tipo que esta fuera.
 
 > El pensador contemporáneo Marcelo Bielsa suele camuflarse de técnico de fútbol en sus apariciones televisivas.  Lo antecede cierta -bien ganada- fama de loco, que refuerza volitivamente con su andar cabizbajo y meditabundo, mascullando, andar que bien podría montarse en sandálias, arrastrando una toga por el foro ateniense y pasar desapercibido.  Resulta extraño verlo encontrar diversión donde cualquier mortal explotaría en insultos.  En cierta conferencia de prensa, un lobista disfrazado de periodista de los medios dueños de la verdad, intenta una agresión *ad hominem*.  Lo vemos buscar las palabras en el torcer de su cuello, sonreir al ir encontrándolas, masticar la respuesta *Usted es el enemigo que me enaltece.  Cuanto mas lejos de usted estoy, mejor soy, no se si me entiende*.  Debería ser cita obligatoria de todo tratado de ética y estar grabado en letras de bronce, sobre el friso de la entrada de las facultades de filosofía y letras de todo el país.
 
 > Un triunfo frente a tales antagonistas es vergüenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Habiendo ganado una disputa en una discusión.
 
-**Acequia**  *Ar assáqya, الساقية al-sāqiyah irrigadora*.  Al igual que los pueblos esquimales tienen mas de cien palabras para nombrar el blanco, los pueblos andinos otro tanto para las papas, los pueblos árabes festejaban el agua, una cosmovisión en derredor del líquido vital desde el transporte hasta el uso ritual.  El humano medio se mueve dentro de sus límites intelectuales, es lógico que los pueblos del desierto hayan especializado su saber en el transporte del agua.  Así lo ve un poblador del centro de argentina, mirando sendas canaletas entre los bananos de las plantaciones costarricences, pregunta al chofer del taxi "¿Riego?" haciendo un gesto con ambos brazos indicando agua que fluye.  El conductor mira asombrado y niega con la cabeza.
-
-> Desagote, aquí llueve cincuenta milímetros diarios.  --Haciendo señales con las manos en sentido contrario.
+**Aguacate**  *Nahuatl awakatl*.  Testículo de árbol.     
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  Luego, alinear la comida es ponerla en línea con un lineamiento dado como estándar, el formato estándar del lugar.
 
@@ -73,6 +75,8 @@ lead_text: 'La lengua usada en La Docta'
 [^61]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
 Contrario a lo que sugiere el sentido común, de excesiva prensa, el paradigma del amor, en el Drama de Shakespeare **Romeo y Julieta** la trama nos muestra que hay dos suicidios y cuatro homicidios en tres días.  Para quienes creen que la toxicidad es exclusiva del siglo XXI. 
+
+**Ananá**  *Guar*.  Perfume de los perfumes, en el idioma de los guaraníes.  El fruto que subió la vara del sabor para los paladares europeos.
 
 **Andar** *Lat. Ambulare.*  De donde proceden ambulatorio, ambulancia.  El portugués lo utiliza para mencionar los pisos de un edificio, seguramente porque ahí se puede andar.  Mantiene el significado original, que pareciera sugerir un movimiento sin demasiado sentido, como vemos en el famoso convite de los ochentas
 
@@ -282,6 +286,8 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Carpa**  *Quechua tienda, choza, toldo*.  Este sustantio andino se extiende por toda América para dar nombre a la casa, al cobijo familiar.  La utilización diaria le otorga un segundo significado, para aquello que requiere de mesura, cautela, cuidado o cierta licencia para el accionar.  *Hacelo, pero con carpa*.  No pareciera guardar relación alguna con su antagónico perfecto en **El Carpo**.  
 
+**Carpincho**  *Guar. kapyva*.  El señor de las hierbas, el término guaraní sostiene mejor el nombre brasileño capibara que el argentino carpincho, que en tiempos fuera sinónimo de mal entretenido, sucio y desprolijo, como el protagonista de la guitarra, en el renglón anterior.
+
 **Cartel**  *Lat. Charta, carta*.  Pasa al frances cartel, literal carta.  En español pasó a ser una carta, solo que para todo el público y tomar ese tono *publicitario*.  Las mafias alemanas, en el territorio de la unión, durante los años cuarenta, se comunicaban a través de *Kartells*, escritos en un idioma ilegible por las fuerzas del orden, hecho que bautiza así a los grupos mafiosos en adelante.  Un simil observamos en Nápoles, donde las vecinas simulaban cantar, al tiempo que alertaban a los rateros, por donde se acercaban las fuerzas del órden, con sus *cansonetas*, en un cocoliche inentendible por la policía careta.  Volviendo a la Unión, cierta mañana un grupo de devotas ancianas, posiblemente por carecer de otro tipo de afectos, entraron en algunas tarbernas y las incendiaron, en venganza a que sus maridos no volvieran al hogar, si encontraban mas interesante tomar cervezas con amigos y jugar a los naipes.  Solo faltaban unos cuantos legisladores pollerudos, para que dictaran una enmienda a la constitución y decretaran la famosa **ley seca**.  El resto es historia conocida.  *Toda vez que se prohibe un producto sin modificar la demanda*, veremos florecer carteles, que lucharán con mayor o menor violencia, por el control de la **sustancia prohibida**.  No hace falta un master en economía para notarlo.  El método ideado en la primera mitad del siglo XX, continuó proliferando para el contrabando de bienes y personas.  El laboratorio **Bayer**, gran proveedor a posteriori de la Alemania nazi del gas utilizado en los campos de exterminio, había patentado la aspirina, a base de acido acetil salicilico, al mismo tiempo que la cocaina, al despuntar el siglo XX.  *No espere por la felicidad* decía el **Kartell pubicitario** sobre los gruesos frascos de vidrio en las boticas, al lado del bicarbonato de sodio.  Con el aprendizaje de la Ley Seca y la llegada del nuevo fármaco, las mafias del pais de la libertad y el coso, no demoraron en ver el incipiente el negocio.  Al ser un proceso bastante mas complejo que el de producción de alcohol, se establecen los laboratorios offshore.  Durante la guerra de Viet Nam, de cada tres féretros que llegaban del frente, solo dos cobijaban los restos de un adolescente para abonar la tierra en Arlington.   
 
 > Hasta para drogarse hay que tener código, cada gramo de merca tiene sangre de todo el proceso, la producción, el transporte, la distribución de la cana.  --Sisoco García.  Lemiteliusansin.
@@ -331,6 +337,8 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 **Chaucha**  *Quechua vaina*.  Monedas de escaso valor.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
+
+**Choclo**  *Quechua maiz*.  El cereal que alimentó a toda América por miles de años.  También el tango que da origen a la cultura rioplatense, compuesto por un negro hijo de esclava liberta.
 
 **Chocolate**  *Nahuatl xocolatl, color marrón.* Este tóxico se utilizaba en mezoamérica con fines ceremoniales, como todo alucinógeno que se precie, para inducir a los sacerdotes a entrar en comunicación con la divinidad[^100].  En ese entonces era moneda de cambio de la plebe, por su caracter escaso y valioso.  Uno de los mayores aportes de América a la civilización occidental y luego al mundo.  La ingesta del primer gramo produce placer en el indivíduo alcanzando el umbral de peligro por coma hepático al llegar al kilogramo.  Esto nos dá un excesivo margen de seguridad, al contrario de otros tóxicos como el alcohol, en el que ese margen es mucho menor.  El chocolate marrón lleva la mayor proporción de chocolate propiamente dicho, mientras que el blanco está compuesto de las grasas del cacáo.  Este último, al ser casi exclusivamente graso, cede su sabor original en favor del suavizante para ropa, en todos los supermecados chinos, *por simpatía, por cercanía*, lo mismo le ocurre al pan lactal, la manteca, el wisky, la verdura de hoja y todo aquello que se encuentre en un radio de 1 km del suavizante, incluído el Fiat Duna estacionado en la vereda. 
 
@@ -439,6 +447,12 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 > Todo preso, es político.  --Vencedores Vencidos.  Carlos Solari.
 
 [^47]: Por lo general, estas posturas desnudan las pujas de distintos modelos productivos, como en este caso, ganaderos contra agricultores.  La triunfante se jacta de su triunfo cultural, como la civilización porteña frente a la barbarie del interior, la industrialización del norte frente a la esclavitud del sur.  El nazismo es el unico caso de predominio del pensamiento del vencido en la cultura del vencedor. 
+
+**Cura**  *Quech*.  Jefe de la comunidad.  El antropólogo norteamericano Marvin Harrys describe bellamente la metamorfosis del jefe de las primeras comunidades hasta el Rey de los imperios.  La historia repara siempre en quienes manda y no en los mandados.
+
+> ¿Los jesuitas construyeron esto en el siglo XVII?  --Pregunta una turista frente al lago artificial en Alta Gracia, Córdoba.
+
+> En realidad lo construyeron los esclavos, los jesuitas no movieron el ojete del fresquito de su iglesia.  --Historias de la Córdoba de la Nueva Andalucía.  Odiseo Torres.
 
 ## D
 
@@ -1716,7 +1730,9 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 > No existen revolucionarios pesimistas ni tristes.  --Rómulo, de Iponá.
 
 > Tristeza, por favor vai embora, a minha alma que chora, está vendo o meu fim.  --Vinicius de Moraes.
- 
+
+**Tomate**  *Nahuatl*.  Agua gorda.
+
 ## U 
  
 **Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante el trabajo de investigación llevado a por científicos de la escuela de Frankfurt, intentando indagar la patología que puede llevar al individuo a encontrar placer en esta repetición, junto a otros.
