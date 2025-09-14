@@ -812,6 +812,10 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hamam**  *Ar. Baño.  حمام* El califato omeya de Córdoba, extiende hacia Europa la costumbre blasfema y desconocida del baño diario, la higiene y el álgebra.
 
+**Hazaña**  *Ar. حَسَنَة hasana, mejorar, perfeccionar*.  Facanha en portugés.  Acción destacable que exige esfuerzo y valor, en un principio parece utilizable para toda buena acción, como basurear libertarios, que luego deviene en hechos al parecer inalcanzables solo dignos de héroes míticos como los trabajos de Hércules, Aquiles o las mentiras de Ulises.  
+
+> Los comimo cuatro poio, Ió, la Susana y mi cuñada.  [Nos comimos cuatro pollos, Susana, mi cuñada y yó]  --Señora narrando una hazaña homérica ocurrida en un viaje a Termas de Río Hondo.  Barrio Rosedal.  2001.  Diarios inconclusos.  Odiseo Torres.
+
 **Hegemonía**  *Gr. ἡγεμονία primer puesto, supremacía, jefatura*.  Dominio de una entidad sobre otras, ya sea militar o política.  El marxista italiano Antonio Gransci, la describió en sus cuadernos de la cárcel, donde tuvo tiempo de sobra, ya que permaneció allí alojado durante décadas, por el gentil estado fascista de Mussolini.  Aquel encierro le sugirió la descabellada teoría de la forma *nueva* de dominación de las clases dominantes por parte de los asalariados y desocupados, que sienten propio el placer de vestir gorras de golf, camperas de rugby, remeras de polo y zapatos náuticos.  Al punto que cierto calzado deportivo aquiere el caracter de sustantivo, las *tennis*.  Estos asalariados, consultados sobre como se observan, aseguran ser *clase media*, por lo cual esa vestimenta les es propia de su condición social y no un intento de copiar a esa clase ociosa, que puede prescindir de trabajar quince horas diarias, como tapoco influyen las mas de diez mil exposiciones diarias a publicidades tendientes a estos comportamientos de consumo.
 
 > There's class warfare, all right, but it's my class, the rich class, that's making war, and we're winning. --Warren Buffett.  
