@@ -146,6 +146,8 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Pero todos comprenden que incidentes tales como el choque en el aire de las balas de dos duelistas, romperse un diente comiendo pescado, al morder un anillo que uno había perdido en el mar hace seis años y que el pez había tragado, o bien la ejecución al compás de 3/4 de la sonatina en si menor de Tchaikovski por la metralla de una granada que estallara e un almacén de enseres de cocina, acertando a dar en ollas y cazuelas de distintos tamaños justo como la obra lo exige... --Imposibilitate Vitae.  Vacío Perfecto.  Stanislaw Lem.
 
+**Azúcar**  *Ar. سُكّر as-sukkar*.  En inglés sugar, en alemán zucker, tanto en catalán como en francés, sucre.  En italiano, se vuelve algo cocoliche a zucchero.  Este a su ves proviene del Griego sakjar, a su vez del persa sakar y este del sánscrito sharkara.  Hermosa vuelta para una palabra tan hermosa *per se*.  Tiene su razón de ser a que durante siglos, tal vez milenios, comerciantes de madio oriente, llevaban esta mercancía desde la India a Europa.
+
 ## B
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
@@ -290,6 +292,12 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Cara**  *Lat. cara del Gr. Kara*.  Semblante humano, de allí características, pareciera a simple vista algo mas relacionado a lo que el indivíduo finge ser, por sobre lo que realmente es.
 
+**Carmesí**  *Ar. قِرْمِز qarmazí*.  Pigmento a partir de los huevos de un gusano, la cochinilla.  Presente en la literatura.  El imperio británico utilizaba casacas teñidas con este color para camuflar la sangre en los combatientes todavía en pié.  Del mismo origen, carmín, aunque más indicado para las imágenes estétitcas, como veremos a continuación.
+
+> Tus labios de Rubí, de rojo carmesí.  --Roberto Sanchez.
+
+> Y aquel buzón carmín, y aquel fondín donde lloraba el tano.  --Tinta Roja.  
+
 **Carpa**  *Quechua tienda, choza, toldo*.  Este sustantio andino se extiende por toda América para dar nombre a la casa, al cobijo familiar.  La utilización diaria le otorga un segundo significado, para aquello que requiere de mesura, cautela, cuidado o cierta licencia para el accionar.  *Hacelo, pero con carpa*.  No pareciera guardar relación alguna con su antagónico perfecto en **El Carpo**.  
 
 **Carpincho**  *Guar. kapyva*.  El señor de las hierbas, el término guaraní sostiene mejor el nombre brasileño capibara que el argentino carpincho, que en tiempos fuera sinónimo de mal entretenido, sucio y desprolijo, como el protagonista de la guitarra, en el renglón anterior.
@@ -304,7 +312,9 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 > No pelotuda, está tomando *merluza*.  --Responde la amiga rolinga, de mayor know how en tóxicos.
 
-**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado. Los antropólogos deducen la cantidad de habitantes de las ciudades a partir de los asientos en el teatro, puesto que toda la ciudad tenía acceso.  En la misma función se presentaban tragedia y comedia.  Esta última era en muchos casos excesiva en palabrotas, el objeto era obrar de espejo donde el público viera se viera a si mismo. 
+**Catarsis**  *Gr. Katarsis*  Liberar emociones negativas.  En la antigua polis, el teatro cumplía esta función, por ello tenía categoría de política de estado. Los antropólogos deducen la cantidad de habitantes de las ciudades a partir de los asientos en el teatro, puesto que toda la ciudad tenía acceso.  En la misma función se presentaban tragedia y comedia.  Esta última era en muchos casos excesiva en palabrotas, el objeto era obrar de espejo donde el público viera se viera a si mismo.
+
+**Cénit**  *Ar. السمت samt semt, cumbre*.  Punto del cielo en la vertical del observador.  Existe una curiosa fábula originada en cierto error de interpretación por parte de los copistas, esos seres que parecen salidos de la película *El Nombre de la Rosa*.  La grafía antígua confundía **m** con **ni**, coincidente con la época en que la **i** carecía del punto que oficia de adorno.  En aquellas abadías y monasterios donde se transcribió todo el saber proveniente de los pueblos árabes, que nos legaron entre otros a Aristóteles, que fué prolijamente incendiado por el cristianismo, por hereje.
 
 **Cerebro**  *Lat. Cerebrum.*  Pareciera suceder en el ingles antiguo braegen, desde donde sigue brain.  1- Personaje de serie televisiva compañero de Pinky.  2- Aparato con el que pensamos que pensamos, cuando en realidad lo hace la superestructura que nos dice lo que tenemos que pensar.  3- Madre natura a dotado al macho homo sapiens de dos cabezas, pero no suficiente sangre para que funcionen al mismo tiempo.  
 
@@ -1156,6 +1166,8 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Doña Tile, mi mamá me anotó hilo de coser blanco, cinta argentina para escarapelas y un transistor BC548 
 
+**Mezquino**  *Ar. مسكين mizquín, pobre*. Adjetivo despectivo que no parece gaurdar relación directa con la pobreza material, sino con la emocional o intelectual, ya que esta depende de aquella, como bien sabemos.  Sócrates, el de Athenas, no el jugador de la verde amarelha, sostenía la maldad en una falta de erudición.  El sinónimo que mejor lo defines es infeliz.  
+
 **Miércoles**  *Lat. Mercurio* El día que honramos a Mercurio.  De este vocablo provienen todas las palabras relacionadas con el comercio, mercancía, mercado.  Freud instaura las reuniones de los miércoles, quien esté en condiciones de ver un verdadero símbolo, siéntase cómodo de hacerlo.  Un grupo humano conocido como *Jubilados* marchan para reclamar por sus haberes, con los que no alcanzan a la supervivencia, donde agentes del orden los reprimen con sumo cuidado *por su propio bien*.
 
 **Milonga**   *Bantú de Angola*.  Bellísima, per se, como ritmo para utilizar en contrapuntos en escalas de seis octavos, como medio, pero también como palabra pié para rimas que despierten carcajadas.  Casi todos los antecedentes que nos llegan de esta palabra rica en sonido y significados, son mal vistos.  Mal vistos por un sector de la sociedad que debemos utilizar de brúj́ula para hacer exactamente lo contrario.  Hechicería, habladuría, palabrería.  Alude a Mu Longa, conversación.  *La milonga es hija del candome, que es la madre del tango* según don ALfredo Zitarrosa.  Esto da por tierra todo intento de hacer aparecer a este, como la última música blanca.  A diferencia del tango, que está condenado a la tristeza, los cuernos y los desamores, la milonga tiene un giro discursivo, tanto en rítmo, como melodia y poesía que hace de los mismos pesares, motivos de alegría, donde se resalta su caracter picarezco, llegando en muchos casos al grotezco.  En la mitad del siglo XX, se convierte en el sustantivo que designa el lugar bailable, los chicos se fueron a *La milonga*.  Quienes carecemos de fe en las *religiones verdaderas*, asumimos la inmortalidad en las milongas de Zitarrosa.   
@@ -1699,9 +1711,9 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 > Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
 
-**Taza**  *Ar. Tassah, Lat. pocillum pocullum*.  Recipiente con una sola asa, para ingerir líquidos calientes simulando bonomía, esta última es la parte mas importante del embrujo.  Se la debe utilizar en presencia de otros.  En geografías puntuales de latinoamérica, como la Argentina, el comportamiento social de *tomar un caf*e bien puede llevar el resto del día, incluso mas[^43].  En mi pequeño mundo de significados, una taza es un espejo, no por el reflejo del rostro en el líquido.  
+**Taza**  *Ar. Tassah, Lat. pocillum pocullum*.  Recipiente con una sola asa, para ingerir líquidos calientes simulando bonomía, esta última es la parte mas importante del embrujo, la que se coloca desde donde se sostiene la taza hasta la persona que ronríe.  Se aconseja utilizarla en presencia de otros.  En geografías puntuales de latinoamérica, como la Argentina, el comportamiento social de *tomar un caf*e bien puede llevar el resto del día, incluso más.  En nuestro pequeño mundo de significados, una taza es un espejo, no por el reflejo del rostro en el líquido.  
 
-[^43]: En una gira por Estados Unidos, le preguntan a Oscar Wilde sobre las diferencias entre los ingleses y los irlandeses, este responde con su acidez habitual "El imperio británico ha legado al mundo las tres cosas mas importantes de la cultura, el té, el wisky y la literatura.  Pero resulta que el té es chino, el wisky, escocés y yo soy irlandés".  
+> El imperio británico ha legado al mundo las tres cosas mas importantes de la cultura, el té, el wisky y la literatura.  Pero resulta que el té es chino, el wisky, escocés y yo soy irlandés.  --Oscar Wilde halabando el estilo inglés.  
 
 > El indivíduo aprende rápidamente el concepto de *Fight or Flight* puesto que está en su ADN, en el sector mas interno, el reptil.  Recuerdo las siestas de los setentas investigando, preguntando, destripando radios y aparatos electrónicos en búsqueda de respuestas.  Muchas veces no las tenía y recurría a los adultos.  Entre risas el Rulo me confesó, para mi sorpresa, que la gente que escuchaba, no estaba dentro de la radio, esa que de ahora en mas no funcionaría.  Siempre había una respuesta.  Hasta que una tarde entramos a la casa de una prima de mi abuela, en Buenos Aires, miro una imagen que me llama desde el bargueño, detrás de todas las copas, como jugando a la escondida había dos tazas con la imagen de dos personas.  Pregunto en voz alta quienes son y la abuela abre enorme los ojos.  Nunca lo había hecho conmigo porque yo me portaba bien, no como mi primo que era hiper activo.  Lo que entendí después, es que yo estaba predestinado a portarme mal por preugntar los porqués.   Pasado el momento incómodo, me lleva de una oreja como chicharra de un ala, me susurra que de eso no se habla, que son Perón y *esa mujer*.  Ahí descubro que esas tazas son un espejo, donde me veo a mi mismo, donde no me interesa si fueron buenos o malos.  Una batiseñal.
 
