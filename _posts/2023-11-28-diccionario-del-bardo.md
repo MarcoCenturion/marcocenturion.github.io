@@ -500,6 +500,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Derecho** *Lat. Directus.*  Recto.  No parece guardar conexión alguna con **justo**, luego Justicia.
 
+**Derrota**  *Lat. rupta*.  Por la estructura de las líneas de batalla, por la forma ordenada y metódica observada por las formaciones romanas.  La ruptura de las líneas de batalla, significaba el anticipo de la derrota.
+
+> Volnuratus non victus.  Herido pero no derrotado.
+
 **Deseo** *Lat. Desidium, desiderare, es ociocidad, pereza y líbido, pero también echar de menos*.  Parece que este echar de menos se refiere a los astros en *sideris sidus* y contemplar en ello, posiblemente, el povenir.  Tal vez por esta confusión semántica es que asumimos que es suficiente desear algo con suficiente fuerza como para que ese algo se cumpla.  Porque somos afectos a estas magias es que rezamos y se venden los libros de horóscopos.  No casual, es causal.  Prenciamos muchas veces actos de fe del tipo
 
 > One peso is one... ehhh... dollar.  --Domingo Felipe Cavallo, minutos antes de las masacres del 2001.
