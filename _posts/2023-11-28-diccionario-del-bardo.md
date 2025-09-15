@@ -50,6 +50,8 @@ lead_text: 'La lengua usada en La Docta'
 
 > Cerveza, origen y **solución** de todos mis problemas. --Homero Simpsons.
 
+**Alfiler**  *Ar. alhilal*.  La herramienta humana mas antígua de la que se tenga registro histórico.  Existen alfileres de hueso en vestidos egípcios de mas de cuatro mil años antes de la era común, aunque se cree que existían ya para sostener las prendas de vestir a partir de espinas de pescado.  Vemos documentado su uso en la litaratura, como el caso de *El conde de Montecristo*, al escapar de la cárcel y mas recientemente, en los córners de Estudiantes de la Plata en tiempos de Carlos Salvador Bilardo.
+
 **Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
@@ -985,6 +987,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 **Jabalí** / **Jabalina**. *Ar. hinzir gabalí, cerdo del monte*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*   Su sinónimo mas interesante es Venablo.  
 
 **Jaku**  *Quechua jaca*.  Lienzo tendido a la espalada de las mujeres con los que transportaban a los niños.
+
+**Jarra**  *Ar. جَرّة  djarrah*.  De allí Jar en inglés, jarré en francés, giara en italiano.  
 
 **Java**  *Informática*. Lenguaje de programación que impusiera el paradigma de la programación orietada a objetos.  Hacia él se apuntan encendidas críticas.   
 
