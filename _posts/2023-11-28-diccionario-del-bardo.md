@@ -1725,6 +1725,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Astor Piazzolla refiere la historia del bandonéon, frente al público neoyorquino.  Nos cuenta que fué inventado con pocas teclas, o notas, en Alemania, para acompañar la congoja de las procesiones y que los fieles no desafinen.  Se le fueron agregando teclas de manera aleatoria con el paso de los años.  Se perfecciona, tiene una voz soplada y otra aspirada, como las armónicas.  Los graves en clave de Fa en mano izquierda, y Sol en la derecha.  El tango lo incorpora en los burdeles de Buenos Aires de la primera mitad del siglo XX, actividad muy distinta de la imaginada por los piadosos frailes alemanes.  Así de paradójico es el accionar del señor.
 
+**Tarea**  *Ar. طريحة tariha*.  Probablemente el origen se da en tirar, larzar, asignar y de allí a toda actividad por realizar encargada a un tercero, en un tiempo dado.  Inicialmente, la tariha era la medida de la tarea.  Al igual que la ponchada de yerbamate.  En el portugues es tarefa.   
+
 **Tarjeta de Crédito**  *Econ.* Novedoso método de la sociedad de consumo, con el que se ofrece una segunda identidad al indivíduo, mas parecida a sus aspiraciones que al indivíduo en si, acorde egos de colores black, gold, diamond, porong, garch o platinum.  La elección de nomenclaruta en inglés, agrega cierto perfume de free shop que tranquiliza al indivíduo, al tiempo que nos anoticia del tamaño de su estupidez al mirarse en ese espejo y aunque sea por unos segundos, creérsela, como digna princesa de Disney.  
  
 > Fuerza a los individuos a adquirir cosas que no necesita, con dinero que no tiene, para asombrar a pares a quienes no les importa.  --Fight Club.  
@@ -1758,6 +1760,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Tóxico**  *Gr. Toxico Lat. Toxicum*  Originalmente del Iraní, arco, por referirse al veneno utilizado para las flechas, documentado por Aristóteles siglo III AC.  Como vimos, **veneno** y **fármaco**, en muchos casos, difieren solo en cuanto a su dosis.  El chocolate tiene un *umbral del placer* pasados los cinco gramos, pero alcanza el *umbral de peligro*, llegado al kilogramo, por coma hepático algo improbable de conseguir, dado que el cuerpo expulsaría el excedente en forma de vómitos, pasados los doscientos gramos.  Al producto de estas dos marcas, le llamamos *margen de seguridad*.  Pareciera, a simple vista, que debemos prestar mayor atención a márgenes y dosis por sobre el tóxico en si.  El **margen de seguridad del alcohol** es lo que hace su ingesta peligrosa, porque ambos umbrales están riesgosamente cerca.  Curiosamente se vende libremente en supermercados.  En cambio se desconoce el umbral de peligro en el caso del cannabis [^75].
  
 [^75]:  Según Antonio Escothado, en los sesenta en Berkeley un grupo de científicos -algo yonkis, convengamos- indagando el umbral de peligro de este tóxico lúdico en particular, inyectaron el equivalente a cuarenta dosis de **Cannabis Sativa** en un pastor alemán, que se prestó de buena gana al experimento.  Dado por muerto, después de dormir varias horas, el perro objeto de estudio despertó y tomó abundante agua.  Uno de los médicos aseguró que también pidió un chocolate.  Al no documentarse los consumos de los científicos, no estamos en condiciones de asegurar o negar la última frase.
+
+**Trabajo**  *Lat. tripaliare, de tripalium*.  El tripalium era un objeto de tortura de tres palos, donde se ataba al reo y se lo azotaba, asumimos que por negarse a trabajar, luego, por simpatía lo asociamos a fatiga o sufrimiento producido por el trabajo en general.  El sentido bíblico es aún mas perverso.  La curiosidad de Adán es castigada con el trabajo.  Ya en el siglo XIX, el filósofo alemán, partidario del materialismo dialéctico, Karl Marx, da un giro inesperado y sostiene que las mercancías no tiene un valor intrínseco, sino que ese valor está dado en función de la cantidad de trabajo que guarda en sí.  Del valor se desprende el segundo concepto, el plus valor, que generara todos los problemas del siglo XX.  En el siglo XXI parecen haber desaparecido los problemas de valores, acercándonos cada vez mas peligrosamente a los tres palos originales para los azotes.
  
 **Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Si nos detenemos un segundo en la definición, caeremos inevitablemente en la conclusión que toda vestimenta es disfraz, es  una toma de posición.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
  
@@ -1785,7 +1789,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Dale pelado se vino la pachanga, uo uo uo.  --Vilma Palma e Vampiro.  Et. Al.
 
-**Usuario**  
+**Usuario**  *Lat. usuarius, usus*.  Uno de los antecedentes del contrato de locación, era el contrato de uso, en tiempos de la república.  Luego, una de las partes de este contrato.  El paso de los siglos nos trae a esta degradación del indivíduo, que originalmente era persona, para pasar luego a cliente, de ahí a consumidor y vaya a saber uno porqué motivo, llegó a este puesto desabrido, despersonalizado y libre de lactosa, donde queda tan poco claro quien es el usado.
  
 ## V
 
