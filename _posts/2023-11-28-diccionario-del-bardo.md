@@ -826,6 +826,10 @@ La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una
 
 **Hamam**  *Ar. Baño.  حمام* El califato omeya de Córdoba, extiende hacia Europa la costumbre blasfema y desconocida del baño diario, la higiene y el álgebra.
 
+**Hasta**  *Ar. حتى hattá, castellano antiguo fasta. Lat. ad ista, hasta aquí*.  Preposición que indica el final o término de una actividad, punto de crisis, frontera temporal o espacial.  Esta sinonimia se nota en la siguiente frase, consultada la niña por la edad, durante las saturnales de Gimenez, el muchacho pretende salvaguardarse mas por cuestiones penales que por decoro, la niña responde *¿Cuanto me das?*   Que es respondido inmediatamente por el jóven.
+
+> Hasta que Chacarita salga campeón de la Libertadores.  --Ejemplo práctico del correcto uso de la preposición hasta.  --Gramática contemporánea.  Odiseo Torres.
+
 **Hazaña**  *Ar. حَسَنَة hasana, mejorar, perfeccionar*.  Facanha en portugés.  Acción destacable que exige esfuerzo y valor, en un principio parece utilizable para toda buena acción, como basurear libertarios, que luego deviene en hechos al parecer inalcanzables solo dignos de héroes míticos como los trabajos de Hércules, Aquiles o las mentiras de Ulises.  
 
 > Los comimo cuatro poio, Ió, la Susana y mi cuñada.  [Nos comimos cuatro pollos, Susana, mi cuñada y yó]  --Señora narrando una hazaña homérica ocurrida en un viaje a Termas de Río Hondo.  Barrio Rosedal.  2001.  Diarios inconclusos.  Odiseo Torres.
