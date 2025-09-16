@@ -50,9 +50,11 @@ lead_text: 'La lengua usada en La Docta'
 
 > Cerveza, origen y **solución** de todos mis problemas. --Homero Simpsons.
 
+**Álgebra**  *Ar. الجبر al-yabr*.  Término extraído de libro *La ciencia del restablecimiento y el equilibrio*, del matemático persa Al jaurismi, donde el título ya nos sugiere una equación, esta es la combinación de elementos abstractos, no solo los números.  Se da la paradoja de ser la ciencia mas exacta, pero que versa sobre las cosas menos corpóreas, dada la imposibilidad de tener un tres en la mano, solo su símbolo, extendiendo tres dedos, mostrando un naipe con ese número 
+
 **Alfiler**  *Ar. alhilal*.  La herramienta humana mas antígua de la que se tenga registro histórico.  Existen alfileres de hueso en vestidos egípcios de mas de cuatro mil años antes de la era común, aunque se cree que existían ya para sostener las prendas de vestir a partir de espinas de pescado.  Vemos documentado su uso en la litaratura, como el caso de *El conde de Montecristo*, al escapar de la cárcel y mas recientemente, en los córners de Estudiantes de la Plata en tiempos de Carlos Salvador Bilardo.
 
-**Algoritmo**  Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
+**Algoritmo** *Ar. الخوارزمي al-jwarizmi*. Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*
 
 > Across the page the symbols moved in grave morrice.  --Ulysses.  James Joyce. 
 
@@ -63,6 +65,8 @@ lead_text: 'La lengua usada en La Docta'
 > No olvides que eres lo mas importante para esta cía.  --Resaltaba la calco de *jovial tipografìa*, con el logo azul y rojo, en el espejo del baño del personal de la cía aérea.  Ese es el mismo logo, que se repite en la nube de pines que cuelgan los orugllosos *colaboradores,* donde quepa en pañuelos y chaquetas, para maridad con sonrisas que lindan la estupidez.  
 
 > Por eso cobro cinco dólares la hora.  --Arriesga un jovial leyenda en *rouge*, pone en duda la afirmación precedente.  Una pericia caligráfica simple y puntual, por parte de esos personajes nefastos que hay en toda oficina, dió con los datos de una *colaboradora,* que escuchó pocos segundos los tartamudeos y abandonó las oficinas aeroportuarias, camianando hacia atrás, utilizando la traslación inventada Michael Jakson, su mejor sonrisa y los dedos medios de ambos puños firmes y erguidos. 
+
+**Almacén**  *Ar. المخزن Al-mahzen*.  Depósito de mercancías.  Los inmigrantes europeos que llegaron a principios del siglo XX a la Argentina, repetían la arquitectura cultural que traían consigo.  Todos los hogares contaban con un depósito, un almacén, donde se acopiaban alimentos.  Al parecer, las épocas de bonanza no solo se debían a la oscilación estacional invierno verano, sino a otra mucho mas humana, la guerra.  Métodos naturales de acopio de alimentos, se transmitían oralmente.  En el mejor de los casos, de forma escrita.  Saberes descecados, o salados, o escabeches, embutidos, fermantados y un larguo etc. se fueron perdiendo al ritmo de la publicidad capitalista de alimentos proscesados.  
 
 **Amigo**  *Lat. amicis, amare, de amor de madre*.  Gente igual a uno, una, que se crió en otra familia, seguramente producto de errores burocráticos de cigueñas en conflicto laboral, meteorología adeversa o cosas de la aeronavegación comercial.  
 
