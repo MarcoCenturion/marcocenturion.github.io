@@ -40,7 +40,7 @@ lead_text: 'La lengua usada en La Docta'
 
 > Un triunfo frente a tales antagonistas es vergüenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Habiendo ganado una disputa en una discusión.
 
-**Aguacate**  *Nahuatl awakatl*.  Testículo de árbol.     
+**Aguacate**  *Nahuatl awakatl*.  Testículo de árbol.  Minúscula herida al narcisismo masculino de tanto supermacho supremacista blanco comedor de guacamole, santos travestis freudianos Batman. 
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  Luego, alinear la comida es ponerla en línea con un lineamiento dado como estándar, el formato estándar del lugar.
 
