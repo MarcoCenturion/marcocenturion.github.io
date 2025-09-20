@@ -380,6 +380,10 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 **Choclo**  *Quechua maiz*.  El cereal que alimentó a toda América por miles de años.  También el tango que da origen a la cultura rioplatense, compuesto por un negro hijo de esclava liberta.
 
+**Choco**  Innumerables acepciones a lo largo de toda la América hispana, aunque lejos la mejor es la cuyana, que la utiliza para nombrar perros, especialmente los molestos, pequeños, ladradores.
+
+> Que se cague toriando la choca.  --Profe Agustina.  StandUp 2025.
+
 **Chocolate**  *Nahuatl xocolatl, color marrón.* Este tóxico se utilizaba en mezoamérica con fines ceremoniales, como todo alucinógeno que se precie, para inducir a los sacerdotes a entrar en comunicación con la divinidad[^100].  En ese entonces era moneda de cambio de la plebe, por su caracter escaso y valioso.  Uno de los mayores aportes de América a la civilización occidental y luego al mundo.  La ingesta del primer gramo produce placer en el indivíduo alcanzando el umbral de peligro por coma hepático al llegar al kilogramo.  Esto nos dá un excesivo margen de seguridad, al contrario de otros tóxicos como el alcohol, en el que ese margen es mucho menor.  El chocolate marrón lleva la mayor proporción de chocolate propiamente dicho, mientras que el blanco está compuesto de las grasas del cacáo.  Este último, al ser casi exclusivamente graso, cede su sabor original en favor del suavizante para ropa, en todos los supermecados chinos, *por simpatía, por cercanía*, lo mismo le ocurre al pan lactal, la manteca, el wisky, la verdura de hoja y todo aquello que se encuentre en un radio de 1 km del suavizante, incluído el Fiat Duna estacionado en la vereda. 
 
 [^100]: Es un universal antropológico que en todo rito el chamán o sacerdote accede en exclusivo al tóxico, mientras la feligresía no.  En el ritual católico, solo el sacerdote accede simbólicamente al alcohol, mientras el resto solo come el pan.
@@ -1194,15 +1198,15 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Matrix**  Film de SciFi de las hermanas Wachowski, al que el tiempo ha otorgado el honor de Clásico, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guión que recubre la realidad, resulta ser mucho más burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelar el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
 
-**Memoria**  *Gr. μνήμη Mnéme memoria de Mnemósine la diosa de la memoria*.   Leer es requisito *sine quanon* de recordar, aunque no toda lectura merezca el recuerdo, con un agravante, tampoco existe garantía de ese recuerdo.  Es menester un interruptor, selector de recuerdos que valgan o no la pena.  Al parecer el homo sappiens sappiens tiene este único diferencial de calidad con sus parientes mas cercanos, los chimpancés, que olvidan mas del 99 % de lo aprendido en el día, durante el sueño.  Pareciera, también, existir justamente allí, en el sueño, el origen de la memoria.  Al parecer, sería muy interesante al yo recordar la historia, para no volver a repetirla, pero por otro lado sería interesante olvidar el desenlace de un cuento, o una película, para participar nuevamente de esa emoción.  
+**Memoria**  *Gr. μνήμη Mnéme memoria de Mnemósine la diosa de algo que no recuerdo*.   Leer es requisito *sine quanon* de recordar, aunque no toda lectura merezca el premio del recuerdo, con un agravante, tampoco existe garantía de ese recuerdo.  Es menester un interruptor, selector de recuerdos que valgan o no la pena.  Al parecer el homo sappiens sappiens tiene este único diferencial de calidad con sus parientes mas cercanos, los chimpancés, que olvidan mas del 99 % de lo durante el día, con el sueño reparador.  Extraña paradoja encerrada en esta frase.  Pareciera, también, existir justamente allí, en el sueño, la función de fijar, el pegamento.  A primera vista parece interesante al **yo** recordar la historia, para no repetirla, mientras que por otro lado, olvidar el desenlace de un cuento, o una película, nos regalaría nuevamente aquella emoción original.  
 
-> ¿Tenés pareja vos?  --Pregunta la abuela con Altzeimer.
+> ¿Tenés pareja vos?  --Pregunta la abuela con Altzeimer, casi en tono acusatorio.
 
-> No abuela.  --Responde el nieto, preparando el pié para hacerla reir con el chiste que le repite al menos cinco veces por día.
+> No abuela, no tengo pareja.  --Responde el nieto, preparando el pié para hacerla reir con el chiste que le repite al menos cinco veces por día.
 
-> ¡Ahhhhh,  No me digas!  --La abuela estira las palabras un par de notas por encima de su tono de voz de uso diario, a efectos de dramatizar la preocupación de la soltería del muchacho, grande y pelotudo.
+> ¡Ahhhhh, chico. No me digas!  --La abuela afina las palabras un par de notas por encima del tono de voz de *uso diario*, a efectos de dramatizar la preocupación de la soltería del muchacho, grande y pelotudo.
 
-> No tengo **pareja las pata**, abuela.  --Agrega él y observa reir hasta que se le salen las lágrimas y la prótesis dental.
+> No tengo **pareja las pata**, abuela.  --Cierra él por fin, descombinando el plural entre el artículo y el sustantivo, observa reir a la anciana, hasta que se le salen las lágrimas y la prótesis dental.
 
 > Olvidar lo malo, también es tener memoria.  --Martín Fierro.  José Hernandez.
 
