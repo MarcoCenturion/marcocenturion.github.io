@@ -50,7 +50,7 @@ lead_text: 'La lengua usada en La Docta'
 
 > Cerveza, origen y **solución** de todos mis problemas. --Homero Simpsons.
 
-**Alferez** *Ar. الفَارِس alfaris, jinete*.  Oficial de caballería que lleva el estandarte.  Cierta bibliografía militar cita textraul *inmediatamente por debajo del teniente*, frase curiosa per se, que llama a la prudencia y el decoro en las preguntas ulteriores, por ser aquellos, varones armados, afectos a la violencia y marcada cortedad intelectaul, a juzgar por su sentido del humor.
+**Alferez** *Ar. الفَارِس alfaris, jinete*.  Oficial de caballería que lleva el estandarte.  Cierta bibliografía militar cita textual *inmediatamente por debajo del teniente*, frase curiosa, que llama a la prudencia y el decoro en preguntas ulteriores, por versar sobre varones armados, afectos a la violencia y marcada cortedad intelectaul, visible en su escaso sentido del humor.
 
 **Alfil**  *Ar. الفيل al-fil el elefante*.  Proviene directamente del persa, donde elefantes es pil.  Las piezas de ajedrez representaban los elefantes de los ejércitos.  *Bishop* en inglés, curiosamente la misma raiz que da nombre a *bispo* en portugués y obispo en español.  Uno de sus múltipes pseudónimos es *príncipe* por ser el mas cercano al rey y la reina.  También existe quien le pone algunas fichas a basar su etimología en alferez, el que porta el estandarte.
 
