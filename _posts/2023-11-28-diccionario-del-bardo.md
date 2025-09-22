@@ -388,7 +388,7 @@ Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros e
 
 [^100]: Es un universal antropológico que en todo rito el chamán o sacerdote accede en exclusivo al tóxico, mientras la feligresía no.  En el ritual católico, solo el sacerdote accede simbólicamente al alcohol, mientras el resto solo come el pan.
 
-**Cifra**  *Ar. sifr صفر*.  Proviene de cero, o vacío, conceto nuevo que introduce el álgebra a las matemáticas antíguas. Cifra es cualquier símbolo para representar números o letras, una abstracción.  Descifrar es conocer el código para desencriptar el mensaje oculto en una cifra.  El cero aparece tres siglos antes de la era común en Babilonia.   
+**Cifra**  *Ar. sifr صفر*.  Proviene de cero, o vacío, concepto nuevo que introduce el álgebra a las matemáticas antíguas. Cifra es cualquier símbolo para representar números o letras, una abstracción.  Descifrar es conocer el código para desencriptar el mensaje oculto en una cifra.  El cero aparece tres siglos antes de la era común en Babilonia.   
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
