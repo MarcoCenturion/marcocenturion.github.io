@@ -794,6 +794,14 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Fulano**  *Ar. فلان fulán*.  Persona cualquiera.  Forma despectiva de referirse a alguien, quitándole toda entidad.  Esto todavía admite un grado mas de menosprecio, que se alcanza en el femenino fulana, por considerarla inmoral.  Repárese en los verdaderos *ríos de tinta* que han corrido en forma de chistes sobre esta diferencia.  Tal como lo señalara Sigmund Freud, este es otro de los lugares donde se expresa el inconsciente.
 
+**Fumar**  *Ver. Lat. fumo, humo*.  Inhalar humo de alguna sustancia quemada, tabaco, marihuana, opio y hasta cosas peores.  
+
+> El cigarrillo llegó para quitarle ritual al acto de fumar.  Tanto el habano, como la pipa, requieren de un *set & setting*, un sillón, un libro, un cognac, una novela, una música, cierta penumbra, cierta predisposición a algo mágico.  --Puro Humo.  Guillermo Cabrera Infante.
+
+**Fumón**  *Adj*.  Acompañantes terapéuticos, tutores amigables que se cruzan en el camino de las buenas gentes, al menos una vez en la vida, como los instructores de bicicleta.    
+
+> Hay gente que se fuma misas de sanación de cuatro horas.  --Diarios de la resistencia.  The female Snake.
+
 ## G
 
 **Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente[^10].  En tiempos pre teconológico oficiaba de despertador y toda una biblioteca completa de historias de gallos adelantan o atrasan su canto matutino.  Imagen poética solo accesible a quienes tuvieron su infancia lejos de las urbes.
