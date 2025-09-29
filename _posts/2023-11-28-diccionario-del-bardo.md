@@ -248,9 +248,18 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 [^33]: Este teórico estudia el ascenso y declive de 26 civilizaciones, pero no alcanza a predecir la llegada de los envases de champú con instrucciones en el siglo XXI.
 
-> Tiempos difíciles > Votantes inteligentes > Gobiernos progresistas > Buenos tiempos > Personas felices > Votantes estúpidos > Gobiernos fascistas > Vuelve al comienzo.
-
 Aplícase a todos los órdenes sociales.  La mayor virtud de los tiempos duros es la buena producción artística.  Ningún clásico sale de edades de Oro económicas.  Luego el regetón es producto terminado perfecto de épocas felices, de la ausencia de crítica y el fin de la historia.
+
+```mermaid
+flowchart LR
+    A[Tiempos difíciles] --> B[Votantes Inteligentes]
+    B --> C[Gobiernos Progresistas]
+    C --> D[Buenos Tiempos]
+    D --> E[Personas Felices]
+    E --> F[Votantes Estúpidos]
+    F --> G[Gobiernos Fascistas]
+    G --> A
+```
 
 **Bulimia**  *Gr. βουλιμία bous limos, hambre de buey*.  La bulimia nerviosa es un trastorno alimenticio que lleva a quienes lo padecen a la errónea sensación de obesidad.  La sufren por lo general la población femenina, cuando se trata del fenómeno exclusivamente alimenticio, en una relación de nueva a uno respecto de los varones.  Existe en este grupo un proceso de *culpa* por la ingesta de alimentos, que las obliga a vómitar las ingestas, sin digerirlas.  La población masculina, en cambio, sufren una patología similar, pero no es de orden alimentício, sino intelectual.  Luego de atracones de ideas fascistas, homofóbicas, xenófobas o misóginas, sin ningún tipo de filtro intelectual, vomitan, sin diger, conceptos anacrónicos, al carecer de la culpa que confiere la lectura, la escucha paciente del rock and roll.
 
