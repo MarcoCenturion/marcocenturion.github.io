@@ -1285,7 +1285,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Quien iba a decir *mulato*, terminamos siendo parientes.
 
-**Música** *Gr. μουσική arte de las musas*.  Lamentamos la falta de notación musical por parte de este pueblo mediterráneo, por lo cual, solo nos llegan sus historias escritas.  Paraíso laico de atéos y disconformes.  *Recuerdo de una felicidad que nunca existió*, según Oscar Wilde.  Como todo concepto realmente interesante, el solo intento de definirla, resulta insultante per se.  En principio, enfatizando la precaución de la frase *en principio*, la música se trata de la combinación de cuatro elementos, o eso debería ser. Estos son: Melodía, armonía, ritmo y asombro.  Este último es un capricho personal.  Asistimos con el mismo estupor a la ausencia de valores éticos en la sociedad, como también a la desaparición de melodía y armonía en la música.  Hace mucho tiempo que nos acostumbramos a l ausencia de asombro.  Será que deberemos sobrevivir en un mundo hecho solo de ritmo y discursos racistas. 
+**Música** *Gr. μουσική arte de las musas*.  Lamentamos la falta de notación musical por parte de este pueblo mediterráneo, merced de lo cual, solo nos llegan sus historias escritas.  Paraíso laico de atéos y disconformes.  *Recuerdo de una felicidad que nunca existió*, según Oscar Wilde.  Como todo concepto realmente interesante, el solo intento de definirla, resulta insultante per se.  En principio, enfatizando la precaución de la frase *en principio*, la música se trata de la combinación de cuatro elementos, o eso debería ser. Estos son: Melodía, armonía, ritmo y asombro.  Este último es un capricho personal.  Asistimos con el mismo estupor a la ausencia de valores éticos en la sociedad, como también a la desaparición de melodía y armonía en la música.  Hace mucho tiempo que nos acostumbramos a l ausencia de asombro.  Será que deberemos sobrevivir en un mundo hecho solo de ritmo y discursos racistas. 
 
 > La música son unos negritos saltando un alambrado.  --Roberto Goyeneche.
 
@@ -1303,7 +1303,11 @@ Triste final tenían deparado los hados a un fonema con tamaño potencial.  La i
 
 **Nadería**  Nieta de la palabra anterior.  Úsase para menospreciar argumentos contrarios aunque requiere de cierto IQ mínimo en el antagonista a efectos de ser comprendida.
 
-**Náusea** *Lat. nausea de nave.*   Mal, enferdad causada por el movimiento de la nave.  Nau sobrevive en el catalán para reverirse a la nave.  En épocas de emociones edulcoradas resulta difícil explicar que el movimiento de la nave era un detalle menor, el viaje escapando a la guerra hacia el nuevo mundo era la aventura de la vida.  
+**Náusea** *Lat. nausea, enfermedad provocada por la nau, nave.*   Nau sobrevive en el catalán para reverirse a la nave.  En épocas de emociones edulcoradas resulta difícil explicar que el movimiento de la nave era un detalle menor, el viaje escapando a la guerra hacia el nuevo mundo era la aventura de la vida.  Quedan en el *inconsciente colectivo* si es que esto existe, imágenes de aquellas épocas, como cuando intentamos resaltar un esuferzo máximo decimos:
+
+> A todo trapo.  
+
+Y sin haber pisado un barco en la vida, imaginamos velas preñadas de aire, foques, botavaras y otros sustantivos náuticos, ruidos de golpes del agua contra el casco y no faltará quien sienta algo de mareos.
 
 **Nave**  *Lat. navis y este del Gr. ναῦς*.  Las naves fueron diseñadas originalmente para navegar medios acuosos, pero llegado el siglo XIX comienza el viaje por otros medios como el aire.  Pasada la mitad del siglo XX ya hay viajes a través del vacío espacial.  Esta cuestión del vacío pone en duda la banderita gringa en la luna, flameando como si hubiera aire.  La fabricación de aviones a partir de largueros y costillas de madera, muestra cuanto dependemos de formas de pensar anteriores, viejas respuestas para nuevas preguntas.  Nuestras limitaciones, siempre son las limitaciones de nuestra época.
 
