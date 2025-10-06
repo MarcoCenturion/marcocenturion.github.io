@@ -864,15 +864,15 @@ Los diez de Marzo se celebra el día del guitarrista en Argentina en homenaje a 
 
 ## H
 
-**Haiku**  *Jap.*  Ideogramas caprichosamente dispuestos de manera vertical.  Hay algo de felicidad al verlo.  Dá el lector con unas imágenes curiosas en blanco y negro.  Al igual que toda experiencia interesante de la vida, requiere paciencia y segundas oportunidades, como el cilantro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería[^20].  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
+**Haiku**  *Jap.*  Ideogramas caprichosamente dispuestos de manera vertical.  Existe algo de felicidad inexplicable al verlos, al encontrarse el lector con esas austeras imágenes en blanco y negro.  Al igual que toda experiencia interesante de la vida, requiere paciencia y segundas oportunidades, como el cilantro, la cerveza y algunas pocas personas.  Espero ser perdonado por esta comparación, el **haiku** es a la poesía lo que el bonsai a la jardinería.  Para quienes poseen la gracia de interpretarlo, entenderán la sentencia de **Rolan Barthes**: 
 
-[^20]:  Ciertos personajes de Derechas son a la política, lo que el Reguetón a la música o la pornografía al sexo.  Como el catch al boxeo.  Una puesta en escena.
+> Ciertos personajes de Derechas son a la política lo que el Reguetón a la música, la pornografía al sexo, el espectáculo del catch al boxeo.  Invación excesiva de sensación al yo, inversamente proporcional al aporte beneficioso.  Los snacks en bolsita, ningún aporte útil, solo tóxico.  --Patologías onanistas del Yo.  Jacinto Ruiz.  Cátedra de psicología evolutiva.  UNC.
 
 > El haiku reproduce el gesto indicativo del niño que muestra con el dedo alguna cosa, diciendo tan solo: ¡esto!, ¡mirá allá!, ¡oh!, ¡ah!
 
-La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una síntesis del pensar japonés.  Alguien puede hallar el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana[^34].
+La poesía ingresa al *yo* por exceso de simpleza, por economía de medios.  Una síntesis del pensar japonés.  Alguien puede hallar el sentido de la vida, curiosamente encerrado en un Haiku, la mayoría, por el contrario, no.  Así de maravillosa es la condición humana.
 
-[^34]: “Some people feel the rain; others just get wet.” --Roger Miller.  Erroneamente adjudicado a dos Bobs, Marley y Dylan.
+> Some people feel the rain; others just get wet. --Roger Miller.  Erroneamente adjudicado a dos Bobs, Marley y Dylan.
 
 **Hamam**  *Ar. Baño.  حمام* El califato omeya de Córdoba, extiende hacia Europa la costumbre blasfema y desconocida del baño diario, la higiene y el álgebra.
 
