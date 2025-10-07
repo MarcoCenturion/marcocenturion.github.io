@@ -1349,9 +1349,15 @@ Existe otro No, el de la poesía.
 
 [^85]: Homero lleva hasta su casa a la empleada de la feria de dulces, al bajarse esta Homero ve pegada en su jean a **La Diosa de jalea** la gelatina mas ácida inventada por el hombre.  Ella ve su cara de libertario y sale horroizada.  Aparece en las noticias haciendo la denuncia por acoso.  Bart y Lisa increpan a Homero y dicen creer en que es inocente, el responde con la frase que lo define por completo.  *Lo dice la televisión, debe ser cierto*.
 
-**Novio(a)** *Lat. novus, nuevo novedad.*  Dícese de la nueva pareja[^23].  Por recurso *ab negatio* viejo o vieja, el antónimo.  Destaca por sobre el resto de las características de exclusividad y estabilidad espaciotemporal, aunque estos conceptos parecen corresponder a un ideal del siglo XIX.  Suele asociarse este comportamiento antropológico, al de ciertas aplicaciones de software, que tientan al usuario con un período de prueba, pasado el cual deben comprar la licencia del producto.   
+**Novio(a)** *Lat. novus, nuevo novedad.*  Dícese de la nueva pareja.  Por recurso *ab negatio* viejo o vieja, el antónimo.  Destaca por sobre el resto de las características de exclusividad y estabilidad espaciotemporal, aunque estos conceptos parecen corresponder a un ideal del siglo XIX.  Suele asociarse este comportamiento antropológico, al de ciertas aplicaciones de software, que tientan al usuario con un período de prueba, pasado el cual deben comprar la licencia del producto.   
 
-[^23]: Si el señor se baja del asiento del conductor y abre la puerta del acompañante, solo hay dos opciones.  La novia es nueva (sic) o el auto es nuevo.
+> Si el señor se baja del asiento del conductor y abre la puerta del acompañante, solo hay dos opciones.  La novia es nueva (sic) o el auto es nuevo.
+
+**Nuevo** *Lat. novum*.  Que cobró corporalidad recientemente.  La condición de nuevo pareciera otorgar a la cosa, cierta superioridad intrínseca, que la coloca ipso facto por sobre las anteriores.  Es en esta y ninguna otra premisa, que se basa el capitalismo.  La ambición desmedida hizo que la industria discográfica vendiera el mismo contenido en diferentes soportes.  Las canciones de la misma banda, a la que pagaron una moneda por el disco, salieron en disco, luego en casette, luego en magazine, minidisk, CD y DVD.  Prometía extenderse al infinito.  Y mas allá.   La ambición desmedida hizo que *acogotaran la gallina de los huevos de oro*.  Se sumo a esto un movimiento de jóvenes muy pacientes y tercos, que conocemos como **hackers**, a los que suele molestarles sobremanera la frase: *no lo pueden hacer*.  Esta frase oficia de conjuro, ya sea por prohibición, por dificultad, o ambas.   Un grupo de desarrolladores Linux, liderados por el sueco Jon Lech Johansen, desencriptaron en poso tiempo algo que aseguraban era imposible.  ¿Las discográficas?  Todavía quedan ratas de bibliotecas de algunos buffetes de abogados leyendo enmiendas y buscando la forma de sacarle una moneda a gente que hace estas cosas por diversión.    
+
+> ¡Peor que esto no podemos estar!  --Aseveración ofuscada, rostro enrojecido, votante de derechas, embelezado por lo nuevo, que en realidad es la misma canción cantada en otra nota.
+
+> Vas a ver como podemos.  Nunca falló hasta ahora. --Sisoco García.  Politólogo.
 
 ## O
 
