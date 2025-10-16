@@ -601,7 +601,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > ¡Drogones! Boludo. ¡Dro-gones! --Cara de inconfundible estupor y detrñas de las pupilas se advina *"¿Que hice para merecer esto?"*.
 
-**Drama**  *Gr. hacer, yo hago*. La vida es drama, casi exclusivamente, con chispas, atisbos de felicidad.  La comedia toma prestado el motivo y convierte el sufrimiento existencial en risa.  Ya lo anticipara con mejor pluma otro autor.
+**Drama**  *Gr. hacer, yo hago*.  La vida, tal como la conocemos en este contínuo espacio-tiempo, es drama, casi exclusivamente, salpicada en muy contadas ocasiones con chispas, conatos, atisbos de felicidad.  Un tango así lo atestigua y sugiere que es nada mas que *una herida absurda*.  Basándose en esta premisa, la comedia toma prestado el motivo original y convierte el sufrimiento existencial en risa, en carcajada en el mejor de los casos, única forma de sobrellevar la existencia.  Ya lo anticipó con mejor pluma otro autor.
 
 > El rock es drama.  Todo lo que había que decír sobre la felicidad ya lo hizo Ramón Ortega **La felicidad, ja ja ja ja**.  No hay mucho que agregar.  --Carlos Solari.
 
