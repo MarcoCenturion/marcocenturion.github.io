@@ -18,9 +18,9 @@ lead_text: 'La lengua usada en La Docta'
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
-**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado, tal es el caso de la *aberración cromática* en Astronomía por un defecto en la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón[^58].  Todas las épocas contaron con arte berretas, cercanos a lo obseno, pero el reguetón lleva los límites al extremo de lo imcompatible con la vida.
+**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, captura de una imagen defectuosa producto del sistema óptico utilizado, tal es el caso de la *aberración cromática* en Astronomía por un defecto en la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón.  Todas las épocas contaron con arte berretas, cercanos a lo obseno, pero el reguetón lleva los límites al extremo de lo imcompatible con la vida.
 
-[^58]: Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
+> Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
