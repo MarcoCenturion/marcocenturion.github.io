@@ -1483,7 +1483,7 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Pegame pero decime Marta.  --Cacho Buenaventura.
 
-**Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *"Per il verso"* Que sirve para hacer el verso.
+**Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *Per il verso*, idóneo para hacer el verso.
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.  De aquí surge el argentinismo *bien empilchado*.  En muy contadas ocasiones el idioma del conquistado se hace lugar en el idioma del conquistador.  Este es uno de los pocos casos documentados.
 
@@ -1976,6 +1976,8 @@ Suele Simular *Ab Infinitum* un discurso coherente en sintaxis y morfología, pe
 > Yo te explico...
 
 Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en virtud de lo generoso que es su **Yo** consigo mismo.
+
+**Yoga**  *Sánscrito योग  unión, conectar*.  Del mismo origen, yugo y conyugal.  Recientes descubrimientos arqueológicos en Pakistan, posiblemente del siglo XVII antes de la era común, muestran imágenes que un indivíduo practicando posturas compatibles con lo que hoy conocemos como Yoga.  Hasta entrado el siglo XIX, no pasaba de ser una doctrina oriental destinada a salir del ciclo eterno de la reencarnación.  La revolución industrial trajo a occidente una serie de preguntas, contradictorias con las religiones monoteistas enfocadas en la supervicencia como espécie, dando lugar a esta doctrina, de la salvación individual.  Extraña extrapolación de esta disciplina ascética de seres que abandonan por completo los placeres terrenales y bienes, para llevar una vida contemplativa, es adoptada por seres convencidos que con la voluntad van a poder levitar, cuando llevan veinte años intentando dejar de fumar o tóxicos mas duros.
 
 **Yuta**  Japón.  Camaradería, valentía, amistad, asociado a personas honestas, amables y confiables.  Inexplicable, llamativo y risible asociar tales adjetivos con las **fuerzas de seguridad en Argentina**.  Cierto sector de la doctrina sostiene, con argumentos de peso, las ventajas sociales de contar solamente con ladrones, puesto que con estos, se tiene garantizado un solo tipo penal, los **delitos contra la propiedad**.  La yuta colabora en el agregado del resto de la parte especial del Código Penal.  Completo.  Sustracción de bienes registrables, extorsiones, secuestro, asosiaciones ilícitas, trata de personas, muerte, tormentos, comercio de estupefacientes, todo lo anterior junto.  La lista para nada es taxativa, ni se agota en un par de renglones.  La currícula de primer año del Ciclo Básico Común debería incluir Matemáticas, Geografía, Literatura, Odio a la Yuta, Historia y Biología.
 
