@@ -932,9 +932,11 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 
 **Homofóbico**  Homosexual asintomático o lo que conocemos coloquialmente como *puto en pausa*.
 
-**Humor** *Lat. Humoris, líquido, humedad.*  Los antiguos médicos griegos suponían la existencia de líquidos llamados humores en el cuerpo, muy sanguíneo explicaría un humor colérico, en cambio las lágrimas de alegría mostrarían un buen humor, suponía un balance correcto de esos líquidos.   Poner algo en el lugar donde no tiene que ir.  Glenn Miller y su big band grabaron *In the mood* en los cuarentas, que aquí se conoció como *De buen humor* poco antes de estrellarse su avión contra un prostíbulo en Francia[^78].  Contra lo que todos podemos suponer, mi única escapatoria al horror de la dictadura era una revista muy seria llamada precisamente **Humor**.
+**Humor** *Lat. Humoris, líquido, humedad.*  Los antiguos médicos griegos suponían la existencia de líquidos llamados humores en el cuerpo, muy sanguíneo explicaría un humor colérico, en cambio las lágrimas de alegría mostrarían un buen humor, suponía un balance correcto de esos líquidos.   Poner algo en el lugar donde no tiene que ir.  Glenn Miller y su big band grabaron *In the mood* en los cuarentas, que aquí se conoció como *De buen humor* poco antes de estrellarse su avión contra un prostíbulo en Francia.  Contra lo que todos podemos suponer, mi única escapatoria al horror de la dictadura era una revista muy seria llamada precisamente **Humor**.
 
-[^78]: El hombre sufre tanto su existencia que debió inventar la risa.  --Nietzsche
+> El hombre sufre tanto su existencia que debió inventar la risa.  --Nietzsche
+
+> Humor es poner algo en un lugar que no corresponde --Roberto Fontanarrosa.
 
 ## I
 
