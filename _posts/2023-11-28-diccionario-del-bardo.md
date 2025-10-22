@@ -86,11 +86,11 @@ lead_text: 'La lengua usada en La Docta'
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
 
-> Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas, vi lo que hizo con el vasito.  Nada[^61] Eso.
+> Me invitó a un picnic al campo, llevamos yogurt -responde la madre con cierto brillo malsano en los ojos- nos olvidamos las cucharitas, vi lo que hizo con el vasito.  Nada Eso.  Tan extraña como snob manera de concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
 
-[^61]: Estílase concluir las frases con el advervio *nada*, a modo de punto y aparte.  Nada.
+> Contrario a lo que sugiere el sentido común, de excesiva prensa, el paradigma del amor, en el Drama de Shakespeare **Romeo y Julieta** la trama nos muestra que hay dos suicidios y cuatro homicidios en tres días.  Para quienes creen que la toxicidad es exclusiva del siglo XXI. 
 
-Contrario a lo que sugiere el sentido común, de excesiva prensa, el paradigma del amor, en el Drama de Shakespeare **Romeo y Julieta** la trama nos muestra que hay dos suicidios y cuatro homicidios en tres días.  Para quienes creen que la toxicidad es exclusiva del siglo XXI. 
+> La gente dice que no puede vivir sin amor, yo creo que el oxigeno es mas importante --Sheldon Cooper.  The Big Bang Theory.
 
 **Ananá**  *Guar*.  Perfume de los perfumes, en el idioma de los guaraníes.  El fruto que subió la vara del sabor para los paladares europeos.
 
@@ -731,9 +731,11 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Nada obtiveram, era sem jeito, Vadinho desertara para sempre do Carnaval da Bahia. --Dona Flor e Seus Dois Maridos --Jorge Amado.
 
-**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. *No puede ser, seis a uno con Bolivia*.  Periódicamente las sociedades recaen en el embrujo de su ridiculez[^14], entonces deja de ser vergonzoso, salen del closet y argumentan a los gritos sus estupideces.  Hasta una nueva masacre de inocentes a los que se culpó de todos los males del mundo y se vuelve al casillero uno. 
+**Fascista**  *Adj.*  Que adhiere a una corriente de pensamiento donde solo importa elevar el tono de voz, fingiendo ofuscación, careciendo de importancia el motivo.  Eg. *No puede ser, seis a uno con Bolivia*.  Periódicamente las sociedades recaen en el embrujo de su ridiculez, entonces deja de ser vergonzoso, salen del closet y argumentan a los gritos sus estupideces.  Hasta una nueva masacre de inocentes a los que se culpó de todos los males del mundo y se vuelve al casillero uno. 
 
-[^14]: "La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa."  --18 de Brumario de Luis Bonaparte.  Karl Marx.  Agrega luego: "... demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe."  Cualquier semejanza con la Argentina de los libertarios es pura coincidencia.
+> La historia ocurre dos veces: la primera vez como una gran tragedia y la segunda como una miserable farsa.  --18 de Brumario de Luis Bonaparte.  Karl Marx.
+
+> Demuestro cómo la lucha de clases creó en Francia las circunstancias y las condiciones que permitieron a un personaje mediocre y grotesco representar el papel de héroe.  Cualquier semejanza con la Argentina de los libertarios es pura coincidencia.
 
 > ¿Quien puede decirme que es el Fascismo?  --Profesor de ética ciudadanada, pregunta a un alumnado aburrido y somnoliento.
 
@@ -851,6 +853,8 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 **Grosería**  Adjetivo enfático.  Carecen completamente de valor si no cuenta con la entonación adecuada, muchas veces en virtud a su localización topológica, tal cual lo enunciara sabiamente el cuentista rosarino Roberto Fontanarrosa, el vocablo *mierda* dicho en argentino ejerce infinita mas fuerza que el desganado y deslucido *mielda* cubano, que hasta ribetes tiernos sugiere.  Quienes se ofenden de las groserías no han leido un libro de verdad en su prostituta vida. 
 
 **Grifo**  *Mit*.  El grifo de los bestiarios clásicos era un ser sobrenatural, par de un personaje femenino de mi infancia, la Solapa.  Teníamos penado salir en horas de la siesta, asomarnos al partio.  La abuela Amanda la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural y amonestadora.  Por algo nadie sale a la calle a la siesta.  Nunca dudamos de la veracidad de sus palabras.  Encontraba complicidad en otros mayores a su alrededor: *la tía Helena la vió una vez cuando era chica*.  Siempre se lleva a los mas revoltosos.  A juzgar por la edad, la tía **Helena**, bien puede haber sido la protagonista de la Ilíada del rápsoda Homero, que causara tanto penar entre teucros y aqueos.  Tal vez por simpatía narrativa, es que hoy asocio al Grifo con La Solapa.  Tarde descubrí que suponía en la Solapa cierta capacidad de volar, aunque nunca nos fuera aclarado su método de traslación de las víctimas.
+
+> Quería tener mi propio grifo, pero mis padres se negaron a conseguirme un huevo de águila y semen de león.  --Sheldon Cooper.  The Big Bang Theory.
 
 **Guaso**  *Quechua wacho huérfano*.  Se lo utiliza también para referirse a los animales que perdieron a sus progenitores, tanto como a vegetales silvestres, que no fueron cultivados. La rúcula es un claro ejemplo de verdura de hoja consumida durante el imperio romano, pero que no era cultivada, de hecho debe su nombre al adjetivo *rustica*, guacha.  Extraño derrotero que termina en la city como eufemismo del dólar paralelo. 
 
@@ -1051,6 +1055,8 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 [^87]: Howard Garder sugiere la existencia de al menos ocho inteligencias distintas, Linguística, Lógico-matemática, espacial, musical, interpersonal, etc.  Damos a diario con seres muy inteligentes en algún aspecto, pero analfabetos en otros.  Resultaría interesante investigar que se rompió en la inteligencia emocional, interpersonal durante principios del siglo XXI para que florecieran los fascimos en el mundo.
 
 > Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del teléfono que me pidió acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
+
+> ¿Listo?  Debería tener sesenta puntos menos en mi IQ para considerarme listo.  --Sheldon Cooper.  The Big Bang Theory.
 
 **Ironía**  Perder el conocimiento al ser golpeado por una enciclopedia. La sociedad iba a ser mas justa a partir del conocimiento, llegó internet.  No era eso evidentemente.  Indivíduos que van al gimnasio en una patineta eléctrica.
 
