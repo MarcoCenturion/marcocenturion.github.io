@@ -1016,9 +1016,11 @@ Del mismo origen proviene don, algo que le fue dado a alguien.
 
 **Iglesia** *Gr. Ekklesia.*   En la Atenas de Sócrates, asamblea de hombres libres.  Es al menos cuirioso que en la Judea contemporánea a Jesucristo, coexistían tres instituciones, el **templo**, la **sinagoga** y la **asamblea** -o iglesia-, siendo solo esta última de carácter laico y las primeras, de orden religioso.  El carácter democrático original, puede haberle otorgado cierto respeto a esta institución sobre los anteriores, sobreviviendolas al tiempo que fuera perdiendo ese modo abierto y fraterno original.
 
-**Ignorancia**  Es altamente sintomático que los términos iglesia e ignorancia compartan una vecindad topológicamente[^27] tan cercana.  Aparentemente no existe problema alguno en compartir la compañía de ignorantes, el verdadero problema es que hacen uso del idioma con una infundada pretención de equidad.  No toda opinión es respetable, lo respetable es el derecho a opinar, pero una opinión ignorante, no merece el menor respeto.  
+**Ignorancia**  Es altamente sintomático que los términos iglesia e ignorancia compartan una vecindad topológicamente tan cercana.  Aparentemente no existe problema alguno en compartir la compañía de ignorantes, el verdadero problema es que hacen uso del idioma con una infundada pretención de equidad.  No toda opinión es respetable, lo respetable es el derecho a opinar, pero una opinión ignorante, no merece el menor respeto.  
 
-[^27]: Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
+> Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
+
+> La ignorancia no es solamente la ausencia de comocimiento, es la decisión volitiva de renunciar al pensamiento crítico.  --Isaac Asimov.
 
 **Impuestos**  Todos somos alcanzados por la ley en la imposición del tributo, de allí su nombre.  Salvo las fuerzas del cielo, esto es: sojeros evasores e iglesias.
 
