@@ -82,6 +82,12 @@ lead_text: 'La lengua usada en La Docta'
 
 > Herbert Ashe... En vida padeció de irrealidad, como tantos ingleses... Mi padre había estrechado con él (el vebo es excesivo) una de esas amistades inglesas que empiezan opor excluir la confidencia y que muy pronto omiten el diálogo --Tlön, Uqbar, Orbis Tertius. Jorge Luis Borges.
 
+> Tengo quinientos amigos en myspace.  --Sheldon Cooper.
+
+> Pero no puedes ver a ninguno de ellos. --Responde Leonard.
+
+> Eso es lo mejor.
+
 **Amor** *V. del Lat. Mors. muerte.*  A mors, anti muerte, luego aquello que vence la muerte.  Literalmente inmortal.  Sublimación del Yo de instintos gregarios, suavizado a lo largo de los milenios hasta llegar a este, tal vez el único dios humano, que fuerza seres simples y ordinarios a jugarse la vida, tanto por seres a quines ama, lo sepan o no.  Toda la literatura versa sobre amores en potencia o finalizados, nunca sobre amores en acto, lo que refuerza su caracter de utópico.  Quienes descreen de la inmortalidad de las religiones se cobijan en otro tipo de inmortalidades, el final terreno de Alfonsina Storni inspira a Ariel Ramirez y Felix Luna a componer una zamba que en la voz de Mercedes Sosa se vuelve inmortal, trasfiriendo esa característica a todos los participantes y dotando, a su vez, a todas las generaciones posteriores de un amor distinto a los usuales. 
 
 > ¿Mamá, cómo te enamoraste de papá? ¿Qué le viste?
@@ -867,6 +873,10 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 **Guagua**  *Sus. Quechua. bebé*.
 
 **Guano**  *Quechua huano* estiércol.  Fertilizante natural proveniente de los excrementos de aves y por añadidura, de todos.  En el Perú, sobrevino una guerra con los democráticos estadounidenses por el guano de pelicán de la isla frente al puerto de El Callao, esto prueba que los gringos pueden iniciar una guerra por cualquier mierda que se les ocurra.
+
+**Guerra**  *Ger. werra revuelta, Lat. verrere, Ingl. war*.  En las lenguas romances, adoptan este nombre al desplazarse en el latín el original bellum, de donde nos llega bélico.  Ausencia de paz y viceversa.  El arte del engaño, según el sabio chino Sun Tzu.  De todas las teorías que tratan de explicar el caracter bélico machista, la mas satisfactoria parece basarse en la falta de autoestima debido al tamaño peneano, llegando al paroxismo que el homicidio individual tiene un tipo penal en las legislaciones codificadas, mientras que los crímenes de guerra no.  Parece haber una correlación inversa entre cantidad de muertos y derecho a una estatua en las plazas.
+
+> Esto es la guerra.  ¿Crees que los romanos fueron educados cuando esterilizaron los campos de Cartago con sal?  --Sheldon Cooper.
 
 **Guitarra**  *Ar. جيتارا  Gr. κιθάρα khithára, cítara*.  El origen de la literatura occidental ocurre en palabras del rápsoda ciego Homero, quien compila las historias de unos navegantes que van a una guerra a recuperar una princesa raptada.  Allí, el poeta ruega el auxilio de la diosa, para poder así cantar las desventuras del *pélida Aquiles*.  Al parecer, estas historias de tradición oral, acompañadas de cítaras, eran cantadas por narradores que enriquecían el contenido de la letra y de la música, de uso común y licencia GNU.  Nada queda de aquellas músicas, solo las letras.  Si queda evidencia empírica que dá cuenta de khitaras, mas de dos mil años antes de la era común.  Otro de los ninguneados aportes a la cultura mundial, de prate de los pueblos de medio origente, que llegan a Europa a partir de los mil años de ocupación Omeya.  Luego deducimos que la civilización puede prescindir de algunas actividades humanas como la intermediación bancaria, el cripto tradding o los influencers pokemonenses, pero no de guitarristas y narradoreso.  O incluso gente peor.
 
