@@ -1757,7 +1757,13 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Una mujer que al bajar por una escalera, el tajo de la minifalda sugiere, muestra apenas el elástico de su media de encaje, es sexy; por el contrario un hombre que se inclina sobre el capó del duna, a revisar un desperfecto cualquiera, al hacerlo deja entrever la línea que divide sus pilosas nalgas, no es sexy.  Una mujer que en una conversación corrige inconsciente y ligeramente la posición del bretel del corpiño, es sexy; un hombre que mete una mano al bolsillo para sacar la tarjeta del transporte urbano y del pantalón, mientras aprovecha el movimiento para acomodar un testículo, no es sexy. --Edda Bustamente. 
  
-**Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social, de malnacidos incapaces de entender el significado de la palabra empatía.
+**Simpatía**.  *Gr. συμπαθος*  Sympatheia.  Sufrir juntos.  Se refiere a órganos del cuerpo que se ven afectados por el sufrimiento de un par.  Pareciera algo extemporáneo a nuestra realidad social, de malnacidos incapaces de entender el significado de la palabra empatía.  Después de los Rolling Stones, toda simpatía estará condicionada por el maligno.  Afortunadamente.  Del lado de los buenos, la gente pareciera ser todo lo contrario.
+
+> ¿Que hay despué pare? --Pregunta el gitano agonizante ante el cura que le llevaron contra su voluntad.
+
+> Nosotros creemos que en el cielo están las buenas gentes, la que va a misa, la que paga sus deudas y el infierno es donde van los pecadores, la mala gente, prostitutas.,,
+
+> Joer ... eso, eso quiero.  --Interrumpe el gitano con los ojitos alegres y moviendo los dedos como si tuviera castañuelas en las manos.
  
 **Sincretismo** Plagio de mitos que opera a nivel de religiones nacientes.  Estas no se toman la molestia de inventar dioses nuevos, sino que le agregan capas nuevas de significados.   Este valerse de mitos anteriores, probada eficacia, ha mostrado sobraba eficacia a lo largo de los siglos.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores.  Iglesias franquiciadas al mejor estilo Mc Donnald, pueblan el tercer mundo, en lugar de Starbucs o Subway, solo que en lugar de alimentos venden vida eterna, un bien de bajísima tasa de reclamos.
  
