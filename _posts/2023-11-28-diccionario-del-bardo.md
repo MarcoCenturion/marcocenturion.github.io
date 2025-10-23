@@ -1767,16 +1767,18 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 **Sincretismo** Plagio de mitos que opera a nivel de religiones nacientes.  Estas no se toman la molestia de inventar dioses nuevos, sino que le agregan capas nuevas de significados.   Este valerse de mitos anteriores, probada eficacia, ha mostrado sobraba eficacia a lo largo de los siglos.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores.  Iglesias franquiciadas al mejor estilo Mc Donnald, pueblan el tercer mundo, en lugar de Starbucs o Subway, solo que en lugar de alimentos venden vida eterna, un bien de bajísima tasa de reclamos.
  
-**Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.
+**Significado**  *Lat. Signa señal, ficare hacer, fabricar*  Literalmente fabricar una señal.  Encontrar el significado de la palabra significado, ya sugiere una extraña tautología.  Se complica a extremos intolerables al sucederlo con el término **significante**.  En el siglo pasado verdaderos ríos de tinta corrieron sobre este particular, en disciplinas tan dispares como la antropología, psicología, semiología y todas las *gías* hasta la cardiología.  Si las discusiones 
  
-**Siesta**  *Lat.  Sexta.*  La hora sexta.  Siesteril pareciera de mucho mejor calidad poética que el excesivamente utilizado siestero.
+**Siesta**  *Lat. Sexta, por la hora sexta*.  **Siesteril** amenaza con ser de mucho mejor calidad poética que el vulgar y excesivamente utilizado **siestero**.
 
 > Del drama "Enrique VI" la escena séptima del cuadro tercero del acto primero. El Rey Enrique VI ha rezado la novena en su cuarto y después de unos segundos atraviesa la quinta.  --Les Luthiers.
 
-> Quien duerme la siesta, amanece dos veces.  --John Sunday Bigpear.
+> Quien duerme la siesta, amanece dos veces.  --John Sunday Bigpear.  Político y militar, tres veces presidente de la Argentina.
  
-**Siempre**  *Lat.  Semper.*  Sempiterno.   Por siempre eterno.
- 
+**Siempre**  *Lat.  Semper.*  En todo tiempo y circunstancia, alude a una continuidad sin interrupciones.  Algo de por sí, bastante pretencioso.  Sempiterno, es por siempre eterno.
+
+> Por Júpiter Sempiterno --Promesa romana.  Mucho mas interesante que la esgrimida por Rómulo *Por dió la virgen y el chiquito que tiene en brazos*.
+
 **Sincero**  *Lat. sin (simple) y crescere*  Referían de esta manera a los germanos, de crecimiento simple, sin cultivar.  Hoy la sociedad utiliza esta herramienta intelectual para referirse al peronismo.  Son lo que son.  Una segunda corriente alude a errores en esculturas, tapados con cera. 
  
 **Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  Desde temprana edad fuí bastate excéptico respecto de las teorías conspiratorias.  La de los servicios de inteligencia norteamericanos financiando iglesias en el tercer mundo, me parecía singularmente estúpida, hasta dar con las iglesias de los mormomes y los resultados electorales.   2- Personaje central del film **Matrix.**  **Alert Spoiler**   Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
@@ -1790,7 +1792,9 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 > "...ou então Que a mulher se socialize elegantemente em azul, como na República Popular Chinesa" --Receita de mulher. --Vinicius de Moraes.
 
 **Sonqo**  *Quechua corazón*.  
- 
+
+> El sonqo dejarles quiero para cantarle a mi tierra.  --La Sacha Pera.  Oscar Valles y Cuti Carabajal.
+
 **Sordera**  *Lat. Surdus, susurro inentendible*.  De allí también provienen *Absurdo*.  Ante ciertos requerimientos, Armando sobreactuaba una mueca de la cara, a esta sumaba una mano doblando y sosteniendo el pabellón de una oreja, rematándolo con fruncido ocular simil estornudo.  El claro mensaje *no verbal* parecía ser no escuchar.  Se supone que lo había perfeccionado practicando el noble arte del *chupino*, en el que era imbatible.  Utilizaba este vil recurso, con el objeto de analizar las miradas de los contrincantes ante los cojuros *envido* o *truco*.  Analizaba rostros de estos al repetir por segunda o tercera vez **Truco**, terminaba **siempre** adivinando la mentira.  Trasladó este aprendizaje, a otros entornos de escucha, como la familia.  Cierto sector de la neurofisiología cataloga este comportamiento como *sordera selectiva*.  Al parecer, existe una correlación negativa entre esa sordera y la novedad de la pareja sexual.  Al incrementarse la variable novedad, independientemente de su calidad estética, decrece exponencialmente la sordera, desapareciendo completamente cuando esta es totalmente nueva.  Lo expone bellamente el freudianismo con los conceptos de *tensión, cercanía del objeto, líbido* y *economía*. 
 
 > Tomy decile al abuelo que saque sus cosas de la mesa que vamos a comer. --La abu.
