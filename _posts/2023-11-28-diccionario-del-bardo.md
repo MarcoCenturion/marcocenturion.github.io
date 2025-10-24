@@ -1576,9 +1576,15 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 
 > ...se observa en este grupo antropológico autodenominados *libertarios*, cierta tendencia o sesgo.  Abandonan la costumbre de autosatisfacción, solo a partir del *Amor rentado*.  --Cap. II ¿Que Hacer?.  Vladirmir Illich Ulianov.
 
-**Primo**  *Lat. primus, primero*.  Literalmente, que se inicia con las primas.  Tuve ocasión de dar con gente así.  La locución latina Prima Facie hace referencia de algo a primera vista, en el ámbito del derecho y no como pudiéramos suponer que alude a femeninas de derechas, consanguineas en segundo grado.  La letra de este tango pareciera estar narrado en la primera persona de una de estas[^21].
+**Primo**  *Lat. primus, primero*.  Literalmente, que se inicia con las primas.  Tuve ocasión de dar con gente así.  La locución latina Prima Facie hace referencia de algo a primera vista, en el ámbito del derecho y no como pudiéramos suponer que alude a femeninas de derechas, consanguineas en segundo grado.  La letra de este tango pareciera estar narrado en la primera persona de una de estas.
  
-[^21]: El Primus no me fallaba.  --El bulín de la calle Ayacucho.  Celedonio Esteban Flores, José y Luis Servidio.
+> El Primus no me fallaba.  --El bulín de la calle Ayacucho.  Celedonio Esteban Flores, José y Luis Servidio.
+
+**Prisión**  *Lat. prehension pre, antes y hendere, agarrar.* Conservamos una tan estúpida como infundada creencia que somos libres, que la prisión está en otro lado con otra gente, pero no podemos dejar de cumplir mandatos escritos a fuego.  
+
+> La mejor manera de evitar que un preso escape, es convencerlo que es libre.  --Fiodor Dostoyevsky.
+
+> Prisioneros de esta carcel de tiza.  --Callejeros.
 
 **Problemática**  Esto que a simple vista pareciera aludir a una *máquina para medir problemas*, en realidad es un neologismo inventado, tal vez, como un antagonista femenino del sustantivo problema, que si existe, para poder incluirlo en una rima, en un duelo de payadores, por ejemplo.  También parecería sugerir un *problema de matemática*, como el que enfrentamos al observar con sincero asombro, inteligentes y adultos homo sappiens sappiens, festejar la baja de un precio, por caso el combustible, del uno porciento, después de haber subido el trescientos porciento.
 
