@@ -1785,7 +1785,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 > Estoy harto de vagos que viven del estado y no hacen nada  --Smith dentro de un cuerpo cualquiera.
  
-> Estamos de acuerdo.  Militares, Jueces, Obispos --Neo.
+> Estamos de acuerdo.  Militares, Jueces y Obispos. --Neo.
  
 **Socialismo**  Sistema político económico que pone su énfasis en un mayor control social de la economía, por sobre los intereses de los indivíduos.  Sus detractores argumentan, con cierta razón, la poca libertad de los últimos.  Mención especial merecen las vestimentas.  Los más curiosos argumentos en este sentido llegan de seres a los que la publicidad empuja a tomar las mismas bebidas carbonatadas, vestir las mismas prendas de moda y venerar los mismos dioses de manera homogénea, conservando, sin embargo, una tan absurda como ingénua sensación de libertad.  
  
@@ -1797,7 +1797,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 **Sordera**  *Lat. Surdus, susurro inentendible*.  De allí también provienen *Absurdo*.  Ante ciertos requerimientos, Armando sobreactuaba una mueca de la cara, a esta sumaba una mano doblando y sosteniendo el pabellón de una oreja, rematándolo con fruncido ocular simil estornudo.  El claro mensaje *no verbal* parecía ser no escuchar.  Se supone que lo había perfeccionado practicando el noble arte del *chupino*, en el que era imbatible.  Utilizaba este vil recurso, con el objeto de analizar las miradas de los contrincantes ante los cojuros *envido* o *truco*.  Analizaba rostros de estos al repetir por segunda o tercera vez **Truco**, terminaba **siempre** adivinando la mentira.  Trasladó este aprendizaje, a otros entornos de escucha, como la familia.  Cierto sector de la neurofisiología cataloga este comportamiento como *sordera selectiva*.  Al parecer, existe una correlación negativa entre esa sordera y la novedad de la pareja sexual.  Al incrementarse la variable novedad, independientemente de su calidad estética, decrece exponencialmente la sordera, desapareciendo completamente cuando esta es totalmente nueva.  Lo expone bellamente el freudianismo con los conceptos de *tensión, cercanía del objeto, líbido* y *economía*. 
 
-> Tomy decile al abuelo que saque sus cosas de la mesa que vamos a comer. --La abu.
+> Tomy, decile al abuelo que saque sus cosas de la mesa que vamos a comer. --La abu.
 
 > Abuelo, dice la abuela que saques esas cosas de la mesa. --El Tomy.
 
