@@ -759,7 +759,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
          style="max-width: 100%; height: auto;">
 </div>
 
-**Faso**  *Nahuatl, Malli, hierba para tejer y huana borrachera*.  Estudiosos de todo el orbe buscan patrones, en México también se la asocia a Juana como la prostituta que acompaña a los soldados, recordemos sinó el corrido popula *La Cucaracha* que no tiene *Mariguana pa fumar*.  Cruza el Río Colorado y en la Unión se la conoce como Marie Janne.  Tal vez no sea tan casual la cercanía entre la María madre de Jesucristo con esta otra, tan terrenal y pecadora.  La prohibición hizo que concentre la mayor cantidad de eufemismos para referirse a ella de manera tangencial.  
+**Faso**  *Marihuana Nahuatl, Malli, hierba para tejer y huana borrachera*.  Estudiosos de todo el orbe buscan patrones, en México también se la asocia a Juana como la prostituta que acompaña a los soldados, recordemos sinó el corrido popula *La Cucaracha* que no tiene *Mariguana pa fumar*.  Cruza el Río Colorado y en la Unión se la conoce como Marie Janne.  Tal vez no sea tan casual la cercanía entre la María madre de Jesucristo con esta otra, tan terrenal y pecadora.  La prohibición hizo que concentre la mayor cantidad de eufemismos para referirse a ella de manera tangencial.  
 
 > La planta de los secretos.  La flor de la imaginación.  Albaca Sagrada.  El tabaco de los poetas.  La sueñera.  Ortiga del cáucaso septentrional.
 
@@ -2014,6 +2014,10 @@ o
 > La esclavitud, el apartheid, el racismo, las cruzadas, el bombardeo a Plaza de Mayo y el reguetón, no son vulgares.  
 
 > El lujo es vulgaridad, dijo y me conquistó.  --Carlos Solari.
+
+## X 
+
+**Xantipa**  *Gr. Ξανθίππη Xanthíppē*.  Esposa o concubina de Sócrates.  Me niego a aceptar que su paso por el mundo solo se limitara a parir tres hijos del filósofo y vaciarle el urinal para que este díga *antes de que cese el trueno, cae la lluvia*.  Permitime dudar.  Al parecer treinta años menor la historia se ha ocupado **demasiado** en ocultarla, hecho que refuerza la teoría que *La historia la escriben los que ganan*.  El erudito Robert Graves, desarrolla en *Los Mitos Griegos* una postura disruptiva respecto de diosas femeninas ensombrecidas, al tiempo que el varón impone monogamias, exclusividad en el lecho, al tiempo que vemos nacer la violencia política, en una extraña corelación.
 
 ## Y
 
