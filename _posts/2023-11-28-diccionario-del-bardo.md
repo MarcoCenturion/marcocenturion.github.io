@@ -1515,6 +1515,10 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Pegame pero decime Marta.  --Cacho Buenaventura.
 
+**Peronismo**  Corriente metafísica originada en Argentina de mediados del siglo XX y se popularizara rapidamente por el resto del universo conocido.  El decreto ley 4161 del 5 de marzo del 56 de la dictadura militar autopercibida **Libertadora** expresamente prohibe el uso de toda la simbología, estética, música, nomenclatura y estilo de vestimenta.  El sustantivo peronismo es prohibido hasta la derogación de este corpus legal el 30 de octubre del 64.  Esto pretende desmentir que la estupidez es una moda nueva.  Existe un trabajo de campo estadístico que intenta encontrar el origen del par antagónico, el anti peronismo.  El doctor en psiquiatría y antropólgo *Odiseo Torres*, documentó las entrevistas a pacientes del último grupo, llegando a la conclusión que la totalidad de los casos, el odio se originaba en infidelidades matrimoniales sufridas a manos -u otro apéndice corporal- de opacos partidarios del General Juan Domingo Perón.  
+
+> Lo peor es que esos negros que cagan en baldes... --Sobre el origen del antiperonismo.  Odiseo Torres.  Obras completas.:
+
 **Perverso** *Adj. ind.* Todo parece indicar que proviene del italiano coloquial de principios de siglo XX en Buenos Aires:  *Per il verso*, idóneo para hacer el verso.
 
 **Pilcha** *Mapuche.*   Vestimenta, recado.  De aquí surge el argentinismo *bien empilchado*.  En muy contadas ocasiones el idioma del conquistado se hace lugar en el idioma del conquistador.  Este es uno de los pocos casos documentados.
