@@ -1056,7 +1056,11 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 [^57]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
 
-**Insomnio**  Patología que acusa cierta falta se sueño.  Por lo general se resuelve durmiendo con la persona que lo origina.
+**Insomnio**  *Lat. insonum, in negacion y sonmun, sueño*.  Patología que acusa cierta falta se sueño.  Al paracer, el sueño es la ventaja evolutiva que forjó el cerebro del homo sappiens sappiens y lo separó definitivamente de sus primos los primates.  Pareciera existir un círculo vicioso donde la humanidad duerme menos y sus funciones cognitivas se ven deterioradas.  Y viceversa.  En los casos graves, lo especialistas sugieren que se resuelve durmiendo con la persona que lo origina.
+
+> ¿Porque no te duermes?  --Pregunta Sara a Jacobo.
+
+> Porque le debo dinero a Isaias y no le puedo pagar.  --Llamalo y decile que no le podes pagar, así el que no duerme es él.
 
 **Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.
 
