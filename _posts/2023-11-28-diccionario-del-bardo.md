@@ -1052,15 +1052,17 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 [^1]: María la Alquimista debía calentar elementos peligrosos en un caldero, a fin de evitar el calor concentrado en el lugar de la llama, ideó un método: sumergir el recipiente contendedor dentro de otro con agua hirviendo, al que si alcanzaban las llamas.  De esa manera, minimizaba el riesgo de explosiones.  Mil años después sobrevive como: "El baño de María".  María, al carecer de capacidad explosiva, fué quemada a fuego directo.
 
-**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim[^57], en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
+**Insensatez**  Canción de Vinicius de Moraes y Carlos Antonio Jobim, en la que podemos prescindir de la letra y entender a través de la música, ese amor insensato.  Me sugiere un embarazo no deseado, un llanto compartido, un dolor más profundo que la pérdida de un ser querido.
 
-[^57]: Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, Río de Janeiro se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
+> Mientras todos los aeropuertos del mundo cargan nombres de políticos o militares, **Río de Janeiro** se gana un lugar en mi corazón al bautizar su aeropuerto internacional con el nombre de un músico popular como Tom Jobim.  El otro caso emblemático es Mar del Plata, cuyo aeropuerto se llama Astor Piazzolla.  Posiblemente se deba al mar, que hace a sus gentes mas sensibles a la inmesidad, música incluida.
 
 **Insomnio**  *Lat. insonum, in negacion y sonmun, sueño*.  Patología que acusa cierta falta se sueño.  Al paracer, el sueño es la ventaja evolutiva que forjó el cerebro del homo sappiens sappiens y lo separó definitivamente de sus primos los primates.  Pareciera existir un círculo vicioso donde la humanidad duerme menos y sus funciones cognitivas se ven deterioradas.  Y viceversa.  En los casos graves, lo especialistas sugieren que se resuelve durmiendo con la persona que lo origina.
 
-> ¿Porque no te duermes?  --Pregunta Sara a Jacobo.
+> ¿Porque das vueltas en la cama y no te duermes?  --Pregunta Sara a Jacobo.
 
-> Porque le debo dinero a Isaias y no le puedo pagar.  --Llamalo y decile que no le podes pagar, así el que no duerme es él.
+> Porque le debo dinero a Isaias y no le puedo pagar.  
+
+> Llamalo y decile que no le podes pagar, así el que no duerme es él.
 
 **Intuición**  *Lat. Intuito intuitionem.*  Percepción espiritual.  Un geniecito interno mas inteligente que vos, que te hace spoiler.
 
