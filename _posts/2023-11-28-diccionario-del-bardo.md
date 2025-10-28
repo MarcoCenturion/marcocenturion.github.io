@@ -1870,9 +1870,11 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 > Mate la angustia existencial llenándose de cosas ahora, para tener verdaderos motivos para el corchazo más adelante.
  
-**Tautología** *Lat.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  
+**Tautología** *Gr. ταὐτολογία, tautos, lo mismo.*  Bucle recursivo del idioma utilizado para simular el habla, de profusa utilización por parte de economistas de todos los tiempos.  Sinónimo de *Sanata* en las orillas del Río de la Plata.  
  
 > Desde lo profundo de Honduras. Puro Humo --Guillermo Cabrera Infante.
+
+> Me cago en la mierda.  --Maldición popular rioplatense.
 
 **Taza**  *Ar. Tassah, Lat. pocillum pocullum*.  Recipiente con una sola asa, para ingerir líquidos calientes simulando bonomía, esta última es la parte mas importante del embrujo, la que se coloca desde donde se sostiene la taza hasta la persona que ronríe.  Se aconseja utilizarla en presencia de otros.  En geografías puntuales de latinoamérica, como la Argentina, el comportamiento social de *tomar un caf*e bien puede llevar el resto del día, incluso más.  En nuestro pequeño mundo de significados, una taza es un espejo, no por el reflejo del rostro en el líquido.  
 
