@@ -371,7 +371,7 @@ flowchart LR
 
 **Chacra**  *Quechua granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales, unidad económica generalente mantenida por una familia amplia no monogámica.  La hacienda del latín facere, de hacer, es una unidad económica de mayor tamaño, por oposición a ranchos o estancias.  Originadas durante la conquista romana, representan el pago con el cual el imperio retribuía a las milicias por diez años de servicio en el frente.  Método copiado por las milicias argentinas en la campaña del desierto, de allí tantos grados militares que dan nombre a ciudades de la pampa húmeda.  Un caso curioso de la historia se dá durante la ocupación andaluzi, donde vimos un simulacro de reforma agraria, base del éxito económico de los mil años de ocupación armoniosa y pacífica de las religiones.  El único privilegio del musulmán frente a los otros credos, era la excención de un impuesto.  La primera medida de los reyes católicos consistió en repartir las tierras entre los señores feudales, destruyendo la economía, como era de esperar.  Tal fue el tamaño de la destrucción, que ni el saqueo sistemático de los metales americanos pudo detener la debacle del imperio.  Cada vez que las economías están establizadas debemos rastrear los empréstitos que hacen a esa estabildiad y apretar los dientes ante el porvenir.
 
-> Aseguraos de reunir la hacienda emplumada, servidores míos, que la negra noche se avecina.  
+> Aseguraos de reunir la hacienda emplumada, hasta la llegada la aurora de rosáseos dedos, servidores míos, que la negra noche se avecina.  
 
 > ¿Queloquedice el culiau este?
 
