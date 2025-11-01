@@ -1413,7 +1413,7 @@ Existe otro No, el de la poesía.
 
 > Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez.
 
-**Opinión**  *Fr. Opinion*  Punto de vista.  Origen de la mayoría de las controversias actuales.  Existe la errónea sensación de que todas las opiniones son válidas y respetables, pero es una falacia.  Lo que es válido es el derecho a opinar, puesto que la negación del holocausto o las opniones racistas, no merecen el menor respeto.
+**Opinión**  *Fr. Opinion*  Punto de vista.  Origen de la mayoría de las controversias actuales.  Existe la errónea sensación de que todas las opiniones son válidas y respetables, pero ello conlleva una falacia de principios.  Lo que es **válido** es el derecho a opinar y no la opinión en sí, puesto que la negación del holocausto o las opniones racistas, no merecen el menor respeto.
 
 > Esto se lo darás a alquien muy especial, en circunstancias muy especiales y luego de mucha insistencia.  Nunca lo ofrezcas.  Por grotezco que suene, se trata de la opinión.
 
