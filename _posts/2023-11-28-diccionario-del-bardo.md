@@ -429,9 +429,9 @@ flowchart LR
 
 > Cobarde es quien no está a la altura de su deseo.  --Respiración Artificial.  Ricardo Piglia.
 
-**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic* que bien puede oficiar de sobrenombre.  **CoCo** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. [^18] 
+**Coco** Fruta.  Es la palmera más cultivada del mundo.  Su fruto bastante desabrido, solo sirve para la selfie en playa caribeña.  **Cocó** es la versión francesa, mucho mas *chic* que bien puede oficiar de sobrenombre.  **CoCo** es la abreviatura que eligiera con muy buen gusto, la inmortal **Hebe de Bonafini** para repeler militares que fueran a molestar su ronda de los jueves. 
 
-[^18]: En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis pocas veces visto en estas latitudes.
+> En realidad utilizó la frase **Cornudos Cobardes** con un poder de síntesis pocas veces visto en estas latitudes.
 
 **Colapso**  *Lat. Collapsus, com juntos y labi caer*.  Colapso.  Las elites pagan consultoras para que les digan exactamente lo que esperan escuchar.  Pagan notas en los grandes medios que resaltan las beldades del sistema, con su baja inflación y la mejora del riesgo país.  Cuando todo explota por los aires lo llaman colapso, como en el castillo de naipes, del que no difieren mucho sus argumentos, datos y lealtad de sus adeptos.
 
