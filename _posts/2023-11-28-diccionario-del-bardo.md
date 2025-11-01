@@ -375,7 +375,7 @@ flowchart LR
 
 > ¿Queloquedice el culiau este?
 
-> Que encerrei los poio.  --Sisoco García.  Dramaturgo.  Teatro Reunido.
+> Que encerrei los poio.  --Claridiana.  Dramaturga.  Teatro Reunido.
 
 **Champa** *Quechua hierbas con tierra adherida*.  Por mucho que revisemos el idioma, el castellano no tiene un sinónomo de este ssteantivo.  
 
