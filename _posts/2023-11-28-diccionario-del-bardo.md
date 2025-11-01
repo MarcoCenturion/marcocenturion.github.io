@@ -369,7 +369,13 @@ flowchart LR
 
 [^44]: Existe el secreto a voces en ámbitos publicitarios que da cuenta de la elección de ese nombre, **Cerveza sin alcohol** al notar el escaso valor de marketing del original **Fanta Maiz**.
 
-**Chacra**  *Quechua granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales, unidad económica generalente mantenida por una familia amplia no monogámica.
+**Chacra**  *Quechua granja*.  Construcción rústica compuesta por casa, huerto y corrales de animales, unidad económica generalente mantenida por una familia amplia no monogámica.  La hacienda del latín facere, de hacer, es una unidad económica de mayor tamaño, por oposición a ranchos o estancias, ya de menor tamaño.  Originadas durante la conquista romana, representan el pago con el cual el imperio retribuía a las milicias por diez años de servicio en el frente.  Método copiado por las milicias argentinas en la campaña del desierto, de allí tantos grados militares que dan nombre a la pampa húmeda.  Un caso curioso de la historia se dá durante la ocupación andaluzi, donde vimos un simulacro de reforma agraria, base del éxito económico de los mil años de ocupación armoniosa y pacífica de las religiones.  El único privilegio del musulmán frente a los otros credos, era la excención de un impuesto.  La primera medida de los reyes católicos consistió en repartir las tierras entre los señores feudales, destruyendo la economía.
+
+> Aseguraos de reunir la hacienda emplumada, servidores míos, que la negra noche se avecina.  
+
+> ¿Queloquedice el culiau este?
+
+> Que encerrei los poio.  --Sisoco García.  Dramaturgo.  Teatro Reunido.
 
 **Champa** *Quechua hierbas con tierra adherida*.  Por mucho que revisemos el idioma, el castellano no tiene un sinónomo de este ssteantivo.  
 
