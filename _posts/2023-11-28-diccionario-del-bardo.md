@@ -1797,6 +1797,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 > Nosotros creemos que en el cielo están las buenas gentes, la que va a misa, la que paga sus deudas y el infierno es donde van los pecadores, la mala gente, prostitutas.,,
 
 > Joer ... eso, eso quiero.  --Interrumpe el gitano con los ojitos alegres y moviendo los dedos como si tuviera castañuelas en las manos.
+
+**Simposio**  *Gr. συμπόσιον συμ sim con, πόσις posis bebida*.  Parece que en estas reuniones políticas, el tóxico aglutinante no era un detalle menor.  
  
 **Sincretismo** Plagio de mitos que opera a nivel de religiones nacientes.  Estas no se toman la molestia de inventar dioses nuevos, sino que le agregan capas nuevas de significados.   Este valerse de mitos anteriores, probada eficacia, ha mostrado sobraba eficacia a lo largo de los siglos.  **Osiris** es una virgen fecundada divinamente, que da a luz un niño que nace el cuarto días después del solsticio de verano, **Horus**, bien pueden servir para religiones posteriores.  Iglesias franquiciadas al mejor estilo Mc Donnald, pueblan el tercer mundo, en lugar de Starbucs o Subway, solo que en lugar de alimentos venden vida eterna, un bien de bajísima tasa de reclamos.
  
