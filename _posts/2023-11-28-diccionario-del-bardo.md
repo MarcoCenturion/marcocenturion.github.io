@@ -329,9 +329,13 @@ flowchart LR
 
 **Capicúa** *Catalán. Cap, cabeza y cúa, cola*.  Ejemplo paradigmático de palíndromo.  Ver **Anfisbena**.
 
-**Capital**  *Lat. Caput, cabeza [véase Jefe](#Jefe)*.  Capital Leter es Letra Mayúscula, porque es mas grande.  Principal, primero, mas importante[^39].
+**Capital**  *Lat. Caput, cabeza [véase Jefe](#Jefe)*.  Capital Leter es Letra Mayúscula, porque es mas grande.  Principal, primero, mas importante.  De aquí también surgen capataz, capitán, caporal, capellán.
 
-[^39]: Dos experiencias del siglo XXI vienen a demostrar la tesis de **John William Cooke** *"podemos prescindir de los capitaliastas, pero no de los trabajadores"*.  La pandemia y China.  Sacá del medio Adam Smith. 
+> Capitales simbólico, estético, económico hacen al desenvolvimiento del indivíduo.
+
+**Capitalismo**  Originado en el vocablo anterior.  Guarda en si una paradoja, puede ser coherente o eficaz, nunca ambas cosas a la vez.  Si es coherente con sus principios, hubiera permitido la quiebra del sistema, en lugar de salvar los bancos durante la crisis de las subprime, con los aportes de los contribuyentes, ya que **el mercado se regula solo**.  Para ser eficaz, necesita siempre de un (gran) sector oprimido, tanto en paises como en indivíduos.  Paises ricos viven a expensas de paises pobres de donde obtener materias primas y a quienes vender el excedente productivo, al igual que los indivíduos.   
+
+> Dos experiencias del siglo XXI vienen a demostrar la tesis de **John William Cooke** *"podemos prescindir de los capitaliastas, pero no de los trabajadores"*.  La pandemia y China.  Sacá del medio Adam Smith. 
 
 **Cara**  *Lat. cara del Gr. Kara*.  Semblante humano, de allí características, pareciera a simple vista algo mas relacionado a lo que el indivíduo finge ser, por sobre lo que realmente es.
 
