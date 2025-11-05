@@ -331,11 +331,13 @@ flowchart LR
 
 **Capital**  *Lat. Caput, cabeza [véase Jefe](#Jefe)*.  Capital Leter es Letra Mayúscula, porque es mas grande.  Principal, primero, mas importante.  De aquí también surgen capataz, capitán, caporal, capellán.
 
-> Capitales simbólico, estético, económico hacen al desenvolvimiento del indivíduo.
-
-**Capitalismo**  Originado en el vocablo anterior.  Guarda en si una paradoja, puede ser coherente o eficaz, nunca ambas cosas a la vez.  Si es coherente con sus principios, hubiera permitido la quiebra del sistema, en lugar de salvar los bancos durante la crisis de las subprime, con los aportes de los contribuyentes, ya que **el mercado se regula solo**.  Para ser eficaz, necesita siempre de un (gran) sector oprimido, tanto en paises como en indivíduos.  Paises ricos viven a expensas de paises pobres de donde obtener materias primas y a quienes vender el excedente productivo, al igual que los indivíduos.   
+**Capitalismo**   Término originado en el vocablo anterior.  Guarda en si una paradoja, puede ser coherente o eficaz, nunca ambas cosas a la vez.  Si es coherente con sus principios, hubiera permitido la quiebra del sistema, en lugar de salvar los bancos durante la crisis de las subprime, con los aportes de los contribuyentes, ya que **el mercado se regula solo**.  Para ser eficaz, necesita siempre de un (gran) sector oprimido, tanto en paises como en indivíduos.  Paises ricos viven a expensas de paises pobres de donde obtener materias primas y a quienes vender el excedente productivo, al igual que los indivíduos.  Como sugiere Eduardo Galeano, las personas pasan a ser consumidores, en lugar de alumos o pacientes, solo clientes.  
 
 > Dos experiencias del siglo XXI vienen a demostrar la tesis de **John William Cooke** *"podemos prescindir de los capitaliastas, pero no de los trabajadores"*.  La pandemia y China.  Sacá del medio Adam Smith. 
+
+> Un banco es alguien muy amable que te presta un paraguas cuando hay sol y te lo pide cuando empieza a llover.  --Etica para Sisoco.
+
+**Capital Simbólico**  Término acuñado en los ochentas por el sociólogo francés Pierre Bordieu, en relación directa con el *habitus*, esto es el entorno en el que los indivíduos se mueven y cobra valor ese capital, dando forma a reconocimiento, autoridad y prestigio que tiene el individuo en ese entorno.  Esto moldea los discursos, otorga valor o no a ciertas prácticas y da sentido a la sociedad.  Ese capital se legitima en organizaciones sociales, instituciones educativas y religiosas, o todo lo contrario.  No puede separárselo del capital económico, cultural, social, estético, etc.  los que establecen un sistema de castas mas preciso y efectivo que las de la India.
 
 **Cara**  *Lat. cara del Gr. Kara*.  Semblante humano, de allí características, pareciera a simple vista algo mas relacionado a lo que el indivíduo finge ser, por sobre lo que realmente es.
 
