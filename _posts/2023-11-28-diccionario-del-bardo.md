@@ -74,7 +74,9 @@ lead_text: 'La lengua usada en La Docta'
 
 > Uno nunca sabe.  --Don Armando.  Tres escopetas en un hogar antibelicista.
 
-**Amigo**  *Lat. amicis, amare, de amor de madre*.  Gente igual a uno, una, que se crió en otra familia, seguramente producto de errores burocráticos originado en cigüeñas envuelta en conflictos laborales de controladores aéreos, meteorología adeversa o menesteres por el estilo de la aeronavegación comercial.  
+**Amar**  *Lat. amare, aparentemente basado en el sentimiento de la madre*.  El castellano conserva dos verbos distintos para el par inglés *love*, porque apuntan a distintos procesos.  Quien ama, en todo el sentido del verbo, puede prescindir de la contrapartida de parte del otro, como ocurre con, gente que ya no está o el dinero.  Querer, del latín quaerere, esto es anhelar, esperar, se enfoca en la dependencia del otro.  El austríaco Ludwig Wittgenstein sostenía que sentimos lo que podemos decir, el idioma moldea quienes somosi porque moldea como pensamos y sentimos.
+
+**Amigo**  *Lat. amicus, amare, de amor de madre*.  Gente igual a uno, una, que se crió en otra familia, seguramente producto de errores burocráticos originado en cigüeñas envuelta en conflictos laborales de controladores aéreos, meteorología adeversa o menesteres por el estilo de la aeronavegación comercial.  
 
 > Amigo es uno en otro cuero.  --Atahualpa Yupanqui palabras de un peon de campo.
 
