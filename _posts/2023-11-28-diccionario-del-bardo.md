@@ -76,6 +76,8 @@ lead_text: 'La lengua usada en La Docta'
 
 **Amar**  *Lat. amare, aparentemente basado en el sentimiento de la madre*.  El castellano conserva dos verbos distintos para el par inglés *love*, porque apuntan a distintos procesos.  Quien ama, en todo el sentido del verbo, puede prescindir de la contrapartida de parte del otro, como ocurre con, gente que ya no está o el dinero.  Querer, del latín quaerere, esto es anhelar, esperar, se enfoca en la dependencia del otro.  El austríaco Ludwig Wittgenstein sostenía que sentimos lo que podemos decir, el idioma moldea quienes somosi porque moldea como pensamos y sentimos.
 
+**Amante**  Status tope de gama entre dos indivíduos, coinciden espacio temporalmente solo cuando los astros se acomodan, impulsados por el combustible freudiano de la pulsión, sin mañanas ni ayeres, durante presentes eternos, siempre distintos.  Esconde una prohibición, por cualquiera que fuera es buena, mantiene vivo el motivo original, amar.  La clínica ha documentado casos que pretendiendo un UpGrade, estos indivíduos formalizan la relación, intentando extender en el tiempo esa magia que es disuelta inmediatamente con la monotonía del hogar, los horarios de niños al colegio y vestir correctamente para ciertas ocasiones.  Contrario a esto, la doctrina no ha documentado a la fecha, un acto frustrado entre amantes por errores de vestimentas.
+
 **Amigo**  *Lat. amicus, amare, de amor de madre*.  Gente igual a uno, una, que se crió en otra familia, seguramente producto de errores burocráticos originado en cigüeñas envuelta en conflictos laborales de controladores aéreos, meteorología adeversa o menesteres por el estilo de la aeronavegación comercial.  
 
 > Amigo es uno en otro cuero.  --Atahualpa Yupanqui palabras de un peon de campo.
