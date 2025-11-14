@@ -581,7 +581,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 [^37]: La vida está hecha de minúsculos detalles, de momentos únicos e irrepetibles, destinados a pasar desapercibidos por cotidianos.  Un día tu hija, tal vez por vergüenza, te suelta la mano para cruzar la calle.  A una edad determinada va a pasar, sabemos que va a ocurrir, pero lo negamos.  Al otro día será la normalidad, no darte la mano.  Lo tomamos como un detalle a simple vista, fué lo mas importante que va a pasarte en la vida.  Años después esa niña traerá un nieto de la mano.  Otro día apretarás la mano de un ser amado, en el sanatorio por última vez.  Volverán de golpe todas esas manos que sostuviste con amor. 
 
-> Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  Antoine de Saint-Exupéry
+> Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  Antoine de Saint-Exupéry.
+
+**Día**  *Lat. Dies*.  Corresponde a las diez horas de luz del día legal de veinticuatro horas, burocráticos y legales como eran los tiempos del imperio.  Tienen el mismo origen diario, diana, y diurno, de donde derivan el italiano giorno y el francés jour.  Parecieran mas bonitos bonjour y buongiorno al oído que el buen día hispano.  Diana la cazadora nació que naciera en Delos, una de las Cícladas Vulcano y a la que el dios tuerto de Sicilia le regaló las flechas, paradojicamente el la diosa de la Luna.  En ámbitos castrenses, tocar diana, es la actividad que realiza un trompeta para levantar a la tropa, cuando tranquilamente lo puede hacer el despertador del celular.
 
 **Diezmo**  *Lat. Decimus*.  Curiosa institución, común a muchas religiones cristianas, que solicitan ayuda en metálico a sus fieles, para auxiliar a esas iglesia con sus problemas económicos, al tiempo que aconsejan a esos mismos fieles, oración para solucionar sus problemas económicos.  Comportamiento al menos curioso por carencia de conmutatividad.  Proviene del derecho del rey a cobrar el diez porciento de toda marcancía que transitara por su territorio, origen también de todo tributo.  Una familia que vive de rentas por mandato divino, el mismo que sugiere mantener cultos en el mismo siglo XXI en que el telescopio Hubble no ha dado aún con rastros de esos dioses en todo el espacio interesatelar.  Existe un curioso comportamiento social, remilgados y prolijos señores de derechas llegan al poder prometiendo luchas interminables contra lo corrupción, al tiempo que instauran un contradictorio diezmo a sus fieles.  La derecha cuando acusa, en realidad, confiesa.
 
@@ -593,7 +595,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Dinero**  *Lat. Denarius diez ases, puesto que el As fue la unidad monetaria en tiempos del imperio romano*.  El dinero, etimológicamente hablando fué una moneda, guita[^77].  Conserva un curioso sinónimo: *plata* por el vulgo, cuando bien sabemos que este es un elemento más de la **tabla periódica**.  Objeto central del culto que conocemos como **Capitalismo**. Conserva el mismo método de fé importante con el Dios de las mitologías.  Todas.  Tanto el Dinero como Dios, en virtud de su abstracción, dependen de la fé en ellos.  Desaparecida dicha fé, desaparece su poder.  ¡Pensalo!   
 
-[^77]: ¿E Amice, sobrarum um ase, sobrarum?  --Metamorfosis.  Ovidio.
+[^77]: ¿E Amice, sobrarum um ase, sobrarum?  Nam amici cervisiam.  --De los suburbios de la antigua Roma.  Metamorfosis.  Ovidio.
  
 > Es barato todo lo que puedas comprar con dinero.
 
