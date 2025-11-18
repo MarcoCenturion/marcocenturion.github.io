@@ -172,7 +172,9 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Cristo Vence, pague en término.  --Alegre graffitty porteño.  1984.  Regreso de la democracia, no la novela de Orwell.
 
-**Autosatisfacción**  *Sin. Libertario*.
+**Autosatisfacción**  *Sin. Libertario*.  La clínica freudiana nos ha legado verdaderos *ríos de tinta* sobre el momento en que el objeto de amor abandona al niño y busca fuera de sí, algo que no ocurre con los púberes de derecha del siglo XXI.  Se dan casos frecuente en que suman a esta extraña patología delirios paranoides, de conspiraciones en su contra, cual si fueran científicos secretos investigando retrovirus monoclonales para laboratorios del primer mundo.  
+
+> Quien sos que la radio no te nombra.  --Guillermo Arias.  1984.
 
 **Azar**  *Ar. زهر zahr, dado*.  Como en el juego de los dados, resultado casual, fortuito, el fonema viaja casi intacto del árabe al español sin mayores contratiempos.  Borges ejercita una ficción en las fronteras de la locura, imaginando una *Lotería en Babilonia* donde hay mucho mas en juego que solo dinero.  Festejando o tal vez homenajeando esa locura, un polaco hace un libro compuestos de prólogos a libros inexistentes.  En uno de estos prólogos un filósofo ficticio teoriza sobre la teoría de la probabilidad.  El azar, en definitiva.  Se presenta como quien cierre definitivamente siglos de discusión, sobre la eterna lucha que empieza en Atenas entre racionalistas e idealistas.  La conclusión final de todos sus esmeros se resume en la frase, *solo lo que existe es*. 
 
@@ -1961,6 +1963,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante el trabajo de investigación llevado a por científicos de la escuela de Frankfurt, intentando indagar la patología que puede llevar al individuo a encontrar placer en esta repetición, junto a otros.
 
 > ... La evidencia señala posible mamadera fría entre el quinto y octavo mes.  --Correlación entre fascismo y estreñimiento, con falta de amor maternal.  T. Adorno.  Centro Editor de América Latina.
+
+**Universidad**  *Lat. Universitatis, el conjunto de todas las cosas*.  Originado en el medioevo para designar al colectivo de docentes, alumnos y personal no docente, de centros de estudios de nivel superior, no directamente relacionado con órdenes religiosas.  Nos llega a la actualidad que las primeras universidades fueron fundadas en Bologna, Paris, Cambridge o Salamanca, omitiendo maliciosamente la de Córdoba, Andalucía en el siglo X, varios antes que las primera, por ser de la época del Califato.  Estas se pueden ser de caracter públicas -donde los estudiantes estudian- y privadas -donde los padres de los estudiantes pagan-   Como es de esperar, la diferencia académica es abismal.  La República Argentina cuenta con cinco premios Nóbel, todos egresados de universidades públicas, laicas y gratuitas.  La derecha sostiene que los partidos populistas quieren a la población bruta, pero no han levantado un solo edificio universitario, ni secundario, ni primario, ni jardines de infantes.
  
 **Uo**  Onomatopeya exclamativa, que agrega -en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza de forma aislada, en pares o tríadas, dependiendo de las necesidades estéticas.
 
