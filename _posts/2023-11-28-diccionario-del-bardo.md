@@ -717,6 +717,10 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Yo soy Urquiza.  Si me pongo un sorete en la cabeza, eso tiene que ponerse de moda.  --Cesar G. increpado en público por el color de una chalina extemporánea.
 
+**Escritor**  *Lat. scribere, scriptura escritura*.  Literalmente, escribir es dejar una marca.  La raiz común de los pueblos prehistóricos era sker, que sobreviven en el ingles scar, cicatriz.  Marcar una cierta codificación de signos, en un código común, como una lengua, para que generen *marcas* en el yo de otra persona, en otro tiempo y lugar, que conmuevan ese yo.  Acto de Fe que se convierte en pequeña inmortalidad de cabotaje.  
+
+> El oficio de escritor permite acariciar cuerpos hermosos y matar seres de mierda, sin por ello tener que concurrir a tribunales en lo Penal y Correccional.  --Odiseo Torres, Obra Poética.
+
 **Especialista** *Adj.* Especie Lista, seguramente se debe a quienes están en un listado.  Existe de anaño una controversia interesante, al encontrarnos con especialistas que no son muy listos. 
 
 > Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
