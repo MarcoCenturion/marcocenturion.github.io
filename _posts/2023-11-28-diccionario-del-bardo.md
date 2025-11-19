@@ -200,13 +200,13 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo *Quilombo*, de origen africano, sin arribar a conclusiones serias.  Bardo Todol es esa especie de estacionamiento para las almas a la espera de encontrar otro cuerpo, en la cosmogonía tibetana.  Es por ello que conviene andar sonriendo a la gente en la calle, no sea que nos crucemos con una reencarnación de alguien copado o incluso el abuelo Armando.  Esta doctrina sostiene la necesidad de ser amable con todo tipo de vida.  No sea cosa que en la próxima nos convirtamos en serpiente.
 
-**Barrio**  *Ar. برّيّ Barri, exterior, salvaje, afueras de la ciudad*.  El barrio, por oposición al centro, es la patria de la niñez.  De allí vendrán la escuela, el equipo de fútbol, la tonada.  
+**Barrio**  *Ar. برّيّ Barri, exterior, salvaje, afueras de la ciudad*.  El barrio, por oposición al centro, es la patria de la niñez.  De allí vendrán la escuela, el equipo de fútbol, el apodo, la tonada, el noble arte del gallito interdental y aquello que no podemos recuperar del recuerdo sin esa sensación a mitad de camino entre el miedo y la alegría.  
 
 > La geografía de mi barrio llevo en mí, será por eso que del todo no me fuí.  --El corazón al Sur.  Eladia Blázquez.
 
-**Barrio Privado**  Neologismo del siglo XXI, sitio donde las elites, expulsadas de los barrios por los propios fantasmas que crearon, se encierran en enormes cárceles abiertas, custodiadas por guardias, en la seguridad que los millones que viven a su alrededor nunca se enterarán de su caracter comestibles, ricos en proteínas.
+**Barrio Privado**  Neologismo del siglo XXI, sitio donde las elites, expulsadas de los barrios por los propios fantasmas que crearon, se encierran en enormes cárceles abiertas, custodiadas por guardias, en la seguridad que los millones de hambrientos que viven a su alrededor, nunca se enterarán de su cualidad de *comestibles*, ricos en proteínas.
 
-**Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos*, también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses. 
+**Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos*, también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses, produciéndose ese plagio de religiones que llamamos sincretismo. 
 
 > En un mundo de plástico y ruido, prefiero ser barro y silencio.  --Eduardo Galeano.
 
