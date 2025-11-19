@@ -186,11 +186,11 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 **Babor**  *Fr. babord*.  Costado izquierdo de la embarcación, mirando de atrás hacia adelante, su antagónico es estribor, donde originalmente un remero hacía de timonel.  Tiene sentido cuando entendemos una fuerza circular, como la cupla, donde no hay derecha ni izquierda, sin tener en cuenta el punto de vista del observador.
 
-> Doble en esta esquina.  --Ordena la anciana con voz de mando, al lado de su sobrino Henry.
+> Doble en esta esquina.  --Ordena la anciana con ofuscada voz de mando, Henry observa asombrado a su tía Augusta.
 
-> Ya me lo dijo, señora, pero no me dice si a la izquierda o la derecha.  --Responde el taxista.
+> Ya me dijo eso, señora, pero no me dice si a la izquierda o la derecha.  --Responde el taxista.
 
-> Querido, confundo siempre izquierda y derecha, yo se que es babor y estribor.  --Viajes con mi tía.  Graham Greene.
+> Querido, confundo siempre izquierda y derecha, yo se lo que es babor y estribor.  --Viajes con mi tía.  Graham Greene.
 
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
 
