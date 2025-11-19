@@ -184,6 +184,10 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 ## B
 
+**Babor**  *Fr. babord*.  Costado izquierdo de la embarcación, mirando de atrás hacia adelante, su antagónico es estribor, donde originalmente un remero hacía de timonel.  Tiene sentido cuando entendemos una fuerza circular, como la cupla, donde no hay derecha ni izquierda, sin tener en cuenta el punto de vista del observador.
+
+> Querido, siempre me confundo izquierda y derecha, se muy bien que es babor y estribor.  --Viajes con mi tía.  Graham Greene.
+
 **Banj**  Narcótico usado en **las Mil y Una Noches** a base de Beleño y Cáñamo.
 
 **Bárbaro**  *Gr. βάρβαρος aquellos que balbucea*n.  Los grigos utilizaban este término para referirse a quienes *no hablaban su lengua*.  Pero, existe un giro interesante.  *Los que balbuceaban*, pueden ser también los pueblos vecinos que tomaban vino sin rebajar con agua, lo que los vuelve torpes en el habla y violentos.  Nos llega de la **Ilíada** de **Homero** la mención a los *barbarófonos*, los que hablan de manera incomprensible, como los borrachos, solo mas tarde se aplica no solo a quienes no hablan griego, o lo hablan mal, sino mas allá, abarcando a quienes, no rinden culto a los olímpicos y no organizan la polis.  El fascismo, como evolución necesario y berreta del capitalismo, perfecciona la idea.  Las masas empobrecidas debido al éxito -y no al fracaso- de las políticas de distribución del capital y mejora del cociente e GINI, votan gobiernos de derecha, convencidos que los impuestos que van a quitar son al consumo.  Se desploman los ingresos, los beneficios son solo para las elites, cae el consumo y los salarios.  Las masas son manipuladas para orientar su odio, no ya a las clases dominantes, sino hacia otros pobres, *distintos*, por motivos aleatorios y dispares, tantos como distintas son las individualidades, lo importante es **agrupar** a los extraños en: inmigrantes, mujeres, homosexuales, fisuras, vagos, boquenses, peronchos, inteligentes, ñoños, nerds y otros *bárbaros*.  La lista es tan extensa como heterogénea.  El éxito del fascismo del siglo XXI pareciera originarse a focalizar el odio a nuevas categorías, los y las curiosos, el espíritu crítico, librepensadores, ateos y principalmente inteligentes.
@@ -191,6 +195,12 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 > quod non fecerunt barbari, fecerunt Barberini (Lo que no hicieron los bárbaros, lo hicieron los Barberini). --Guía en el Vaticano, al mostrar el *baldachino*, fabricado a partir de los retazos de la fundición de los broncíneos colosos que adornaban el Circo Máximo, que conocemos con el apodo de *el Coliseo*.  El motivo original era fabricar cañones por órden del papa Urbano VIII, Maffeo Barberini, afecto al sonido de los cañones. 
 
 **Bardo**  *Lat.  Bardus*  Poeta. Atribuido a *William Shakespeare* en carácter de sinónimo.  Investigaciones recientes, de la cátedra de Lingüística de la Universidad de La Matanza, fatigaron en vano bibliotecas del mundo en búsqueda de la conexión con el vocablo *Quilombo*, de origen africano, sin arribar a conclusiones serias.  Bardo Todol es esa especie de estacionamiento para las almas a la espera de encontrar otro cuerpo, en la cosmogonía tibetana.  Es por ello que conviene andar sonriendo a la gente en la calle, no sea que nos crucemos con una reencarnación de alguien copado o incluso el abuelo Armando.  Esta doctrina sostiene la necesidad de ser amable con todo tipo de vida.  No sea cosa que en la próxima nos convirtamos en serpiente.
+
+**Barrio**  *Ar. برّيّ Barri, exterior, salvaje, afueras de la ciudad*.  El barrio, por oposición al centro, es la patria de la niñez.  De allí vendrán la escuela, el equipo de fútbol, la tonada.  
+
+> La geografía de mi barrio llevo en mí, será por eso que del todo no me fuí.  --El corazón al Sur.  Eladia Blázquez.
+
+**Barrio Privado**  Neologismo del siglo XXI, sitio donde las elites, expulsadas de los barrios por los propios fantasmas que crearon, se encierran en enormes cárceles abiertas, custodiadas por guardias, en la seguridad que los millones que viven a su alrededor nunca se enterarán de su caracter comestibles, ricos en proteínas.
 
 **Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos*, también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses. 
 
@@ -547,6 +557,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > beter than saying is doing.  --John Sunday Bigpear.
 
+**Defensa**  *Psi.*  Institución del psicoanálisis que da nacimiento a la clínica al encontrar aquí no una carencia del indivíduo sino un obstáculo para dar con el verdadero trauma.  Ríos de tinta han corrido desde entonces.  En el órden militar, apunta al sector que debería encargarse de defender la nación de amenaza externa pero se ocupa de masacrar pobres propios. 
+
 **Delgado** *Lat. Delicatus.*  Fino, delgado, delicado, ergo los gordos son grotescos, lo cual prueba que los criterios estéticos son **profundamente superficiales** al decir de un antropólogo hijo de madre judía y padre árabe.  Consultado por un interlocutor, de pocas luces, si era también marxista, por casualidad.  El buen Taham respondió sin abandonar la cordial sonrisa
 
 > Si, seguro, y homosexual.  Si van a odiar, que odien bien.
@@ -573,11 +585,11 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > Volnuratus non victus.  Herido pero no derrotado.
 
-**Deseo** *Lat. Desidium, desiderare, es ociocidad, pereza y líbido, pero también echar de menos*.  Parece que este echar de menos se refiere a los astros en *sideris sidus* y contemplar en ello, posiblemente, el povenir.  Tal ves es en virtud de esta confusión semántica que asumimos como condición suficiente, desear algo con fuerza, o fe, como para que ese algo se cumpla.  Porque somos afectos a estas magias es que rezamos, evitamos gritar los goles antes que pase la pelota y son best seller libros de horóscopos o autoayuda.  No casual, es causal.  Toda una biblioteca se ha escrito a partir del Psicoanálisis sobre este tema.  Asistimos a diario, porque lo deseamos y no por la fe misma, sin micción por carcajadas, a frases del tipo:
+**Deseo** *Lat. Desidium, desiderare, es ociocidad, pereza y líbido, pero también echar de menos*.  Parece que este echar de menos se refiere a los astros en *sideris sidus* y contemplar en ello, posiblemente, el povenir.  Tal ves es en virtud de esta confusión semántica que asumimos como condición suficiente, desear algo con fuerza, o fe, como para que ese algo se cumpla.  Porque somos afectos a estas magias es que rezamos, evitamos gritar los goles antes que pase la pelota, o llevamos las manos al pecho o testículo izquierdo, al escuchar nombres de presidentes de derechas.  También es por esta razón que son best seller libros de horóscopos o autoayuda.  No casual, es causal.  Toda una biblioteca psicoanalítica hay al respecto, en crecimiento.  Asistimos a diario, porque lo deseamos y no por la fe misma, sin micción por carcajadas, a frases del tipo:
 
 > One peso is one... ehhh... dollar.  --Domingo Felipe Cavallo, minutos antes de las masacres del 2001.
 
-> Queres identificar un facho, no vas a errarle.  Te dice cuando desear y como desea.  --Natalia Salvo.  Compañera.
+> Si queres identificar un facho, con este tip no vas a errarle.  Te dice cuando desear y como desear.  --Natalia Salvo.  Compañera.
 
 > Cobrarde es quien no está a la altura de su propio deseo.  --Respiración Artificial.  Ricardo Piglia.
 
