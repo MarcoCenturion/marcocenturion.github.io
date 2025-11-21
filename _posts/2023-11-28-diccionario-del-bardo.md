@@ -1072,7 +1072,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
 
-**Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
+**Inteligencia**  *Lat. interlegere, Inter Leer.*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
 
 **Imberbe**  *Adj*  Que carece de barba.  A efectos poéticos, sugiérese maridar este adjetivo con sus pares: *marxistas* y *homosexuales*.  Cuenta el mito popular que en los claustros de la carrera de abogacía, en la *Universidad de Buenos Aires*, en los *olvidables ochentas*, deambulaba un venerable anciano de la cátedra de Derecho Constitucional que compartía con el rock star televisivo Mariano Grondona.  Aquel tenía por costumbre finalizar la toma de lista con una sonrisa franca y una invitación tan cordial como bondadosa, para poder dar inicio a la clase:
 
