@@ -723,6 +723,8 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Yo soy Urquiza.  Si me pongo un sorete en la cabeza, eso tiene que ponerse de moda.  --Cesar G. increpado en público por el color de una chalina extemporánea.
 
+> Escatológica, dije, saboreando cada sílaba de esa palabra tan útil.  --Sra Ottinger.  Kalki.  Gore Vidal.
+
 **Escritor**  *Lat. scribere, scriptura escritura*.  Literalmente, escribir es dejar una marca.  La raiz común de los pueblos prehistóricos era sker, que sobreviven en el ingles scar, cicatriz.  Marcar una cierta codificación de signos, en un código común, como una lengua, para que generen *marcas* en el yo de otra persona, en otro tiempo y lugar, que conmuevan ese yo.  Acto de Fe que se convierte en pequeña inmortalidad de cabotaje.  
 
 > El oficio de escritor permite acariciar cuerpos hermosos y matar seres de mierda, sin por ello tener que concurrir a tribunales en lo Penal y Correccional.  --Odiseo Torres, Obra Poética.
@@ -824,6 +826,10 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 > La planta de los secretos.  La flor de la imaginación.  Albaca Sagrada.  El tabaco de los poetas.  La sueñera.  Ortiga del cáucaso septentrional.
 
 **Fe** *Lat. Fides.*  Confianza puntual e injustificada en los deseos, basada en una necesidad suprema de encontrar sentido a la vida.  Bonafide es literalmente, buena fe.  Deriva de esta **Fiel**, algo en que depositar la Fe.  Ciertos apologistas gnósticos, sugieren el producto de una *conjunción* entre dos notas musicales, **Fa** y **Re**.  Esto nos lleva por decucción simple a la nota **Mi**.  Ergo, la única confianza -FE- que debemos observar es hacia nosotros mismos.  La fe no necesita datos para su justificación, o no debería necesitarlos.  No obstante, de haberlos son bienvenidos por los usuarios de esa Fé sin cuestionamiento alguno, es por esto que un pastor evangelista cien mil pesos en una caja y al retirarlos encuentra cien mil dólares.  Si bien el pastor y sus fieles no dudan de la obra del señor, que sabemos se manifiesta de manera misteriosa, los inspectores de la oficina del ministerio de economía no creen lo mismo, lo que muestra claramente que son enviados del maligno.
+
+> Todas las religiones son un negocio turbio.  --Kalki.  Gore Vidal.
+
+> Dios no existe, tengro pruebas.  No menos de cinco veces por día pasa delante de casa un joven en una moto, muy rápido, por gorrito con visera por toda protección.  Asumo que acelera en casa porque sospecha mi odio.  Baso la certeza de la primera frase es que le propuse a ese ser onmipotente y onmipresente, no la muerte del conductor, los padres parecen buena gente, sino algo menor, condición de cuadra, tetra, omniplégico de por vida.  La tiene fácil, el ruido de la cadena de transmición me dice que va pasar actúe dios o no, hoy, mañana, esta semana seguro.  Lleva meses.  No pedí millones ni fama ni amores.  Pedí algo que colabore con la evolución de las especies, porque según Darwin no sobrevive la estirpe mas fuerte, ni la que mejor se adapta sino aquella que deja decendencia. 
 
 > Esperaba mi turno al final de la cola para embarcar en Aeroparque, Dos Mil Diez, doce, quince.  Por ahí.  Mi entretenimiento preferido, se que es preferible la revolución proletaria y opto por una venganza banal, mi placer, repito es localizar mal nacidos en esos entornos.   Siempre aparecen.  Me divierte hacerles el oso, sonreir y cuando llegan mantener la sonrisa en el infinito.  Luis Juez, Lilita Carrió, De Loredo.  Debería llevar una lista de logros!  De repente una sonrisa enorme apunta hacia mí, una minifalda demasiado mini, dibujaban cuadriceps perfectos.   Tengo la precaución de mirar hacia atrás imaginando equivocación al tiempo que reviso orificios nasales en busca de restos esctalógicos visibles.  Estuve a escasps segundos de abjurar de mi ateismo.  Dios evidentemente existe y he muerto.  A medida que se acercó mas fui notando las imperfecciones del makeup de Mary Poppins.  El cuerpo perfecto de la mujer de mis sueños era solo una marioneta de dos metros, demasiado parecida a Patricia Bullrich, hecho que me quitó líbido por varios meses.  Si, Dios existe, pero es un malnacido.  --Flying Chronicals, Odiseo Torres.
 
@@ -1256,6 +1262,8 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 > Como los estadounidenses.
 
+> No es dificil enloquecer, sobre todo cuando se recuerdan demasiadas cosas, pero sobre todo el incesante fluir de imágenes vacuas en el televisor, las oscuras caravanas de palabras que atraviesan las páginas de los diarios, para invadir y violar el delicado recinto de la memoria, como hormigas asesinas.  --Kalki. Gore Vidal.
+
 **Llanto**  *Lat. planctus*.  También de aquí plañir y plañídera, porque el origen es el golpe, posiblemente en el pecho, que acompaña al llanto.  Primera actividad humana al llegar a este *valle de lágrimas*.  Nos recuerda la condición de viviente al ocurrir, por alegría o tristeza. 
 
 > Todo mal se cura con agua salada, ya se esta transpiración, lágrimas o agua de mar.  --Acción Poética.
@@ -1465,15 +1473,19 @@ Existe otro No, el de la poesía.
 
 ## O
 
+**Oeste**  *Gr. Ἑσπερίδες  Hesperos*.  El griego original proviene de una voz indoeuropea wesperos, que da origen al ingles west, el frances ouest, que pareciera indicar vísperas.  El latín vesperos deviene en víspera, Venus y vespertino, que es a donde se dirige este planeta al final de la tarde. El jardín de las Hesperides parece que estaba en la actual Italia, en el norte de África, la península ibérica o mas al occidente aún.  Sea como fuere, las cuestiones topológicas sirven para señalar con el dedo a quienes no son como nosotros desde los inicios de los tiempos, civilizaciones enteras desaparecieron en la certeza de ser el ombligo del mundo que solo es un planeta entre otros, de un sistema estelar, de los miles de millones de los suburbios de una galaxia menor, de miles de milloes de esta del universo conocido, que también puede ser uno mas entre miles de millones.  
+
+> Morgan señaló hacia el oeste, Malibú, Santa Monica, Asia.  --Kalki.  Gore Vidal.  (Existe un ratio desmedido, logarítmido de distancia entre los primeros entre si y el segundo, que permiten al escritor omitir la vaguedad). 
+
 **Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  *Todos los colectivos los dejan cerca*.  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores.  El antropólogo Marvin Harris sugiere que ingerimos conceptos y no alimentos.
 
 **Ojalá**  *Castellano antiguo Oxala, del Ar. hispánico لَوْ شَاءَ اللّٰه (law šá lláh, "si Dios quisiera"), este del árabe لو شاء الله (law-šā’ allāh, "quiera Dios")*  Una de las palabras mas bellas de nuestro idioma tiene su origen en la Andalucía ocupada.  Fue grito de resistencia en los ochenta, su par antagónico hoy es "se dobadon todo"
 
 > Ojalá pase algo que te borre de pronto.  --Silvio Rodriguez.
 
-**Ojota** *Quechua, Usuta.* [^54] Calzado simple documentado en el gato popular:
+**Ojota** *Quechua, Usuta.* Calzado simple documentado en el gato popular:
 
-[^54]: En la asamblea que declara la independencia de España, Tucumán 1816, un sector importante de la intelectualidad propuso una monarquía como modo de gobierno con un rey descendiente de los Incas. Representantes de las familias patricias pusieron el grito en el cielo al visualizar un *"rey en ojotas"*.   
+> En la asamblea que declara la independencia de España, Tucumán 1816, un sector importante de la intelectualidad propuso una monarquía como modo de gobierno con un rey descendiente de los Incas. Representantes de las familias patricias pusieron el grito en el cielo al visualizar un *"rey en ojotas"*.   
 
 > Y unas usutas viejas, que eran del tata.  --Chango Farias Gomez.
 
@@ -1484,6 +1496,8 @@ Existe otro No, el de la poesía.
 > Tu opinión es tan interesante como válida, solo que voy a tener que esperar a tener picazón del trasero para poder utilizarla, para rascármelo con ella.  --Odas Cardinales.  Odiseo Torres.  1964.
 
 **Opinión pública**  Sentido común organizado y distribuído por los medios dominantes.  La agenda, la opinión, la razón, el sentido común, la fé, el criterio de lo bueno y malo, la belleza, la salud, siempre son los del poder de turno, se los engloba a todos estos en el sustantivo compuesto sentido común.
+
+> National Sun, ese diario siniestro dedicado a corromper las costumbres de los lectores con mas bajo IQ.  --Kalki.  Gore Vidal. 
 
 **Oportunidad**  *Lat. Ob frente, portus puerto*.  Salir de la tranquilidad de la ciudad, de la zona de confort.  A simple vista pareciera una invitación a la aventura en solitario, a buscarse la vida, a ser un(a) oportunista.  Otra muy distinta es la realidad, quien encare una escapatoria en soledad, no llegará muy lejos, las salidas, como los viajes, como las luchas, siempre son colectivas.
 
@@ -2033,6 +2047,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Vergüenza**  *Lat. verecundia*.  De aquí también provienen sinverguaza, y la culta *vergonzante*.  La misma raiz latina continúa en vergoña del gallego, vergonya en catalá, vergonha en portugués y vergogna en italiano.  Concepto raro en este siglo de músicas ausentes de armonía, salas de estar feng shui, carentes de bibliotecas y gentes que opina sin contar con esta útil herramienta intelectual.  Culturas anteriores permitían la desvergüenza, con la sola condición de la edad avanzada de los indivíduos, mientras que el hecho curioso del siglo XXI es la aparición temprana de este sentimiento en jóvenes, a los que se suele escuchar opinando, pese a su notable falta de critecio, acerca de temas como la presión impositiva, el rol del estado, el poder judicial o la jornada mínima de trabajo, al tiempo que aún no se independizan de su madre jubilada, incapaces del mínimo decoro de llenar el tanque el combustible del auto o lavar los platos.
 
 > Quítate viejo andrajoso o haré que te corten las vergüenzas y se las arrojen a los perros. --Uno de los pretendientes de Penélope, diciendo sus últimas palabra, dirigiéndose al disfrazado Odiseo.
+
+> "They left her... with a prayer... for the ship... to sink... to sink quickly... and so... an end."  --Lord Jim.  Joseph Conrad.
 
 **Vejez** *Lat. vetus, viejo, de allí Vetusto*.  Estado volitivo de la vida que solemos de confundir con la senectud, por su condición temporal.  *Crecer es inevitable, envejecer es optativo*.  Refinamiento conductual en muchos aspectos. **Eg**. Abandonar libros por la mitad, evitar la ingesta de gaseosas, apagar el televisor ante series con excesiva prensa, o apagar el oído a gentes, por similares motivos.  La vejez es un *firewall* que el yo desarrolla a lo largo de la vida a fin de evitar la intimidad de quién no sume, aunque sea un poquito.  El último de los aprendizajes para aquirir este título, consiste en un ejercicio diario, cuyo objeto consiste en convencer al yo de dar por finalizadas las discusiones, sin que se altere el ritmo cardíaco, con la frase  
  
