@@ -1138,8 +1138,6 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 > ¡Otra tóxica no!  --Oscar Wilde.  La importancia de ser Ernesto.
 
-**Invierno**  *Lat. Tempus Hibernus.*  Tiempo de invierno, luego invierno.  Otra feliz metamorfosis de adjetivo a sustantivo.  
-
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, en lugar de enredarlo para lucrar.
 
 **Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
