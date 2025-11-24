@@ -1479,6 +1479,8 @@ Existe otro No, el de la poesía.
 
 > Morgan señaló hacia el oeste, Malibú, Santa Monica, Asia.  --Kalki.  Gore Vidal.  (Existe un ratio desmedido, logarítmido de distancia entre los primeros entre si y el segundo, que permiten al escritor omitir la vaguedad). 
 
+> Es delito grave atentar contra el estilo de vida occidental y cristiano.  --Jorge Rafael Videla.  Dictador.  Estos valores parecen abarcar todos los tipos penales del código, parte especial.  Secuesto, extorsión, asesinato, torturas, solo para ocultar un simple y vulgar robo, solo que a gran escala.  
+
 **Omnívoro**  *Adj.*  Seres para quienes todo es alimento.  *Todos los colectivos los dejan cerca*.  Esta heterogénea categoría incluye al **Homo Sapiens**, el **cerdo**, la **cucaracha** y el **ratón**.  Tal vez, la sola enumeración nos exime de juicios de valor posteriores.  El antropólogo Marvin Harris sugiere que ingerimos conceptos y no alimentos.
 
 **Ojalá**  *Castellano antiguo Oxala, del Ar. hispánico لَوْ شَاءَ اللّٰه (law šá lláh, "si Dios quisiera"), este del árabe لو شاء الله (law-šā’ allāh, "quiera Dios")*  Una de las palabras mas bellas de nuestro idioma tiene su origen en la Andalucía ocupada.  Fue grito de resistencia en los ochenta, su par antagónico hoy es "se dobadon todo"
