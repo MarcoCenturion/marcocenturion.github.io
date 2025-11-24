@@ -1142,13 +1142,15 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 **Inteligencia**  *Lat. interlegere, Inter Leer*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.
 
-**IQ**  Cociente intelectual, por sus siglas en inglés.  Índice de medición de ciertas cualidades cognitivas.  Las neurociencias sugieren entrado el siglo XXI que hay más de una inteligencia[^87], por lo que derivar *la inteligencia* del IQ es equivalente a deducir la salud, de la falta de fiebre.  
+**IQ**  Cociente intelectual, por sus siglas en inglés.  Índice de medición de ciertas cualidades cognitivas.  Las neurociencias sugieren entrado el siglo XXI que hay más de una inteligencia, por lo que derivar *la inteligencia* del IQ es equivalente a deducir la salud, de la falta de fiebre.  
 
-[^87]: Howard Garder sugiere la existencia de al menos ocho inteligencias distintas, Linguística, Lógico-matemática, espacial, musical, interpersonal, etc.  Damos a diario con seres muy inteligentes en algún aspecto, pero analfabetos en otros.  Resultaría interesante investigar que se rompió en la inteligencia emocional, interpersonal durante principios del siglo XXI para que florecieran los fascimos en el mundo.
+> Howard Garder sugiere la existencia de al menos ocho inteligencias distintas, Linguística, Lógico-matemática, espacial, musical, interpersonal, etc.  Damos a diario con seres muy inteligentes en algún aspecto, pero analfabetos en otros.  Resultaría interesante investigar que se rompió en la inteligencia emocional, interpersonal durante principios del siglo XXI para que florecieran los fascimos en el mundo.
 
 > Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del teléfono que me pidió acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
 
 > ¿Listo?  Debería tener sesenta puntos menos en mi IQ para considerarme listo.  --Sheldon Cooper.  The Big Bang Theory.
+
+**Inteligencia Militar**  Literalmente un contrasentido lógico.
 
 **Ironía**  Perder el conocimiento al ser golpeado por una enciclopedia. La sociedad iba a ser mas justa a partir del conocimiento, llegó internet.  No era eso evidentemente.  Indivíduos que van al gimnasio en una patineta eléctrica.
 
