@@ -24,6 +24,10 @@ lead_text: 'La lengua usada en La Docta'
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En la antigua Roma, hombres buenos que litigaban por el honor.  La etimología no es pacífica pero tenemos razones para afirmar que la frase era *Vir bonus ad vocatum*, Hombre bueno que hace este trabajo por vocación.
 
+**Absurdo**  *Lat. Ab, de y surdum, sordo*.  Inadecuado, disparatado, contrario a la lógica.  Religiones que justifican genocidios, premios nóbeles a quienes comienzan las guerras.  La literatura del absurdo genera obras obsesivas y opuestas a toda lógica, que terminan dando vida a la realidad, que se tiñe de absurdo y berreta.  Un recurso de la lógica era plantear la nulidad de ciertas preposiciones por *reductio ad absurdum*, pero las ideas absurdas cuentan con cierto embrujo mágico, el fascismo, el terraplanismo, son solo ejemplos simples.  
+
+> La comprensión que la vida es absurda, puerde que no sea el final sino el comienzo.  Lo absurdo es pecado pero sin Dios.  --Albert Camus.
+
 **Aceituna**  *Ar. الزيتون zaytun, azzayt aceite*.  Este término desplazó el latino olivo.  Extraña, al menos, relación con el mesías, cuyo significado es *el untado en aceite*. Raro.  
 
 **Acelga**  *Gr. σικελή sikele.  Ar. silqah*.  El español toma este sustantivo del árabe hispánico *assílqa*, durante el milenio de ocupación andalusí.  Este a su vez proviene del árabe, que a su vez lo toma del griego, que significa *siciliana* por suponer estos que el noble vegetal provenía de la isla del Etna y la Medusa.  Tan curioso como rico derrotero histórico, no termina para nada ahí.  El siglo XXI, observa su llegada a las cuevas de la city, donde se lo utiliza para referirse, cripticamente, al dólar paralelo en **negro**, que, por motivos desconocidos, se lo apoda **blue**, a efectos de suavizar su caracter ilegal, colores que nada tienen que ver con el **verde** flúo de este vegetal o la isla de Sicilia con su alegre degradé de **grises**, **azules** y **amarillos**, que nos entrega un complejo mapa de colores.  Evoluciona a lo largo de los siglos para llegar al saludo coloquial, que nos hace dudar sobre el futuro de la especie.
