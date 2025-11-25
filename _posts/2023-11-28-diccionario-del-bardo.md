@@ -50,6 +50,8 @@ lead_text: 'La lengua usada en La Docta'
 
 > Cerveza, origen y **solución** de todos mis problemas. --Homero Simpsons.
 
+> En defensa del alcohol debo decir que he tomado peores decisiones estando sobrio.  --Charles Bukowski.
+
 **Alferez** *Ar. الفَارِس alfaris, jinete*.  Oficial de caballería que lleva el estandarte.  Cierta bibliografía militar cita textual *inmediatamente por debajo del teniente*, frase curiosa, que llama a la prudencia y el decoro en preguntas ulteriores, por versar sobre varones armados, afectos a la violencia y marcada cortedad intelectaul, visible en su escaso sentido del humor.
 
 **Alfil**  *Ar. الفيل al-fil el elefante*.  Proviene directamente del persa, donde elefantes es pil.  Las piezas de ajedrez representaban los elefantes de los ejércitos.  *Bishop* en inglés, curiosamente la misma raiz que da nombre a *bispo* en portugués y obispo en español.  Uno de sus múltipes pseudónimos es *príncipe* por ser el mas cercano al rey y la reina.  También existe quien le pone algunas fichas a basar su etimología en alferez, el que porta el estandarte.
@@ -1078,6 +1080,10 @@ La falta de sobrevivientes voladoras, hace que la humanidad tenga que esperar ha
 
 > No tengo miedo al invierno, con tu recuerdo lleno de sol.  --Tonada del viejo Amor.  Jaime Dávalos y Eduardo Falú.
 
+**Invisible**  Condición ideal en tiempos de sobre esposición en redes sociales, gym, barbería, spa de uñas, cirujías estéticas y festejos de la estupidez que promete no terminar.
+
+> Aférrate a a quellos que te notaron cuando eras invisible.  --Charles Bokowski.
+
 **Involucrar**  *Lat. Involucrum envoltura*.  Involucrarse sugiere envolver al otro para protegerlo, al estilo de una gallina con los pollos, posiblemente.
 
 **Inteligencia**  *Lat. interlegere, Inter Leer.*   Pareciera ser una capacidad para leer entre líneas, comprender más allá de lo escrito.  La verdadera inteligencia la poseen escasos indivíduos, esta consiste en simular estupidez, frente a quienes creen ser inteligentes.  El buen Howard Garder asegura no una sino ocho tipos de inteligencias, mas allá de la capacidad del indivíduo para la abstracción para *resolver problemas*.  Este sugiere que existe una inteligencia lingüística, otra lógico matemática, otra espacial, otra musical, otra corporal, otra intrapersonal, otra interpersonal y otra naturalista, con un poco de cada una, destacándose una sobre otras, los indivíduos evolucionan, interactúan y se conmueven.
@@ -1983,6 +1989,12 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, ataviado en escala de blancos, negros y grises.  Su estética esbelta, su monocromía, su elegancia y respetuoso saludo, nos recuerdan mangas nipones del estilo Miyazaki.  Su habitat es la llanura pampeana, aunque merced a su caracter impetuoso, se lo puede observar disfrutando de desde playas catarinenses, hasta incluso paulistas.  Bajo el influjo de qué clase de tóxicos puede alguien sugerir en una canción: 
 
 > Viajando por el mundo en tero.  --Carta de un león a otro.  Chico Novarro, popularizada por Juan Carlos Baglietto y su banda de rosarinos autoacuartelados.
+
+**Tiempo**  *Lat. tempus*.  Magnitud física para subdividir la eternidad.  En virtud de esa división es que el observador puede situarse en pasado, presente y futuro respecto de un suceso.  Su condición de subjetiva hace que no signifiquen lo mismo, los diez minutos esperando a la persona amada, en la primera cita, que los diez en la puerta del quirófano, que los diez posteriores.  En la hélade arcaica, Cronos había asesiando a su padre para quedarse con la eternidad, posteriormente, la subdivisión de ese tiempo pasa a tiempos del estagirita Aristóteles, quien sostiene que es la medida en que captamos en el alma el cambio de los fenómenos.  Hasta la relatividad general donde el tiempo no es independiente del observador, como vimos en la frase anterior.
+
+> Si te pidió tiempo y distancia es porque intenta despejar velocidad.  --Albert Einstein.
+
+> Hay tanta distancia dentro del tiempo, que si uno agarra se encuentra con las montañas.  --Pequeño Dixit.  Jacinto Ruiz.  
 
 **Tornillo** *Gr.τορνος tornus*. Diminutivo de torno, por el giro que expresa sobre su eje en forma de hélice.  Debemos a Pitágoras -o su escuela- cerca del siglo III de la era común, el desarrollo de esta máquina simple, en la que un plano inclinado gira sobre si mismo.  Al igual que la eterna discusión sobre la prelación entre el huevo o la gallina, experimentamos la misma incóngnita entre este y el clavo, su némesis.  El plástico argentino Benito Quinquela Martín establece la **Orden del Tornillo** que se otorga mas de trescientas veces, a *"...hombres de espíritu viven en estado de locura"* no con la intención de curar esa locura, sino toco lo contrario, no perderla nunca.  Recibieron la orden, Charles Chaplin o Mariano Mores y gente de lo mas variopinta, de manos de este hombre de frak naval y sombrero, que fuera huérfano de niño y se criara en la carbonería de esa familia italiana Chinchella que le dió amor.  Con el producto de la venta de sus cuadros mantenía clínicas y escuelas.  Cierta mañana asoman un par de señoras paquetas a su atelier de la Boca, deslubradas por los colores brillantes de la cocina, donde está pintado hasta el teléfono, descubren que no tiene ropero y se ofrecen regalarle uno.  ¿Para que puede necesitar un ropero quien solo viste no mas de tres guardapolvos de pintor?  
 
