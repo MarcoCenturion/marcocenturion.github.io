@@ -26,7 +26,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Absurdo**  *Lat. Ab, de y surdum, sordo*.  Inadecuado, disparatado, contrario a la lógica.  Religiones que justifican genocidios, premios nóbeles a quienes comienzan las guerras.  La literatura del absurdo genera obras obsesivas y opuestas a toda lógica, que terminan dando vida a la realidad, que se tiñe de absurdo y berreta.  Un recurso de la lógica era plantear la nulidad de ciertas preposiciones por *reductio ad absurdum*, pero las ideas absurdas cuentan con cierto embrujo mágico, el fascismo, el terraplanismo, son solo ejemplos simples.  
 
-> La comprensión que la vida es absurda, puerde que no sea el final sino el comienzo.  Lo absurdo es pecado pero sin Dios.  --Albert Camus.
+> La comprensión que la vida es absurda, puede que no sea el final sino el comienzo.  Lo absurdo es pecado pero sin Dios.  --Albert Camus.
 
 **Aceituna**  *Ar. الزيتون zaytun, azzayt aceite*.  Este término desplazó el latino olivo.  Extraña, al menos, relación con el mesías, cuyo significado es *el untado en aceite*. Raro.  
 
@@ -250,9 +250,9 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > La bicicleta nos enseña a confiar en el criterio de un otro. Alguien en quien confiábamos mucho, que allá lejos, nos soltó la primera vez, para dejarnos ir.  Y tenía razón.
  
-**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**[^74], o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
+**Bidet**  Galicismo que utilizamos para referimos a un sanitario muy difundido en el nuevo continente, originado en la Francia de los Luises.  Desconocido por completo en la vieja Europa, a partir de trabajos de campo de antropólogos, que aseguran haber utilizado el transporte público.  Debe su nombre al sustantivo utilizado en Francia para al **pony**, o caballo pequeño, al ser este el formato durante el **siglo XVIII**.  
 
-[^74]: La fe de los imperios, siempre se valen de imágenes ecuestres.  El caballo del presidente Milei es un ejemplo de estos.
+> La fe de los imperios, siempre se valen de imágenes ecuestres, porque le otorgaba una altura que el dictador no tenía.  El caballo del presidente Milei es una imágen de AI que apunta a un IQ de niños de 11 años.
 
 > Dijo que saldrá con amigas, pero hace diez minutos que se escucha la **afeitadora** golpeando contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
