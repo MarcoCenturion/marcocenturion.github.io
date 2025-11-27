@@ -3,7 +3,7 @@ layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2025-01-28 19:41:34
 categories: humor idioma militares blog
-tags: Diccionario Bestiario Lengua Historia etimología
+tags: Diccionario Bestiario Lengua Historia etimología neologismos aberraciones berreta
 image: '/images/dic.png'
 lead_text: 'La lengua usada en La Docta'
 ---
@@ -1384,10 +1384,12 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Mito**  *Gr. Mithos μύθος, cuento, relato*.  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repetirse.  Es por ello que lo repetimos sin tener certeza.  Más que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, los indivíduos prefieren una respuesta tranquilizadora, un cuento para ir a dormir, antes que una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido, por eso tiene tanta validez el culto de yo endiosado en seres mágicos que están espectantes de nuestros deseos, que proyectándolos de manera correcta, rezando por ejemplo, los deseos se cumplen.
 
-> ¿Porqué?  
-> Porque dios te ama.  
+> ¿Porqué debo rezar?  --Niño inocente cara sucia y muñones de las piernas vendados
+> Porque dios te ama.  --Dios onmipresente y todopoderoso.  
 > ¡Pero vivo en Gaza!
 > Ah.  Mala mía.
+
+**Monetizar**  Neologismo que sugiere obtención de lucro por marketing fafafa, pero que pareciera orientad a generar dinero en pequeñas monedas, para dárselas al mandamás, Juan Carlos Jiménez Rufino, la mona.
 
 **Mono**  Primo hermano del Homo Sappiens Sappiens.  Las sagradas escrituras sostienen que este último es el elegido de la creación, mientras que la evidencia muestra demasiada similitud con los primates superiores.  La derrota en la batalla por el predominio de los árboles, en la sabana africana, forzaron a un grupo de estos a descender de aquellos, correr por la vida -como sugiere Homero Simpsons-  Esto forzó que pronto corrieran erguidos en dos patas, eso diera lugar a los pulgares oponibles, crecimiento de la corteza cerebral y la historia conocida.  La primera herida al narcisismo, fue enterarnos que todos somos africanos.  La segunda, que nos ganaron los chimpancés.  Esto explica bastante los resultados electorales, con listas de candidatos con narices ensanchadas, *monas* señoritas *auxiliares de afecto rentado* y gorilas.
 
@@ -1605,11 +1607,11 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Esperando salir al escenario, un muy muy joven **Jorge Luz**, tiritaba en los gélidos camarines del Luna Park, por toda vestimenta su disfraz de marinerito para un show de los **Cinco Grandes del Buen Humor**.  Nota que a una ventana le falta un vidrio, sus pantalones cortos y la condición inviernal forman un combo que lo hacen empequeñecerse en su asiento a la espera de salir al escenario.  De pronto se abre la puerta y detrás de la voluta de humo espeso de un habamo, aparece Gatica, el pugilista en el cenit de su carrera, camisa verde cotorra barranquera, corbata roja, sobretodo piel de camello y galera.  Ambos se obserban sin dar crédito de lo que ven.  Gatica pregunta por fin: *¿Nene de que te disfrazaste?* a lo que el cómico responde, poniendo en riesgo su vida: *Yo de pelotudo ¿Y usted?*   Afortunadamente, el boxeador no escuchó o comprendió el chiste y pudimos conocer la vejez de Jorge Luz.
 
-**Pene**  Comparte coincidencias subjetivas, con la **fé** religiosa, por el extraño alarde de parte de sus tenedores.  La religión del siglo XX, que por comodidad solo llamamos psicoanálisis, le otorgó el caracter de deidad, a todas luces de manera errónea, puesto que, este fué destronado por un símil de silicona importado de china, sin mayor pesar, hiriendo de muerte al narcisismo masculino.  Pareciera interesante -a simple vista- tener uno, un pene, propio o prestado.  Legislacione a lo largo del glob, desalientan su exibición publica, salvo en entornos controlados como el consultorio urológico o el teatro experimental.  El decoro prohibe *el uso de la fuerza* para compartirlo con otros/as.  Esta prohibición alcanza el caracter de **Delito del Código Penal**, si ese *otros/as* es menor de edad.  No es prudente hacer alarde, como documenta la canción.  
-
-> El triunfo del hombre en la batalla frente al consoldador, se debe a que el último carece por completo de capacidad para hacer asados.  Aún.
+**Pene**  Comparte coincidencias subjetivas, con la **fé** religiosa, por el extraño alarde de parte de sus tenedores.  La religión del siglo XX, que por comodidad solo llamamos psicoanálisis, le otorgó el caracter de deidad, a todas luces de manera errónea, puesto que, este fué destronado por un símil de silicona importado de china, sin mayor pesar, hiriendo de muerte al narcisismo masculino.  Pareciera interesante -a simple vista- tener uno, un pene, propio o prestado.  Legislaciones a lo largo del globo, desalientan su exibición publica, salvo en entornos controlados como el consultorio urológico o el teatro experimental.  El decoro prohibe *el uso de la fuerza* para compartirlo con otros/as.  Esta prohibición alcanza el caracter de **Delito del Código Penal**, si ese *otros/as* es menor de edad.  No es prudente hacer alarde, como documenta la canción.  
 
 > Solo voy con mi pene --Radio Bemba.  Manu Chao.
+
+> El triunfo del hombre en la batalla frente al consoldador, se debe a que el último carece por completo de capacidad para hacer asados.  Aún.
 
 > Che Estevez, déjese ese endeble Pene!  --Test de vejez.  Poemario Escatológico.  1934.  Odiseo Torres.
 
