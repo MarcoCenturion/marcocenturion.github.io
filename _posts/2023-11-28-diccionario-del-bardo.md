@@ -1906,7 +1906,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Un tipo mata una vieja y se arrepiente.  --Oficina de explicación de libros, sobre *Crimen y Castigo* de Dostoyevsky.  Alejandro Dolina, Cónicas del Ángel Gris.
 
-> El Quijote es inimaginable en otro país, un inglés hubiera escrito el Quijote en la mitad de palabras.  --El escritor argentino y la tradición.  Jorge Luis Borges.
+> El Quijote es inimaginable en otro país, un inglés hubiera escrito el Quijote con la mitad de palabras.  --El escritor argentino y la tradición.  Jorge Luis Borges.
  
 **Smith** 1- Joseph Smith. Fundador de la empresa religioso-política los **Santos de los Ultimos Dias**, conocidos por su nombre artístico *Los Mormones*.  Desde temprana edad fuí bastate excéptico respecto de las teorías conspiratorias.  La de los servicios de inteligencia norteamericanos financiando iglesias en el tercer mundo, me parecía singularmente estúpida, hasta dar con las iglesias de los mormomes y los resultados electorales.   2- Personaje central del film **Matrix.**  **Alert Spoiler**   Su superpoder es cierta capacidad de poseer cuerpos de individuos y desde allí cambiarles el **Yo** freudiano, al igual que varias religiones.  3. Método de imposición de dogmas religiosos.  Pruébese *con suma precaución* poner en duda el *sentido común*, o *verdad establecida*, o *dogma religioso* a una persona al azar.  Podrá observarse como el **Sr. Smith** toma posesión de su cuerpo.  Aléjate inmediatamente sin quitarle los ojos de encima.  Véase Sócrates.
  
