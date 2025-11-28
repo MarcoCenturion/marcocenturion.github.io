@@ -295,6 +295,9 @@ flowchart LR
     G --> A
 ```
 
+> Todo pasa a ser artificial, la producción e incluso la inteligencia, la educación, el gobierno, desaparece la identidad entre las étnias... entonces puede aparecer una *nueva era de las cavernas*, un analfabetismo y holgazanería universales.  --Fiasco.  Stalislaw Lem.
+
+
 **Bulimia**  *Gr. βουλιμία bous limos, hambre de buey*.  La bulimia nerviosa es un trastorno alimenticio que lleva a quienes lo padecen a la errónea sensación de obesidad.  La sufren por lo general la población femenina, cuando se trata del fenómeno exclusivamente alimenticio, en una relación de nueva a uno respecto de los varones.  Existe en este grupo un proceso de *culpa* por la ingesta de alimentos, que las obliga a vómitar las ingestas, sin digerirlas.  La población masculina, en cambio, sufren una patología similar, pero no es de orden alimentício, sino intelectual.  Luego de atracones de ideas fascistas, homofóbicas, xenófobas o misóginas, sin ningún tipo de filtro intelectual, vomitan, sin diger, conceptos anacrónicos, al carecer de la culpa que confiere la lectura, la escucha paciente del rock and roll y trato con personas del sexo opuesto.
 
 **Burdel**  *Fr. bordel, choza, bord tablón, cabaña de tablas*.  También en alemán y catalán *bordell*, *bordello* en italiano, brothel en inglés.  Existe quien sugiere que en la París de los Luises se dispuso por ley el alejamiento de estas casas a los bordes, las orillas del Sena y obtienen su nombre de ahí.
@@ -926,7 +929,7 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > É a garrafa de cana, o estilhaço na estrada.  --Águas de Março.  Carlos Antonio Jobim.
 
-**Gaucho**  *Quechua wakcha, huaso, pobre, huérfano.*  Gente que vivía en las zonas rurales donde compartían una tierra común, sin títulos de propiedad.  i*A medida que avanza la *civilización* son expulsados a territorios indígenas, presente en la literatura gauchesca como el Martín Fierro.
+**Gaucho**  *Quechua wakcha, huaso, pobre, huérfano.*  Gente que vivía en las zonas rurales donde compartían una tierra común, sin títulos de propiedad.  A medida que avanza la *civilización* son expulsados a territorios indígenas, presente en la literatura gauchesca como el Martín Fierro.
 
 **Género**  Controversia del siglo XXI, propia de las clases dominantes, entretenidos mirándose el ombligo.  En la casa de mi infancia, éramos dos abuelos, dos padres y seis hermanos.  Al ser el mayor de esos niños, cargué desde temprano con obligaciones de *ambos* géneros con alguna que otra queja menor.  Después de volver en la bicicleta con bolsas de las compras, pelaba durante horas papas para el almuerzo.  Todos los días mamá cocinaba para diez personas, yo era el auxiliar obligado de cocina.  Recuerdo con ternura que cierta vez, siendo apenas un niño, se me ocurrió una idea brillante, argumentar en mi favor que hacer todas las compras me eximía de tareas que por sexo correspondían a mis hermanas mujeres.  Mamá con su providencial sabiduría y aplomo me explicó pacientemente, delante de todos, varones adultos incluídos.
 
