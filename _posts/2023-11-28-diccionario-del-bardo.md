@@ -379,7 +379,7 @@ flowchart LR
 
 > Y aquel buzón carmín, y aquel fondín donde lloraba el tano.  --Tinta Roja.  
 
-**Carpa**  *Quechua tienda, choza, toldo*.  Este sustantio andino se extiende por toda América para dar nombre a la casa, al cobijo familiar.  La utilización diaria le otorga un segundo significado, para aquello que requiere de mesura, cautela, cuidado o cierta licencia para el accionar.  *Hacelo, pero con carpa*.  No pareciera guardar relación alguna con su antagónico perfecto en **El Carpo**.  
+**Carpa**  *Quechua tienda, choza, toldo*.  Este sustantivo andino se extiende por toda América para dar nombre a la casa, al cobijo familiar.  La utilización diaria le otorga un segundo significado, para aquello que requiere de mesura, cautela, cuidado o cierta licencia para el accionar.  *Hacelo, pero con carpa*.  No pareciera guardar relación alguna con su antagónico perfecto en **El Carpo**.  
 
 **Carpincho**  *Guar. kapyva*.  El señor de las hierbas, el término guaraní sostiene mejor el nombre brasileño capibara que el argentino carpincho, que en tiempos fuera sinónimo de mal entretenido, sucio y desprolijo, como el protagonista de la guitarra, en el renglón anterior.
 
@@ -437,6 +437,8 @@ flowchart LR
 
 **Chango**  *Quechua niño*.
 
+> Changito manos teñidas carita triste morena.  --Changuito Lustrador.  Leo Dan y M Ferreyra.
+
 **Charqui**  *Quechua carne secada al sol*.  Base alimenticia de toda la América andina pre colombina, que tiene su par en el bacalao nórdico.  
 
 **Chaucha**  *Quechua vaina*.  Monedas de escaso valor.
@@ -453,9 +455,9 @@ flowchart LR
 
 [^100]: Es un universal antropológico que en todo rito el chamán o sacerdote accede en exclusivo al tóxico, mientras la feligresía no.  En el ritual católico, solo el sacerdote accede simbólicamente al alcohol, mientras el resto solo come el pan.
 
-**Cifra**  *Ar. sifr صفر*.  Proviene de cero, o vacío, concepto nuevo que introduce el álgebra a las matemáticas antíguas. Cifra es cualquier símbolo para representar números o letras, una abstracción.  Descifrar es conocer el código para desencriptar el mensaje oculto en una cifra.  El cero aparece tres siglos antes de la era común en Babilonia.  También llamamos así a un género musical bonaerense en octavos mayores, de tierra adentro.
+**Cifra**  *Ar. sifr صفر*.  Del mismo origen proviene el sustantivo cero, o vacío, concepto nuevo que introduce el álgebra a las matemáticas antíguas. Cifra es cualquier símbolo para representar números o letras, una abstracción.  Descifrar es conocer el código para desencriptar el mensaje oculto en una cifra.  El cero aparece tres siglos antes de la era común en Babilonia.  También llamamos así a un género musical bonaerense en octavos mayores, de tierra adentro.
 
-> Pobrecita mi tierra, tan castigada.  --Dante Centurió y Jorge Romero.
+> Pobrecita mi tierra, tan castigada.  --Dante Centurión y Jorge Romero.
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
 
@@ -945,6 +947,8 @@ Toda lectura posterior acerca del poder, estructuralismo y Foucault no agregaron
 **Grifo**  *Mit*.  El grifo de los bestiarios clásicos era un ser sobrenatural, par de un personaje femenino de mi infancia, la Solapa.  Teníamos penado salir en horas de la siesta, asomarnos al partio.  La abuela Amanda la nombraba levantando le índice derecho y abriendo los ojos de manera antinatural y amonestadora.  Por algo nadie sale a la calle a la siesta.  Nunca dudamos de la veracidad de sus palabras.  Encontraba complicidad en otros mayores a su alrededor: *la tía Helena la vió una vez cuando era chica*.  Siempre se lleva a los mas revoltosos.  A juzgar por la edad, la tía **Helena**, bien puede haber sido la protagonista de la Ilíada del rápsoda Homero, que causara tanto penar entre teucros y aqueos.  Tal vez por simpatía narrativa, es que hoy asocio al Grifo con La Solapa.  Tarde descubrí que suponía en la Solapa cierta capacidad de volar, aunque nunca nos fuera aclarado su método de traslación de las víctimas.
 
 > Quería tener mi propio grifo, pero mis padres se negaron a conseguirme un huevo de águila y semen de león.  --Sheldon Cooper.  The Big Bang Theory.
+
+**Grillo**  *Lat. gryllus Gr. γρύλλος*.  Insecto simpático, de buen augurio en ciertas cosmogonías como la china.  Pierde su espíritu afable y simpático a medida que avanza la noche y avanza el sueño, haciendo evaluar la opción del suicidio a desesperados indivíduos buscándolos chancleta en mano.  Grillos o grilletes se llamaban también a las esposas con las que se encadenaba la leva del interior del país, no muy contenta de ir a pelear contra los hermanos paraguayos en la Guerra de la Triple Infamia. 
 
 **Guaso**  *Quechua wacho huérfano*.  Se lo utiliza también para referirse a los animales que perdieron a sus progenitores, tanto como a vegetales silvestres, que no fueron cultivados. La rúcula es un claro ejemplo de verdura de hoja consumida durante el imperio romano, pero que no era cultivada, de hecho debe su nombre al adjetivo *rustica*, guacha.  Extraño derrotero que termina en la city como eufemismo del dólar paralelo. 
 
