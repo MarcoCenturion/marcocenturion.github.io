@@ -83,9 +83,11 @@ Bosquejo de los 10 Capítulos
 
 ## El Canon del Naufragio Anterior
 
-Capítulo 1: La Meseta del Espejismo Roto
+Capítulo 1: La Meseta del Espejismo Roto.  No miren hacia abajo.
 
 El calor había dejado de ser un estado del tiempo para convertirse en una condición de la piedra, del aire, de la mirada. El mundo era un cuerpo enfermo con fiebre perpetua. Camila, cuyos algoritmos mapeaban las últimas costuras tectónicas de un planeta exhausto, encontró la anomalía no como un hallazgo, sino como una imposibilidad que se resistía a ser ignorada. No era una montaña, sino una idea de montaña, una meseta en la Patagonia de ángulos demasiado perfectos, una geometría que delataba el desdén de la naturaleza por la línea recta. Ladislao, a su lado, veía en ese fantasma topográfico no la sombra de un enigma, sino la silueta de una oportunidad. Su ambición era un animal práctico, hambriento. Entre ellos, la tensión no era intelectual, sino termodinámica: la fricción de dos universos morales que comparten el mismo espacio confinado, predestinados a la colisión o a la fusión.
+
+Retrospectivamente, el lugar era perfecto, el sitio geológicamente mas estable del planeta, sin conflictos tectónicos.  No hacía falta mucho esfuerzo intelectual para descubrir que esa meseta no era una formación geológica.  Una vez alcanzada la marurez tecnológica para descubrirlo es porque la humanidad pasaba nuevamente por una crisis de crecimiento y saturación.  Las mismas condiciones que hicieron colapsar la civilización "antediluviana".  Todas las culturas recuerdan una subida desmesurada de las aguas que colapsó la vida toda.  
 
 Capítulo 2: La Cripta del Tiempo Solapado
 
