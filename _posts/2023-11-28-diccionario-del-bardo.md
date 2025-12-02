@@ -1,4 +1,4 @@
----
+e---
 layout: blog
 title: 'Diccionario y Bestiario de uso común'
 date: 2025-01-28 19:41:34
@@ -914,6 +914,12 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 **Fumar**  *Ver. Lat. fumo, humo.  Fr. fumer*.  Inhalar humo de alguna sustancia quemada, tabaco, marihuana, opio y hasta cosas peores.  Cierta corriente herética sostiene que esta actividad acompaña al homo sappiens desde su condición de sappiens, siendo causa y no consecuencia de las capacidades cognitivas, es una de las mas sensatas teorías que explican la diferencia con nuestros parientes de ADN, mas cercanos, los primates superiores.  Algún alucinógeno comestible, consumido seguramente por error, hizo que nuestro cerebro encontrara nuevas sinapsis para las manos y estas se adaptaran a estas nuevas funciones.  No tardó en llegar, fruto de esa toxicidad, la experiencia mística, el resto es historia conocida.  Un universal antropológico se desprende de allí, el chamán se conecta con la divinidad y *da parte* a ciertos iniciados.  Se tienen registros de la actividad desde el siglo II antes de la era común.  
 
 > El cigarrillo llegó para quitarle ritual al acto de fumar.  Tanto el habano, como la pipa, requieren de un *set & setting*, un sillón, un libro, un cognac, una novela, una música, cierta penumbra, cierta predisposición a algo mágico.  --Puro Humo.  Guillermo Cabrera Infante.
+
+> ¿Fuma usted?  
+
+> Pues bien, debo confesar que fumo. --Jack
+
+> Me alegra saberlo.  Un hombre tiene que tener una ocupación cualquiera.  --Lady Bracknell.  La importancia de ser Ernesto.  Oscar Wilde. 
 
 **Fumón**  *Adj*.  Acompañantes terapéuticos, tutores amigables que se cruzan en el camino de las buenas gentes, al menos una vez en la vida, como los instructores de bicicleta.  Debe existir una mínima confianza en modo espejo, el tutor sabrá cuando dejar ir al pupilo. 
 
