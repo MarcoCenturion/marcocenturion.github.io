@@ -8,7 +8,9 @@ image: '/images/dic.png'
 lead_text: 'Sci Fi y Los mundos perdidos que siguen hablando'
 ---
 
-## Patagonia
+[[toc]]
+
+## Brainstorm
 
 A partir de los hallazgos de Gobekli Tepe, comenzó una frenética búsqueda de terrenos altos alrededor del globo, en donde pudieran estar guardados los *backup* de aquellas culturas.  Botellas al mar.  Con inteligencia artificial revisando las imágenes de Santa Cruz, dimos con una meseta muy extensa y alta, imposible que fuera un volcán, o un plegamiento.  Era producto de la labor humana, o lo que fuera en aquel entonces.
 
@@ -85,7 +87,7 @@ Bosquejo de los 10 Capítulos
 
 ### Capítulo 1: La Meseta del Espejismo Roto.  No miren hacia abajo.
 
-Buscando un avión cargado con quinientos kg de cocaína, analizando el espectro de las densidades en el suelo, para detectar anomalías, los investigadores del CONICET dieron con la colina antinatural.  Buscando un negocio económico dieron con otro.
+Buscando un avión cargado con quinientos kg de cocaína, analizando el espectro de las densidades en el suelo, para detectar anomalías, los investigadores del CONICET dieron con la colina antinatural, apenas ligeramente antinatural, tanto como para pasar desapercibida lo suficiente pero no tanto para hacerlo eternamente.  Buscando un negocio económico dieron con otro.
 
 El calor había dejado de ser un estado del tiempo para convertirse en una condición de la piedra, del aire, de la mirada. El mundo era un cuerpo enfermo con fiebre perpetua. Camila, cuyos algoritmos mapeaban las últimas costuras tectónicas de un planeta exhausto, encontró la anomalía no como un hallazgo, sino como una imposibilidad que se resistía a ser ignorada. No era una montaña, sino una idea de montaña, una meseta en la Patagonia de ángulos demasiado perfectos, una geometría que delataba el desdén de la naturaleza por la línea recta. Ladislao, a su lado, veía en ese fantasma topográfico no la sombra de un enigma, sino la silueta de una oportunidad. Su ambición era un animal práctico, hambriento. Entre ellos, la tensión no era intelectual, sino termodinámica: la fricción de dos universos morales que comparten el mismo espacio confinado, predestinados a la colisión o a la fusión.
 
