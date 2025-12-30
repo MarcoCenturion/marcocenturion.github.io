@@ -1879,9 +1879,9 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Te salvás porque tengo una comunión en un ratito, sino te doy como a cajón que no cierra.
  
-**Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico[^9], brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
+**Sapere Aude** *Lat. Atrévete a Saber*.  Imperativo que cierta doctrina atribuye a Kant, autor del otro imperativo, el categórico, brújula de agnósticos y anticlericales.  Otros en cambio, arriesgan el nombre de Tomas de Aquino.  En épocas de dogmas incuestionables, la preocupación por saber es un acto revolucionario.
  
-[^9]:  Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.
+> Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.  --Imanuel Kant.
 
 **Sartén**  *Lat. Sus, Fem.  Sartigium*.  Recipiente para freir.  De allí que una *sarta* es una porción que cabe en la sartén. 
 
@@ -1902,6 +1902,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Serpiente** *Gr. ἕρπης, -τος*  Reptar, arrastrarse.  Raíz común indoeuropea que da vida a serpe en portugués, serp en catalán, serpe en italiano.  Del mismo origen proviene herpes, puntualmente el herpes zóster, conocida vulgarmente como culebrilla, por su forma serpenteante en el cuerpo.  Hubo quienes intentaron asociar el origen a una palabra hebrea, nahash, por Satanás, el mal, el del manzano y la tentación.  Cierta doctrina apócrifa sostiene que aquella tentación no fué el sexo, sino el saber.  La femenina curiosidad.  De hecho, funciona como metáfora ya que el precio del pecado es parir con dolor.  La única hembra que sufre al parir es la humana, por el tamaño de la cabeza, para albergar ese cerebro pensante.  Pensalo.  Durante la dictadura cívico-eclesiástico-militar de los setenta, llegaban casettes grabados, copia de otros casettes, de otros, así sucesivamente hasta el infinito, digno de cuento cortazariano del sentido de la resistencia y sus canales de comunicación.  Se prestaban de manos en manos amigas y se devolvían en secreto, envueltos en un halo de misterio, confidencia y pedidos de cuidado, religioso.  Resaltaban el origen, un hermano o prima exiliada, que lo enviaba de México o España, entre calzones y libros con tapas cambiadas, que incrementaba el sentimiento de reliquia.  El resultado sonoro final era de escasa a nula calidad.  Recién patentando un sistema electrónico de filtros bautizado **Dolby**, facilitaba la tarea de entender letras y armonías.  Algo.  Esto hacía que vaguemos por el mundo cantando letras mal aprendidas.  Accedimos al **mal** de esa forma furtiva, a *Soñar con Serpientes* y *Aprender a quererte cuando todo Santa Clara se despierta para verte*, a Quilapayún y Jara, a Aute y Violeta Parra, Olimareños y Viglietti y León y Victor Heredia.  Como corresponde a todo aprendizaje que vale mucho, muchísimo, este no tiene precio, tan fugaz, furtivo e intenso como beso robado en el claustro docente universitario, en una toma de facultad, con el alma explotando en forma de lágrimas.  Y gratitud.  Siempre, por aprehender que *Lo hermoso nos cuesta la vida*.
 
 > En estos días, no sale el sol, sino tu rostro.  --Silvio Rodriguez.
+
+**Set & Settings**  Imperativo para un correcto viaje tóxico, ya sea de trasládo físico o solo espiritual.  Faltando uno solo de estos componentes, se malogra el resultado, como queda demostrado al intentar pegar faso en la favela, por desconocimiento del set o tomar el tren al sitio paradisíaco pedispuesto mal de ánimos.
 
 **Sexto**  *Lat. Sextus*.  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.   
  
