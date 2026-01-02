@@ -1907,7 +1907,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > En estos días, no sale el sol, sino tu rostro.  --Silvio Rodriguez.
 
-**Set & Settings**  Imperativo para un correcto viaje tóxico, ya sea de trasládo físico o solo espiritual.  Faltando uno solo de estos componentes, se malogra el resultado, como queda demostrado al intentar pegar faso en la favela, por desconocimiento del set o tomar el tren al sitio paradisíaco pedispuesto mal de ánimos.
+**Set & Settings**  Imperativo para un correcto viaje tóxico, ya sea de traslado físico o solo espiritual.  Faltando uno solo de estos componentes, se malogra el resultado, como queda demostrado al intentar pegar faso en la favela, por desconocimiento del set o tomar el tren al sitio paradisíaco pedispuesto mal de ánimos.
 
 **Sexto**  *Lat. Sextus*.  La importancia del sexto en la Roma antigua radica en ser exactamente la mitad de una docena, la unidad de medida universal del imperio.  Esta docena pareciera ser la sumatoria de las falanges de los cuatro dedos de una mano, opuestos al pulgar, ya que el objeto del pulgar es ser opuesto.   
  
