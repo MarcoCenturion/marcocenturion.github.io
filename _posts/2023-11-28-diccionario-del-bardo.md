@@ -1985,13 +1985,19 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 **Sufragio**  *Lat*. Suffragium.  De allí, fragor, al votar por alguien.   En la Roma anterior al imperio, solo tenían acceso a sufragar, las tropas en servicio.  La elección era a viva voz, acompañaban los gritos con golpes del pilum o el estoque contra los escudos.  El voto se llevaba a cabo al *fragor* de las masas.
 
+> Ella bailó al calor de las masas y yo desperté queriendo soñarla.  --Gustavo Cerati.
+
+**Sur**  *Gótico posiblemente Sun-Thaz, del lado del sol*.  Austral en cambio, proviene del viento proveniente del sur europeo, *auster humidus* el viento que trae la humedad.  Del sur, de muy al sur, vino el dios(ito), pequeño quijote, batallador de peleas inganables y ganó todo para el equipo del Sur, el Nápoli, de la ciudad a los que el norte llaman cariñosamente *africanos*.  Pero, como toda buena historia tiene su giro inesperado, la suerte hace que se entrenten la selección de Italia y Argentina.  En la conferencia de prensa, èl les aclara que ahora son rivales, que tienen que hinchar por Italia, que lo perdonen.
+
+> Pero acuérdense que es la primera vez que el norte los reconoce italianos.  --Diego Armando Maradona. 1990.
+
 ## T
 
 **Tacto** *Lat. Tactus, tangere, tocar de allí tangente*.  Sus diferentes derivados sugieren contacto que es tacto, intacto es lo no alcanzado o íntegro, luego integridad.  Influir en algo por contacto, luego contagia. Tacto, luego, es tratar un tema con suma sutileza, casi *sin tocarlo*.
 
 > No se cambien de ropa que murió la abuela.  --El Rulo.  Entrando a la casa luego del acto de la escuela primaria confesional Anibal y Álvaro uniformados, camisa blanca, corbata azul y bleiser, engominados y zapatos lustrados para la ocasión, veinte de junio. 
 
-> Tacto es la manera de mandar a la mierda a alguien, de forma tan cortés, que pregunte el precio del viaje con alegría.  --Odiseo Torres.  Agente de Viajes.
+> Tacto es la manera de mandar a la mierda a alguien, de manera tan cortés, que pregunte el precio del viaje con alegría.  --Odiseo Torres.  Agente de Viajes.
 
 **Taita**  *Quechua padre*.  De donde viene tata.  En el lunfardo del conurbano de principios del siglo XX, pasó a ser un personaje malevo, prepontente, mandón, por lo general *bancaba con el cuero lo que decía con la boca*, poco relacionado con el libertario del siglo XXI al carecer por completo este último de cualquier tipo de código de honor, además de su innata capacidad para huir de mujeres de todo tipo, seguramente por ser portadoras de la mejor arma anti fascista, la temida vulva, con la que se llevarán adelante las verdaderas revoluciones que nos sucedan.
 
