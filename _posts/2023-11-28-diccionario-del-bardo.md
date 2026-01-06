@@ -414,6 +414,10 @@ flowchart LR
 
 > Cerveza, origen y solución a todos mis problemas. --Homero
 
+> Un par de argentos cuarentones recién separados, deambulaban por el sambódromo de Rio sin dar crédito a lo que los sentidos les acercaban a sus sistemas nerviosos, tanto en sonido, audio y todos los demás.  Uno de ellos nota que ya a las 2200 hs. los vendedores ambulantes no tienen mas bebidas frías, pronto no hay agua, ni a temperatura ambiente.  A las 2330 se escuha una voz en un tono familiar, demasiado conurgano. 
+
+> A la Sherveshita, 15 dólares la lata.  --Desesperados todos le vacían la heladera de cervezas haladas al porteño.  No invadimos la galaxia porque no es negocio.
+
 **Cerveza sin Alcohol**.  Al carecer de cómputos de ventas, es imposible trazar comportamientos de consumo para estadísticas serias.  Lo atestigua la puerta secreta detrás de la heladera de cervezas sin alcohol, en la tienda de **Apu** que da a la terraza donde están Linda y Paul Mc Artney.  **Lisa Simpons** pregunta ingenua que pasaría en caso que alguien abra la puerta para comprar una de estas. [^44]
 
 > Eso nunca ha ocurridos  --Apu Nahasapeemapetilon.  The Simpsons. Temporada 7 Episodio 5. 
