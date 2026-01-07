@@ -260,6 +260,8 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Dijo que saldrá con amigas, pero hace diez minutos que se escucha la **afeitadora** golpeando contra el bidet. --*En Busca del Tiempo Perdido.  Marcel Proust*.
 
+> Ella le requirió sonrojada, aceptar un puesto de trabajo, muy bien pago, por un tiempo, algunos añitos.  Un puesto de bidet.  --Antología de Literatura Romántica del Rio de la Plata.  Sisoco García.  1984.
+
 **Bipolar** *Psic.*  Voz popular que se aplíca, erroneamente, a indivíduos neuróticos.  Todo indica un déficit en la infancia, eso que los abuelos sugerían con cara de preocupación *una buena garrotiada en su momento*.  
 
 > *bipolares son las pilas, vos sos solamente pelotudo*.  --Sisoco García.  
