@@ -1297,8 +1297,8 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 <div style="width: 360px; margin: 0 auto;">
     <img src="{{ '/images/rosas.jpg' | relative_url }}" 
-         alt="República de la Isla de los Rosas" 
-         style="max-width: 100%; height: auto;">
+         alt="Republica de la Isla de los Rosas" 
+        style="max-width: 100%; height: auto;">
 </div>
 
 **Libertad** *Lat. Libertus, liberi del dios lebesus, loebertas.*  La palabra se origina en un antiguo dios del vino, agrícola como la mayoría de los dioses del Lacio.  Luego, la libertad deviene en una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez, proclives como son a caer en los embrujos de esta ultima.  
