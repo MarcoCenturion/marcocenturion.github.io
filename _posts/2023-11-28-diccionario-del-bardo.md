@@ -1295,6 +1295,12 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 > Sabemos como usarla.
 
+<div style="width: 360px; margin: 0 auto;">
+    <img src="{{ '/images/rosas.jpg' | relative_url }}" 
+         alt="República de la Isla de los Rosas" 
+         style="max-width: 100%; height: auto;">
+</div>
+
 **Libertad** *Lat. Libertus, liberi del dios lebesus, loebertas.*  La palabra se origina en un antiguo dios del vino, agrícola como la mayoría de los dioses del Lacio.  Luego, la libertad deviene en una de las tres gracias reclamadas en la revolución francesa.  Dícese del indivíduo que no tiene condicionamientos para su accionar.  Conviene sea reforzada la enseñanza de esta hasta el hartazgo, en institutos de enseñanza media y superior, para evitar que las nuevas generaciones confundan libertad con estupidez, proclives como son a caer en los embrujos de esta ultima.  
 
 **Libertario [a,e]**  *Mit liberto, esclavo liberado.*  Extraño homínido de características proto humanas, de la familia del *australopitecus pokemonensis*, solo en la morfología anatómica, aunque no en lo cognitivo.  Por contradictorio que suene, estos se oponen a la educación sexual, la interrupción voluntaria del embarazo, la eutanasia, al consumos de sustancias psicoactivas, lenguaje inclusivo, la libre elección de rol sexual y toda libertad individual.  Las exclusivas libertades que pregonan son las de mercado y portación de armas.  Pugnan por volver al origen, un sistema político demasiado parecido a la **esclavitud**, su par antagónico perfecto.  Su *endeble sistema de creencias*, se basa en frases simples, accesibles a su escaso **IQ** del tipo *estábamos bien, pero era mentira, ahora estamos mal pero es verdad*, como los pedidos al FMI de dinero que *No significan incrementar la deuda*.
