@@ -2106,6 +2106,8 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 > Dale pelado se vino la pachanga, uo uo uo.  --Vilma Palma e Vampiro.  Et. Al.
 
+**USB**  Acrónimo tecnológico de *Universal Serial Bus*, esto es un puerto de comunicaciones universal de PCs y dispositivos electrónicos.  El hecho de tener una sola forma de inserción, recuerda al humano medio diariamente su estupidez, puesto que siempre el primer intento de enchufe es erróneo.  Puede darse que incluso el segundo también lo sea y vuelva el indivíduo sobre sus pasos y descubra que no es medio pelotudo, porque esa posibilidad de error del cincuenta porciento, ha pasado a ser del cien porciento.  Se detectaron casos en lo que hay mas cambios de posición, que lindan la patología.
+
 **Usuario**  *Lat. usuarius, usus*.  Uno de los antecedentes del contrato de locación, era el contrato de uso, en tiempos de la república.  Luego, una de las partes de este contrato.  El paso de los siglos nos trae a esta degradación del indivíduo, que originalmente era persona, para pasar luego a cliente, de ahí a consumidor y vaya a saber uno porqué motivo, llegó a este puesto desabrido, despersonalizado y libre de lactosa, donde queda tan poco claro quien es el usado.
  
 ## V
