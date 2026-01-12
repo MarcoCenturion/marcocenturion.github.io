@@ -48,7 +48,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Aliño** *Lat. poner en línea.*  Aliñar la ensalada es alinearla, enderezarla, de allí **aderezar**, enderezo, enderezar.  Léase pauta en el mismo sentido.  Todo intento de norma, debería ser ofensivo al ser.  Luego, alinear la comida es ponerla en línea con un lineamiento dado como estándar, el formato estándar del lugar.
 
-**Albañil**  *Ar. hispano albanní, del árabe بناء banna, construir*.  El constructor.  El mito jude cristiano del mesias carpintero es hermoso, si nos salimos del modernocentrismo de pensar a Jesús fabricando bajomesadas de placas o mesas.  José era Albañil, era carpintero de obra.  Cultos y estirados creyentes golpéan sus pechos en tempolos grandiosos, contruidos por integrantes de proto gremios, que evolucionan a logias del tipo de los masones, odiados prolijamente también.  Tanto, que el padre de la patria, por ser uno de estos, descansa en la catedral metropolinana *fuera* del sector sagrado.  Lo cual me llena de un alivio malsano.  
+**Albañil**  *Ar. hispano albanní, del árabe بناء banna, construir*.  Literalmente, el constructor.  El mito jude cristiano del mesias carpintero es hermoso, si nos salimos del modernocentrismo de pensar a Jesús fabricando bajomesadas de placas o mesas.  José era Albañil, era carpintero de obra.  Cultos y estirados creyentes golpéan sus pechos en tempolos grandiosos, contruidos por integrantes de proto gremios, que evolucionan a logias del tipo de los masones, odiados prolijamente también.  Tanto, que el padre de la patria, por ser uno de estos, descansa en la catedral metropolinana *fuera* del sector sagrado.  Lo cual me llena de un alivio malsano.  
 
 **Alcalino**  *Ar. Al-qaly, القلوي cenizas calcinadas de plantas*.  Aquellas sales por encima del siete en la escala que mide el **ph**.  Los alquimistas medievales de la Córdoba andalusí, combinaron cenizas llamadas potasas, con carbonato de potasio, calentandolos y agregándole calcio, lograron un compuesto llamado *potasa cáustica*.   Luego lograron a partir de estos, el *hidróxido de calcio* y al mesclar estos con grasas, obtuvieron los primeros jabones, despreciados en la Europa medieval, poco afectos a las duchas y el cuidado higiénico.
 
@@ -69,6 +69,10 @@ lead_text: 'La lengua usada en La Docta'
 **Alfiler**  *Ar. alhilal*.  La herramienta humana mas antígua de la que se tenga registro histórico.  Existen alfileres de hueso en vestidos egípcios de mas de cuatro mil años antes de la era común, aunque se cree que existían ya para sostener las prendas de vestir a partir de espinas de pescado.  Vemos documentado su uso en la litaratura, como el caso de *El conde de Montecristo*, al escapar de la cárcel y mas recientemente, en los córners de Estudiantes de la Plata en tiempos de Carlos Salvador Bilardo.
 
 **Álgebra**  *Ar. الجبر al-yabr*.  Término extraído de libro *La ciencia del restablecimiento y el equilibrio*, del matemático persa Al jaurismi, donde el título ya nos sugiere una ecuación, una combinación balanceada de elementos abstractos, no solo de números, sino incluso de cosas peores.  La aritmética nos muestra la paradoja de ser la ciencia más exacta, pero que versa sobre las cosas totalmente  incorpóreas, dada la imposibilidad física de guardar un número, por caso el tres en la mano y solo contentarnos con su símbolo, extendiendo tres dedos, mostrando un naipe con ese número dibujado o la cara de Karina, sabiento que siempre hablamos del 3.
+
+**Algodón**  *Ar. قُطْن al qutn*.  Cotton en inglés, coton frances, cotone en italiano, y llega hasta los simpáticos cotonetes de las farmacias.  Sus fibras son particularmente suaves, tanto como para producir prendas de vestir.  La culta Europa tarde se entera que las fibras eran producto de una planta, por lo que dibujaban plantas cuyo fruto era una obeja.  Para la obtención de fibras mas resistentes, se recurre al cáñamo, que acompaña al homo sappiens sappiens por mas de diez mil años, antes que a mediados del siglo XX, fieles cristianos temerosos de Dios, en la unión, lo declaran yerba de Satanás.
+
+> Que te enteras Maricarmen.
 
 **Algoritmo** *Ar. الخوارزمي al-jwarizmi*. Retruécano a mitad de camino entre la lógica y la matemática.  A simple vista pareciera aludir a **algo** de **ritmo**, posiblemente debido a los pasos a seguir para resolver un problema.  Recibe su nombre en honor al geógrafo, astrónomo y matemático persa **Al Jurizmi**.  De hecho la nomenclatura es árabe, los símbolos romanos temprano son reemplazados por el *álgebra morisca*, capaz de incluir números no racionales como el cero y el revolucionario sistema de notación decimal, con el que se podía representar cualquier número.
 
@@ -180,6 +184,10 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 [^103]:  No está tan equivocado quien encuentra similitudes entre el ritual y la práctica médica.
 
+> ¿Es grave lo mío doctor?  --Pregunta el paciente en el quirófano.
+
+> Paren la autopsia que está hablando.
+
 **Avión**  *Lat. Avis, ave*.  Prodigio tecnológico que intenta emular el accionar de descendientes de los dinosaurios, las aves, motivado seguramente en la humana envidia.  Durante la primera parte del siglo XX, recordada como la una mitológica *época dorada*, la **República Argentina** compró toneladas de retazos y saldos de guerra del primer mundo, con los impuestos de los contribuyentes, o eso que en la actualidad mencionamos con el neologismo *Conlatusha*.  Esta *chatarra lujosa*, estaba copmuesta en su mayoría por aviones de entrenamiento monomotor norteamericanos **AT-6**, los **Avro Lincoln** y los **PBJ Catalinas** días antes de convertirse en piezas de museo.  El 16 de Junio de 1955, las aeronaves abandonaron la misión primigenia de proteger al pueblo de un ataque exterior y procedieron a arrojar mas de **nueve toneladas de bombas** sobre la plaza emblemática, en hora pico, dejando cerca de cuatrocientos muertos y el doble de heridos, hecho que entra inmediatamente en el libro los records de Guinness, por ser la primera fuerza militar que bombardea a su propia población civil desarmada.  Se podría tranquilamente incluir la frase común **tristemente célebre**, pero lo omitiremos porque con esto no llegamos a dimensionar tamaña canallada cobarde, hecho que nos exime de explicar el grado de hombría de nuestras fuerzas armadas.  Con el objeto de proteger a los valientes pilotos y un poco también, para no ser menos en la historia, pidadosos sacerdotes católicos pintaron cruces en el morro de los aviones, subtitulados con la leyenda **Cristo Vence**.  Como se trató de seres insensibles al honor y la decencia, nunca supimos el número de aviones, ni la cifra exacta de muertos y heridos.  No se juzgó a ninguno de esos pilotos, ni políticos, ni sacerdotes, ni periodistas.  Lección para quienes creen que Stephen King se extralimita con el bizarro de sus novelas de terror.
 
 > Cristo Vence, pague en término.  --Alegre graffitty porteño.  1984.  Regreso de la democracia, no la novela de Orwell.
@@ -192,7 +200,7 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Pero todos comprenden que incidentes tales como el choque en el aire de las balas de dos duelistas, romperse un diente comiendo pescado, al morder un anillo que uno había perdido en el mar hace seis años y que el pez había tragado, o bien la ejecución al compás de 3/4 de la sonatina en si menor de Tchaikovski por la metralla de una granada que estallara e un almacén de enseres de cocina, acertando a dar en ollas y cazuelas de distintos tamaños justo como la obra lo exige... --Imposibilitate Vitae.  Vacío Perfecto.  Stanislaw Lem.
 
-**Azúcar**  *Ar. سُكّر as-sukkar*.  En inglés sugar, en alemán zucker, tanto en catalán como en francés, sucre.  En italiano, se vuelve algo cocoliche a zucchero.  Este a su vez proviene del griego sakjar, que tiene origen en el persa sakar y este del sánscrito sharkara.  Hermosa vuelta para una palabra tan hermosa *per se*.  Tiene su razón de ser a que durante siglos, tal vez milenios, comerciantes de madio oriente, llevaban esta mercancía desde la India a Europa.
+**Azúcar**  *Ar. سُكّر as-sukkar*.  En el árabe hispánico se llamaba assúkkar.  En inglés sugar, en alemán zucker, tanto en catalán como en francés, sucre.  En italiano, se vuelve algo cocoliche a zucchero.  Este a su vez proviene del griego sakjar, que tiene origen en el persa sakar y este del sánscrito sharkara.  Hermosa vuelta para una palabra tan hermosa *per se*.  Tiene su razón de ser a que durante siglos, tal vez milenios, comerciantes de madio oriente, llevaban esta mercancía desde la India a Europa.
 
 ## B
 
@@ -710,7 +718,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario,
 
 > Cuando no entendés lo que dicen los economistas, es porque la vas a pasar mal.  --Axel Kicillof.
 
-**Elixir** *Ar. el-iksir*  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elixires, se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Para refutar que la pelotudez es una patología contemporánea.
+**Elixir** *Ar. الإكسير al-iksir del Gr.*ξήριον xḗrion.  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elíxires de la fortuna, la inmortalidad, la belleza y el coso.   Se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Intentamos con esto refutar la absurda certeza que la pelotudez es una patología contemporánea.
 
 **Empatar** *Lat. pactare, quedar en paz.*  De allí provienen también pacto, pagar, compacto.  Un empate basa su eficacia en el honor de ambos contendientes y la paz que esto genere.  
 
@@ -1903,9 +1911,9 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
  
 > Obra de forma tal que el máximo de tu obrar pueda servir de ley universal.  --Imanuel Kant.
 
-**Sartén**  *Lat. Sus, Fem.  Sartigium*.  Recipiente para freir.  De allí que una *sarta* es una porción que cabe en la sartén. 
+**Sartén**  *Lat. Sus, Fem.  Sartigium*.  Recibe este nombre el recipiente para freir, pero originalmente es el compuesto de alimentos trozados y cortados para freir.  Tiene el mismo origen que sarcire, remendar prendas, zurcir, porque muchos platos se cocinan con sobrantes de otros, tal que la paella, la ropa vieja, chop suei, cocidos, refritos y similares, todos sartenados.  Luego una *sarta* es una porción que cabe en la sartén. 
 
-> Lo apodaron sartén, por la eterna duda si es **el** o **la**.
+> Tenía el apodo sartén, por la eterna duda si es **el** o **la**.
 
 **Seannchie**  *Gaelico Narrador.*   Robin Wood no se decía escritor sino narrador.  Escribía guiones para las revistas de pulpa.  Especie de Televisión de los cincuentas.  Todas las civilizaciones otorgaron privilegios a esos viejos y viejas memorisos, que ponían alrededor del fuego, junto a los nietos, cuando caía el sol, para contar historias, sin importar que fueran verdaderas, o ficticias, la sola condición era la emoción.  Luego llegó la mercantilización de esta noble profesión, Edgar Allan Poe, Vladimir Propp y la estandarización de los *tempos* y Holliwood.  Cuando Walt Disney llegó a Argentina, en aquella época, no vino a la isla Victoria y los bambis, sino a aprender de la impresionante industria editorial de las revistas de pulpa, Dartagnan, El Tony, Intervalo, Fantasía, Nippur y otras, de tirada que superaban el millón de ejemplares mensualesa
  
