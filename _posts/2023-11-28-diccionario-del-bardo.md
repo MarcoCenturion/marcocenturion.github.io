@@ -922,11 +922,16 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > Puto el que lee.
 
-**Folklore**  *Ing. folk pueblo, lore raza*.  Conocimiento o tradición de un pueblo.
+**Foie**  *Fr. hígado*.  Ingresa aquí por una curiosidad interesante, demostrar que la simulación es el arte mas interesante, nada es lo que aparenta.  Se escribe con tres vocales y se pronuncia con las dos que no están escritas.  
+
+**Folklore**  *Ing. folk pueblo, lore raza*.  Conocimiento o tradición de un pueblo.  Que ingresa en la categoría cultura y que en folklore es solo una cuestión de caprichos estéticos de las clases acomodadas.  En los estados de la unión, las clases menos favorecidas se vestían con zapatillas y ropas muy grandes, pero de buena marca.  En los outlets, estos pequeños y delgados adolescentes conseguían el objeto de sus desvelos, pero cuatro talles superiores a ellos.  De allí la moda de vestir ropas enormes, como empezaron a cantar reguetón vistiendo esos atuendos, las clases mas acomodadas empezaron a emularlos, seguramente debido a alguna angustia relacionada con el tamaño del pene.
 
 > A la huella a la huella, 
+
 > los libertarios
+
 > son gorditos con tetas 
+
 > virgos y otarios.  --La huella del rostro del señor.  Sisoco García.  Festival de Cosquín.
 
 **Fulano**  *Ar. فلان fulán*.  Persona cualquiera.  Forma despectiva de referirse a alguien, quitándole toda entidad.  Esto todavía admite un grado mas de menosprecio, que se alcanza en el femenino fulana, por considerarla inmoral.  Repárese en los verdaderos *ríos de tinta* que han corrido en forma de chistes sobre esta diferencia.  Tal como lo señalara Sigmund Freud, este es otro de los lugares donde se expresa el inconsciente.
