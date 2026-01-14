@@ -692,31 +692,31 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Dragón** *Mit. Lat. Draco, de ahí también Drácula*.  El dragón es un ser fantástico dotado de un curioso privilegio; reconocen sus virtudes tanto mitologías de oriente como de occidente, de manera -aparentemente- autónoma.  Un diálogo reciente, da cuenta y reactualiza aquella magia perdida en las lecturas de infancia, extraña a estos nuevos y dudosos **medioevos digitales**.  Un joven comenta al pasar, a una niña con la que caminan *juntos a la par*, Córdoba, peatonal 9 de Julio.  Centro.  Todo parece indicar confidencia de novios, amantes, o compañeros frecuentes de juegos de consolta del tipo **shot them**:
 
-> En la radio dijeron que el recital de **la Renga** estaba ieno'e Dragones. -El acompaña las palabras con una expresión de incredulidad puesta a prueba.
+> En la radio dijeron que el recital de **la Renga** taba ieeeno'e Dragones. --El acompaña las palabras con una expresión de incredulidad puesta a prueba al tiempo que estira la **e**.
 
-Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario antihorario, alternativo y labio mordido. 
+Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorario y retorno, alternativo y labio mordido. 
 
-> ¡Drogones! Boludo. ¡Dro-gones! --Cara de inconfundible estupor y detrñas de las pupilas se advina *"¿Que hice para merecer esto?"*.
+> ¡Drogones! Boludo. ¡Dro-gones! --Cara de inconfundible estupor y detrás de las pupilas se advina *"¿Que hice para merecer esto?"*.
 
 **Drama**  *Gr. hacer, yo hago*.  La vida, tal como la conocemos en este contínuo espacio-tiempo, es drama, casi exclusivamente, salpicada en muy contadas ocasiones con chispas, conatos, atisbos de felicidad.  Un tango así lo atestigua y sugiere que es nada mas que *una herida absurda*.  Basándose en esta premisa, la comedia toma prestado el motivo original y convierte el sufrimiento existencial en risa, en carcajada en el mejor de los casos, única forma de sobrellevar la existencia.  Ya lo anticipó con mejor pluma otro autor.
 
 > El rock es drama.  Todo lo que había que decír sobre la felicidad ya lo hizo Ramón Ortega **La felicidad, ja ja ja ja**.  No hay mucho que agregar.  --Carlos Solari.
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda[^7].  Su par antagónico *dogma* es la escrerosis del conocimiento. 
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda.  Su par antagónico *dogma* es la escrerosis del conocimiento, término con el que comparte, cuiosamente, el comienzo y el final. 
 
-[^7]: Hay una hermosa metáfora clásica "*Dudoso como presente griego"* en clara alusión al Caballo de Troya. 
+> Hay una hermosa metáfora clásica *Dudoso como presente griego* en clara alusión al Caballo de Troya. 
 
-> Yo antes dudaba.  ¡Ahora no sé!
+> Yo antes dudaba.  ¡Ahora no sé! --Ética a Jacinto.  Odiseo Torres.
 
-**Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.[^59]  La feliz metáfora *duro como turrón en junio en la puerta de la heladera* hace referencia a consumos de tóxicos.
+**Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.  La feliz metáfora *duro como turrón en junio en la puerta de la heladera* hace referencia a consumos de tóxicos.
 
-[^59]: Dura lo que dura dura.
+> Dura lo que dura dura.  --Odiseo Torres.  Obras Completas.  1984.
 
 ## E
 
-**Economía**  *Gr.οἰκονομία Oikos casa, nomos regla*.  En principio, la gestión de los bienes de la casa, luego, del estado ciudad. Extraño mundo en el que tomamos capitalismo como sinónimo de economía.  Si nos mantuviéramos fieles a la propuesta original de la palabra, el capitalismo sería el antagónico perfecto a economía.  El hogar perfecto, según esta visión, envenenaría el agua que toma, dilapidaría todos los recursos sin pensar en los hijos, gastaría mas de lo que gana y centraría su bienestar en la piratería de sus vecinos.  Todos conocemos gente así.  La economía surge de trabajadores y capitalistas en pacífica armonía, con el grato aprendizaje de la pandemia, si no hay trabajadores trabajando, no hay economía economizando.  
+**Economía**  *Gr.οἰκονομία Oikos casa, nomos regla*.  En principio, la gestión de los bienes de la casa, luego, del estado ciudad. Extraño mundo en el que tomamos capitalismo como sinónimo de economía.  Si nos mantuviéramos fieles a la propuesta original de la palabra, el capitalismo sería el antagónico perfecto a economía.  El hogar perfecto, según esta visión, envenenaría el agua que toma, dilapidaría todos los recursos sin pensar en los hijos, gastaría mas de lo que gana y centraría su bienestar en la piratería de sus vecinos.  Todos conocemos gente así.  La economía surge de trabajadores y capitalistas en pacífica armonía, con el grato aprendizaje de la pandemia, cuando entendimos que si no hay *trabajadores trabajando*, valga la redundancia, no hay economía economizando.  
 
-> Cuando no entendés lo que dicen los economistas, es porque la vas a pasar mal.  --Axel Kicillof.
+> Cuando no entendés lo que dicen los economistas, es porque la vas a pasar mal.  --Dr. Axel Kicillof.
 
 **Elixir** *Ar. الإكسير al-iksir del Gr.*ξήριον xḗrion.  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elíxires de la fortuna, la inmortalidad, la belleza y el coso.   Se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Intentamos con esto refutar la absurda certeza que la pelotudez es una patología contemporánea.
 
@@ -2127,9 +2127,9 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
  
 ## V
 
-**Vacuna**  *Lat. Vaccinia*.  En un brote de viruela que afectaba al ganado vacuno, el investigador inglés Edward Jenner tomó muestras de un paciente curado y lo puso en un indivíduo sano, comprobó al tiempo que el segundo indivíduo era inmune a la viruela.  En 1947 el médico estadounidense de origen judeoruso, investigó durante años para encontrar la vacuna de la polio, que alcanzaba democráticamente a todo el mundo.  El caso mas famoso fué el de Franklin D Roosevelt.  Los adinerados suegros de Jonas no aprobaron su matrimonio, al ser este de un estrato social inferior.  Se negró a patentar la vacuna que hubiera significado miles de millones de dólares en regalías, aduciendo que no se puede patentar el sol.  La distribución resultaba compleja hasta la invención de Albert Sabín, que simplificó la administración a unas gotas por vía oral.  Ambos compartían alguna afección neuronal puesto que este último tampoco patentó su invención[^91].
+**Vacuna**  *Lat. Vaccinia*.  En un brote de viruela que afectaba al ganado vacuno, el investigador inglés Edward Jenner tomó muestras de un paciente curado y lo puso en un indivíduo sano, comprobó al tiempo que el segundo indivíduo era inmune a la viruela.  En 1947 el médico estadounidense de origen judeoruso, investigó durante años para encontrar la vacuna de la polio, que alcanzaba democráticamente a todo el mundo.  El caso mas famoso fué el de Franklin D Roosevelt.  Los adinerados suegros de Jonas no aprobaron su matrimonio, al ser este de un estrato social inferior.  Se negró a patentar la vacuna que hubiera significado miles de millones de dólares en regalías, aduciendo que *no se puede patentar el sol*.  La distribución resultaba compleja hasta la invención de Albert Sabín, que simplificó la administración a unas gotas por vía oral.  Ambos compartían alguna afección neuronal puesto que este último tampoco patentó su invención.  Hay solo dos posiciones, la de los científicos y la de quienes los ven como dos estúpidos.  Tienes que elegir una.
 
-[^91]: Según el informe de Forbes, cada uno resignó algo parecido a siete mil millones de dólares estadounidenses.  La pregunta de si tiene sentido un mundo donde unos puedan comprar su salud y otros no, es mas compleja.  Tal vez sea imposible erradicar una enfermedad si dejamos expuesto a una parte del planeta porque no tiene como pagar esa vacuna.  ¿Cuan efectiva o eficaz sería la lucha?
+> Según el informe de **Forbes**, cada resignó algo parecido a **siete mil millones** de dólares estadounidenses.  La pregunta de si tiene sentido un mundo donde unos puedan comprar su salud y otros no, es mas compleja.  Tal vez sea imposible erradicar una enfermedad si dejamos expuesto a una parte del planeta porque no tiene como pagar esa vacuna.  ¿Cuan efectiva o eficaz sería la lucha?
  
 **Vago**  *Lat. vacuus, vacío*  Uno de los doce pares de nervios craneanos, siendo este el único que sale de la frontera del  cráneo y se pierde -vaga- por el cuerpo, siendo una especie de chiste de madre natura.  
 
