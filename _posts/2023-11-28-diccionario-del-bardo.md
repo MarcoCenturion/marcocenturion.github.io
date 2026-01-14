@@ -762,7 +762,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > Escatológica, dije, saboreando cada sílaba de esa palabra tan útil.  --Sra Ottinger.  Kalki.  Gore Vidal.
 
-**Escritor**  *Lat. scribere, scriptura escritura*.  Literalmente, escribir es dejar una marca.  La raiz común de los pueblos prehistóricos era sker, que sobreviven en el ingles scar, cicatriz.  Marcar una cierta codificación de signos, en un código común, como una lengua, para que generen *marcas* en el yo de otra persona, en otro tiempo y lugar, que conmuevan ese yo.  Acto de Fe que se convierte en pequeña inmortalidad de cabotaje.  
+**Escritor**  *Lat. scribere, scriptura escritura, de scrib, cortar, grabar, dejar una marca*.  Literalmente, escribir es dejar una marca.  La raiz común de los pueblos prehistóricos era sker, que sobreviven en el ingles scar, cicatriz.  Marcar una cierta codificación de signos, en un código común, como una lengua, para que generen *marcas* en el yo de otra persona, en otro tiempo y lugar, que conmuevan ese yo.  Acto de Fe que se convierte en pequeña inmortalidad de cabotaje.  
 
 > El oficio de escritor permite acariciar cuerpos hermosos y matar seres de mierda, sin por ello tener que concurrir a tribunales en lo Penal y Correccional.  --Odiseo Torres, Obra Poética.
 
@@ -770,7 +770,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > Todos somos ignorantes, solo que ignoramos cosas distintas.  --Albert Einstein.
 
-**Espectativa**  *Ex afuera y spectare contemplar*.  Esperanza de que algo ocurra.  Se utiliza con pasión y fé durante la invnacia y adolescencia.  Se van perdiendo estas esperanzas en el futuro a partir de las heridas que produce la vida en los indivíduos, pero también en la certeza a medida que se acerca el final inevitable.  La frase coloquial *setear espectativas,* suele utilizarse en amables reuniones de personas educadas, en vistas a la cortedad intelectual de algún asistente que espera milagros bellos. 
+**Espectativa**  *Ex afuera y spectare contemplar*.  Esperanza de que algo ocurra.  Se utiliza con pasión y fé durante la infanacia y adolescencia.  Se va perdiendo este placer de *contemplar el futuro* a partir de las heridas que produce la vida en los indivíduos, pero también en la certeza a medida que se acerca el final inevitable.  La frase coloquial *setear espectativas,* suele utilizarse en amables reuniones de personas educadas, en vistas a la cortedad intelectual de algún asistente que espera milagros bellos. 
 
 > ¿Como le fué en su visita a Estados Unidos?
 
