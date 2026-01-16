@@ -124,11 +124,15 @@ lead_text: 'La lengua usada en La Docta'
 
 > Vamos a andar, en verso y vida atentos.  --Silvio Rodriguez
 
-**Anfisbena**  *Lat. amphisbaena.*  De aquí provenga posiblemente anfibio.  Que va en dos direcciones[^31].  El siglo XX les deparó calificativos mas soeces.  Luego de cortar la cabeza de la Medusa, Perseo sobrevolaba el desierto libio, de las gotas de sangre de esta que caían en la arena, brotaban estas serpientes de dos cabezas.  En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias.
+**Anfisbena**  *Lat. amphisbaena.*  De aquí provenga posiblemente anfibio.  Que va en dos direcciones.  El siglo XX les deparó calificativos mas soeces.  Luego de cortar la cabeza de la Medusa, Perseo sobrevolaba el desierto libio, de las gotas de sangre de esta que caían en la arena, brotaban estas serpientes de dos cabezas.  En Mezoamérica **Maquitzcoatl** comparte cartelera, siendo portadora de malas noticias.
 
-[^31]: El decoro prohibe el humor sobre indivíduos que vayan en dos direcciones, por lo que nos abstendremos de hacerlos.   No solo es de mal gusto, sino que mejores plumas se han adelantado en este sentido.  
+> El decoro prohibe el humor sobre indivíduos que vayan en dos direcciones, por lo que nos abstendremos de hacerlos.   No solo es de mal gusto, sino que mejores plumas se han adelantado en este sentido.  
 
 > Julio Cesar era cónsul de la Galia Trasalpina y Cisalpina, porque bien sabemos que Cesar atendía por las dos Galias.  --Alejandro Dolina.
+
+**Anillo**  *Lat. annellus, anus*.  Sin mucho que explicar, ano y anillo son sinónimos desde tiempos de la república.
+
+> Un granjero de Northfolk encuentra un anillo de oro muy grande, como se estilaba usar por encima del guante, algo suelto, en el dedo medio, de caras octogonales.  Con una inscripción en Latín.  A unos cientos de kilómetros de ahí, una plancha de plomo, tiene otra inscripción, en la que un noble llamado Silvano, ofrece una recompensa a quien le traiga noticias de su anillo y se ocupe de hacerle *la vida difícil al ladrón*.  El granjero lleva ambas cosas a un catedrático de literatura antigua de Oxford, llamado Tolkien, quien suponemos se basó en esta historia para la zaga famosa.  No termina ahí ni mucho menos.  Recientemente, historiadores de Oxford indagaron sobre los pormenores de la pérdida y dan con una batalla, de las tropas romanas con los toscos locales, de los cuales eran objeto de frecuentes burlas.  Parece que antes de empezar la lucha, uno de los locales llama a gritos a Silvano, este responde haciendose conocer, por lo que el primero suelta: *Agarramela con la mano* para risas de sus camaradas de armas.  El encolerizado Silvano levanta el puño con el dedo medio enérgicamente levantado, por lo que el preciado aniñño sale disparado en dirección del enemigo y perdido por siglos.
 
 **Anodino**  *Gr. Anodynos Lat. Anodynos.*  Adj. Insulso, insignificante.  Contradice -este último- el significado directo que sugiere su sonido 
 
