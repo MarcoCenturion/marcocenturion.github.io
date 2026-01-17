@@ -556,6 +556,12 @@ flowchart LR
 
 > Dudá siempre de quien no se conmueve por nada.
 
+**Copado**  *Participio del verbo copar*.  Modismo rioplatense de origen incierto, posiblemente provenga de *colmado*.  Un momento, una persona, una situación es *copada* y no traducible a otros idiomas.
+
+> ¿No tenes amigos que no sean copados?  --Pregunta ella poniendo en duda la necesidad de concurrencia al asado.
+
+> Posiblemente no lo sean, pero así me gusta pensarlos.  Uno tiene el tamaño de quienes lo quieren.  --Sisoco García. Obras Completas. 
+
 **Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas[^83].
 
 [^83]: Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
