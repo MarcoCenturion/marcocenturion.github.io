@@ -1078,6 +1078,12 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 
 > Los capitanes se arrojaron a sus pies y rogaron que se suicidara, como corresponde a un Samurai.  En vano propusieron ese decoro a su ánimo servil.  Era varón inaccesible al honor, a la madrugada tuvieron que degollarlo.  --El Incivil Maestro de Ceremonias Kotsuke no Suke.  Jorge Luis Borges.
 
+**Hoy**  *Lat. hodie, hoc die, en este día, ahora que hay luz*.  Infinidad de vocablos latinos provienen del brillo del día, como dios, adiós, diurno, jovial, todos asociados a la principal divinidad para tiempos de la república, Júpiter.  Ahora que la vieja duerme, es una locución latina también orientada en esta dirección.
+
+**Hoy por hoy**  *Der. ahora*.  Por algún extraño motivo, exento a la intención original de este sencillo paper, las cultas y brillantes personalidades de la derecha argentina, se sienten incapacitados para decir ahora, reemplazando este adverbio de tiempo por el neologismo extraño *hoy por hoy*, que pareciera sugerir un día doble, o un hoy al cuadrado.  Esta incapacidad puede originarse en un inconveniente usual en sus yoes, al no poder mencionar algún mérito en presente o pasado, porque nunca hicieron nada, solo pueden conjugar los tiempos presentes y los modos desiderativos y condicionales.
+
+> Hoy por hoy estimamos que serían convenientes la república y el coso, o sea, digamos.  --Cualquier referente de los seres de looz.
+
 **Humor** *Lat. Humoris, líquido, humedad.*  Los antiguos médicos griegos suponían la existencia de líquidos llamados humores en el cuerpo, muy sanguíneo explicaría un humor colérico, en cambio las lágrimas de alegría mostrarían un buen humor y así con los demás humores, saliva, orinas, etc.  La salud, luego, suponía un balance correcto de esos líquidos.   El desajuste de los líquidos y la sorpresa, sobrevienen cuando el payaso se tropieza, pero debe existir un mínimo de control para el manejo de los tiempos, como bien lo hacía el famoso *Tandarika*.  El indivíduo ríe con lágrimas y en los casos severos, con alguna suelta de pis inesperada y graciosa también.  Glenn Miller y su *big band* grabaron *In the mood* en los cuarentas, que aquí se conoció como *De buen humor* poco antes de estrellarse su avión contra un prostíbulo en Francia.  Contra lo que todos podemos suponer, mi única escapatoria al horror de la dictadura era una revista muy seria llamada precisamente **Humor**.
 
 > El hombre sufre tanto su existencia que debió inventar la risa.  --Nietzsche
