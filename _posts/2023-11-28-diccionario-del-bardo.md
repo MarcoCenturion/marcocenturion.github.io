@@ -1539,9 +1539,15 @@ Existe otro No, el de la poesía.
 
 > La normalidad es un ilusión. Lo que es Normal para la araña, es el caos de la mosca.  --Morticia Adams.
 
-**Nosotros**  *Lat. Nos y Otros.  Yo y otros más.*  El burro adelante, decía mi abuela.  Nos cumple la misma función de Vos[^38]. 
+**Nosotros**  *Lat. Nos y Otros.  Yo y otros más.*  El burro adelante, decía mi abuela.  Nos cumple la misma función de Vos. 
 
-[^38]: En Córdoba, ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**.  Debiera servirnos para entender los resultados electorales.
+> En Córdoba, ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**.  Debiera servirnos para entender los resultados electorales.
+
+**Nostalgia**  *Gr. νόστος nóstos, regreso, y αλγία algíai, dolor*.  El regreso del dolor, muchas veces por verse lejos de la patria o los amigos. 
+
+> Nostalgiosa llevo el alma ...
+
+> ... Busco al fondo de la calle un cerro, pero encuentro el cielo y nada mas.  --Jaime Dávalos y Eduardo Falú. 
 
 **Noticia**  *Lat. notitia gnoto como nota del Gr. Gnosis, conocimiento*.  Ignoto es desconocido y no como pudiera entenderse el *desanoticiado*.  Dar a conocer, para que otros tengan idea de este algo del que estamos anoticiándolos.  Asumimos *conocimiento* y buena fe en el portador de estas noticias y no con una naturalidad y falta de espíritu crítico, al menos, cuestionable.  Muta el periódico a de papel en ondas de rádio, luego televisión para llegar a canales de streaming y redes sociales.  Cierto sector de la psiquiatría moderna adjudican esta ingénua conducta al contínuo y progresivo sometimiento del cachorro humano a la mentira.  Parte a temprana y evoluciona in crescendo el Ratón Peraz, Papá Noel, , Reyes Magos, el que deposió dólares, recibirá dólares, Dios, iPhone, etc.  Muta el medio, el formato de la tramoya es exactamente el mismo desde hace diez mil años.  Cada vez caemos al embrujo de la estupidez masiva con oponiendo menos resistencia, asumiento por comodidad el sitio de no poner en riesgo el sistema de creencias[^85].
 
