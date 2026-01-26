@@ -1643,7 +1643,7 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 **Pago**  *Lat. pacare*.   La primera acepción del término, alude a la liquidación de una deuda, el final de un acto jurídico.  Luego de esa liquidación, ambas partes quedan en paz, o *pax*.   *Lat. pagus*.  Esta segunda acepción alude a una región, distrito agrícola, posiblmente originado en ser el salario del soldado romano luego de servir en el frente.  De aqui se desprende, luego, pagano.  Pueden haber muchos pagos el la vida de la persona, pero solo uno es el añorado, el de la infancia, es precisamente por ello que toda la literatura describa pagos idílicos de las niñeces, romantizados por el paso del tiempo.  Es quizá un ejercicio innecesario, eso de *volver al pago*, pues sus cambios estéticos y morfológicos, recuerdan al **yo** el paso del tiempo, igual que la descendencia de los amigos.
 
-> En cada chacarera, estoy volviendo al pago.  
+> En cada chacarera, estoy volviendo al pago.  --Santiago Chango Moreno.  Pablo Trullenque y Cuti Carabajal.
 
 **Palta**  *Quechua fruto americano*.  Es un árbol sudamericano por excelencia.  Término infinitamente superior en lo estético y cacofónico, al risible aguacate.  El hueso o caroso, resulta útil para saludar el paso de candidatos de derecha en campaña.
 
