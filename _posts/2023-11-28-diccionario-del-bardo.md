@@ -1543,7 +1543,7 @@ Existe otro No, el de la poesía.
 
 > En Córdoba, ocurre el reemplazo feliz de *Nos* por *Los*.  Tal como atestitua la invocación de la niña que reclama en Whatsapp:  **"Los amemo Braian"**.  Debiera servirnos para entender los resultados electorales.
 
-**Nostalgia**  *Gr. νόστος nóstos, regreso, y αλγία algíai, dolor*.  El regreso del dolor, muchas veces por verse lejos de la patria o los amigos. 
+**Nostalgia**  *Gr. νόστος nóstos, regreso, y αλγία algíai, dolor*.  El regreso del dolor, muchas veces por verse lejos de la patria o los amigos.  De las muchas variantes de las tristezas, la mas emotiva, al tratarse del precio a pagar por una alegría anterior, puesto que no hay nostalgias de cosas tristes. 
 
 > Nostalgiosa llevo el alma ...
 
@@ -1640,6 +1640,10 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 > Un ex jefe mafioso, de la familia Gambino, recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses, en su nueva vida fuera del hampa.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  "Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora" responde.
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión andina, en la que los humanos no son el pueblo elegido, ni el privilegiado, ni el heredero del cielo, sino parte de esa madre tierra, hermanos de ríos y árboles.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
+
+**Pago**  *Lat. pacare*.   La primera acepción del término, alude a la liquidación de una deuda, el final de un acto jurídico.  Luego de esa liquidación, ambas partes quedan en paz, o *pax*.   *Lat. pagus*.  Esta segunda acepción alude a una región, distrito agrícola, posiblmente originado en ser el salario del soldado romano luego de servir en el frente.  De aqui se desprende, luego, pagano.  Pueden haber muchos pagos el la vida de la persona, pero solo uno es el añorado, el de la infancia, es precisamente por ello que toda la literatura describa pagos idílicos de las niñeces, romantizados por el paso del tiempo.  Es quizá un ejercicio innecesario, eso de *volver al pago*, pues sus cambios estéticos y morfológicos, recuerdan al **yo** el paso del tiempo, igual que la descendencia de los amigos.
+
+> En cada chacarera, estoy volviendo al pago.  
 
 **Palta**  *Quechua fruto americano*.  Es un árbol sudamericano por excelencia.  Término infinitamente superior en lo estético y cacofónico, al risible aguacate.  El hueso o caroso, resulta útil para saludar el paso de candidatos de derecha en campaña.
 
