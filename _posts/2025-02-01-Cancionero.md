@@ -270,3 +270,204 @@ crece desde el pie
 ánima del rumbo seguro
 crece desde el pie.
 
+Alfredo Zitarrosa
+
+# La Jardinera
+
+Para olvidarme de ti
+Voy a cultivar la tierra
+En ella, espero encontrar
+Remedio para mi pena
+
+Aquí, plantaré el rosal
+De las espinas más gruesas
+Tendré lista la corona
+Para cuando, en mí, te mueras
+
+Para mi tristeza, violeta azul
+Clavelina roja pa' mi pasión
+Y para saber si me corresponde
+Deshojo un blanco manzanillón
+Si me quiere mucho, poquito o nada
+Tranquilo queda mi corazón
+
+Creciendo irán, poco a poco
+Los alegres pensamientos
+Cuando ya estén florecidos
+Irán lejos tus recuerdos
+
+De la flor de la amapola
+Seré su mejor amiga
+La pondré bajo la almohada
+Para dormirme tranquila
+
+Para mi tristeza, violeta azul
+Clavelina roja pa' mi pasión
+Y para saber si me corresponde
+Deshojo un blanco manzanillón
+Si me quiere mucho, poquito o nada
+Tranquilo queda mi corazón
+
+Cogollo de toronjil
+Cuando me aumenten las penas
+Las flores de mi jardín
+Han de ser mis enfermeras
+
+Y si acaso yo me ausento
+Antes que tú te arrepientas
+Heredarás estas flores
+Ven a curarte con ellas
+
+Para mí tristeza, violeta azul
+Clavelina roja pa' mi pasión
+Y para saber si me corresponde
+Deshojo un blanco manzanillón
+Si me quiere mucho, poquito o nada
+Tranquilo queda mi corazón
+
+Violeta Parra.
+
+# Para Cantar he nacido
+
+Para cantar he nacido
+Soy copla que el viento lleva
+A veces canto en el árbol
+Que se deshoja de pena
+A veces bebo del fuego
+Palabras de primavera
+
+Mi sangre canta por dentro
+Como la lluvia por fuera
+La noche canta y convierte
+Sus pájaros en estrellas
+Pero cuando canta el pueblo
+Musicaliza mis venas
+
+Yo nunca miro a la rosa
+Por su color de quimera
+La miro porque ella tiene
+La sangre de los que sueñan
+Porque en sus gajos florecen
+Las manos del que la siembra
+
+Si el canto no se levanta
+Como la hoguera del fuego
+Si no libera las penas
+De los que están en la tierra
+De nada sirve que suene
+La voz de la chacarera
+
+Así como canta el río
+Cuando la noche lo ciega
+Y sin mirar su camino
+Sigue su rumbo de piedra
+Yo le canto a los que vienen
+Caminando por la tierra
+
+Mi copla es azul y estrellas
+Y una guitarra encendida
+En su corazón de pueblo
+La vida sufre y agita
+Con el perfil de sus bombos
+Las esperanzas marchitas
+
+Por eso canto a las cosas
+Que me va dando la vida
+A los changuitos de barro
+Hondeando lunas perdidas
+Al tallo con sus espinas
+Y al hombre con sus heridas
+
+Bebe Ponti Horacio Banegas
+
+# El Olvidao 
+
+De tu palo soy
+Hijo de tu cuero
+Soy el olvida'o
+En la alcancía del tiempo
+El que se quedó
+De pie, poniéndote el pecho
+
+Flor obrera soy
+Silvestre de espumas
+Cuando el tren se va
+Miro, en las vías, la Luna
+Pensando, tal vez
+Mi pago encuentre fortuna
+
+Mi bofe se hinchó
+Cuando repartieron
+De mí, no se acuerdan
+Dicen que nunca me vieron
+Que no soy de aquí
+Que ya no tengo remedio
+
+Soy el olvida'o
+El mismo que un día
+Se puso de pie
+Tragando tierra y saliva
+Camino hacia el Sol
+Para curar las heridas
+
+Una herida soy
+Buscando el salario
+Maestro de pie
+Cuidando pichones blancos
+Que madurarán
+Iluminando tu pago
+
+Soy el que quedó
+En medio los ranchos
+Wacho del fia'o
+A mate y guiso inventado
+Hambre y rebelión
+Fueron creciendo en mis manos
+
+No quiero de más
+Quiero lo que es mío
+Al mazo trampia'o
+Voy a torcerle el destino
+Levántate, cagón
+Que aquí canta un argentino
+
+Soy el olvida'o
+El mismo que un día
+Se puso de pie
+Tragando tierra y saliva
+Camino hacia el Sol
+Para curar las heridas 
+
+Nestor Garnica
+
+# Del Carnaval
+
+Vengo desde el olvido
+Toro serrano
+Pa' ver si mato penas
+Carnavaleando
+
+Me anda faltando plata
+Chicha, coraje
+Y un empujón del diablo
+Pa' enamorarte
+
+Carnavales carperos
+La chicha y la albahaca llorando en el vino
+Los caballos atados vuelven a la Luna al galope tendido
+Y un empujón del diablo me anda faltando
+
+Ven, bailemos la zamba
+Los dos solitos
+Quiero trampearte el alma
+Con mi gualicho
+
+Tu pañuelito al aire
+Busca consuelo
+Mi corazón lo sigue
+De vuelo en vuelo 
+
+Gustavo Leguizamón / Manuel Castilla
+
+
+
