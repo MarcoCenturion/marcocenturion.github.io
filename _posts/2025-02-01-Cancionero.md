@@ -1,0 +1,272 @@
+---
+layout: blog
+title: 'Cancionero popular argentino'
+date: 2026-02-01 19:41:34
+categories: folklore rock tango blues
+tags: Folklore
+image: '/images/dic.png'
+lead_text: 'Música'
+---
+
+[[Toc]]
+
+# Adios que te vaya bien
+
+No soy más aquel
+no mientas más
+que el amor de ayer
+no existe ya.
+La flor del jardín
+ya se secó
+el otoño cruel
+se la llevó.
+Y lo que vivimos ayer
+tan solo un recuerdo es
+ya nunca quiero volver
+a revivirlo.
+No quiero saber
+donde andaran
+me conformo yo
+con olvidar.
+Y ya que el amor se acabó
+el fuego de la pasión
+es poco lo que quedó
+Y si alguna vez
+te vuelvo a hallar
+que seas muy feliz
+voy a desear.
+Adiós que te vaya muy bien
+que encuentres otro querer
+no lo vuelvas a perder
+nunca en la vida.
+Introducción
+Ya la noche gris
+alumbra el sol
+un remedio hay
+para el dolor.
+Un amor se fue
+porqué llorar
+quien te quiera bien
+encontrarás.
+A veces me pregunto yo
+que ha sido lo que falló
+si lo nuestro terminó
+quien fue el culpable.
+No será tal vez
+mucho mejor
+que haya sido así
+para los dos.
+Tan solo el tiempo nos dirá
+quién de los dos quiso más
+o si podrás olvidar
+tanto cariño.
+Y si alguna vez
+te vuelvo a hallar
+que seas muy feliz
+voy a desear.
+Adiós que te vaya muy bien
+que encuentres otro querer
+no lo vuelvas a perder
+nunca en la vida.
+
+# Stefani
+
+Stéphanie no hay dolor mas atroz que ser feliz
+decias anoche ouve-me por favor bésame aqui
+Stéphanie sé que tu corazón fala de mim
+y eso es dolor Stéphanie
+
+Stéphanie yo ayer estaba solo y hoy también
+pero en mi cama ha quedado el perfume de tu piel
+te veo salir correr por el pasillo del hotel
+la vida es cruel Stéphanie
+
+Stéphanie hay una sombra oscura
+tras de ti
+de tu ternura recuerdo la mirada azul turquí
+los pies calientes tus palabras de amor en portugués
+pero no a ti Stéphanie
+
+sé más valiente hazme saber si va a sobrevivir
+entre la gente el color de tu pelo Stéphanie
+debes vivir la soledad que sales a vender
+sé más mujer Stéphanie
+
+Stéfanie, yo tampoco te quiero, mas tu amor,
+por el dinero, ha olvidado al obrero y al señor.
+Esta canción que pregunta por ti, que no ha dormido,
+es puro olvido, Stéfanie...
+
+Alfredo Zitarrosa
+
+# Doña soledad
+
+Mire Doña Soledad, póngase un poco a pensar
+Doña soledad, cuántas personas habrá que la conozcan de verdad
+Yo la vi en el almacén, peleando por un vintén
+Doña Soledad, y otros dicen haga el bien, háganlo sin mirar a quién
+
+Cuantos vintenes tendrá sin la generosidad
+Doña Soledad, con los que pueda comprar el pan y el vino nada más
+
+La carne y la sangre son de propiedad del patrón
+Doña Soledad, cuando Cristo dijo no, usted sabe bien lo que pasó
+
+Mire Doña Soledad, yo le converso de más
+Doña Soledad, y usted para conversar hubiera querido ir a estudiar
+
+Cierto que quiso querer, pero no pudo poder
+Doña Soledad, porque antes de ser mujer ya tuvo que ir a trabajar
+
+Mire Doña Soledad, póngase un poco a pensar
+Doña Soledad, que es lo que quieren decir con eso de la libertad
+
+Usted se puede morir, eso es cuestión de salud
+Pero no quiera saber lo que cuesta un ataúd
+
+Doña Soledad hay que trabajar, pero hay que pensar
+No se vaya a morir, la van a enterrar doña Soledad
+Hay que trabajar, pero hay que pensar, Doña Soledad
+
+Alfredo Zitarrosa
+
+# Milonga de ojos dorados
+
+Milonga de ojos dorados,
+cantale a la que yo quiero;
+tu corazón compañero,
+musical y acompasado,
+vaya volando a su lado
+y dígale que no puedo vivir.
+
+Ella, como vos, tenía
+los ojos color de oro;
+mirándolos casi lloro
+-vos bien sabés-, aquel día:
+Nunca pensé que existía
+una mujer con los ojos así.
+
+No digas que ella se ha ido;
+decí más bien que algún día,
+igual que tu melodía,
+cantándome en el oído,
+ella sentirá el latido
+del amor que una vez le pedí.
+
+Milonga, vos sos testigo
+de que la quiero de veras;
+vos no tenés sus caderas
+ni aquella boca de trigo,
+pero cantando conmigo
+irán tus ojos a hablarle de mí.
+
+Milonga de ojos dorados,
+volá cantando a buscarla,
+y si llegás a encontrarla
+-después de haberla mirado-
+entregale, enamorado,
+el corazón que una vez le ofrecí.
+
+Alfredo Zitarrosa.
+
+# Pal que se va 
+
+No te olvides del pago
+Si te vas pa' la ciudad
+Cuanti más lejos te vayas
+Más te tenés que acordar
+
+Cierto que hay muchas cosas
+Que se pueden olvidar
+Pero algunas son olvidos
+Y otras son cosas nomás
+
+No eches en la maleta
+Lo que no vayas a usar
+Son más largos los caminos
+Pa'l que va cargao' de más
+
+Ahura que sos mocito
+Y ya pitás como el que más
+No cambiés nunca de trillo
+Aunque no tengas pa' fumar
+
+Y si sentís tristeza
+Cuando mires para atrás
+No te olvides que el camino
+Es pa'l que viene y pa'l que va
+
+Alfredo Zitarrosa
+
+# Crece desde el pie
+
+Crece desde el pie, musiquita,
+crece desde el pie
+uno dos y tres, derechita,
+crece desde el pie.
+
+Crece la pared por hiladas
+crece la pared
+crece desde el pie amurallada
+crece desde el pie.
+
+Crece desde el pie, musiquita,
+crece desde el pie
+uno dos y tres, derechita,
+crece desde el pie.
+
+Crece la pared por hiladas
+crece la pared
+crece desde el pie amurallada
+crece desde el pie.
+
+Dentro de su lata la mata
+crece desde el pie,
+crece desde el pie la fogata
+crece desde el pie.
+
+Crecen los mejores amores
+crecen desde el pie,
+para sus colores, las flores
+crecen desde el pie.
+
+Crece desde el pueblo el futuro
+crece desde el pie,
+ánima del rumbo seguro
+crece desde el pie.
+
+Cantan para usted los cantores
+crecen desde el pie
+un poco de fe y los tambores
+pueden florecer.
+
+Crece desde el pie la mañana
+crece desde el pie
+el sonido de la campana
+crece desde el pie.
+
+Crece desde el pie la semana
+crece desde el pie
+no hay revoluciones tempranas
+crecen desde el pie.
+
+No olvides que el día y la hora
+crecen desde el pie
+después de la noche la aurora
+crece desde el pie.
+
+Crece la pared por hiladas
+crece la pared
+crece desde el pie amurallada
+crece desde el pie.
+
+No olvides que el día y la hora
+crecen desde el pie
+después de la noche la aurora
+crece desde el pie.
+
+Crece desde el pueblo el futuro
+crece desde el pie
+ánima del rumbo seguro
+crece desde el pie.
+
