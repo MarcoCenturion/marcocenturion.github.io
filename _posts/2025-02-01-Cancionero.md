@@ -470,4 +470,40 @@ De vuelo en vuelo
 Gustavo Leguizamón / Manuel Castilla
 
 
+# La Sachapera 
+
+Churita mi buena moza balanceando la pollera
+Bailando es la más donosa morenita santiagueña
+Con la chacarera doble se curan todas las penas
+
+Dulce fruto de mis pagos criollita sabagastera
+Boquita de arrope y tuna juguito de sachapera
+Con la chacarera doble se curan todas las penas
+
+Da gusto andar por los montes cuando la noche despierta
+Besando los algarrobos con su llovizna de estrellas
+Con la chacarera doble se curan todas las penas
+
+En santiago del estero la salamanca me espera
+El sonko dejarles quiero para cantarle a mi tierra
+Con la chacarera doble se curan todas las penas
+
+Bienhaiga mi buena moza has encendido una hoguera
+Con el fuego de tus manos de mi amor leñita seca
+Con la chacarera doble se curan todas las penas
+
+Pa'l tiempo de la arropeada hay una Luna hechicera
+Que en medio de las vidalas cantando coplas se queda con la chacarera doble se curan todas las penas
+
+Con harina de algarroba voy a endulzar las tristezas
+Que por andar en amores me van siguiendo de cerca
+Con la chacarera doble se curan todas las penas
+
+En santiago del estero la salamanca me espera
+El sonko dejarles quiero para cantarle a mi tierra
+Con la chacarera doble se curan todas las penas
+
+Osacar Valle / Cuti Carabajal
+
+
 
