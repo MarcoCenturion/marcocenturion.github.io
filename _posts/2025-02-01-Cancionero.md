@@ -69,6 +69,8 @@ que encuentres otro querer
 no lo vuelvas a perder
 nunca en la vida.
 
+Martín Paz / Onofre Paz / Peteco Carabajal
+
 # Stefani
 
 Stéphanie no hay dolor mas atroz que ser feliz
@@ -505,5 +507,52 @@ Con la chacarera doble se curan todas las penas
 
 Osacar Valle / Cuti Carabajal
 
+# Te recuerdo Amanda 
 
+Te recuerdo Amanda
+La calle mojada
+Corriendo a la fábrica donde trabajaba Manuel
 
+La sonrisa ancha, la lluvia en el pelo
+No importaba nada
+Ibas a encontrarte con él
+Con él, con él, con él, con él
+
+Son cinco minutos
+La vida es eterna
+En cinco minutos
+
+Suena la sirena
+De vuelta al trabajo
+Y tu caminando lo iluminas todo
+Los cinco minutos
+Te hacen florecer
+
+Te recuerdo Amanda
+La calle mojada
+Corriendo a la fábrica
+Donde trabajaba Manuel
+
+La sonrisa ancha
+La lluvia en el pelo
+No importaba nada
+Ibas a encontrarte con él
+Con él, con él, con él, con él
+
+Que partió a la sierra
+Que nunca hizo daño
+Que partió a la sierra
+Y en cinco minutos
+Quedó destrozado
+
+Suenan las sirenas
+De vuelta al trabajo
+Muchos no volvieron
+Tampoco Manuel
+
+Te recuerdo Amanda
+La calle mojada
+Corriendo a la fábrica
+Donde trabajaba Manuel
+
+Victor Jara
