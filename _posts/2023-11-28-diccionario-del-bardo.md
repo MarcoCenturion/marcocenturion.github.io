@@ -1390,6 +1390,10 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Manía** *Gr. Adicción*  Lo documentan Heródoto e Hipócrates.  De aquí tambien provienen manicomio, piromaníaco, mitómano, etc.  Trastorno mental violento, profusión de palabras en tono elevado, asociada a cierta hiperactividad motora.
 
+**Manzana**  *Lat. malus*.  El origen de este sustantivo en las lenguas romances, deriva, aparentemente del mal bíblico original.  Desconocemos si tuvo alguna influencia los trabajos de Heracles, al robar las manzanas del Jardín de las Hespérides y este pase a se un álbol maldito.
+
+> Eva y el ligero inconveniente frutal.  --Sisoco García.  Del correcto uso del pecado.
+
 **Mariposa** *Sus.*  Durante siglos tratamos de llevar a palabras la hermosura de este insecto[^42].  Entiendo que vanamente.  Comparte la rara virtud de la belleza *per se* en muchos idiomas.  *Pimpilimpausa* en Basko, *Panambí* en Guaraní, *butterfly* en inglés, *farasha* en árabe, *schmetterling* en alemán, *borgoleta* en portuges, *papillon* en francés.  Don Alfredo Zitarrosa dice *Mariposa marrón de madera* y muta la belleza al violín de su amigo Becho.  Alejo Carpentier en cambio nos dice que el dibujo en las alas de la mariposa es una obra de arte que madre natura nos regala y pasa desapercibida.   Recuerdo de niño ver nubes de mariposas, libélulas y otros insectos, que ahora no están.  Indudablemente algo estamos haciendo mal.
 
 [^42]: El islam castiga el intento de copiar la obra de dios.  Este caso pareciera demostrar que están en lo correcto.
