@@ -2,6 +2,7 @@
 title: Cancionero popular argentino
 author: Marco Adrián Centurión
 lang: es-ES
+rights:  Creative Commons Non-Commercial Share Alike 3.0
 cover-image: /home/marco/Linux/cover.jpeg
 ---
 
@@ -713,6 +714,50 @@ la miel de tus amores
 
 Roberto Terán y Cuti Carabajal.
 
+# Zamba para decir Adios
 
+Olvida niña que un día
+Te di promesas de amor
+Entonces yo no sabía
+Este destino cantor
+Entonces yo no sabía, perdona
+Este destino cantor
+
+Te amé no puedes negarlo
+Conmigo te llevaré
+Hecha recuerdo en mi canto
+En zamba, te nombraré
+Hecha recuerdo en mi canto, mi cielo
+En zamba, te nombraré
+
+Cuando recuerdes la zamba
+Que esta noche te canté
+Abrazado a mi guitarra
+Solo recuerdo seré
+No llores niña, no quiero perdona
+Otra promesa no haré
+
+No llores niña, no quiero
+Verte esta noche llorar
+Quisiera pero no puedo
+Todo este fuego apagar
+Quisiera pero no puedo, mi vida
+Todo este fuego apagar
+
+Tú tienes otro destino
+Naciste para querer
+Yo voy por otro camino
+Ya no me puedo volver
+Yo voy por otro camino, cantando
+Ya no me puedo volver
+
+Cuando recuerdes la zamba
+Que esta noche te canté
+Abrazado a mi guitarra
+Solo recuerdo seré
+No llores niña, no quiero perdona
+Otra promesa no haré
+
+Argentino Luna.
 
 
