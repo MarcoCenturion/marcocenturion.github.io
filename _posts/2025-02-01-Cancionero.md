@@ -6,6 +6,8 @@ rights:  Creative Commons Non-Commercial Share Alike 3.0
 cover-image: /home/marco/Linux/cover.jpeg
 ---
 
+[[toc]]
+
 # Adios que te vaya bien
 
 No soy más aquel
@@ -552,7 +554,6 @@ Donde trabajaba Manuel
 
 Victor Jara
 
-
 # Campo afuera
 
 Hace tiempo y buscando por ay, una chacarera
@@ -760,4 +761,125 @@ Otra promesa no haré
 
 Argentino Luna.
 
+# Zamba por vos
 
+Yo no canto por vos
+Te canta la zamba
+Y dice al cantar
+No te puedo olvidar
+No te puedo olvidar
+
+Yo no canto por vos
+Te canta la zamba
+Y cantando así
+Canta para mí
+Canta para mí
+
+Zambita cantá
+No la esperes más
+Tenés que pensar que si no volvió
+Es porque ya te olvidó
+Perfumá esa flor
+Que se marchitó
+Que se marchitó
+
+Yo tuve un amor
+Lo dejé esperando
+Y, cuando volví
+No lo conocí
+No lo conocí
+
+Dijo que tal vez
+Me estuviera amando
+Me miró y se fue
+Sin decir por qué
+Sin decir por qué
+
+Alfredo Zitarrosa
+
+# La Pucha con el hombre
+
+El hombre nace y muere, a veces, sin vivir
+Camina, desde el niño al viejo, sin gozar
+De eso que él mismo le llama felicidad
+Y, si la tiene aquí, la va a buscar allá
+Tropieza tantas veces en una misma piedra
+Fruta es que llega a pasa sin madurar
+
+Si tiene, tira, o quiere tener mucho más
+Es un misterio y es, de la vida, la sal
+Tiene alma de guitarra
+Encordada de estrellas
+Y es una falta envido su corazón
+
+Solo se diferencia del reino animal
+Porque es el hombre el único capaz de odiar
+Pero, mientras el hombre se asombre y llore y ría
+Será la fantasía que Dios creó
+
+Es una lágrima de niño y de crespín
+Es monte denso, copla, vida y manantial
+Es muy capaz de dar la vida o de matar
+Es luz y sombra, tierra arada y arenal
+La pucha con el hombre
+Querer ser tantas cosas
+Y nunca es más que cuando tan solo es él
+
+Es un camino que anda solo bajo el Sol
+Sendero trajinado por sueños de amor
+Es un viejo legüero
+Garroteado de chango
+Con son de vino triste y de carnaval
+
+Solo se diferencia del reino animal
+Porque es el hombre el único capaz de odiar
+Pero, mientras el hombre se asombre y llore y ría
+Será la fantasía que Dios creó
+
+Cuti Carabajal / Pablo Trullenque
+
+# Perfume de Carnaval
+
+Me voy solo con mi suerte
+La llevaré en mi recuerdo
+Bajo un añoso algarrobo
+Cortaba el aire un pañuelo
+Bailando una vieja zamba
+Yo le entregaba mis sueños
+
+El Sol quemaba en la tarde
+Siluetas que parecían
+Fantasmas amarillentos
+Llenos de tierra y de vida
+Y yo, rendido a tus ojos
+Sintiendo que me querías
+
+Ay, perfume de carnaval
+Ya nunca te he de olvidar
+Su piel llevaba el aroma
+De flor y tierra mojada
+Bellos recuerdos que siempre
+Los guardo dentro del alma
+
+Hay tiempos donde han quedado
+Donde he perdido mis sueños
+Quién sabe si ella se acuerda
+De un viejo mes de febrero
+Y de aquel baile en el campo
+Y de mi amor verdadero
+
+No quise decirle nada
+La amé en silencio esa tarde
+Y sobre sus trenzas negras
+Dejé mi copla sentida
+Me fui llevando sus ojos
+Un miércoles de cenizas
+
+Ay, perfume de carnaval
+Ya nunca te he de olvidar
+Su piel llevaba el aroma
+De flor y tierra mojada
+Bellos recuerdos que siempre
+Los guardo dentro del alma
+
+Jacinto Piedra / Peteco Carabajal
