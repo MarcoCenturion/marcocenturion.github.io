@@ -883,3 +883,175 @@ Bellos recuerdos que siempre
 Los guardo dentro del alma
 
 Jacinto Piedra / Peteco Carabajal
+
+# La Flor Azul
+
+Que solo me voy quedando
+Mi viejo tunal
+Oyendo cantar al río
+Para el carnaval
+
+Me acompaña la esperanza
+En la soledad
+Cuando silba el huairamuyoj
+Por el salitral
+
+Árbol fuiste bien coposo
+Pobre corazón
+Árbol que quedo sin hojas
+Sin nidos, ni amor
+
+Dile, dile chacarera
+A esa flor azul
+Que de noche yo la busco
+Por la cruz del sur
+
+Esta pena enamorada
+Pena sin cesar
+Buscando volverse copla
+Pa' hacerme llorar
+
+Amalhaya con la suerte
+Que a mí me ha tocao
+Cantar por andar cantando
+Sin ser escuchao
+
+Cuando recuerdo sus ojos
+De dulce mirar
+Me acomodo con mi perro
+Solito a pitar
+
+Dile, dile chacarera
+A esa flor azul
+Que de noche yo la busco
+Por la cruz del sur
+
+Mario Arnedo
+
+# Cuando el Diablo Anda en el vino 
+
+Cuando yo tenga mi pasar me he ir pa' el lado de loreto
+Y en las ancas de mi burro pasearé lo más coqueto
+
+Llegaré por real camino junto al caschicito moto
+Que a pesar de su flacura perro fue en quebracho coto
+
+Sin mosquearme iré viditay ojo al charqui con las mozas
+Porque el tonto no es tan tonto pa' tontear por cualquier cosa
+
+Mi chacarerita mota ¡si me habrás visto machado!
+Cuando el diablo anda en el vino por mailín y sumamao
+
+Cuando se oye la vidala en mi tierra de santiago
+En las noches se estrellean los tucu-tucus del pago
+
+A veces yo me pregunto ¿quién ha sido? ¿Quién será?
+El que me ha quitado del todo el empeño de trabajar
+
+Me gusta el vinito tinto pa' tomarlo a mi manera
+Y apurando flor de macha zapatear la chacarera
+
+Mi chacarerita mota ¡si me habrás visto machado!
+Cuando el diablo anda en el vino por mailín y sumamao
+
+Mario Arnedo.
+
+# Salamanqueando pa mi 
+
+Cuando me pille la muerte
+La via' esperar
+Cajoneando fuerte el bombo
+Y l'hago bailar
+Salamanca llevátela
+
+Me topé con una bruja
+Y al despertar
+M'encontrado con mi suegra
+Y se va quedar
+Salamanca llevatela
+
+El diablo me anda buscando
+No me encontró
+Parece ser que le debo
+Un alma o dos
+Salamanca llevátelo
+
+Mi chacarerita doble
+Es la sin sol
+Machadito y por las noches
+Sale mejor
+Salamanquero soy señor
+
+Mi mujer se me había ido
+Y al despertar
+Yo me la encontré gritando
+¡A trabajar!
+Salamanca llevátela
+
+Si es agarrado el pulpero
+Creamelo
+Después de los 20 vinos
+No más me fío
+Salamanca llevátelo
+
+Me'an robado un gallo flaco
+Y sin espolón
+Ni pa' riña ni puchero
+Pobre ladron
+Salamanca llevátelos
+
+Mi chacarerita doble
+Es la sin sol
+Machadito y por las noches
+Sale mejor
+Salamanquero soy señor
+
+Raul Carnota.
+
+# Grito Santiagueño 
+
+En los ranchos nací
+Me llaman: El bandeño
+Algún mistol supo acunarme
+De changuito, en mis sueños
+Algún mistol supo acunarme
+De changuito, en mis sueños
+
+Araranti Upiay
+Va cantando mi caja
+Y una copla sigue a la Luna
+Buscando la mañana
+Y una copla sigue a la Luna
+Buscando la mañana
+
+Cuando canto, siento
+Que es el duende quechua
+Que tira de mis venas
+Me hace gritar
+Al vidalear nuestras tristezas
+Yo soy cantor vidalero
+De mi tierra santiagueña
+
+Soy cantor, busco el Sol
+Vidaleando hasta el sueño
+Mi caja está enamorada
+Del grito santiagueño
+Mi caja está enamorada
+Del grito santiagueño
+
+Cuando muera, tal vez
+Mezclada con la tierra
+Florezca en vaina de algarroba
+En alguna primavera
+Florezca en vaina de algarroba
+En alguna primavera
+
+Cuando canto, siento
+Que es el duende quechua
+Que tira de mis venas
+Me hace gritar
+Al vidalear nuestras tristezas
+Yo soy cantor vidalero
+De mi tierra santiagueña
+
+Raul Carnota.
