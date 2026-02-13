@@ -1,9 +1,11 @@
 ---
+layout: blog
 title: Cancionero popular argentino
-author: Marco Adrián Centurión
-lang: es-ES
-rights:  Creative Commons Non-Commercial Share Alike 3.0
-cover-image: /home/marco/Linux/cover.jpeg
+date: 2026-02-11 19:41:34
+categories: Folklore canciones letras
+tags: Floklore argentino
+image: '/images/dic.png'
+lead_text: 'Letas para cantar en juntadas AD HOC'
 ---
 
 [[toc]]
