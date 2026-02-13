@@ -1055,3 +1055,44 @@ Yo soy cantor vidalero
 De mi tierra santiagueña
 
 Raul Carnota.
+
+# Salteñita de los Valles
+
+Salteñita de los valles
+Alto vuelo sin razõn
+No te vayas por el aire
+Prestame tu corazón
+No te vayas por el aire
+Prestame tu corazón
+
+Claro cielo de tus ojos
+Aletear de colibrí
+Cafayateñita linda
+No te hagas la que no oís
+Cafayateñita linda
+No te hagas la que no oís
+
+Y al alba yo haré en tu pecho
+Una flor mejor que el jacarandá
+Y en la salamanca de cafayate
+Con vino del moro t'ei de machar
+Ya veras qué lindo cuando amanezcas
+Machadita ya de andar
+
+Ya me voy de cafayate
+No quiero verte llorar
+Cuando escuches esta zamba
+Sobre el viento y regresar
+Cuando escuches esta zamba
+Sobre el viento y regresar
+
+Bailaré siempre esta zamba
+Bailaré hasta el aclarar
+Si cuando bailo te siento
+Como me hace zapatear
+Si cuando bailo te siento
+Como me hace zapatear
+
+Horacio Guaraní
+
+
