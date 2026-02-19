@@ -918,6 +918,8 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > La que tenía un físico bárbaro, era la mujer de Einstein.  --Richard Feynman (1918-1988).
 
+> El Físico si importa y mucho.  Prueba comparar un PDF gratuito con el mismo contenido en papel, tapa dura, edición original, viejo.
+
 **Flamenco**  *Ar.  فلاح من غير أرض  Felah mengub, campesino humilde, despojado de todo, errante*.  Una de las teorías mas interesantes habla de un tono despectivo, adoptado por los naturales de la Andalucía morisca hacia los gitanos o *egipcianos*, provenientes de Egipto, que es de donde se suponía venía este pueblo nómade, sin raigambre.  De allí viaja el sustantivo para nombrar a las aves esbeltas, que simulan el porte de un bailaor o cantaor.  El dato realmente curioso, es que el preconcepto que tiene occidente sobre el pueblo musulman, al que se le adjudica una xenofobia que no observamos en los mil años de ocupación de la península ibérca durante el medioevo, donde nunca persiguieron cristianos o judíos, incluso permitieron el ingreso del pueblo gitano a la culta Europa.  ¿Es imaginable la inmigración de un pueblo sin tierra, con valores tan distintos sobre conceptos como trabajo e higiene a la culta y educada Europa del siglo XXI?
 
 **Flor** *Lat. Flos. Flagare*. A su vez del sánscrito, brillar. Organo reproductor de hojas especializadas de ciertos vegetales.  En el juego de naipes que conocemos como *Chupino* en ambas orillas del Rìo de La Plata, especie de aberración que en ciertas provincias, quita emoción al envido.  Como bien sentenciara el bardo:
