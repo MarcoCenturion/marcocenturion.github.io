@@ -1623,12 +1623,14 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 > Fulano no paga, es un tramposo.  --Tía Tile, bar de copas en **Cañada Rosquìn**.
 
-**Otro**  *Lat. Uter*.  El otro nos forma y nos da sentido.  El yo se forma por espejo del otro, el indivíduo necesita tener una función[^49].
+**Otro**  *Lat. alterum de alter*.  El otro nos forma y nos da sentido.  El yo se forma por espejo del otro, el indivíduo necesita tener una función especular donde medirse.  Descubrimos allí la utilidad de los fascistas, para sentirnos sabios y buenos por el solo hecho de escuchar sus argumentos.
 
-[^49]: En el utópico Universo 25 de comienzo de los setentas, una población de ratas contaba con todo lo necesario para ser felices, excepto ser -o sentirse- útiles.  
+> En el utópico mundo feliz, que conocimos como **Universo 25** experimento científico de comienzo de los setentas, una población de ratas contaba con todo lo necesario para ser felices, excepto ser -o sentirse- útiles.  
 
 > La Patria es el otro. --Cristina Fernandez.
 
+> Zitarrosa es ese tipo que canta con voz de otro.  --Manuel Castilla.
+> 
 **OVNI**  Objeto volador no identificado.  En ciertos períodos históricos, se recurre al viejo artilugio de objetos voladores extraterrestres en los medios masivos.  Cuando las masas comienzan a atisbar, soñar que pueden tomar el control de sus destinos, llegan los Ovnis en reemplazo de lo que siglos atrás fuera el demonio.
 
 > En los años cincuentas, el nivel de paranoia en la USA había alcanzado niveles peligrosos en los estados de la unión, en consonancia con el macarthismo, las falencias del sistema educativo se sumaban a la carrera espacial y armamentista contra la **URSS**  Vehículos más secretos y extraños, salían de presupuestos militares abultados, para no salir segundo en una carrera de dos.  Holliwood contribuía dejando banderitas con estrellas y barras, cada vez mas seguido en todas las películas.  En uno de los desiertos, de los muchos, de los estados **WHASP** de la unión, tiene lugar un aterrizaje forzoso de una de estas plateadas aeronaves secretas.  Ni la nave ni la tripulación lleva ninguna insignia, debido a su condición de secreta.  La tripulación logra salir con vida de la nave en llamas, con sus escafandras y trajes plateados, carentes de logos y banderas.  El milagro los salva de la muerte en el aterrizaje, pero son cosidos a balazos por granjeros, tan paranoicos como borrachos y armados, al estilo de cualquier establecimiento de Texas que se precie.  Dios tampoco puede estar en todo.  Narrado con pluma mucho mas hábil por **Fredric Brown**, en el prefacio de en **Martians Go Home**.  Su estilo paródico no le resta para nada el carácter de espejo en que vemos una caricatura muy estúpida de los *elegidos de la creación*. 
