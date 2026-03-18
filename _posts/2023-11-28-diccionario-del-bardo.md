@@ -1471,15 +1471,15 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 > ¡Pero vivo en Gaza!
 > Ah.  Mala mía.
 
-**Modales**  Formas de comportarse que las clases dominantes exigen a las subordinadas pero que nunca cumplen.  Si restreamos su el origen de las normas de cortesía son siempre oscuros y machistas.  Las mujeres salen primero de las casas para ser las que mueren en caso de emboscadas, al igual que van contra la pared, porque es hacia donde provenían las agyuas de *agua vá*.  Las manos se entrelazan para validar la ausencia de puñales, mientras que el brindis es un método para entremesclar bebidas y garantizar así que de haber venenos mueran todos los brindadores.
+**Modales**  Formas, modos de comportarse que las clases dominantes exigen a las subordinadas, que ellos.  Si restreamos su el origen de las normas de cortesía son siempre tan oscuras y machistas como el medioevo en que se gestaron.  Las mujeres salen primero de las casas para ser las que caigan en caso de emboscadas, al igual que van contra la pared, porque es hacia donde provenían las aguas de *agua vá*, que no es precisamente *agua*.  Las manos se entrelazan para validar la ausencia de puñales, mientras que el brindis es un método para entremesclar bebidas y garantizar así que de haber venenos en las copas, mueran todos los brindadores.
 
-> Al bajar el tren de aterrizaje del F27, una de las tres luces del tablero queda en rojo y no cambia a verde.  El manual indica a los pilotos aproximar a pista y validar desde tierra que realmente las ruedas bajaran.  Torre de control de Aeroparque les dice lo que no quieren escuchar.  El tren de aterrizaje solo despliega dos de tres ruedas.  Gastan el combustible sobrevolando el Río de la Plata, cuando los tanques están casi vacíos le comunican al único pasajero, acerca del procedimiento de emergencia, porque van a aterrizar *de panza* en la pista.
+> Al bajar el tren de aterrizaje del F27, una de las tres luces del tablero queda en rojo y no cambia a verde.  El manual indica a los pilotos aproximar a pista y validar desde tierra que realmente las ruedas bajaran.  Torre de control de Aeroparque les dice lo que no quieren escuchar.  El tren de aterrizaje solo despliega dos de tres ruedas.  Gastan el combustible sobrevolando el Río de la Plata, cuando los tanques están casi vacíos le comunican al único pasajero, acerca del procedimiento de emergencia, porque van a aterrizar *de panza* en la pista.  
 
 > Cuanto riezgo implica --Pregunta el anciano serio de traje impecable, dirigiéndoles la palabra por primera vez.
 
 > Un 50 %.  --Responde el mas viejo de los pilotos.  Sin decir mas el señor mayor saca una botella de wisky de 12 años de una gaveta, 3 vasos generosos.  Sirve, brindan.  
 
-> Ahora si estamos listos.  Mucha suerte.  --Dice con una sonrisa.
+> Ahora si estamos listos.  Mucha suerte.  --Dice con una sonrisa.  El tiempo de sobrevuelo en el río da tiempo para que concurran las cámaras de un programa ómnibus y que esto salga en vivo en el programa de Pipo Mansera con un record de audiencia.
 
 **Monetizar**  Neologismo que sugiere obtención de lucro por marketing fafafa, pero que pareciera orientad a generar dinero en pequeñas monedas, para dárselas al mandamás, Juan Carlos Jiménez Rufino, la mona.
 
