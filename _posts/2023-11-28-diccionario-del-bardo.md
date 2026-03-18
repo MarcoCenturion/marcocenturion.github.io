@@ -1471,6 +1471,16 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 > ¡Pero vivo en Gaza!
 > Ah.  Mala mía.
 
+**Modales**  Formas de comportarse que las clases dominantes exigen a las subordinadas pero que nunca cumplen.  Si restreamos su el origen de las normas de cortesía son siempre oscuros y machistas.  Las mujeres salen primero de las casas para ser las que mueren en caso de emboscadas, al igual que van contra la pared, porque es hacia donde provenían las agyuas de *agua vá*.  Las manos se entrelazan para validar la ausencia de puñales, mientras que el brindis es un método para entremesclar bebidas y garantizar así que de haber venenos mueran todos los brindadores.
+
+> Al bajar el tren de aterrizaje del F27, una de las tres luces del tablero queda en rojo y no cambia a verde.  El manual indica a los pilotos aproximar a pista y validar desde tierra que realmente las ruedas bajaran.  Torre de control de Aeroparque les dice lo que no quieren escuchar.  El tren de aterrizaje solo despliega dos de tres ruedas.  Gastan el combustible sobrevolando el Río de la Plata, cuando los tanques están casi vacíos le comunican al único pasajero, acerca del procedimiento de emergencia, porque van a aterrizar *de panza* en la pista.
+
+> Cuanto riezgo implica --Pregunta el anciano serio de traje impecable, dirigiéndoles la palabra por primera vez.
+
+> Un 50 %.  --Responde el mas viejo de los pilotos.  Sin decir mas el señor mayor saca una botella de wisky de 12 años de una gaveta, 3 vasos generosos.  Sirve, brindan.  
+
+> Ahora si estamos listos.  Mucha suerte.  --Dice con una sonrisa.
+
 **Monetizar**  Neologismo que sugiere obtención de lucro por marketing fafafa, pero que pareciera orientad a generar dinero en pequeñas monedas, para dárselas al mandamás, Juan Carlos Jiménez Rufino, la mona.
 
 **Mono**  Primo hermano del Homo Sappiens Sappiens.  Las sagradas escrituras sostienen que este último es el elegido de la creación, mientras que la evidencia muestra demasiada similitud con los primates superiores.  La derrota en la batalla por el predominio de los árboles, en la sabana africana, forzaron a un grupo de estos a descender de aquellos, correr por la vida -como sugiere Homero Simpsons-  Esto forzó que pronto corrieran erguidos en dos patas, eso diera lugar a los pulgares oponibles, crecimiento de la corteza cerebral y la historia conocida.  La primera herida al narcisismo, fue enterarnos que todos somos africanos.  La segunda, que nos ganaron los chimpancés.  Esto explica bastante los resultados electorales, con listas de candidatos con narices ensanchadas, *monas* señoritas *auxiliares de afecto rentado* y gorilas.
