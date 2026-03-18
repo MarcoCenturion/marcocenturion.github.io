@@ -1479,7 +1479,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Un 50 %.  --Responde el mas viejo de los pilotos.  Sin decir mas el señor mayor saca una botella de wisky de 12 años de una gaveta, 3 vasos generosos.  Sirve, brindan.  
 
-> Ahora si estamos listos.  Mucha suerte.  --Dice con una sonrisa.  El tiempo de sobrevuelo en el río da tiempo para que concurran las cámaras de un programa ómnibus y que esto salga en vivo en el programa de Pipo Mansera con un record de audiencia.
+> Ahora si estamos listos.  Mucha suerte.  --Dice con una sonrisa.  El tiempo de vuelo sobre el río, deja que lleguen las cámaras de un programa ómnibus **Sábados Circulares** de Pipo Mansera, en vivo.
 
 **Monetizar**  Neologismo que sugiere obtención de lucro por marketing fafafa, pero que pareciera orientad a generar dinero en pequeñas monedas, para dárselas al mandamás, Juan Carlos Jiménez Rufino, la mona.
 
