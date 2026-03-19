@@ -1466,18 +1466,21 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 **Mito**  *Gr. Mithos μύθος, cuento, relato*.  Literatura, narración ni cierta ni falsa, como toda obra de arte, su único objeto es emocionar.  El mito se instala a fuerza de repetirse.  Es por ello que lo repetimos sin tener certeza.  Más que un género literario, es una forma de control.  Aquellos que nunca dudaron de los dogmas, tranquilamente creen que el que depositó dólares recibirá dólares, o que el mercado se regula solo, porque la **forma** en que se articulan estas creencias no es la científica, sino mítica.  Por lo general, los indivíduos prefieren una respuesta tranquilizadora, un cuento para ir a dormir, antes que una explicación lógica. Véase **Pensamiento mágico** en el mismo sentido, por eso tiene tanta validez el culto de yo endiosado en seres mágicos que están espectantes de nuestros deseos, que proyectándolos de manera correcta, rezando por ejemplo, los deseos se cumplen.
 
-> ¿Porqué debo rezar?  --Niño inocente cara sucia y muñones de las piernas vendados
-> Porque dios te ama.  --Dios onmipresente y todopoderoso.  
-> ¡Pero vivo en Gaza!
-> Ah.  Mala mía.
+> ¿Porqué debo rezar?  --Pregunta el niño cara sucia y muñones de las piernas vendados, mirada hacia el cielo.
 
-**Modales**  Formas, modos de comportarse que las clases dominantes exigen a las subordinadas, que ellos.  Si restreamos su el origen de las normas de cortesía son siempre tan oscuras y machistas como el medioevo en que se gestaron.  Las mujeres salen primero de las casas para ser las que caigan en caso de emboscadas, al igual que van contra la pared, porque es hacia donde provenían las aguas de *agua vá*, que no es precisamente *agua*.  Las manos se entrelazan para validar la ausencia de puñales, mientras que el brindis es un método para entremesclar bebidas y garantizar así que de haber venenos en las copas, mueran todos los brindadores.
+>  Porque dios te ama.  --Responde su dios onmipresente y todopoderoso desde su nube olímpica.  
 
-> Al bajar el tren de aterrizaje del F27, una de las tres luces del tablero queda en rojo y no cambia a verde.  El manual indica a los pilotos aproximar a pista y validar desde tierra que realmente las ruedas bajaran.  Torre de control de Aeroparque les dice lo que no quieren escuchar.  El tren de aterrizaje solo despliega dos de tres ruedas.  Gastan el combustible sobrevolando el Río de la Plata, cuando los tanques están casi vacíos le comunican al único pasajero, acerca del procedimiento de emergencia, porque van a aterrizar *de panza* en la pista.  
+> ¡Pero vivo en Gaza mi señor todopoderoso!
 
-> Cuanto riezgo implica --Pregunta el anciano serio de traje impecable, dirigiéndoles la palabra por primera vez.
+> ¡Ah!  Mala mía.
 
-> Un 50 %.  --Responde el mas viejo de los pilotos.  Sin decir mas el señor mayor saca una botella de wisky de 12 años de una gaveta, 3 vasos generosos.  Sirve, brindan.  
+**Modales**  Formas, modos de comportarse que las clases dominantes exigen a las subordinadas.  Si rastreásemos el origen de las normas de cortesía, lo encontraríamos siempre en costumbres tan oscuras y machistas como el medioevo en que se gestaron.  Las mujeres salían primero de los hogares para ser las que caigan en caso de emboscadas, al igual que deambulaban la lado de la pared, porque era el lugar donde aterrizaban las aguas luego del gentil aviso: *agua vá*, no precisamente *agua*.  Las manos se entrelazan para validar la ausencia de puñales, mientras que el brindis el método eficaz para entremesclar bebidas y garantizar así que de haber venenos en las copas, mueran todos los brindadores.
+
+> Al bajar el tren de aterrizaje del F27, una de las tres luces del tablero queda en rojo y no cambia a verde.  El manual indica a los pilotos el procedimiento estandar.  Aproximar a pista y validar desde tierra que realmente las ruedas bajaran.  Torre de control de Aeroparque les dice por radio aquello que no quieren escuchar.  El tren de aterrizaje despliega dos de las tres ruedas.  Gastan el combustible sobrevolando el Río de la Plata, cuando los tanques están casi vacíos le comunican al único pasajero, dueño del avión, la cementera, la provincia y la mitad del país, sobre el procedimiento de emergencia, dado que van a aterrizar *de panza* en la pista.  
+
+> ¿Posibilidades de salir de esta? --Pregunta el anciano parco, traje impecable, dirigiéndoles la palabra por primera vez.
+
+> Un 50 %.  --Responde el mas viejo de los pilotos.  El pasajero hace una señal de STOP clásica con la mano derecha, luego extrae como mago de la galera, una botella de wisky de 12 años de algún lugar secreto y tres vasos generosos.  Sirve, brindan.  
 
 > Ahora si estamos listos.  Mucha suerte.  --Dice con una sonrisa.  El tiempo de vuelo sobre el río, deja que lleguen las cámaras de un programa ómnibus **Sábados Circulares** de Pipo Mansera, en vivo.
 
