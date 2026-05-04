@@ -8,8 +8,6 @@ image: '/images/dic.png'
 lead_text: 'La lengua usada en La Docta'
 ---
 
-# Somos hablados por el idioma que utilizamos 
-
 ## A
 
 **Abeja**  *Lat. apícula, de apis mellifera*.  Mas de veinte mil tipos de abejas habitan este planeta, muchas desconocidas aún, de allí el carácter incierto de la cifra final.  Primas hermanas de hormigas y termitas, seres cuya existencia depende de la sociedad que los contiene, las abejas, además, son las responsables de la polinización de las flores, que mejoran de manera simbiótica el medio ambiente.  Cierta doctrina afirma que si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos un par de generaciones, siendo muy optimistas.   Si en cambio desaparecieran los homo sappiens, esa vida mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.  En los sesentas, el entomólogo riojano Sisoco García, inició un intersante trabajo de campo, haciendo que un par de colmenas obtuvieran nectar de plantas de Canabis Sativa, para obtener de esa manera una miel con certificación ISO, que se viera truncado con la dictadura y su estrechez intelectual. 
@@ -487,6 +485,10 @@ flowchart LR
 > Pobrecita mi tierra, tan castigada.  --Dante Centurión y Jorge Romero.
 
 **Cigüeñal** *Arg.*  Pieza central del motor de explosión interna. Todo parece indicar un sustantivo colectivo que alude a un *conjunto de cigüeñas*.  La doctrina no es pacífica.
+
+> Transeunte ocasional lleva entre sus dedos un porro del tamaño de la Isla de Manahattan, ofrece gentil a un hombre mayor mandíbula movediza y mirada de apertura proto humana.  Otro de los presentes interpone su brazo y parte del cuerpo, en actitud propia de cubrir la llegada aérea del balón en un corner.
+
+> Si llega a fumar de eso, corta el cigüeñal.  --Mañana Olaviarría, llovizna, horas antes del último recital del Indio.
 
 **Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona más perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objetivo último, un objeto que pasa desapercibido por lo **obvio** y **evidente**.  Ni siquiera el grupo humano excluido nota que es así.  Existe un grupo humano aún más numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las **mujeres**.  Especie de metáfora para adoptar el método *Think out the box*.
 
