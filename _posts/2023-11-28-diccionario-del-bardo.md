@@ -736,6 +736,8 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 **Elixir** *Ar. الإكسير al-iksir del Gr.*ξήριον xḗrion.  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elíxires de la fortuna, la inmortalidad, la belleza y el coso.   Se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Intentamos con esto refutar la absurda certeza que la pelotudez es una patología contemporánea.
 
+**Emboscada**  Proviene de esa actividad delictiva que ocurre en el bosque.  También lo observamos en bosco, en italiano, bosc en catalán, llega a bush en inglés para referirse a los arbustos, Actividad preferida de lo que ocurría a los niños que enviaban al bosque los padres que no podían mantenerlos, antes de la llegada de los Estados Naciós, documentado en los encargos de la mama a llevar una cesta a la cada de la abuela, en Caperucita o a dar una vuelta a los hermanos Hansell y Grettel.  Esto consititúa el mejor control poblacional.   
+
 **Empatar** *Lat. pactare, quedar en paz.*  De allí provienen también pacto, pagar, compacto.  Un empate basa su eficacia en el honor de ambos contendientes y la paz que esto genere.  
 
 **Empatía**  *Gr. Empatheia*.  A simple vista pareciera emparentado con el vocablo anterior, pero una ligera inspección nos muestra indivíduos y sectores enteros de las sociedades empáticos con seres incapaces de ver mas allá de su nariz, hecho que elimina la idea de un empate en los sentimientos.  
