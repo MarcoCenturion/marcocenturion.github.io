@@ -172,6 +172,10 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > ¡A comer, el tío dice que se pasa el asado!  Desde que lee los clásicos se puso insoportable.  
 
+**Asombrado**  Sorpresa como la que experimenta el caballo al ver una sombra, muchas veces la propia.  De allí expande su sentido a otros asombros.  El escritor polaco de Ciencia Ficción Stanislaw Lem había ejercido de médico durante la segunda guerra mundial, sostenía que había perdido la mejor capacidad humana que es la del asombro.
+
+> A veces sigo a mi sombra, a veces viene detras, pobrecita si me muero, con quien va a andar.  --Vidala para mi Sombra.  Atahualpa Yupanqui.
+
 **Atorrante**  Mitológico ser de aspecto humanoide, aparecido en los márgenes de Buenos Aires, a principios de **siglo XX**, al tiempo que se llevaban adelante importantes obras de infraestructura.  Esperando un destino final bajo tierra en la red troncal cloacal, enormes caños de cemento rubricados con la leyenda **A. Torrant**, donde encontraban cobijo seguidores de la escuela de Sócrates y Epícuro, desprovistos de todo bien, pasando a llevar elegantemente este apodo, a la par que los anteriores pordioseros o linyeras.   
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
@@ -734,7 +738,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > Cuando no entendés lo que dicen los economistas, es porque la vas a pasar mal.  --Dr. Axel Kicillof.
 
-**Elixir** *Ar. الإكسير al-iksir del Gr.*ξήριον xḗrion.  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elíxires de la fortuna, la inmortalidad, la belleza y el coso.   Se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Intentamos con esto refutar la absurda certeza que la pelotudez es una patología contemporánea.
+**Elixir** *Ar. الإكسير al-iksir del Gr.ξήριον xḗrion*.  Piedra filosofal, polvos empleados para fabricar oro.  Durante el medioevo, se dilapidaron fortunas en búsqueda de elíxires de la fortuna, la inmortalidad, la belleza y el coso.   Se comercializaban indulgencias, se garantizaba la vida eterna a cambio de oro de verdad, al tiempo que se perseguían mujeres por volar en escobas.  Intentamos con esto refutar la absurda certeza que la pelotudez es una patología contemporánea.
 
 **Emboscada**  Proviene de esa actividad delictiva que ocurre en el bosque.  También lo observamos en bosco, en italiano, bosc en catalán, llega a bush en inglés para referirse a los arbustos, Actividad preferida de lo que ocurría a los niños que enviaban al bosque los padres que no podían mantenerlos, antes de la llegada de los Estados Naciós, documentado en los encargos de la mama a llevar una cesta a la cada de la abuela, en Caperucita o a dar una vuelta a los hermanos Hansell y Grettel.  Esto consititúa el mejor control poblacional.   
 
