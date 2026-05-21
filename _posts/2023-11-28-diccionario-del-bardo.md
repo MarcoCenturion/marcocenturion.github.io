@@ -1740,6 +1740,8 @@ La patria es una causa perdida. Es la utopía, por ello, tal vez, la mayor y la 
 
 > Pegame pero decime Marta.  --Cacho Buenaventura.
 
+**Pepe**  De italiano Giuseppe, derivan el castizo José y el Catalán Josep, que deviene en Pep, los españoles del centro del pais, por no ser menos, le agregan la e final.  No falta quin lo deriva de Pater Putativus latín al referirse a José, el carpintero marido de María, la madre de Jesus, el palestino de barba. 
+
 **Peronismo**  Corriente metafísica originada en Argentina de mediados del siglo XX y que se popularizara rapidamente por el resto del universo conocido.  El decreto ley 4161 del 5 de marzo del 56 de la dictadura militar autopercibida **Libertadora** expresamente prohibe el uso de toda la simbología, estética, música, nomenclatura y estilo de vestimenta.  El sustantivo peronismo es prohibido hasta la derogación de este corpus legal el 30 de octubre del 64.  Esto no solo pone en duda la frase *inteligencia militar*, sino que dá por tierra la afirmación que propone la estupidez como una moda pasajera del siglo XXI.  Existe un trabajo de campo estadístico, seriamente elaborado, que intenta dar con el origen de su par antagónico, el *anti peronismo*.  El afamado doctor en psiquiatría y antropólgo *Odiseo Torres*, documentó las entrevistas a pacientes del último grupo, llegando a la conclusión que en la totalidad de los casos, tal odio se originaba en infidelidades matrimoniales sufridas a manos -u otro apéndice corporal- de opacos partidarios del General Juan Domingo Perón, destacándose frases comunes como.
 
 > Negros cabeza de termo que cagan en baldes... --Génesis del antiperonismo.  Odiseo Torres.  1984.  Obras completas.
