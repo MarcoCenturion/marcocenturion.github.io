@@ -609,6 +609,8 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 ## D
 
+**Dark**  Existe desde relativamente poco tiempo, una tan extraña como infundada noción sobre virtudes poéticas del idioma inglés, posiblemente basado en el exceso de publicidad de Disney y toda la industria del entretenimiento de Holliwood.  De allí se destacan supuestas corrientes estéticas como el **Dark** y no como podría creerse basado en la *pucelle* **Jeanne d'Ark.**
+
 **Decir**  *Lat. dicere*.  Pareciera provenir de señalar con el dedo, apuntar.  Luego decir el mal, es maldecir.  Las iglesias son proclives otorgar demasiada entidad a la palabra hablada, por lo que asumen que desearle el bien a alguien en voz alta lo bendice, le agrega bien, lo cura.  ¿O locura?  ¿O lo curra?  Me encanta la palabra maledicente.  Predicción, es decir antes lo que va a ocurrir y contradecir, es decir lo contrario. 
 
 > beter than saying is doing.  --John Sunday Bigpear.
