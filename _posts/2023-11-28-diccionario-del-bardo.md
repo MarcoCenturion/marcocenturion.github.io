@@ -2054,6 +2054,8 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Existe una libertad falsa, donde el indivíduo hace lo que quiere frente a otra auténtica, donde el indivíduo hace lo que corresponde.  --Julio Cortazar.
 
+**Sol**  *Lat. sol, solis*.  Origen de la vida, por lo menos en estos rincones del universo lo que lo convierte en centro de culto de las mitologías andinas, por oposición a las lunares europeas.  En el siglo XVIII Johan Sebastian Bach escribe una pieza a la que bautiza Aria en Do, que luego es popularizada como para Sol.  La curiosidad se presenta al ser ejecutadaa en violín sobre solo las últimas tres cuerdas, al cambiarse a Sol solo se utiliza la mas grave.  
+
 **Soltero**  *Lat. solitarius o solutus*.  Existe una discusión doctrinal sobre si esta palabra se origina en *solitario* o *suelto*, ambas con argumentos de peso.  Paradojicamente, el siglo XXI, fiel a su espíritu paradojal, ha traido la mayor libertad de elección sexual en milenios, en paralelo a la mayor cantidad de indidíduos célibes, inconveniente que se resolverá con autómatas sintéticos diseñados para satisfacer los requerimientos anímicos de esta generación de psicópatas.  
 
 **Sonqo**  *Quechua corazón*.  Suena ligeramente mas lógico que su par hispano, por la sugerencia de sonido grave y acompasado de un bombo legüero. 
