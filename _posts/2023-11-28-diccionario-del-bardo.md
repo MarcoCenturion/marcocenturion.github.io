@@ -535,13 +535,13 @@ flowchart LR
 
 **Cóndor**  *Quechua Kuntur*.  Ave carroñera, la de mayor envergadura alar del mundo.  Apelativo de muchos narigones en Argentina.
 
-**Confesión**  *Lat con, junto; fateri, reconocer*.  Una de las cuatro partes del sacramento de la penitencia católica.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.[^17] 
+**Confesión**  *Lat con, junto; fateri, reconocer*.  Una de las cuatro partes del sacramento de la penitencia católica.  El psicoanálisis nos enseña que lo reprimido pugna por expresarse en los lapsus, el chiste, los sueños, etc.  Otra institución del psicoanálisis digna de estudio, a propósito de este particular, es la transferencia, esto es depositar en otro los deseos y revivirlos.
 
 > Creo que soy homosexual padre.  ¿Me salvaré?  --Pregunta el adolescente en confesión.
 
 > Te salvás porque tengo misa en un ratito, sinó te doy hasta que chaca salga campeón de la libertadores.
 
-[^17]: Cuando la derecha acusa, en realidad confiesa.  
+> Cuando la derecha acusa, en realidad confiesa.  
 
 > El Cura Linera gerenciaba la parroquia de Luján, en Baradero.  Mantenía dejos de personaje de novela de Graham Greene.  La feligreesía estaba forzada a deducir la homilía a partir de sus murmullos, que de niños suponíamos era su capacidad para hablar en lenguas, como sugiere la escritura, pero pronto, no sin cierta vergüenza ajena, descubrimos que era producto del vino en damajuana.  Berreta.  Poseía, a la par de lo anterior, un ambíguo o, al menos, flexible criterio sobre el uso de la verdad.  Esto dificultaba su comunicación con aquella concurrencia pueblerina y simple.  Su extrovertida personalidad y el auxilio del alcohol, le sugirieron alguna vez que sacar un revolver del bolsillo del pantalón, acompañado de carcajadas, estaba bién.  Una diferencia notable lo separaba de las novelas de Greene.  En estas, a todos los personajes, por nefastos que sean, una mínima bondad llega a redimirlos, aún por error.  Durante los años del **Horror**, el cura redactaba con esmero, paciencia y presición contable, un informe periódico para los grupos de taréas, a quienes apodaba **Los de arriba** y uno podría confundir con Mateo, Marcos, Lucas y Juan, pero no, se trataba de otro tipo de arribas, mas tirando a abajo.   En un inocente cuaderno escolar, tabulaba de manera suscinta el motivo por el que, según su saber y entender, un indivíduo calificaba para ser secuestrado, torturado, picaneado, ñonga, desaparecido, etc.  Algo, al parecer, poco relacionado con las enseñanzas del subversivo de barba nacido en la Galilea de Tiberio.  Al lado del nombre **Roberto** y apellido, unas letras cursivas lo calificaban como *Marxista confeso,* en una serie de errores progresivos y acumulativos.  Roberto nunca había entrado a una iglesia, ni por error o curiosidad, nunca se había arrodillado frente al quiosquito de madera, apodado el confesionario.  Además, entiendo que al cura lo alcanza una expresa prohibición de narrar lo escuchado en confesión, aunque no estoy seguro de esos alcances.  Roberto nunca fue marxista, solo pelotudo y radical.  Después de unos partidos de truco, acompañados generosamente con wisky berreta, el párroco se fue de boca y mostró el cuaderno a los circunstanciales compañeros de chupino, dando por sentada una complicidad solo explicable a partir del alcohol.  El viejo lugar común de la complicdad de estar haciendo el bien, o el inconsciente que se expresa, según el psicoanálisis.  El Rulo resalta la exclusiva condición de pelotudo del gordo Rober, por lo que el cura lo tacha de la lista, con visible desagrado, después de semblantearlo al rulo, dudando si agregarlo también a la lista.  La borrachera, obra milagros en los malnacidos.  El gordo Rober nunca sospechó que nació nuevamente luego de un envido y un vaso de wisky.  Así de misteriosos son los designios del señor.  Metáfora que pinta las fuentes de información de los servicios de inteligencia.  Afortunadamente hoy existen las redes sociales para saber que opinan los zurdos, quienes son sus amigos y donde viven, evitandole a los secuestradores tan poco eficaz sistema de calificación de candidatos al cadalso.
 
@@ -563,13 +563,13 @@ flowchart LR
 
 **Copado**  *Participio del verbo copar*.  Modismo rioplatense de origen incierto, posiblemente provenga de *colmado*.  Un momento, una persona, una situación es *copada* y no traducible a otros idiomas.
 
-> ¿No tenes amigos que no sean copados?  --Pregunta ella poniendo en duda la necesidad de concurrencia al asado.
+> Exageras.  Tus amigos no son héroes.  ¿No tenes amigos que no sean copados?  --Lo que parece menosprecio, a simple vista, en realidad esconde celo y envídia, pero no de los amigos, de la alegría que generan.  También es señal.
 
-> Posiblemente no lo sean, pero así me gusta pensarlos.  Uno tiene el tamaño de quienes lo quieren.  --Sisoco García. Obras Completas. 
+> Posiblemente no lo sean, pero así me gusta verlos.  Tenemos el tamaño de quienes nos quieren.  --Sisoco García. Obras Completas. 
 
-**Cosa**  *Lat. Causa*  Lo tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas[^83].
+**Cosa**  *Lat. Causa.* Tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
 
-[^83]: Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
+> Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
 
 > El amor a las cosas es triste, porque las cosas no saben que existimos.  --Jorge Luis Borges.
 
