@@ -1873,9 +1873,9 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 ## R
 
-**Realidad** *Lat. realitas, de res, cosa*.  Por recurso ab negatio, realidad es lo opuesto a la apariencia.  El sol es el objeto que orbita nuestro planeta, que es plano, de allí su nombre.  En realidad el nombre es tierra, a pesar de se un ochenta porciento agua.    
+**Realidad** *Lat. realitas, de res, cosa*.  Por recurso ab negatio, realidad es lo opuesto a la apariencia.  El sol es el objeto que orbita nuestro planeta, que es plano, de allí su nombre.  En realidad el nombre es tierra, a pesar de estar compuesto en un ochenta porciento de agua.    
 
-> Cristian Ledesma, un pastor evangélico es el protagonista de un verdadero milagro en pleno siglo XXI.  Este había guardado cien mil pesos, en una caja de seguridad.  No deja un segundo de agradecer a gritos al señor *cuyo obrar es misterioso*, que se hayan convertido en cien mil dólares estadounidenses, mil quinientas veces superiores, en valor de cambio nominal.  En ningún momento sus fieles dudan del accionar del señor, puesto que es para el edificio, para el que también aportan el diez porciento de sus ingresos.  Amén.
+> Cristian Ledesma, pastor evangélico de Chaco, es el feliz protagonista de un verdadero milagro en pleno siglo XXI.  Había olvidado **cien mil pesos argentinos** en una caja de seguridad y al intentar recuperarlos, oh sorpresa.  No deja un segundo de agradecer al señor *cuyo obrar es misterioso*, que se hayan convertido en **cien mil dólares estadounidenses**, apenas difieren un ratio de 1500:1 en valor de cambio nominal.  En ningún momento sus fieles dudan del accionar divino, puesto que serán uesstor jura serán utilizados para una causa noble, la construcción del edificio donde cantar las loas al creador, para el que también aportan el diez porciento de sus ingresos.  Amén.
 
 **Rebato**  *Ar. رِبَاط Ribat.*  Llamada de alarma.  Cuando la campana o tambor *tocaba a rebato* llamaba a defender la **rabat**, la fortificación, la confusión y desorden que generaba entre quienes defendían de manera colectiva su patria, no son fuerzas regulares sino población inexperta.  El convento de la Rabida proviene de ahi.  El origen se remonta a atadura, como en el animal amarrado o el barco anclado, por simpatía a las tropas acantonadas y la fortaleza.  Tanto la Rabat marroquí, como las Rábida y Rábita, hacen mención a las fortalezas que guarecían las ciudades.  Las tropas allí reunidas eran al murabit o almorávides, que acuñaron el dinar de oro que muta hasta alcanzar el nombre de maravedí.
 
@@ -1901,7 +1901,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 **Resistencia**   Concepto transversal a muchas disciplinas.  En electrónica, regula los flujos de electrones, mientras que en política se convierte en bandera, como el caso de *La Résistance* o los dieciocho años durante se prohibió usar la palabra peronismo.  El solo hecho de la prohibición por ley debería obrar de tentación suficiente al espíritu revolucionario. 
 
-**Respeto**  *Lat. respectare, volver a prestar atención alrededor*.  Alude, a simple vista, a mirar nuevamente, reconocer el entorno y comportarse acorde a él, evitar decir groserías en templos o guardar silencio en el teatro.  Existe errónea creencia en un respeto puro e impersonal, que se adquiere al calificar para un rol social tal que sacerdote, o juez, o la vejez, cuando bien sabemos que el respeto hay que ganárselo.  Existe abundante bibliografía sobre sacerdotes violadores, políticos o jueces que valen menos que la grosería con la que se los nombra, al tiempo que pretender ser tratados de usted.  Mientras que por otro lado, tratamos de vos a seres casi divinos como Diego Maradona.  Así de paradógica es la condición humana.  
+**Respeto**  *Lat. respectare, volver a prestar atención alrededor*.  Alude, a simple vista, a mirar nuevamente, reconocer el entorno y comportarse acorde a él, evitar decir groserías en templos o guardar silencio en el teatro.  Existe una errónea creencia, arraigada en el *sentido común*, acerca de un respeto puro e impersonal, que se adquiere al calificar para un rol social, tales como sacerdote, juez, o simplemente la vejez, cuando bien sabemos que el respeto hay que ganárselo.  Existe abundante bibliografía sobre sacerdotes violadores, políticos o jueces que valen menos que la grosería con la que se los nombra, al tiempo que pretender ser tratados de usted.  Mientras que por otro lado, tratamos de vos a seres casi divinos como Diego Maradona.  Así de paradógica es la condición humana.  Pocas cosas invitan mas al insulto grosero que el argumento de estúpidos que piden y en casos extremos **exigen** *un poco de respeto*.
 
 > A la tía Ganga, en virtud de su edad, en la tribu la respetan mucho, por lo que se fue a vivir a otra tribu.  --Les Luthiers.
  
@@ -1923,7 +1923,7 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 El serio Seguei responde afirmativamente con la cabeza y agrega: 
 
-> Así es, pero ni bien cuente su pregunta a mi regreso, seguramente comenzarán a hacerlo.
+> Así es, pero ni bien cuente su pregunta a mi regreso, comenzarán a hacerlo.
  
 > Si quieres decir una verdad hazlos reir, de lo contrario te matarán.  --Oscar Wilde.
 
