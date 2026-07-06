@@ -585,7 +585,7 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 **Cuadriciclo**  Neologismo que pareciera sugerir un medio de transporte cuyas ruedas son cuadradas, algo poco eficiente en este contínuo espaciotiempo, dado el esfuerzo significativo del torque, momento de la fuerza aplicada al objeto, conceptos del todo ajenos a este sencillo paper.  Otra opción, que requiere mas esfuerzo poético por parte del lector, es que esas ruedas sean cuadros, lo que nos lleva a imaginar pinturas de Dalí y otros surrealistas, no este medio de transporte.  La versión mas lógica, a juzgar el vocablo, es que el original **cuatriciclo** fue diseñado para un uso exclusivo en ámbitos areniles y playas, no en urbes, donde ha dado muestras sobradas de su capacidad de producir adolescentes *cuadrapléjicos*.   
 
-**Cuatrero**  *Lat quatrupea*  Se designaba asi a los ladrones de cuadrúpedos, por lo que el abigeato no alcanzaría a ladrones de gallinas, como la mayoría de los partidarios de derechas del mundo.
+**Cuatrero**  *Lat quatrupea*.  Se designaba con esta despectiva denominación a a los ladrones de cuadrúpedos.  El principio de Legalidad del derecho penal hace que la figura delictiva no alcance a ladrones de gallinas, ya que estas solo cuentan con dos patas.  Posiblemente no les quepa el tipo penal de cuatrero, a la mayoría de los partidarios de derechas del mundo a pesar de ser ladrones reconocidos, aunque si de cuadrúpedos.
 
 > Fue sorprendido en el cuatrereado de leña, mediando nocturnidad, en inmediaciones de la casa de degustación de glandes.
 
