@@ -56,6 +56,8 @@ lead_text: 'La lengua usada en La Docta'
 
 > En defensa del alcohol debo decir que he tomado peores decisiones estando sobrio.  --Charles Bukowski.
 
+**Aljibe** *Ar. algubb  جب*.  Cisterna, por lo general subterránea para almacenar agua potable, presente en todo el territorio argentino de principios de siglo XX.  Al ser el sitio mas fresco de la casa, se lo utilizaba para poner ahí también, bebidas para refrescarlas.
+
 **Alferez** *Ar. الفَارِس alfaris, jinete*.  Oficial de caballería que lleva el estandarte.  Cierta bibliografía militar cita textual *inmediatamente por debajo del teniente*, frase curiosa, que llama a la prudencia y el decoro en preguntas ulteriores, por versar sobre varones armados, afectos a la violencia y marcada cortedad intelectual, visible en su escaso sentido del humor.
 
 **Alfil**  *Ar. الفيل al-fil el elefante*.  Proviene directamente del persa, donde elefantes es pil.  Las piezas de ajedrez representaban los elefantes de los ejércitos.  *Bishop* en inglés, curiosamente la misma raiz que da nombre a *bispo* en portugués y obispo en español.  Uno de sus múltipes seudónimos es *príncipe* por ser el mas cercano al rey y la reina.  También existe quien le pone algunas fichas a basar su etimología en alferez, el que porta el estandarte.
