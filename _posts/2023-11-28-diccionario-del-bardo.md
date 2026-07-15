@@ -56,7 +56,9 @@ lead_text: 'La lengua usada en La Docta'
 
 > En defensa del alcohol debo decir que he tomado peores decisiones estando sobrio.  --Charles Bukowski.
 
-**Aljibe** *Ar. algubb  جب*.  Cisterna, por lo general subterránea para almacenar agua potable, presente en todo el territorio argentino de principios de siglo XX.  Al ser el sitio mas fresco de la casa, se lo utilizaba para poner ahí también, bebidas para refrescarlas.
+**Aljibe** *Ar. algubb  جب la cisterna*.  Construcción subterránea destinada a almacenar agua potable, por lo general de lluvia, herencia arquitectónica de la España árabe, presente en toda la campiña argentina de principios de siglo XX.  Al ser el sitio mas fresco del hogar, se lo utilizaba también, para enfriar bebidas espirituosas.
+
+> El estructuralismo seguro tiene un método más científico para explicar algo inexplicable como la **Moda** pero seguramente, menos bella también.  En la primavera democrática de los ochentas, en la mediterránea Córdoba, ocupaban el centro de la moda los pantalones de tela escocesa y llamativamente mas pegados a la piel, de lo que veníamos acostumbrados.  Una niña generosa en glúteos camina por 25 de mayo en dirección de Maipú, donde obreros de la UOCRA se entretenienen en tareas de encofrado y silbatinas, alternativa y acompasadamente.  Descubren, a la *pretty woman, walking down the street* de cabotaje que llena la realidad diez cuadras a la redonda, uno suelta *"¿Negra, te han loteado el culo?"* a lo que otro agrega *"¡Guardame un terrenito cerca del aljibe!"*. 
 
 **Alferez** *Ar. الفَارِس alfaris, jinete*.  Oficial de caballería que lleva el estandarte.  Cierta bibliografía militar cita textual *inmediatamente por debajo del teniente*, frase curiosa, que llama a la prudencia y el decoro en preguntas ulteriores, por versar sobre varones armados, afectos a la violencia y marcada cortedad intelectual, visible en su escaso sentido del humor.
 
