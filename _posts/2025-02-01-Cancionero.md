@@ -1097,4 +1097,34 @@ Como me hace zapatear
 
 Horacio Guaraní
 
+# Yo seré tu compañero
 
+Yo seré tu compañero para la farra y el vino,
+la guitarra, los caminos, los amores lisonjeros,
+impuros y libertinos,
+pero si se acaba el vino, si te sientes prisionero,
+sin amores verdaderos y no encuentras tu destino
+entre todos los senderos, yo seré tu compañero.
+
+Y seré tu compañero para el abrazo y la gloria,
+para perder la memoria con el tiempo y el dinero
+y palmadas laudatorias.
+Mas recuerda, si el fracaso te muestra su rostro fiero:
+los vencidos siempre fueron despreciados en su ocaso
+por los que ayer los quisieron. Yo seré tu compañero.
+
+Y seré tu compañero para el sueño y la poesía,
+lo que llaman utopía, los que nunca la entendieron
+por torpeza o cobardía,
+Y en la realidad más dura y en el llanto más sincero,
+el rebelde desafuero, con toda mi encarnadura,
+para andar juntos, me quedo. Yo seré tu compañero.
+
+Y seré tu compañero en razón, paz y verdad,
+en justicia y libertad, que es todo lo que más quiero
+aunque traigan soledad.
+Para el odio y la traición o la envidia del artero
+o el soplón del carcelero, yo no presto el corazón,
+y aunque me duela no quiero, que me llames, compañero.
+
+Rafael Amor.
