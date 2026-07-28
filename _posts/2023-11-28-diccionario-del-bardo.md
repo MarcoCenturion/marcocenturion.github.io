@@ -184,6 +184,10 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Puede venir un *polen Atorrante* y fecundar el maiz.  --Luciano Stábile.  Escuela Juana Beriso, Baradero.  1982. 
 
+**Atutía**  *Ar. tutiha*   Tutia en portugues, tutie en francés.  Pomada o ungüento tópico hecha óxido de cinc, según las fuentes, con las que los árabes de la España morisca curaban heridas y golpes y hasta cosas peores.  También se aplica al sulfato de cobre, utilizado como colirio.  Cuando ya no hay nada por hacer la voz popular sugiere que
+
+> No hay tutía.
+
 **Auto** *Gr. αὐτο, autos uno mismo*.  De allí automóvil, automático, autónomo, autocrítica, autótrofo.  Que resealta aspectos de sí mismo.  Una excepción a esto fué, un titular del poder ejecutivo nacional, que no nombramos por *mufa*, se nombraban en tercera persona. 
 
 > Los autodenominados porros... --Fiscal junto con varios (muchos) policías de la Provincia de Córdoba, en acto de lectura de acta contravencional, en actuación digna de haber evitado una salidera bancaria.
