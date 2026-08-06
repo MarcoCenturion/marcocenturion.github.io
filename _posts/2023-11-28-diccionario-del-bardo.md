@@ -1351,19 +1351,21 @@ Las narraciones más bellas de la humanidad hablan de este intangible tan valios
 
 **Lego**  *Gr. Laicos Laico.*  Secular, no profesa religión alguna.  Ese contrasentido que conocemos como librepensador.  Pareciera perjudicial para el *status quo*.     
 
-**Lengua**  *Lat. lingua*.  Término polisémico, con el que se nombra uno de los mayores aportes humanos al planeta, *el verbo* y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo, parirás con dolor y un larguísimo etc.[^111]  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente interesante es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua espera por nosotros para poder expresarse, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  Las palabras que utiliza el usuario hablan mas de él que del motivo del habla.  Por ello es que debe guardarse un cuidado similar al gastronómico,  no consumir cualquier verbo debería ser similar a no consumir frituras[^112].  Es menester ejercitar una rima diaria, una historia, cuarteta o soneto, no para editar, ni para ser bueno siquiera, solo para que esa magia oculta en las letras, solo **sea**.
+**Lengua**  *Lat. lingua*.  Término polisémico, con el que se nombra uno de los mayores aportes humanos al planeta, *el verbo* y con él, la cultura, pulgar oponible, ensanchamiento del encéfalo, parirás con dolor y un larguísimo etc.  No estoy en condiciones de precisar cual fue primero, si el músculo humano o el lenguaje producido por él, aunque entiendo que es parte de un debate ocioso, puesto que lo realmente interesante es el resultado.  Erronemanete creemos ser usuarios de una lengua, cuando en realidad, según el buen **Jacques Lacan**, la lengua espera por nosotros para poder expresarse, somos utilizados como un engranaje menor de una estructura mayor, anterior a nosotros, en la que terminamos encajando a desgano.  Las palabras que utiliza el usuario hablan mas de él que del motivo del habla.  Por ello es que debe guardarse un cuidado similar al gastronómico,  no consumir cualquier verbo debería ser similar a no consumir frituras.  Es menester ejercitar una rima diaria, una historia, cuarteta o soneto, no para editar, ni para ser bueno siquiera, solo para que esa magia oculta en las letras, solo **sea**.
 
-[^111]: Existe una metáfora interensante acerca del pecado original.  Esta sostiene que fue el conocmiento, el tamaño del cerebro hace que la hembra humana sea la única que sufre con el parto.
+> Existe una metáfora interensante acerca del pecado original.  Esta sostiene que fue el conocmiento, el tamaño del cerebro hace que la hembra humana sea la única que sufre con el parto.
 
-[^112]: La feliz metáfora de niños en el jardín de infantes, encadenados y cubiertos de vaselina, habla mucho mas del usuario que de los niños, que esperemos, nunca tengan gente así cerca.
+> La feliz metáfora de niños en el jardín de infantes, encadenados y cubiertos de vaselina, habla mucho mas del usuario que de los niños, que esperemos, nunca tengan gente así cerca.
 
 > Dicen que sos complicado, que te cuesta el orgasmo.  --Dice un clítoris a otro.
 
 > No hagas caso.  Son las malas lenguas.  --Responde el increpado.
 
-**Lenguaje corporal**  
+**Lenguaje corporal**  Para el psicoanálisis, manifestación de aquello que las palabras pretenden ocultar.  Se expresa en equívocos, tropiezos, o quedarse sentado en un sillón cuando toda la familia sale el veinticuatro de diciembre a cenar con parientes que sostienen que el mercado se regula solo.  Es a este fin que se comercializan hermosas remeras con leyendas de autoayuda, por lo general en tiendas dispuestas a tal fin en ciudades turísticas.  La recomendada por la clínica para estos casos es una que sostiene: *Tengo esta cara de ojete porque no quería venir*.  Aunque hay otras también efectivas y en otros colores.
 
-> Por la posición en que una señorita pone los pies, descubres facilmente si le gustas.  Si los coloca en tus hombres, evidentemente le gustas.
+> ¿Maestro, como sabré si le agrado a ella?  --Pregunta el niño Kwai Chang Caine, alias *Kung Fu*.
+
+> Por el lenguaje corporal lo sabrás, pequeño Saltamontes, debes observar con detenimiento como ella pone los pies.  Si los coloca en tus hombros, evidentemente le gustas.  --Responde sabiamente el maestro Po.
 
 **Lente** *Sus. Lat. Lens, Lentis*  Lenteja es un cereal llamado así por el formato parecido a un lente de cristal.  ¿O al revés?  Que si quieres las tomas, sino las dejas.  Las lentejas, porque las lentes es conveniente no dejarlas.   
 
@@ -1535,7 +1537,7 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Vive de tal forma que tu muerte sea una injusticia. --Miguel de Unamuno.
 
-**Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma más extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen en sus legislaciones, Los **Estados Unidos de Norteamérica** y **Japón**.  Tal vez el principal -pero no el único como veremos- argumento en contra es la imposibilidad de enmendar errores de juicio.  Pasados 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  El hecho de ser todos anarquistas y socialistas, hace que ese idulto de poco valga en el cielo, en el que no creen, porque están muertos.  Una de las falacias mas tiernas en favor de la pena de muerte es la económica, los datos más optimistas sugieren no menos de diez millones de dólares, mientras que las pesimistas, doscietos cincuenta, dependiendo el estado[^12].  Otra falacia es el miedo que produce y coacciona al proto delincuente, desmentido a diario por las estadísticas oficiales.  Estados que mantienen la pena de muerte, muestran igual o mayor tasa de homicidios violentos, respecto de aquellos que la abolieron.
+**Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma más extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen en sus legislaciones, Los **Estados Unidos de Norteamérica** y **Japón**.  Tal vez el principal -pero no el único como veremos- argumento en contra es la imposibilidad de enmendar errores de juicio.  Pasados 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  El hecho de ser todos anarquistas y socialistas, hace que ese idulto de poco valga en el cielo, en el que no creen, porque están muertos.  Una de las falacias mas tiernas en favor de la pena de muerte es la económica, los datos más optimistas sugieren no menos de diez millones de dólares, mientras que las pesimistas, doscientos cincuenta, dependiendo el estado[^12].  Otra falacia es el miedo que produce y coacciona al proto delincuente, desmentido a diario por las estadísticas oficiales.  Estados que mantienen la pena de muerte, muestran igual o mayor tasa de homicidios violentos, respecto de aquellos que la abolieron.
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
 
@@ -1732,6 +1734,10 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 > Ayer me golpeó un libro en la cabeza y perdí el conocimiento.
 
 **Paraíso**  *Lat paradisus, jardín del Gr. παράδεισος y este del persa پرديس cercado.* Al parecer paraiso y huerto tienen el mismo significado, aludiendo a una vida hortícola antes que carnívora.   
+
+> Los argentinos que se portan bien, cuando mueren van al cielo (París); los que se portan mal, se quedan en Argentina.  --El Sur.  Ficciones.  Jorge Luis Borges 
+
+**Partícula**   *Lat. particula, parte, un poco*.  Pareciera a simple vista aludir a una parte del culo, pero no es así.  La partícula, hasta la mecánica cuántica, era la porción mas pequeña en que un elemento podía dividirse, pero eso fue puesto en duda a principios del Siglo XX a partir de los trabajos de Ruthenford, Born, Heisemberg, Plank, Shrodinger, etc. perdemos certezas, parece ser por culpa del idioma, ya que no tenemos una palabra que describa algo que es partícula y onda al mismmo tiempo.  Nuestra limitación intelectual, es la de nuestro idioma. 
 
 **Pata de Lana** *Mit.*  Ser sobrenatural de apariciones, temidas, sospechadas y esporádicas.  Pareciera existir un patrón en su conducta.  Se incrementan las posibilidades de ser beneficiados con su visita, aquellos hogares con mayor machismo violento.  Debe su nombre al sigilo que observa al llegar o en su retirada.  Ambiguas pruebas de su paso son, prendas de vestir que nadie reconoce, humo de cigarrillos en casas de no fumadores, sonrisas nuevas.  Se le adjudican prodigios como pago espontáneo de facturas de luz por vencer.  Durante el siglo XX, los vendedores ambulantes que circulaban por los barrios llevaban agua, soda, garrafas de gas, plumeros.  Se fue perdiendo, quedan pocas profesiones con este carácter social.
 
@@ -2393,7 +2399,7 @@ Asumiendo una estupidez en el prójimo que -extrañamente- no repara en sí, en 
 
 ## Z
 
-**Zanja**  *Ar. zaja*.  Corte en la tierra, excavación alargada.  Hemos observado eruditas personas referirse livianamente a *zanjar diferencias*, pretendiendo significar que esto las acortara, en lugar de separarlas definitivamente.  Esto explica, en gran medida, las diferencias políticas.  El idioma es mas mucho mas inteligente que los usuarios.
+**Zanja**  *Ar. zaja*.  Corte en la tierra, excavación alargada.  Hemos observado eruditas personas referirse livianamente a *zanjar diferencias*, pretendiendo significar que esto las acortara, en lugar de separarlas definitivamente.  Esto explica, en gran medida, las diferencias políticas.  El idioma es mucho más inteligente que los usuarios.
 
 > ¡Caiese zanjuda!  --Menosprecio de una jóven a otra, medio de transporte público, ciudad de Córdoba, acompañada de gallito interdental.  Primavera 2020.
 
