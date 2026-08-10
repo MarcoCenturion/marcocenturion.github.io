@@ -2219,7 +2219,7 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 > Así es en efecto, pero has de recordar, Severian, que cuando los regalos se merecen son un pago, no un regalo.  --La Sombra del Torturador.  Gene Wolfe. 
 
-**Tradición** *Lat. traditio, tradere transmitir*.  Aquello que pasa de generación en generación.   Presión de los muertos sobre los vivos.
+**Tradición** *Lat. traditio, tradere transmitir*.  Aquello que pasa de generación en generación.   Presión de los muertos sobre los vivos para que cometan los mismos errores.
  
 **Traje**  Del portugués, *trajer*.  Vestimenta que oficia a modo de disfraz, originalmente en las galas, donde gente que se odia simula cortesía.  Si nos detenemos un segundo en la definición, caeremos inevitablemente en la conclusión que toda vestimenta es disfraz, es  una toma de posición.  Como todo disfraz, requiere cuidados especiales de parte de los interlocutores.
  
