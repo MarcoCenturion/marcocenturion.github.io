@@ -691,6 +691,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > Si volviera a vivir, intentaría buscarte mucho antes.  --El Principito.  Antoine de Saint-Exupéry.
 
+**Desierto**  *Lat. desertus, abandonado*.  Curioso pensar que nuestros antepasados europeos avanzaron sobre tierras de los pueblos originarios, llamándola **Campaña del Desierto** cuando en realidad había pueblos con sus dioses, sus sueños, descendencia y cultura.  
+
+> Sol todo el tiempo hace un desierto.  --Proverbio árabe.
+
 **Día**  *Lat. Dies*.  Corresponde a las diez horas de luz del día legal de veinticuatro horas, burocráticos y legales como eran los tiempos del imperio.  Tienen el mismo origen diario, diana, y diurno, de donde derivan el italiano giorno y el francés jour.  Parecieran mas bonitos bonjour y buongiorno al oído que el buen día hispano.  Diana la cazadora nació que naciera en Delos, una de las Cícladas Vulcano y a la que el dios tuerto de Sicilia le regaló las flechas, paradojicamente el la diosa de la Luna.  En ámbitos castrenses, tocar diana, es la actividad que realiza un trompeta para levantar a la tropa, cuando tranquilamente lo puede hacer el despertador del celular.
 
 **Diagnóstico**  *Gr. διαγνωστικός dia a través, ticos referente y gnosis conocimiento*.  A través del conocimiento podemos referirnos a la consecuencia de una causa.  Pareciera demasiado complejo para encéfalos alimentados por redes sociales, pero es interesante el conmcepto porque el divinal Sisoco García documentó, a modo de chanza, que se trataba de un *dúo de ateos*.  No es extraño pensar que al paso que vamos, la realidad termine por darle la razón.
@@ -833,15 +837,25 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > La eternidad es hoy, para cantar y derrotar al tiempo.  --El Valle y el Volcán.  María Elena Walsh.
 
+**Evento**  *Lat. eventus*.  Originalmente un hecho imprevisto o de realización inciera o contingente, luego, todo aquello que pueda suceder.  Ahora, quedaría vedado el uso en tiempo pasado, puesto que lo que era incierto, ya sabemos a ciencia cierta si sucedio o no, puesto que ya perdio su carácter de incierto o eventual.  De allí la imposibilidad de la frase.
+
+> El evento ocurrió el lunes.
+
 **Ex**  *Lat. ex eso que ya no es, del Gr. Ek*.  Sufijo que antecede palabras para señalar el afuera presente en explorador, exilio, exprofeso o las de base griegas como eclipse, ecléctico o ectoplasma.  Se aplica despectivamente hacia quien perdiera todo tipo de encantamiento.  Multitud de razones fuerzan al indivíduo a esta condición, como la definición de fantasma en boca de Stephen en el Ulises de Joice: *por muerte, ausencia o cambio de costumbres*.  Mi favorita es la que ejercía el abuelo Armando, el bello arte de la *sordera selectiva*.  La condición para el uso de esta es no hacerla extensa en el tiempo, puesto que es asumida como abusiva.
 
 > Cruzate a comprar pan.  --Abuela Amanda.
 > 
 > ¿La mujer de quien murió?  --Ahuecando la mano sobre el pabellón de la oreja izquierda.  Abuelo Armando.
 
-**Evento**  *Lat. eventus*.  Originalmente un hecho imprevisto o de realización inciera o contingente, luego, todo aquello que pueda suceder.  Ahora, quedaría vedado el uso en tiempo pasado, puesto que lo que era incierto, ya sabemos a ciencia cierta si sucedio o no, puesto que ya perdio su carácter de incierto o eventual.  De allí la imposibilidad de la frase.
+**Éxito**  *Lat. exitus* salida.  Término, fin.  En el ingles sobrevive en exit.  En el idioma de Cervantes, esto puede llevarnos a conclusiones erroneas sobre que el éxito sea el objetivo final y único de un proceso.  Los indúes en cambio suelen decir que si algo no está bien es porque aún no terminó.  No podemos pensar lo que nuestro idioma no contempla.
 
-> El evento ocurrió el lunes.
+> ¿Cual es el secreto del éxito?  --Pregunta Kung Fu al maestro Po.
+
+> Tomar buenas decisiones, pequeño saltamontes.  --Reponde el maestro.
+
+> ¿Y como aprendo a tomar buenas decisiones?
+
+> Tomando malas decisiones.
 
 **Experiencia**  *Lat. Prueba, ensayo*.  La felicidad está oculta en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
@@ -2365,7 +2379,7 @@ o
 
 **Voz** *Lat. Vox.*  Aire que sale del pecho.  Vox populi, vox dei, la voz del pueblo es la voz de dios.
 
-**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, separados de nosotros los mamíferos hace varios millones de años, primera gran herida al ego de los simios con pulgares oponibles.  Cierta fábula gringa recuerda a los **Hermanos Wrigh** como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*, ese tipo de auxiliar no solo con sufiiente amor hacia uno, sino además con la fuerza suficiente como para bajarnos de la baranda del balcón en el piso once.  3- La primera experiencia, volviendo a la teoría evolutivai, parte de las F||F *fight or flight*.  
+**Vuelo** *Lat. Volare.*  1- Actividad reservada a las aves, descendientes directos de los dinosaurios, separados de nosotros los mamíferos hace varios millones de años, primera gran herida al ego de los simios con pulgares oponibles.  Cierta fábula gringa recuerda a los **Hermanos Wrigh** como los primeros en *volar*, cuando lo correcto es recordarlos como los primeros en *aterrizar*.  Thiking out the box.  2- Capacidad que se adquiere con grado de *Certeza irrefutable* luego de la ingesta de ciertos tóxicos, es por ello que algunos de estos se prescriben, solo en presencia de un *tutor benévolo*, ese tipo de auxiliar no solo con sufiiente amor hacia uno, sino además con la fuerza suficiente como para bajarnos de la baranda del balcón en el piso once.  3- La primera experiencia, volviendo a la teoría evolutiva, parte de las F||F *fight or flight*.  
 
 >  Falopas duras en tipos blandos, ahuecan corazones. --Carlos Solari.
   
