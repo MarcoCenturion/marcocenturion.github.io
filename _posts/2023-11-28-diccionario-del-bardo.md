@@ -1125,6 +1125,10 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 
 > Hoy por hoy estimamos que serían convenientes la república y el coso, o sea, digamos.  --Cualquier referente de los seres de looz.
 
+**Humo**  *Lat. fumus*.  De allí también vienen todos los verbos relacionados con fumar: difuminar, esfumar, perfumar y los calificativos relativos al humo como fumón.
+
+> Todas son máquinas de humo, solo falta aplicar la cantidad suficiente de energía.  --Manual del alumno bonaerense.  Ed. 1974.
+
 **Humor** *Lat. Humoris, líquido, humedad.*  Los antiguos médicos griegos suponían la existencia de líquidos llamados humores en el cuerpo, muy sanguíneo explicaría un humor colérico, en cambio las lágrimas de alegría mostrarían un buen humor y así con los demás humores, saliva, orinas, etc.  La salud, luego, suponía un balance correcto de esos líquidos.   El desajuste de los líquidos y la sorpresa, sobrevienen cuando el payaso se tropieza, pero debe existir un mínimo de control para el manejo de los tiempos, como bien lo hacía el famoso *Tandarika*.  El indivíduo ríe con lágrimas y en los casos severos, con alguna suelta de pis inesperada y graciosa también.  Glenn Miller y su *big band* grabaron *In the mood* en los cuarentas, que aquí se conoció como *De buen humor* poco antes de estrellarse su avión contra un prostíbulo en Francia.  Contra lo que todos podemos suponer, mi única escapatoria al horror de la dictadura era una revista muy seria llamada precisamente **Humor**.
 
 > El hombre sufre tanto su existencia que debió inventar la risa.  --Nietzsche
@@ -1579,6 +1583,8 @@ Y sin haber pisado un barco en la vida, imaginamos velas preñadas de aire, foqu
 
 **Nave**  *Lat. navis y este del Gr. ναῦς*.  Las naves fueron diseñadas originalmente para navegar medios acuosos, pero llegado el siglo XIX comienza el viaje por otros medios como el aire.  Pasada la mitad del siglo XX ya hay viajes a través del vacío espacial.  Esta cuestión del vacío pone en duda la banderita gringa en la luna, flameando como si hubiera aire.  La fabricación de aviones a partir de largueros y costillas de madera, muestra cuanto dependemos de formas de pensar anteriores, viejas respuestas para nuevas preguntas.  Nuestras limitaciones, siempre son las limitaciones de nuestra época.
 
+**Nafta**  *Lat. naphta*.  De aqui también nos llega naftalina.  En las márgenes del Río de la Plata se le llama así a lo que en el resto de los países hispano parlantes llaman gasolina.  Por una curiosa razón.  A principios del siglo XX los rusos necesitaban alimentos y exportaban sus derivados del petróleo ya destilados, entre ellos la nafta, a la que llamaban así.  Argentina y Uruguay comercializaban con la URRS y adoptaron esta denominación.
+ 
 **Negocio** *Lat. Nec Otium - Ninguna de las partes está ociosa.*  Nadie puede obtener beneficios sin algo a cambio, para que sea un negocio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poderi concluir satisfactoriamente la existencia de una **utilidad**.  La sociedad toda se encargó de ocultar estos datos.[^4]
 
 [^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
