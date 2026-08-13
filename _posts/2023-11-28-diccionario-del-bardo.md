@@ -126,6 +126,10 @@ lead_text: 'La lengua usada en La Docta'
 
 **Ananá**  *Guar*.  Perfume de los perfumes, en el idioma de los guaraníes.  El fruto que subió la vara del sabor para los paladares europeos.
 
+**Analfabeto**  Incapacitado para leer.  El significado y significante están desconectados en el intelecto de ese indivíduo, muchas veces por falta de oportunidades.  Existen otro tipo de analfabetos, aquellos que habiendo tenido una educación formal, prefieren la comodidad de la *aurea mediocritas* que otorga cierta impunidad relativa.
+
+> The man who does not read, has no advantage over the man who cannot read.  --Mark Twain.  
+
 **Andar** *Lat. Ambulare.*  De donde proceden ambulatorio, ambulancia.  El portugués lo utiliza para mencionar los pisos de un edificio, seguramente porque ahí se puede andar.  Mantiene el significado original, que pareciera sugerir un movimiento sin demasiado sentido, como vemos en el famoso convite de los ochentas
 
 > Vamos a andar, en verso y vida atentos.  --Silvio Rodriguez
@@ -1602,7 +1606,9 @@ Y sin haber pisado un barco en la vida, imaginamos velas preñadas de aire, foqu
 
 **Nave**  *Lat. navis y este del Gr. ναῦς*.  Las naves fueron diseñadas originalmente para navegar medios acuosos, pero llegado el siglo XIX comienza el viaje por otros medios como el aire.  Pasada la mitad del siglo XX ya hay viajes a través del vacío espacial.  Esta cuestión del vacío pone en duda la banderita gringa en la luna, flameando como si hubiera aire.  La fabricación de aviones a partir de largueros y costillas de madera, muestra cuanto dependemos de formas de pensar anteriores, viejas respuestas para nuevas preguntas.  Nuestras limitaciones, siempre son las limitaciones de nuestra época.
 
-**Nafta**  *Lat. naphta*.  De aqui también nos llega naftalina.  En las márgenes del Río de la Plata se le llama así a lo que en el resto de los países hispano parlantes llaman gasolina.  Por una curiosa razón.  A principios del siglo XX los rusos necesitaban alimentos y exportaban sus derivados del petróleo ya destilados, entre ellos la nafta, a la que llamaban así.  Argentina y Uruguay comercializaban con la URRS y adoptaron esta denominación.
+**Nafta**  *Lat. naphta del Gr. νάφθα*.  De aqui también nos llega naftalina.  En las márgenes del Río de la Plata se le llama así a lo que en el resto de los países hispano parlantes llaman gasolina.  Por una curiosa razón.  A principios del siglo XX los rusos necesitaban alimentos y exportaban sus derivados del petróleo ya destilados, entre ellos la nafta, a la que llamaban así.  Argentina y Uruguay comercializaban con la URRS y adoptaron esta denominación.  Los gringos le dieron un uso intensivo en la guerra de (sic) Vietnam, también Napalm proviene de este origen etimológico.
+
+> Durante todo el siglo XX y XXI, le asignamos el nombre de la nación agredida, porque quedaría demasiado incómodo para la notación histórica Guerra de Estados Unidos I, II, III y así sucesivamente.
  
 **Negocio** *Lat. Nec Otium - Ninguna de las partes está ociosa.*  Nadie puede obtener beneficios sin algo a cambio, para que sea un negocio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poderi concluir satisfactoriamente la existencia de una **utilidad**.  La sociedad toda se encargó de ocultar estos datos.[^4]
 
