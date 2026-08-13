@@ -32,11 +32,11 @@ lead_text: 'La lengua usada en La Docta'
 
 > ¿Que acelga?
 
-**Acequia**  *Ar assáqya, الساقية al-sāqiyah irrigadora*.  Al igual que los pueblos esquimales tienen mas de cien palabras para nombrar el blanco, los pueblos andinos otro tanto para las papas, los pueblos árabes festejaban el agua, una cosmovisión en derredor del líquido vital desde el transporte hasta el uso ritual.  El humano medio se mueve dentro de sus límites intelectuales, es lógico que los pueblos del desierto hayan especializado su saber en el transporte del agua.  Así lo ve un poblador del centro de argentina, mirando sendas canaletas entre los bananos de las plantaciones costarricences, pregunta al chofer del taxi "¿Riego?" haciendo un gesto con ambos brazos indicando agua que fluye.  El conductor mira asombrado y niega con la cabeza.
+**Acequia**  *Ar assáqya, الساقية al-sāqiyah irrigadora*.  Al igual que los pueblos esquimales tienen mas de cien palabras para nombrar el blanco, los pueblos andinos otro tanto para las papas, los pueblos árabes festejaban el agua, una cosmovisión en derredor del líquido vital desde el transporte hasta el uso ritual.  El humano medio se mueve dentro de los límites intelectuales de su lengua, es lógico que los pueblos del desierto hayan especializado su saber en el transporte del agua.  Así lo ve un poblador del desértico centro de argentina, mirando sendas canaletas entre los bananos de las plantaciones costarricences, pregunta al chofer del taxi *¿Riego?* haciendo un gesto con ambos brazos indicando agua que fluye.  El conductor mira asombrado y niega con la cabeza.
 
 > Desagote, aquí llueve cincuenta milímetros diarios.  --Haciendo señales con las manos en sentido contrario.
 
-**Achura**  *Quechua achuray*.  Repartir.  Luego, pequeña ración compartida.  En el Río de la Plata, las achuras son las vísceras del animal *carneado*, mientras que la masa muscular se vendía, las achuras se regalaban a quienes colaboraron en la matanza del animal, luego fue mutando a un permiso que se otorgaba a los pobres, para llevarse lo que no se iba a comer, intestinos y vísceras del animal. 
+**Achura**  *Quechua achuray*.  Repartir.  Luego, pequeña ración compartida.  En el Río de la Plata, las achuras son las vísceras del animal *carneado*.  Mientras que la masa muscular se comercializaba como un bien cualquiera, las achuras se entregaba como pago a quienes colaboraron en las faena del animal.  Esta costumbre fue mutando a un permiso que se otorgaba a los pobres, para llevarse lo que no se iba a vender ni comer, intestinos y vísceras en general. 
 
 > Para que las criaturas, que andan por allí alrededor, o algún mozo carniador, les larguen unas ahuras.  --Santos Vega.  Hilario Ascasubi.
 
