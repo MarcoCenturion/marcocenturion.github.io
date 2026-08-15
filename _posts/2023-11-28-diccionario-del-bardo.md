@@ -1174,6 +1174,10 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 
 **Impostura**  *Lat. impostura in negacion y positus, puesto, alguien que está en un lugar donde no corresponde*.  Engaño.  El impostor se coloca donde no debe, se vale de la buena fe de quienes le creen.  Es muy curioso el caso del médico que opera sin haber estudiado medicina, causa especial extrañeza por el placer en hacer algo tan complicado y repulsivo como cortar a alguien.  No tan extraño es el caso de los guardias de seguridad que siempre son policías o militares frustrados, lo notamos en sus anteojos espejados tipo clipper, creyéndose Top Gun siendo en realidad Locademia de Policía.  Habitamos un mundo de impostores, nosotros, en cambio, llevamos colgadas del hombro, bandoleras camufladas homenajeando a Ernesto Guevara.
 
+**Importante**  *Lat. importans, portare, llevar dentro*.  Lo valioso está dentro.  Galeano sugería, merced a su condición de *Alopesía Crónica*, que lo realmente importante de la cabeza está dentro.  Se da luego la paradoja de ser el importe lo menos importante de la cosa.
+
+> Todo se puede comprar con dinero, salvo lo importante.  --Sisoco García.  Obras Completas.  1984.
+
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
 **Infiel**  *Lat. Infidelis, no confiable.*  Originalmente se refería a quienes renegaban de la religión, los cristianos llaman infieles a los musulmanes y estos a su vez, kafir a los cristianos o quienes tengan mas que un dios.  Afortunadamente el espíritu crítico del siglo XXI ha demostrado las falacias de las religiones.  Infieles pasaron a ser quienes descrean de las leyes de mercado.
