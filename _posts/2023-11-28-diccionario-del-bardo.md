@@ -196,6 +196,10 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > No hay tutía.
 
+**Aura**  *Lat. aura, Gr. αὔρα aire*.  Soplo de aire.  Los espiritistas del siglo XVIII lo asignaban al alma o algo etereo que emanaba de los seres vivos.  En la Escuela de Frankfurt el teórico Walter Benjamin lo sospecha rodeando la obra de arte.  La reproducción automática y el aislamiento de esa obra, según este autor, vienen a destruir el aura de la obra artística.   
+
+> Si a medidados del siglo XX alguien daba sin pensarlo con los fragmentos finales de una obra musical, en una radio, puede que llegara esa magia por recurso de irrepetibilidad, ya que era muy complejo rastrear el origen.  En una disquería de London, un italiano pelado escuchaba tararear al comprador y descubría la melodía.  Luca Prodan hizo del descubrimiento del aura, una profesión.  Cierta mañana de los ochentas, época en que las disquerías hacían gala sonora de sus novedades, caminaba por la peatonal Rivera Indarte, en la Córdoba de la llegada de la Democracia.  De golpe, un sonido en acordes de La Menor da paso a golpes de batería de rock.  El fraseo distorcionado apenas deja entrever que se trata de *El Arriero* de Yupanqui, aún recuerdo la sensación de piel de gallina y ganas de llorar.  Demoré algunos minutos en recobrar al paso. 
+
 **Auto** *Gr. αὐτο, autos uno mismo*.  De allí automóvil, automático, autónomo, autocrítica, autótrofo.  Que resealta aspectos de sí mismo.  Una excepción a esto fué, un titular del poder ejecutivo nacional, que no nombramos por *mufa*, se nombraban en tercera persona. 
 
 > Los autodenominados porros... --Fiscal junto con varios (muchos) policías de la Provincia de Córdoba, en acto de lectura de acta contravencional, en actuación digna de haber evitado una salidera bancaria.
@@ -1985,8 +1989,12 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 **Respeto**  *Lat. respectare, volver a prestar atención alrededor*.  Alude, a simple vista, a mirar nuevamente, reconocer el entorno y comportarse acorde a él, evitar decir groserías en templos o guardar silencio en el teatro.  Existe una errónea creencia, arraigada en el *sentido común*, acerca de un respeto puro e impersonal, que se adquiere al calificar para un rol social, tales como sacerdote, juez, o simplemente la vejez, cuando bien sabemos que el respeto hay que ganárselo.  Existe abundante bibliografía sobre sacerdotes violadores, políticos o jueces que valen menos que la grosería con la que se los nombra, al tiempo que pretender ser tratados de usted.  Mientras que por otro lado, tratamos de vos a seres casi divinos como Diego Maradona.  Así de paradógica es la condición humana.  Pocas cosas invitan mas al insulto grosero que el argumento de estúpidos que piden y en casos extremos **exigen** *un poco de respeto*.
 
 > A la tía Ganga, en virtud de su edad, en la tribu la respetan mucho, por lo que se fue a vivir a otra tribu.  --Les Luthiers.
+
+**Resta** *Lat. restare*.  Quitar una parte a lo que está de pie.  El masculino plural restos, pareciera provenir de la misma raiz etimológica, pero ya no están de pie.  
+
+> Lo que no suma resta.
  
-**Revolución** *Lat. revolutio, una vuelta*  Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas, tirantuelos o aprendices de.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* de Wilde, cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor corrige levemente la apertura ocular, como toda ofuscasión permitida a un inglés y pregunta:
+**Revolución** *Lat. revolutio, una vuelta*  Momento histórico donde la gilada se hincha las pelotas de tenerla tan adentro y opta por separar cabezas de troncos de monarcas, tirantuelos o aprendices de.  Opera también con relativa eficacia en las democracias.  Cambian muy pocas cosas hasta el nuevo *status quo*.  Las capas superiores de las sociedades no las ven llegar por el viejo ciclo repetitivo, ni las imaginan, como el protagonista de *La Importancia de ser Ernesto* de Wilde, cuando el mayordomo lee las noticias y da cuenta de una revolución social en Rusia.  El señor corrige levemente la apertura ocular, como toda ofuscasión permitida a un inglés y pregunta.
  
 > ¿Mujeres fumando en la ópera?
  
