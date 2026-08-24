@@ -366,6 +366,8 @@ flowchart LR
 
 > Dudoso como un presente griego.  --Stephen Dedalus.  Ulisses.  No tenía nada que ver pero lo usé por la cercanía espacial. 
 
+**Camello**  *Lat. camelus, Gr. κάμηλος kamelos, Heb. גמל gamal*.  Camel en inglés del tabaco y Kamell, en alemán.  Rumiantes del viejo mundo, de hasta dos metros de altura.  Pariente de guanacos, llamas y vicuñas de América.  Los libros sagrados tienen un problema serio con este.  Según Borges, no hay camellos en el Corán, si bien leí bastante de este, no puedo decir que lo agoté, por lo que no puedo dar fe de esto.  La que sí leí completa es la Biblia y esta coloca caravanas de camellos cinco mil años antes de la era común, lo cual es un anacronismo porque estos no se domesticaron hasta entrado el último siglo AC.  
+
 **Camino**  *Lat. Camminus del celta camanon*.  Terreno por el que se transita.    
 
 > Dice que no dejes que crezca el pasto en el camino de la amistad --Dejemos hablar al viento.  Juan Carlos Onetti[^13].
@@ -506,7 +508,7 @@ flowchart LR
 
 **Choco**  Tiene innumerables acepciones a lo largo de toda la América hispana, dispares y hasta contradictorias.  En ciertas latitudes es utilizado para nombrar tuerto, o truncado, o mutilado, a veces es rabón, otras es rubio y no muy lejos negro, en otras es crespo.  Por lejos la mejor es la *cuyana*, que la utiliza para nombrar perros, especialmente los molestos, pequeños, ladradores.
 
-> Que se cague toriando la choca.  [*No me importa que la perrita ladre*] --Metáfora de: !Que me importa!  Profe Agustina.  StandUp 2025.
+> Que se cague toriando la choca.  [*No me importa que la perrita ladre en demasía*] --Metáfora de: !Que me importa!  Profe Agustina.  StandUp 2025.
 
 **Chocolate**  *Nahuatl xocolatl, color marrón.* Este tóxico se utilizaba en mezoamérica con fines ceremoniales, como todo alucinógeno que se precie, para inducir a los sacerdotes a entrar en comunicación con la divinidad.  En ese entonces era moneda de cambio de la plebe, por su carácter escaso y valioso.  Uno de los mayores aportes de América a la civilización occidental y luego al mundo.  La ingesta hace que se alcance el *umbral del placer* en el primer gramo, mientras que el *umbral de peligro* por coma hepático se alcanza al llegar al kilogramo.  Esto nos dá un excesivo *margen de seguridad*, al contrario de otros tóxicos como el alcohol, en el que este último es mucho menor.  El cuerpo, sabiamente, se ocupa de deshacerse de los excesos mediante vómitos, en ambos casos.  El chocolate marrón lleva la mayor proporción de chocolate propiamente dicho, mientras que el blanco está compuesto principalmente por las grasas del cacáo.  Este último, al ser casi exclusivamente grasa, cede su sabor original en favor del suavizante para ropa, en todos los supermecados chinos, *por simpatía, por cercanía*, lo mismo le ocurre al pan lactal, la manteca, el wisky, la verdura de hoja y todo aquello que se encuentre en un radio de 1 km del suavizante, incluído el Fiat Duna estacionado en la vereda. 
 
