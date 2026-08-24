@@ -520,9 +520,13 @@ flowchart LR
 
 > Transeunte ocasional lleva entre sus dedos un porro del tamaño de la Isla de Manahattan, ofrece gentil a un hombre mayor mandíbula movediza y mirada de apertura proto humana.  Otro de los presentes interpone su brazo y parte del cuerpo, en actitud propia de cubrir la llegada aérea del balón en un corner.
 
-> Si llega a fumar de eso, corta el cigüeñal.  --Mañana Olaviarría, llovizna, horas antes del último recital del Indio.
+> Si llega a fumar de eso, corta el cigüeñal.  --Llovizna malogradora de asados, recital del Indio, uno de ellos extiende tuca a un tercero que no emitió sonido en toda la mañana y está en modo freeze Disney.  Olavarría, 11:00 hs.  Previo último recital del Indio.
 
 **Circumcisión**  Extraña práctica religiosa cuyo objeto último -aparente- consiste en excluir un grupo humano.  Inmediatamente, la persona más perspicaz, imagina un grupo exluido, los no circumcisos.  Pero hay un objetivo último, un objeto que pasa desapercibido por lo **obvio** y **evidente**.  Ni siquiera el grupo humano excluido nota que es así.  Existe un grupo humano aún más numeroso que los no circumcisos, aquellos que nunca podrán ser sometidos a esa práctica.  Las **mujeres**.  Especie de metáfora para adoptar el método *Think out the box*.
+
+**Cita**  *Lat. citar, impulsar, mover*.  Sugiere que dos o mas indivíduos concurran al lugar donde fueron citados, como también, durante una lectura, al encontrar una cita, que busquemos esa cita en el libro original.  Aunque la cita ideal pareciera ser de solo dos personas, no deberíamos restarle interés a una mayor, por lo menos por el solo hecho de recordar tiempos de dictadura en los que estaba totalmente prohibida la reunión de mas de tres personas.  También de allí proviene toda una familia de términos, todos interesantes, concitar, incitar, solicitar, suscitar, resucitar y uno interesante per se, exitar.
+
+> Algunos citan a Marx y Nietzche, para denostarlos, los citan mal y están perdidos, porque inmediatamente vamos a leerlos y son geniales.  Ricardo Piglia en sus charlas sobre Borges.
 
 **Clásico** *Lat. Classicus, de classis, convocatoria, reclutas de primer clase, las primeras líneas de infantería*.  Classici eran los excritores a los que inevitablemente había que leer.  **El Quijote de Cervantes**, bien puede pasar como otra novela de caballería más, con todos los elementos constitutivos del género, pero algo hace que trascienda su tiempo y siga provocando emoción quinientos años mas tarde.  También pareciera aplicar a un bolero clásico, una letra simple se apoya en una melodía y armonías también simples y bailables, hasta que un giro inesperado de las frases musicales, anotician al oyente que está en presencia de otra cosa, de algo a lo que debe prestar atención y no es la lluvia cayendo.
 
@@ -765,11 +769,13 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > El rock es drama.  Todo lo que había que decír sobre la felicidad ya lo hizo Ramón Ortega **La felicidad, ja ja ja ja**.  No hay mucho que agregar.  --Carlos Solari.
 
-**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda.  Su par antagónico *dogma* es la escrerosis del conocimiento, término con el que comparte, cuiosamente, el comienzo y el final. 
+**Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda.  Su par antagónico *dogma* es la escrerosis del conocimiento, término con el que comparte, cuiosamente, el comienzo y el final.  Existe la creencia errónea que la educación formal debe fortalecer el caracter del alumnado, cuando en realidad debe formarlos en la duda constante.  El anciano Sócrates caminaba por Atenas poniendo en dudas las seguridades de la gente, con su método mayéutico. 
 
 > Hay una hermosa metáfora clásica *Dudoso como presente griego* en clara alusión al Caballo de Troya. 
 
 > Yo antes dudaba.  ¡Ahora no sé! --Ética a Jacinto.  Odiseo Torres.
+
+> Los españoles hablan como si desconocieran la duda. --Jorge Luis Borges.
 
 **Dureza** *Lat. Durus*  Cualidad de firmeza de las cosas.  Durazno, fruto de piel y pulpa dura.  *Dura Lex, sed Lex*, la ley es dura pero es la ley.  La feliz metáfora *duro como turrón en junio en la puerta de la heladera* hace referencia a consumos de tóxicos.
 
@@ -2255,7 +2261,9 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 > Si te pidio tiempo y distancia es porque intenta despejar velocidad.  --Albert Einstein.
 
-> Hay tanta distancia dentro del tiempo, que si uno agarra se encuentra con las montañas.  --Pequeño Dixit.  Jacinto Ruiz.  
+> Hay tanta distancia dentro del tiempo, que si uno agarra se encuentra con las montañas.  --Pequeño Dixit.  Jacinto Ruiz. 
+
+**Tomar**   *Lat. Automare*.  Hay quienes hacen provenir también de aquí la voz timar. Tomar la palabra es un proceso largo y tedioso, puede que nos lleve toda la vida.  Pedir la palabra es otorgar entidad a seres que posiblemente no estén en condiciones de decodificar lo que se tiene para decir. 
 
 **Tornillo** *Gr.τορνος tornus*. Diminutivo de torno, por el giro que expresa sobre su eje en forma de hélice.  Debemos a Pitágoras -o su escuela- cerca del siglo III de la era común, el desarrollo de esta máquina simple, en la que un plano inclinado gira sobre si mismo.  Al igual que la eterna discusión sobre la prelación entre el huevo o la gallina, experimentamos la misma incóngnita entre este y el clavo, su némesis.  El plástico argentino Benito Quinquela Martín establece la **Orden del Tornillo** que se otorga mas de trescientas veces, a *"...hombres de espíritu viven en estado de locura"* no con la intención de curar esa locura, sino toco lo contrario, no perderla nunca.  Recibieron la orden, Charles Chaplin o Mariano Mores y gente de lo mas variopinta, de manos de este hombre de frak naval y sombrero, que fuera huérfano de niño y se criara en la carbonería de esa familia italiana Chinchella que le dio amor.  Con el producto de la venta de sus cuadros mantenía clínicas y escuelas.  Cierta mañana asoman un par de señoras paquetas a su atelier de la Boca, deslubradas por los colores brillantes de la cocina, donde está pintado hasta el teléfono, descubren que no tiene ropero y se ofrecen regalarle uno.  ¿Para que puede necesitar un ropero quien solo viste no mas de tres guardapolvos de pintor?  
 
@@ -2360,10 +2368,10 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 **Vida**  *Biol.*  Antónimo de Muerte.  Eso que se escurre entre los dedos mientras trabajamos en lugares donde no somos reconocidos, a efectos de conseguir dinero y así comprar cosas que no necesitamos, para agradar a gentes que para quienes somos invisibles. 
 
 > Una chispa entre dos nadas --Jorge Luis Borges.
+
+> Trata de no utilizar la vida planeando otra.  --Sisoco Garía.  Obras Completas.
  
-> Andando por el mundo en tero. --Carta de un leon a otro.  Chico Novarro.
- 
-**Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que intuye y niega a aceptar es que solo el colectivo femenino debería disfrutarlo. 
+**Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que sugiere solo validez de disfrute para el colectivo femenino.  La gran disputa de poder podría generarse en el eje de la disputa del placer.  Ya adelantó Robert Graves, en el siglo pasado, que el origen de la civilización occidental, es la disputa de diosas femeninas con dioses masculinos, en la hélade prehistórica, época en que los reyes impusieron la herencia por línea paterna, dando nacimiento a la monogamia y toda la culpabilidad que acarrea. 
 
 > ¿Que hacés los viernes? --Preguntó una señorita a Dean Martin.
  
