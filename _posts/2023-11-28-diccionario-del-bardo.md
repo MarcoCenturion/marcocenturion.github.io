@@ -366,7 +366,7 @@ flowchart LR
 
 > Dudoso como un presente griego.  --Stephen Dedalus.  Ulisses.  No tenía nada que ver pero lo usé por la cercanía espacial. 
 
-**Camello**  *Lat. camelus, Gr. κάμηλος kamelos, Heb. גמל gamal*.  Camel en inglés del tabaco y Kamell, en alemán.  Rumiantes del viejo mundo, de hasta dos metros de altura.  Pariente de guanacos, llamas y vicuñas de América.  Los libros sagrados tienen un problema serio con este.  Según Borges, no hay camellos en el Corán, si bien leí bastante de este, no puedo decir que lo agoté, por lo que no puedo dar fe de esto.  La que sí leí completa es la Biblia y esta coloca caravanas de camellos cinco mil años antes de la era común, lo cual es un anacronismo porque estos no se domesticaron hasta entrado el último siglo AC.  
+**Camello**  *Lat. camelus, Gr. κάμηλος kamelos, Heb. גמל gamal*.  Camel en inglés del tabaco y Kamell, en alemán.  Rumiantes del viejo mundo, de hasta dos metros de altura.  Pariente de guanacos, llamas y vicuñas de América.  Los libros sagrados tienen un problema serio con este.  Según Borges, no hay camellos en el Corán, si bien leí bastante de este, no puedo decir que lo agoté, por lo que no puedo dar fe de esto.  La que sí leí completa es la Biblia y esta coloca caravanas de camellos cinco mil años antes de la era común, lo cual es un anacronismo porque estos no se encontraron vestigios de su domesticación hasta entrado el último siglo AC.  Las pruebas en favor del Libro de la Alianza, provienen de quienes tienen sumo interés en su veracidad, lo que les quita objetividad. 
 
 **Camino**  *Lat. Camminus del celta camanon*.  Terreno por el que se transita.    
 
@@ -2345,7 +2345,8 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 **Vergüenza**  *Lat. verecundia*.  De aquí también provienen sinvergüenza, y la culta *vergonzante*.  La misma raiz latina continúa en vergoña del gallego, vergonya en catalá, vergonha en portugués y vergogna en italiano.  Concepto raro en este siglo de músicas ausentes de armonía, salas de estar feng shui, carentes de bibliotecas y gentes que opina sin contar con esta útil herramienta intelectual.  Culturas anteriores permitían la desvergüenza, con la sola condición de la edad avanzada de los indivíduos, mientras que el hecho curioso del siglo XXI es la aparición temprana de este sentimiento en jóvenes, a los que se suele escuchar opinando, pese a su notable falta de critecio, acerca de temas como la presión impositiva, el rol del estado, el poder judicial o la jornada mínima de trabajo, al tiempo que aún no se independizan de su madre jubilada, incapaces del mínimo decoro de llenar el tanque el combustible del auto o lavar los platos.
 
-> Quítate viejo andrajoso o haré que te corten las vergüenzas y se las arrojen a los perros. --Uno de los pretendientes de Penélope, diciendo sus últimas palabra, dirigiéndose al disfrazado Odiseo.
+> Quítate viejo andrajoso o haré que te corten las vergüenzas y se las arrojen a los perros. --Antinoo, el mas repulsivo delos pretendientes dm Penélope, diciendo sus últimas palabra, dirigiéndose al disfrazado Odiseo.
+so 
 
 > "They left her... with a prayer... for the ship... to sink... to sink quickly... and so... an end."  --Lord Jim.  Joseph Conrad.
 
