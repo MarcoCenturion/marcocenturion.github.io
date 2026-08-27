@@ -21,7 +21,7 @@ lead_text: 'La lengua usada en La Docta'
 
 **Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En tiempos de la república romana, existían quienes litigaban por el honor, no solo individual sino por el valor de la ley por sobre los hombres.  La doctrina no es pacífica pero existen razones para afirmar que la frase completa era *Vir bonus ad vocatum*, hombre bueno que hace este trabajo por vocación.
 
-**Absurdo**  *Lat. Ab, de y surdum, sordo*.  Inadecuado, disparatado, contrario a la lógica.  Religiones que justifican genocidios, premios Nobel a quienes comienzan las guerras.  La literatura del absurdo genera obras obsesivas y opuestas a toda lógica, que terminan dando vida a la realidad, que se tiñe de absurdo y berreta.  Un recurso de la lógica era plantear la nulidad de ciertas proposiciones por *reductio ad absurdum*, pero las ideas absurdas cuentan con cierto embrujo mágico, el fascismo, el terraplanismo, son solo ejemplos simples.  
+**Absurdo**  *Lat. Ab, de y surdum, sordo*.  Inadecuado, disparatado, contrario a la lógica.  Religiones que justifican genocidios, premios Nobel de la Paz a quienes comienzan guerras.  La literatura del absurdo genera obras obsesivas y opuestas a toda lógica, que terminan dando vida a la realidad, que se tiñe de caracter berreta.  Un recurso de la lógica era plantear la nulidad de ciertas proposiciones por *reductio ad absurdum*, pero las ideas absurdas cuentan con cierto embrujo mágico, el fascismo, el terraplanismo, son solo ejemplos simples.  
 
 > La comprensión de que la vida es absurda, puede que no sea el final sino el comienzo.  Lo absurdo es pecado pero sin Dios.  --Albert Camus.
 
@@ -878,6 +878,14 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 > ¿Y como aprendo a tomar buenas decisiones?
 
 > Tomando malas decisiones.
+
+**Éxodo**  *Lat. exodos y este del Gr. ἔξοδος ex hacia afuera y hodos camino*.  La historia generosa en caminatas, marchas, exílilios y éxodos, que para nada podemos asocia a éxitos.  Tal ves lo interesante no es el éxodo en si y el énfasis en hacerlo heroico, sino también en ocultarlo.  Si visible es el del pueblo hebreo del antíguo testamento, oculto es del pueblo gitano, si relevante y heroico es el del pueblo jujeño detrás del General Manuel Belgrano, no menos heroico y el de la Banda Oriental acompañando a José Gervasio Artigas, protector de los pueblos libres, quien planteara la reforma agraria varios años antes que el alemán Karl Marx.  Durante décadas hemos visto en televisión escenas dramáticas protagonizadas por cubanos escapando del hambre camino al pais de la libertad y el coso, mientras que se ocultó sistemáticamente el de pueblos árabes del Mediterráneo, corriendo el mismo riesgo de muerte, a excepción de la escacez de tiburones.  Aylan Kurdi tuvo una vida breve, tres años.  Su familia escapaba de los bombardeos.  Europa sostiene que los inmigrantes son el mal.
+
+<div style="width: 360px; margin: 0 auto;">
+    <img src="{{ '/images/aylan.jpg' | relative_url }}" 
+         alt="Aylan Kurdi" 
+         style="max-width: 100%; height: auto;">
+</div>
 
 **Experiencia**  *Lat. Prueba, ensayo*.  La felicidad está oculta en cosas muy pequeñas, pero se requiere toda una vida para descubrirlo.
 
