@@ -1,10 +1,11 @@
 ---
-title: 'Diccionario y Bestiario de uso común'
-date: 2025-01-28 19:41:34
+layout: blog
+title: 'Diccionario '
+date: 2026-07-28 19:41:34
 categories: humor idioma militares blog
-tags: Diccionario Bestiario Lengua Historia etimología neologismos aberraciones berreta
+tags: Diccionario Bestiario Lengua Historia etimología
 image: '/images/dic.png'
-lead_text: 'La lengua usada en La Docta'
+lead_text: 'Un acercamiento al uso del idioma del centro del país'
 ---
 
 ## A
