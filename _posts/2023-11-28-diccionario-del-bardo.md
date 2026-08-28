@@ -988,17 +988,17 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 **Ficción**  *Fr. Ficción, invención, fabricación de la mente a su vez del Lat. Fictio, fingir*.  A lo largo de la historia, civilizaciones completas recurrieron y recurren a esta, a efectos de reclamar reinos o eerritorios, como lo hace el pentateuco; para darle tarea a las ancianas a la hora de la cena; para embellecer relatos de pezca; o como sugiere el buen Ray Bradbury, *alimentarse de ficción para no morir de realidad*.  Una de las mejores compilaciones de cuentos fantásticos, nos la trae el islam, donde se recogen narraciones populares de Damasco, El Cairo, Basora, Jerusalem, con las que embelezaron a la pacata Europa del siglo XVIII.  Estos cuentos y leyendas, nos acercan otro punto de vista de hechos históricos, como el asedio de Bizancio o las cruzadas.
 
-> Oh buen Rashid, amo y señor --Saluda el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Ten concedo la gracia de elegir que te convierta en el animal que se te ocurra, por haberme liberado de cinco mil años de encierro al que me forzara...
+> Oh buen Rashid, amo y señor --Saluda el efrit, al mendigo que frotó la lámpara en el soco de Bagdad.  Te concedo la gracia de elegir convertirte en el animal que se te ocurra, por haberme liberado de cinco mil años de encierro al que me forzara...
 
-> Perro.  --Interrumpe Rashid en seco.
+> Perro.  --Interrumpe Rashid en seco, sin quitarse la brizna de hierba de entre sus dientes.
 
-> ¿Perro?  --El genio sorprendido mira al pequeño bribón.  Pudiendo elegir el halcón que rápido zurca los cielos y desde los puntos mas altos...
+> ¿Perro?  --El genio sorprendido mira al pequeño bribón.  Pudiendo elegir tal vez el león o el halcón que rápido zurca los cielos y desde los puntos mas altos...
 
 > ¿El halcón se chupa la pija solo?  --Interrumpe nuevamente Rashid.
 
-> Temo que no, mi amo y señor.
+> Temo que no, mi amo y se...
 
-> Dejá perro nomas.  Gracias.
+> ¡Dejá perro nomas!  Gracias.
 
 **Fiel**  *Lat. Fidelis, seguro.  Fidelis portus, puerto seguro.*  De aquí provienen fe, federación y confianza.  Foederis es pacto, alianza.  El fiel de la balanza, es esa aguja de la que debemos *fiarnos*.  Fidius parece uno de los apodos de Jupiter Capitolino, el dios que se usaba en la antigua Roma a modo de firma en los juramentos.   En asuntos de Fe se da una extraña controversia.   Quienes son fieles desde un punto de vista, no lo son en el sentido inverso, luego son infieles para el antagónico y viceversa.  Ambos juran por su dios tener razón.  Ese mismo dios les habilita la conciencia para masacrar infieles.  La fe en dios es requisito sine quanon para la fe en el dinero, metálico o cripto. 
 
@@ -1772,7 +1772,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 
 > Un ex jefe mafioso, de la familia Gambino, recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses, en su nueva vida fuera del hampa.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  "Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora" responde.
 
-**Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión andina, en la que los humanos no son el pueblo elegido, ni el privilegiado, ni el heredero del cielo, sino parte de esa madre tierra, hermanos de ríos y árboles.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla.   
+**Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión andina, en la que los humanos no son el pueblo elegido, ni el privilegiado, ni el heredero del cielo, sino parte de esa madre tierra, hermanos de ríos y árboles.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla. 
+
+> ¿Cómo se puede comprar o vender el cielo o el calor de la tierra?  Esta idea nos parece extraña.  Si no somos dueños de la frescura del aire y del brillo del agua  ¿Cómo es posible comprarlos?  Cada pedazo de esta tierra es sagrado para mi pueblo. Cada rama brillante de un pino, cada puñado de arena de las playas, la penumbra de la densa selva, cada rayo de luz y el zumbar de los insectos son sagrados en la memoria y vida de mi pueblo.  La savia que recorre el cuerpo de los árboles lleva con sigo la historia del hombre piel roja.  Los muertos del hombre blanco olvidan su tierra de origen cuando van a caminar entre las estrellas.  Nuestros muertos jamás se olvidan de esta bella tierra, pues ella es la madre del hombre piel roja.  --Carta del Jefe Noah Seatle al Presidente de Estados Unidos de América. 
 
 **Pago**  *Lat. pacare*.   La primera acepción del término, alude a la liquidación de una deuda, el final de un acto jurídico.  Luego de esa liquidación, ambas partes quedan en paz, o *pax*.   *Lat. pagus*.  Esta segunda acepción alude a una región, distrito agrícola, posiblmente originado en ser el salario del soldado romano luego de servir en el frente.  De aqui se desprende, luego, pagano.  Pueden haber muchos pagos el la vida de la persona, pero solo uno es el añorado, el de la infancia, es precisamente por ello que toda la literatura describa pagos idílicos de las niñeces, romantizados por el paso del tiempo.  Es quizá un ejercicio innecesario, eso de *volver al pago*, pues sus cambios estéticos y morfológicos, recuerdan al **yo** el paso del tiempo, igual que la descendencia de los amigos.
 
