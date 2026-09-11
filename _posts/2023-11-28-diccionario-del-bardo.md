@@ -1062,6 +1062,10 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > Hay gente que se fuma misas de sanación de cuatro horas.  --Diarios de la resistencia.  The female Snake.
 
+**Futuro**  *Lat. futurum*  Lo que ha de venir.  Para la época de la baja república, ya el latín distinguía patricipios de presente, presente (sic) en todos los *entes* que nos llegan a la actualidad, presidente, consecuente, etc.  Un participio de pasado hace lo mismo y nos llega con sus, tus, como en ignoto, de ignotus, y todos lo que ha *sido*, por ido.  El futuro parece no tener tanto peso en la lengua porque el participio urus, no se refleja salvo en inventos legales como el *nascitorus*, el por nacer, seguramente en alguna controversia por las herencias de algún reino, que queda per seculam seculorum.  Existe la feliz sugerencia que las psicopatologías devienen de exceso de pasado, que genera culpa y nostalgia, como del futuro, que genera ansiedad.  Creo que fue el filósofo Marcelo Bielsa quien sugirió que la ansiedad es nada mas y nada menos que la falta de paciencia por el resultado.  Cuando en realidad, lo importante es el viaje.  Por su parte, la cineasta tucumana Lucrecia Martel nos susurra un pedido, hemos imaginado durante todo el siglo XX ficciones apocalípticas que se están dando.  Creo, esto ya es personal, que dejamos de soñar las utopías del siglo anterior, de sociedades sin clases, ni dioses, ni alambrados, reyes, maridos y títulos de nobleza.
+
+> El futuro llegó, hace rato.  --Todo un Palo.  Carlos Solari.
+
 ## G
 
 **Gallo** *Lat. Galius.*  En tiempos de la república romana, los llamados galos eran los pueblos transalpinos.   Tan a gusto quedaron con el nombre, que aún portan con orgullo un gallo como insignia.  Tarde entendimos que el *gallo de Morón*, no era un gentilicio, sino *demorón*, una condición temporal.  Otro gallo da comienzo a toda la filosofía de occidente.  En tiempos pre teconológico oficiaba de despertador y toda una biblioteca completa de historias de gallos adelantan o atrasan su canto matutino.  Imagen poética solo accesible a quienes tuvieron su infancia lejos de las urbes.
