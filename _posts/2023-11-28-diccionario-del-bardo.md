@@ -504,17 +504,17 @@ flowchart LR
 
 > Es para saber que pido.  No sé que hora es, si están sirviendo el desayuno o la cena.  --Se defiende quien iniciara la discusión, queriendo justificar haberla despertado.
  
-> ¡Pedí champán y dejá de romper las pelotas!  Chica pe lo tu da.  --Corrige sabiamente la segunda, acentuando vocales y vuelve de la mejor manera posible a la paz de palacio, ese palacio conocido universalmente como sueño.
+> ¡Pedí champán y dejá de romper las pelotas!  Chica pe-lo-tu-da.  --Amonesta sabiamente la segunda, corrigiendo metódicamente el antifaz, acentuando vocales y vuelve de la mejor manera posible a la paz de palacio, ese conocido universalmente como sueño.
 
-**Chango**  *Quechua niño*.
+**Chango**  *Quechua niño*.  Sensiblemente superior a vocablos primermundistas, sobre todo si se lo necesita en una chacarera.  Para otros menesteres culturales bien pueden utilizarse voces sinónimas onomatopéyicas como niño, crío, bendis, tomando la precaución siempre de evitar el oriental *botija* por rimas contrarias a las buenas costumbres.
 
 > Changito manos teñidas carita triste morena.  --Changuito Lustrador.  Leo Dan y M Ferreyra.
 
 **Charqui**  *Quechua carne secada al sol*.  Base alimenticia de toda la América andina pre colombina, que tiene su par en el bacalao nórdico.  
 
-**Chaucha**  *Quechua vaina*.  En el sur de América, llamamos así a lo que los españoles llaman judías.  También se utiliza en el Río de la Plata para designar a las monedas de escaso valor.  Las chauchas junto a la papa y el maiz, fueron el sustento alimenticio de todo el continente, estas aportaron proteínas y vitaminas, hasta la feliz llegada de la invasión de evangelización compulsiva de los hermanos europeos.  Entrada la adultez descubrimos que la canción de Europe no era *Ensalada de Chaucha* sino *The final Countdown*, para nuestro asombro.
+**Chaucha**  *Quechua vaina*.  En el sur de América, llamamos así a lo que los españoles llaman judías.  También se utiliza en el Río de la Plata para designar a las monedas de escaso valor.  Las chauchas junto a la papa y el maiz, fueron el sustento alimenticio de todo el continente, estas aportaron proteínas y vitaminas, hasta la feliz llegada de la invasión de evangelización compulsiva de los hermanos europeos.  Entrada la adultez descubrimos que la frase correcta en la canción de Europe no era *Ensalada de Chaucha* sino *it's The final Countdown*, según lo documenta el semiólogo argentino Pablo Greib.
 
-**Che** *Guaraní yo, mi.  Mapuche, hombre*  En guaraní es un pronombre personal.  Tantas y tan contradictorias son las posiciones respecto de este fonema, orientadas a forzar un origen valenciano, o veneciano, o napolitano, pero nunca indígena es es justo creer que algo esconden.  El pronombre que nos identifica en el mundo, junto con el ícono del siglo XX, el Che Guevara, merecen un origen mas americano y contestatario que un origen europeo.
+**Che** *Guaraní yo, mi.  Mapuche, hombre.*  En guaraní, es un pronombre personal, mientras que en mapuche, es el auxiliar que utiliza el gentilicio que nombra a la gente del norte, la del sur, las de las montañas.  En esta cosmogonía, pehuenche es *gente de los pehuenes*, pinos de la montaña, mientras que mapuche es *gente de la tierra*.  Tantas y tan contradictorias son las posiciones respecto de este fonema, orientadas a forzar un origen valenciano, o veneciano, o napolitano, pero nunca indígena, que es justo y casi obligatorio asumir que algo esconden.  El pronombre que nos identifica en el mundo, lo hace junto con el ícono del siglo XX y su momento mas feliz, la rebeldía, el Che Guevara.  Esto solo hace que merezca un origen mas americano y contestatario que el europeo.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
