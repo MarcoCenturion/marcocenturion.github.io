@@ -499,8 +499,7 @@ flowchart LR
 
 **Champán**  *Fr. Champagne*.  Vino espumoso obtenido a partir de cepas puntuales.  Tóxico careta.  Por una protección de la unión europea, utilizar su nombre equivale a una violación de la propiedad intelectual.  Los americanos en vano intentamos ampararnos en el derecho que nos asiste después de quinientos años de saqueo económico y cultural.  
 
-> Dos amigas cruzan el Atlántico en la clase *Magnífica* a bordo de una cía aérea italiana, invitadas por ejecutivos de alguna multinacional.  Interrumpe el sueño de una de ellas, un excesivamente correcto auxiliar de vuelo masculino, en mitad de la noche artificial de ventanillas cerradas, llamándola *principessa*, quien al escuchar esa palabra, le devuelve una sonrisa palaciega.  Pregunta la hora a su compañera, expulsándola bruscamente de su condición de *bella durmiente del subdesarrollo*.  Esta última hace el check in a la realidad de mala gana, al tiempo que contiene palabras de ofuscación mayores.  El mal humor producido por la brusquedad de la salida del sueño, es transversal a todas las clases sociales y culturas, es por ello que se desaconsejan las armas de fuego debajo de almohadas. 
-
+> Dos amigas cruzan el Atlántico en la clase *Magnífica* a bordo de una cía aérea italiana, cortesía de ejecutivos de alguna multinacional a cambio de afecto.   Un auxiliar de vuelo masculino excesivamente correcto, interrumpe el sueño de una de ellas en mitad de la noche artificial de ventanillas cerradas.  La ha llamado no menos de dos veces *principessa*, que resuena en los oidos castos de la jóven cual película de Disney con música de Elthon John.  Esta le devuelve una sonrisa palaciega, pero se abstiene de estiar la mano derecha para ser besada.  En lugar de ello pregunta la hora a su compañera, expulsándola bruscamente de su condición de *bella durmiente del subdesarrollo*, que hace un *check in* a la realidad de mala gana, al tiempo que contiene palabras de ofuscación mayores.  El mal humor producido por la brusquedad de la salida del sueño, es transversal a todas las clases sociales y culturas, es por ello que se desaconsejan las armas de fuego debajo de almohadas. 
 > Escuchame una cosa pibita. ¿Só pelotuda vó?  --Suelta restregándose los ojos hasta que recuerda o fantasea el corrimiento del *makeup*. 
 
 > Es para saber que pido.  No sé que hora es, si están sirviendo el desayuno o la cena.  --Se defiende quien iniciara la discusión, queriendo justificar haberla despertado.
@@ -513,9 +512,9 @@ flowchart LR
 
 **Charqui**  *Quechua carne secada al sol*.  Base alimenticia de toda la América andina pre colombina, que tiene su par en el bacalao nórdico.  
 
-**Chaucha**  *Quechua vaina*.  Monedas de escaso valor.
+**Chaucha**  *Quechua vaina*.  En el sur de América, llamamos así a lo que los españoles llaman judías.  También se utiliza en el Río de la Plata para designar a las monedas de escaso valor.  Las chauchas junto a la papa y el maiz, fueron el sustento alimenticio de todo el continente, estas aportaron proteínas y vitaminas, hasta la feliz llegada de la invasión de evangelización compulsiva de los hermanos europeos.  Entrada la adultez descubrimos que la canción de Europe no era *Ensalada de Chaucha* sino *The final Countdown*, para nuestro asombro.
 
-**Che** *Guaraní eh, Mapuche hombre*  
+**Che** *Guaraní yo, mi.  Mapuche, hombre*  En guaraní es un pronombre personal.  Tantas y tan contradictorias son las posiciones respecto de este fonema, orientadas a forzar un origen valenciano, o veneciano, o napolitano, pero nunca indígena es es justo creer que algo esconden.  El pronombre que nos identifica en el mundo, junto con el ícono del siglo XX, el Che Guevara, merecen un origen mas americano y contestatario que un origen europeo.
 
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
@@ -2030,7 +2029,11 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
  
 **Reguetón**.  Género proto musical que, contrario a lo que podría indicar su nombre, no guarda vínculo alguno con el Reggae.  Aquel, pareciera diseñado exclusivamente para el casorio a las **0300 AM**, al solo efecto que los asistentes sigan sus pegadizos y repetitivos compases, eliminando así en el sudor, excesos de alcohol y otros tóxicos presentes en sangre, evitando dentro de lo posible, el roce de traseros de consanguíneas, poniendo cara de pelotudo.  Se desconocen los motivos de su utilización fuera de ese *ámbito controlado*, lo cual otorga inimputabilidad penal a quien utilice todos los medios a su alcance para mitigar el daño por polusión sonora.   
  
-> Regueton is at music like Libertarians is at politics.  --Abraham Lincoln 
+> Regueton is at music like Libertarians is at politics.  --Abraham Lincoln.
+
+**Remera**  Prenda de vestir en Argentina, Uruguay y Paraguay, a la que en otras latitudes llaman *playera*.  Es de suponer que originalmente se utilizaba con el solo pretexto de salir a *remar*, lo que no explicaría su uso en topologías serranas argentinas, donde esta práctica es imposible, si imaginamos el Tajamar de Alta Gracia, solo por poner un ejemplo.  Este inconveniente se presenta a diario en otras vestimentas, en que las clases menos afortunadas intentan emular a las elites ociosas, por lo que visten zapatillas a las que llaman *tennis*, sin pisar el polvo de ladrillo, buzos de *rugby*, sin hacer chistes misóginos u homofóbicos, zapatos *nauticos*, chombas de *polo*, pullóvers escote en V de *cricket*, e infinidad de prendas adquiridas en liquidación, en cuotas.
+
+> Tienen trabajos que les consumen la vida para gastar dinero que no tienen, en comprar cosas que no necesitan para agradar a gente que los odia.  --Fight Club.  Tyler Durden. 
  
 **República**  *Lat. Res Cosa, Publicae de todos*  La **cosa pública**, literalmente de todos.  Existe la obscena creencia que la **cosa pública** no pertenece a nadie y es responsabilidad de nadie.  Discursos oficiales así lo atestiguan. El mantenimiento de *lo público* es nuestra única virtud como especie, frente al resto del mundo animal.  Asistimos periódicamente a la ascención de seres detestables que en nombre del honor, las buenas costumbres, dios y el bien, toman deuda en nombre de todos, la fugan y queda el pobrerío pagando las consecuencias.  
  
