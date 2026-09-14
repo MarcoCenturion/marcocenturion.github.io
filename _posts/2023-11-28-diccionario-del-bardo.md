@@ -515,6 +515,8 @@ flowchart LR
 
 **Chaucha**  *Quechua vaina*.  Monedas de escaso valor.
 
+**Che** *Guaraní eh, Mapuche hombre*  
+
 **Chiquero** *Sus. Colectivo.* Conjunto de chicos. Situación en la que queda la vivienda visitada por estos últimos.
 
 **Choclo**  *Quechua maiz*.  El cereal que alimentó a toda América por miles de años.  También el tango que da origen a la cultura rioplatense, compuesto por un negro hijo de esclava liberta.
