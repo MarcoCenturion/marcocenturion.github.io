@@ -164,6 +164,12 @@ Luego de una ligera pausa agrega:
 
 **Apolítico** *Lat. sufijo A denota negación, político relativo a la Polis, la ciudad.*  Autodenominación asumida por quienes niegan comulgar con ideales de los partidos políticos, sean estos cuales fueran.  Desconocen que el término correcto a utilizar debería ser, en tal caso: **Apartidario**.  La categoría **humano apolítico** es absolutamente inexistente, ya que como bien señaló **Aristóteles**, hace más de dos mil quinientos años, el solo hecho de vivir en sociedad, nos hace políticos. 
 
+> Yo soy **apolítico**.
+
+> No es asi.  Si tenes una posición respecto del gasto público, el aborto, la iglesia, la educación privada, el pago de la deuda externa y la supuesta validez del sistema judicial, sos político, que no te hagas cargo de tu adoctrinamiento es otra cosa.  
+
+> El costo de desentenderse de la política es ser gobernado por mediocres.
+
 > En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *el hombre es un animal político* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad *solo existen animales y dioses*.
 
 **Arroz**  *Ar.  أرز ar-ruzz Gr. ὄρυζα oryza.*  La segunda planta mas cultivada del planeta, inmediatamente por detrás del trigo.  En inglés es rice, en francés es ris y en italiano riso, de donde nos llega risotto.
@@ -1562,6 +1568,8 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 > El mate es la calefacción de los pobres.  --María, amiga del Chicho.
 
 **Matrix**  Film de SciFi de las hermanas Wachowski, al que el tiempo ha otorgado el honor de Clásico, originalmente debido a la novedad de tomas hiperrealistas.  Con el tiempo, el guión logra superar gratamente esa primera impresión.  La realidad se va poblando de ficción y Lugares comunes del film se incorporan al imaginario colectivo. Las píldoras azul y roja, la visión de *Smith* de los humanos como virus del planeta, el dejavu del gato en un bucle de programación.  La capa de guión que recubre la realidad, resulta ser mucho más burda que la mostrada en el film.  La justicia, se convierte así en un mero simulacro para congelar el **status quo**, la religión, otrora amor, se muestra desnuda como la exaltación del odio al otro.  Las redes sociales otorgan una ficticia densidad a vidas transparentes y homogéneas, que posiblemente no merecen.
+
+**Mediocre**  *Lat. mediocris*.  No es como pudiera pensarse facilmente, un sustantivo que alude a *medias color ocre*, sino algo totalmente distinto.  Se trata de un adjetivo que proviene de *medius*, mitad y *ocris* pendiente o montaña, algo así como estar en la mitad de la subida.  Nos llega una frase que siempre me disgustó *aurea mediocritas*, traducida como dorada mediocridad, que sugiere gentes que no se la juegan, que no tienen una posición tomada.  De mierda, en síntesis. 
 
 **Memoria**  *Gr. μνήμη Mnéme memoria de Mnemósine la diosa de algo que no recuerdo*.   Leer es requisito *sine quanon* de recordar, aunque no toda lectura merezca el premio del recuerdo, con un agravante, tampoco existe garantía de ese recuerdo.  Es menester un interruptor, selector de recuerdos que valgan o no la pena.  Al parecer el homo sappiens sappiens tiene este único diferencial de calidad con sus parientes mas cercanos, los chimpancés, que olvidan mas del 99 % de lo durante el día, con el sueño reparador.  Extraña paradoja encerrada en esta frase.  Pareciera, también, existir justamente allí, en el sueño, la función de fijar, el pegamento.  A primera vista parece interesante al **yo** recordar la historia, para no repetirla, mientras que por otro lado, olvidar el desenlace de un cuento, o una película, nos regalaría nuevamente aquella emoción original.  
 
