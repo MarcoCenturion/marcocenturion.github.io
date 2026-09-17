@@ -1649,6 +1649,8 @@ Prueba fehaciente que la verdad es al menos, relativa.  Todo parece indicar que 
 
 > Some men improve the world only by leaving it. --Oscar Wilde.
 
+> Porqué temer a la muerte, si soy, luego, la muerte no es, si es, luego no soy.  ¿Porque temer algo que es cuando yo no soy?  --Epícuro.
+
 **Muerte, Pena de**  *Derecho Penal.*  Si bien pocas muertes son volitivas, esta observaría su forma más extraña.  En Argentina prohibida constitucionalmente por causas políticas, abolida totalmente recién en 2002.  Solo hay dos democracias en el mundo que la mantienen en sus legislaciones, Los **Estados Unidos de Norteamérica** y **Japón**.  Tal vez el principal -pero no el único como veremos- argumento en contra es la imposibilidad de enmendar errores de juicio.  Pasados 7 años de la ejecución y sesenta mil firmas, un tribunal del estado de Illinois, revisa el caso de los **Mártires de Chicago** y al comprobar graves irregularidades en el juicio, los indulta.  El hecho de ser todos anarquistas y socialistas, hace que ese idulto de poco valga en el cielo, en el que no creen, porque están muertos.  Una de las falacias mas tiernas en favor de la pena de muerte es la económica, los datos más optimistas sugieren no menos de diez millones de dólares, mientras que las pesimistas, doscientos cincuenta, dependiendo el estado[^12].  Otra falacia es el miedo que produce y coacciona al proto delincuente, desmentido a diario por las estadísticas oficiales.  Estados que mantienen la pena de muerte, muestran igual o mayor tasa de homicidios violentos, respecto de aquellos que la abolieron.
 
 [^12]: Los costos de la pena de Muerte en USA.  <https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol/costos>
@@ -2499,7 +2501,13 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 > Es Lunes.
 
 **Violación**  Hasta el año 2012, el Código Penal Argentino, en su artículo 132, perdonaba al violador con la figura del **avenimiento**, cuando este accedía a casarse con la víctima, dejando claro la distancia abismal entre ley y justicia.  De todas formas, nunca aplicó a monaguillos, obligados a masticar su deshonra en silencio, ya que si bien en 2010 la modificación al código civil habilita el matrimonio entre contrayentes del mismo sexo, persiste la prohibición de casarse sobre los sacerdotes católicos.
- 
+
+**Violencia**  *Lat. violentia*.  Vis, fuerza y olentos, abundancia.  Aplicar fuerza abundantemente.  Imposición forzada de un ser sobre otro.  Cierta investigación reciente entre heridos de armas y muertos, en los estados de la unión, dan por resultado importantes dosis de alcohol en sangre -en algunos estados se sugiere un 80% de casos- lo que parecería indicar, a primera vista, que hay una correlación estadísita entre estos dos datos estadísticos.  Desde la Ilustración hasta nuestros días, las sociedades acordaron delegar en los estados la potestad de ejercer violencia, tanto resarcitoria contra otra violencia, tanto como coacción para que no se de.  Los estados burocráticos van degradando esta administración de justicia, que es ejercida por carteles y grupos mafiosos, en muchos casos con mejores resultados, hasta que la turba saca la guillotina a la calle y ya es demasiado tarde.
+
+> La violencia es el último refugio de un incompetente.  --Isaac Asimov.
+
+> Si no estás en posición de elegir, la respuesta en No.  --Mark Twain.
+
 **Virgo** *Zodiaco*  1- Sobreviven vestigios de esta cuasi religión babilónica de dos mil años AC, aun en pleno siglo **XXI** al tiempo que el telescopio espacial Hubble nos trae imágenes de cuerpos celestes distantes miles de años luz, apenas soñadas hace escasos veinte años. En ese *curioso sistema de creencias*, la posición de los planetas al momento del nacimiento condiciona el comportamiento de los seres.  2- Dícese de los creyentes que partiendo de este tipo de realismo mágico en general, creen en cualquier estupidez en particular, cuando el adjetivo correcto sería pelotudo. 3- Aquellos no alcanzados por el amor de onda, solo accedieron al amor rentado.  Los libervirgos son una variate actual de esta última categoría.
  
 > One peso Is one dólar.  --Domingo Felipe Cavallo.
