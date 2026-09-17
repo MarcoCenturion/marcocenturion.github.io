@@ -166,6 +166,10 @@ Luego de una ligera pausa agrega:
 
 > En su obra **La Política,** Aristóteles señala una de las frases más populares de la filosofía, *el hombre es un animal político* (zoon politikon), vive forzosamente en sociedad, fuera de la ciudad *solo existen animales y dioses*.
 
+**Arroz**  *Ar.  أرز ar-ruzz Gr. ὄρυζα oryza.*  La segunda planta mas cultivada del planeta, inmediatamente por detrás del trigo.  En inglés es rice, en francés es ris y en italiano riso, de donde nos llega risotto.
+
+> Hay dos maneras de cultivar el arroz, en seco, en las pendientes de las montañas o en campos inundados.  Al igual que dos modos de cocción, poco o para el barrio.
+
 **Arte**  *Gr. Techne*  La actividad artística es el resultado de un aprendizaje, en franca contradicción a algo *innato*, detalle que nos aleja de los primates.  En la antigua polis, este era un aprendizaje técnico, como limpiar un caburador o soldar un potenciometro.  Artillería pareciera provenir de aquí, aquello que requiere un poco mas de arte que una simple herramienta rústica.  Un hecho artístico, dispara lazos entre seres intervinientes y el hecho en sí.  En cada trazo grueso de la pintura de Quinquela está toda la boca y toda la Argentina.  En cada estrofa del Invierno Porteño de Piazzolla, está contenido todo el frío y todo el universo.
 
 > Echan rodilla en tierra, los que a la guerra van con valor.  --La Artillera.  Zamba popular.
@@ -2436,7 +2440,9 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 
 > Nunca olvido un rostro, pero con usted haré una excepción.  --Groucho Marx.
 
-**Viaje**  *Cat. Viatge del Lat. viaticum*.  Previsión de dinero para emprender el viaje.  Curiosamente el origen es trabajar afanosamente, como lo atestiguan el ingles y el francés, travel de travailen, travailler.  
+**Viaje**  *Cat. Viatge del Lat. viaticum*.  Previsión de dinero para emprender el camino, *via*, que es anterior al viaje propiamente dicho, tanto que esta tarea de hacerse de los recursos nombra la actividad posterior.  Muchas otras palabras similares llegan del frances terminadas en *aje* como chantaje, fuselaje, salvaje, mensaje, homenaje, etc.  Curiosamente el origen es trabajar afanosamente, como lo atestiguan el ingles y el francés, travel de travailen, travailler.  El viaje enfrenta al indivíduo con otra cultura, que lo enriquece.  
+
+> El fascismo se cura leyendo y el racismo, viajando.  --Miguel de Unamuno.
  
 > ¿Es mas importante el viaje que el destino? --preguntó el Panda  
  
@@ -2447,7 +2453,9 @@ En el arte y por influjo suyo, el resto de las actividades humanas, se dificulta
 > Una chispa entre dos nadas --Jorge Luis Borges.
 
 > Trata de no utilizar la vida planeando otra.  --Sisoco Garía.  Obras Completas.
- 
+
+> Ya se, no me digás, tenés razón, la vida es una herida absurda.  --La última curda.  Anibal Troilo y Cátulo Castillo.
+
 **Viernes**  *Lat. dies veneris.*  Día de Venus, literalmente.  Pareciera sugerir *día para contraer venéreas* y por ello llega hasta el siglo XXI a la frase *hoy es viernes y tu cuerpo lo sabe*.  Lo que sugiere solo validez de disfrute para el colectivo femenino.  La gran disputa de poder podría generarse en el eje de la disputa del placer.  Ya adelantó Robert Graves, en el siglo pasado, que el origen de la civilización occidental, es la disputa de diosas femeninas con dioses masculinos, en la hélade prehistórica, época en que los reyes impusieron la herencia por línea paterna, dando nacimiento a la monogamia y toda la culpabilidad que acarrea. 
 
 > ¿Que hacés los viernes? --Preguntó una señorita a Dean Martin.
