@@ -2427,6 +2427,8 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
  
 **Vago**  *Lat. vacuus, vacío*  Uno de los doce pares de nervios craneanos, siendo este el único que sale de la frontera del  cráneo y se pierde -vaga- por el cuerpo, siendo una especie de chiste de madre natura.  
 
+> La simpleza es la última sofisticación.  --Leonardo Da Vinci.
+
 **Vagos** individuos que viven del estado sin justificar la contraparte laboral, tal como obispos, militares o jueces.
  
 **Valor** *Lat. estar fuerte.*  La fortaleza anímica, parece otorgarle entidad a las cosas, que suele llevar a la confusión acerca de valor y precio.  "Valer la pena" da cuenta del **precio** que debemos estar dispuestos a pagar en "cantidad de pena" por la cosa.  Deberíamos justipreciar cosas y valorar gentes, aunque lo normal sea lo inverso.  El valor de las cosas está dado en virtud de la cantidad de trabajo que llevan en si, por ese trabajo, el capitalista paga un importe al trabajador.  Esas horas de vida se convierten en dinero con el que se compran cosas.  La vida es eso que se pasa corriendo detrás de lo que nos sugiere el marketing.  Algunos pocos elegidos, de Sócrates para acá, descubren el engaño y se convierten en mendigos[^51].
