@@ -222,7 +222,7 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Si a medidados del siglo XX alguien daba sin pensarlo con los fragmentos finales de una obra musical, en una radio, puede que llegara esa magia por recurso de irrepetibilidad, ya que era muy complejo rastrear el origen.  En una disquería de London, un italiano pelado escuchaba tararear al comprador y descubría la melodía.  Luca Prodan hizo del descubrimiento del aura, una profesión.  Cierta mañana de los ochentas, época en que las disquerías hacían gala sonora de sus novedades, caminaba por la peatonal Rivera Indarte, en la Córdoba de la llegada de la Democracia.  De golpe, un sonido en acordes de La Menor da paso a golpes de batería de rock.  El fraseo distorcionado apenas deja entrever que se trata de *El Arriero* de Yupanqui, aún recuerdo la sensación de piel de gallina y ganas de llorar.  Demoré algunos minutos en recobrar al paso. 
 
-**Auto** *Gr. αὐτο, autos uno mismo*.  De allí automóvil, automático, autónomo, autocrítica, autótrofo.  Que resealta aspectos de sí mismo.  Una excepción a esto fué, un titular del poder ejecutivo nacional, que no nombramos por *mufa*, se nombraban en tercera persona. 
+**Auto** *Gr. αὐτο, autos uno mismo*.  De allí automóvil, automático, autónomo, autocrítica, autótrofo.  Que resealta aspectos de sí mismo.  Una excepción a esto fue, un titular del poder ejecutivo nacional, que no nombramos por *mufa*, se nombraban en tercera persona. 
 
 > Los autodenominados porros... --Fiscal junto con varios (muchos) policías de la Provincia de Córdoba, en acto de lectura de acta contravencional, en actuación digna de haber evitado una salidera bancaria.
 
