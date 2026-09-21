@@ -276,7 +276,7 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 **Barrio Privado**  Neologismo del siglo XXI, sitio donde las elites, expulsadas de los barrios por los propios fantasmas que crearon, se encierran en enormes cárceles abiertas, custodiadas por guardias, en la seguridad que los millones de hambrientos que viven a su alrededor, nunca se enterarán de su cualidad de *comestibles*, ricos en proteínas.
 
-**Barro** Según el génesis, materia prima de los hombres.  Según **Robert Graves** en *Los Mitos Griegos*, también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses, produciéndose ese plagio de religiones que llamamos sincretismo. 
+**Barro**  *Lat. barrum*.  Se supone una procedencia celta.  Según el génesis, la materia prima de que están hechos los hombres.  Según **Robert Graves** en *Los Mitos Griegos*, también, pasado el diluvio de Deucalión. Antes de tal diluvio solo había dioses, produciéndose ese plagio de religiones que llamamos sincretismo.  Posiblemente de este sustantivo deriven el verbo barrer, barraca y barricada, que alude a revueltas, desobediencia y revolución, que crecen desde el pié.  El setenta porciento de los sitios patrimonio de la humanidad, están construidos en barro.  Muchas veces el silencio es mas elocuente que las palabras.  
 
 > En un mundo de plástico y ruido, prefiero ser barro y silencio.  --Eduardo Galeano.
 
