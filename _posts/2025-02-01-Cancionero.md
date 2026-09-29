@@ -1128,3 +1128,56 @@ o el soplón del carcelero, yo no presto el corazón,
 y aunque me duela no quiero, que me llames, compañero.
 
 Rafael Amor.
+
+
+
+El Valle y el Volcán
+
+Para correr hacia el mar
+Vistiéndonos de Sol
+Para tener y prestar
+Niñez del corazón
+
+Para jugar a inventar
+El mundo en una flor
+Somos dos, somos dos
+La eternidad es hoy
+La eternidad
+Para cantar
+Y derrotar al tiempo
+
+Para cruzar sin temor
+El valle y el volcán
+Somos dos, somos dos
+Enamorándonos
+Viviendo sin después
+Ni adiós, ni olvido
+
+Para pedirle al dolor
+Que ya no vuelva más
+Somos dos, somos dos
+Ilusionándonos
+Por una pequeñez
+Un color quizá perdido
+
+Para correr hacia el mar
+Vistiéndonos de Sol
+Para tener y prestar
+Niñez del corazón
+
+Para jugar a inventar
+El mundo en una flor
+Somos dos, somos dos
+La eternidad es hoy
+La eternidad
+Para cantar
+Y derrotar al tiempo
+
+Para cruzar sin temor
+El valle y el volcán
+Somos dos, somos dos
+Enamorándonos
+Viviendo sin después
+Ni adiós, ni olvido
+
+María Elena Walsh
