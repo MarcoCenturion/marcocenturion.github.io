@@ -44,7 +44,7 @@ lead_text: 'Un acercamiento al uso del idioma del centro del país'
 
 > El pensador contemporáneo Marcelo Bielsa suele camuflarse de técnico de fútbol en sus apariciones televisivas.  Lo antecede cierta -bien ganada- fama de loco, que refuerza volitivamente con su andar cabizbajo y meditabundo, mascullando, andar que bien podría montarse en sandálias, arrastrando una toga por el foro ateniense y pasar desapercibido.  Resulta extraño verlo encontrar diversión donde cualquier mortal explotaría en insultos.  En cierta conferencia de prensa, un lobbista disfrazado de periodista de los medios dueños de la verdad, intenta una agresión *ad hominem*.  Lo vemos buscar las palabras en el torcer de su cuello, sonreir al ir encontrándolas, masticar la respuesta *Usted es el enemigo que me enaltece.  Cuanto mas lejos de usted estoy, mejor soy, no se si me entiende*.  Debería ser cita obligatoria de todo tratado de ética y estar grabado en letras de bronce, sobre el friso de la entrada de las facultades de filosofía y letras de todo el país.
 
-> Un triunfo frente a tales antagonistas es vergüenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Toda respuesta que dá, a una discusión sobre Roma.
+> Un triunfo frente a tales antagonistas es vergüenza suficiente.  --Decline and Fall.  Eduard Gibbon.  Toda respuesta que dá, consultado por una discusión sobre Roma.
 
 **Aguacate**  *Nahuatl awakatl*.  Testículo de árbol.  Minúscula herida al narcisismo masculino de tanto supermacho supremacista blanco comedor de guacamole, santos travestis freudianos Batman. 
 
