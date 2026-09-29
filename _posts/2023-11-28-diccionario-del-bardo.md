@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Diccionario '
+title: 'Diccionario'
 date: 2026-07-28 19:41:34
 categories: humor idioma militares blog
 tags: Diccionario Bestiario Lengua Historia etimología
@@ -10,7 +10,7 @@ lead_text: 'Un acercamiento al uso del idioma del centro del país'
 
 ## A
 
-**Abeja**  *Lat. apícula, de apis mellifera*.  Mas de veinte mil tipos de abejas habitan este planeta, muchas desconocidas aún, de allí el carácter incierto de la cifra final.  Primas hermanas de hormigas y termitas, seres cuya existencia depende de la sociedad que los contiene, las abejas, además, son las responsables de la polinización de las flores, que mejoran de manera simbiótica el medio ambiente.  Cierta doctrina afirma que si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos un par de generaciones, siendo muy optimistas.   Si en cambio desaparecieran los homo sapiens, esa vida mejoraría.  Así de paradójico es.  Este simpático[^52] insecto, se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.  En los sesentas, el entomólogo riojano Sisoco García, inició un interesante trabajo de campo, haciendo que un par de colmenas obtuvieran néctar de plantas de Cannabis Sativa, para obtener de esa manera una miel con certificación ISO, que se vio truncado con la dictadura y su estrechez intelectual. 
+**Abeja**  *Lat. apicula, de apis mellifera*.  Más de veinte mil tipos de abejas habitan este planeta, muchas desconocidas aún, de allí el carácter incierto de la cifra final.  Primas hermanas de hormigas y termitas, seres cuya existencia depende de la sociedad que los contiene, las abejas, además, son las responsables de la polinización de las flores, que mejoran de manera simbiótica el medio ambiente.  Cierta doctrina afirma que si desaparecieran las abejas, cosa altamente probable gracias a la agricultura industrial, desaparecería toda la vida en el planeta en menos de un par de generaciones, siendo muy optimistas.   Si en cambio desaparecieran los homo sapiens, esa vida mejoraría.  Así de paradójico es.  Este simpático[^52] insecto se destaca en la naturaleza por su capacidad social, su terquedad y su insensibilidad a la literatura.  En los sesentas, el entomólogo riojano Sisoco García, inició un interesante trabajo de campo, haciendo que un par de colmenas obtuvieran néctar de plantas de Cannabis Sativa, para obtener de esa manera una miel con certificación ISO, que se vio truncado con la dictadura y su estrechez intelectual. 
 
 [^52]: Amable de amabilidad selectiva, dimos tiempo atrás con una colaboradora de mayorista de turismo a la que sus pares apodaron graciosamente *abeja* por ser pequeñita, gordita, rayada y mala.
 
@@ -493,6 +493,10 @@ flowchart LR
 
 > Los cerebros son como las latas, cuanto más vacíos están más ruido hacen.  --Truman Capote.
 
+**Cero**  *Lat. zephyrum a su vez del Ar. sifr صفر y el sánscrito shunya, que significa vacío*.  Es el primer número par que a su vez es nulo.  Posee una extraña facultad, por este caracter de nulidad, se pueden realizar las operaciones de suma, resta y multiplicación con él, pero no la división, ya que es imposible dividir algo por nada.  Del árabe sifr también deriva el espeñol cifra.  Lo introduce en Europa el matemático italiano Leonardo Fibonacci, que creció en el norte de África.  Aparece en el siglo III antes de la era común en Babilonia y en el mundo maya hace dos mil años, lo que permitía a los pueblos mezoamericanos predecir eclipses en tiempos en que Europa era un lodazal donde se eliminaron los gatos, con el feliz argumento de ser enviados del maligno, lo que generó la peste negra.  Occidente era incapaz de pensar la matemática moderna porque no tenía palabras para nombrar el cero.
+
+> Lo que puede decirse, puede decirse claramente; y de lo que no se puede hablar, hay que callar.  --Tractus Logico-Philosophicus.  Ludwig Wittgenstein.
+
 **Cerradura**  *Lat. serare*.  Contrario a lo que podríamos imaginar, esta palabra no surge de *cerrar con una herradura*.  Aunque durante el medioevo se utilizaran herraduras en las puertas, estas se utilizaban a modo de talismanes. Esta bella costumbre nos llega del medioevo cuando el obispo de Canterbury San Dunstan, no era tal y solo se trataba de un simple herrero.  Cierto día llega a su herrería un hombre que solicita unas herraduras para sus pies, en forma de cascos.  El herrero inmediatamente nota la presencia del Maligno, le sugiere que para poder ponérselas debe colgarlo de unos grilletes, engañando así al príncipe de las tinieblas.  Dunstan solo lo libera bajo la promesa de mantenerse alejado de puertas con este ornamento. Por demás extraño es el hecho que tanto demonios como vírgenes y santos, solo se materialicen frente a creyentes y estos creyentes no estén en presencia de agnósticos que certifiquen la aparición.  Contrario a esto, la literatura gauchezca y latinoamericana en general, da cuenta de una correlación entre la ingesta de bebidas alcohólicas y la aparición del maligno en payadas y contrapuntos hasta la llegada de la aurora, de rosaceos dedos.
 
 > De todas las cerraduras, la mas tentadora es la del cinturón de castidad.  --Odiseo Torres.  De alcobas y tapiales.  1945.
@@ -802,6 +806,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 > Mi mujer es Si séptima, es dominante de Mi.  --Daniel Rabinovich.  Les Luthers.
 
 > Porque eres mi dueña, santiagueña de mi corazón.  --La amorosa.  Oscar Valle y Hermanos Díaz.
+
+**Dos**  *Fr. y Lat. duo*.  La raiz común prehistórica duwoh en Europa deriva en el **dos** castellano, el two ingles, due italiano, deux francés, dva en ruso.  
+
+> Para cruzar sin temor, el valle y el volcán somos dos.  --Maria Elena Walsh.  
 
 **Dosis** *Lat. Dosis sola facit venenum.*  Acción de dar.  El discípulo de Aristóteles, Teofrasto (Lesbos 371 - 287 AC) en su *La Historia de las Plantas* sugiere: 
  
@@ -2219,7 +2227,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Rojo es cruce con precaución.  Amarillo es interpretado como, acelere al máximo y verde como tiene permiso a pisar a quien se cruce.
 
-**Sentido** *Lat. sentire*  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.  Las posiciones antagónicas al respecto tienen argumentos por igual de valiosos.  Quienes llenan su vida de sentido, por un lado, buscan dejar un mundo mejor, mientras quienes por el contrario intentan despojarse totalmente de sentidos, posiblemente busquen dejar el menor dolor posible a su partida terrena.
+**Sentido** *Lat. sentire*  Originalmente es el sentido del oído, luego se traslada por simpatía a los otros sentidos, el olfato, gusto, vista, tacto.  De aquí proviene el sustantivo seso.  Asociamos con demasiada frecuencia, este sustantivo con el adverbio de omnipresencia *"de la vida"*, cuando en realidad **la vida**, como todos bien sabemos carece por completo de sentido.  Hay quien encuentra un sentido en la religión, otros en la revolución proletaria -que no deja de ser otra religión-.  Ciertas aproximaciones seducen más que otras. Las que provienen del arte se destacan.  Un **Haiku** tal vez encierre el sentido de la vida.  Por simpleza, por crípticidad y por belleza.  Muchos andamos por los días que nos tocan ensayando un haiku diario, con el solo objeto de encontrar ese sentido, yendo a menos, con la terrible sospecha del resultado de encontrar ese poema.  Las posiciones antagónicas al respecto tienen argumentos por igual de valiosos.  Quienes llenan su vida de sentido, por un lado, buscan dejar un mundo mejor, mientras quienes por el contrario intentan despojarse totalmente de sentidos, posiblemente busquen dejar el menor dolor posible a su partida terrena.  La verdadera lucha es por la batalla del sentido, que otorga permiso patente de corso para practicar la xenofobia a cielo abierto o la evasión impositiva.
  
 > ¡Sentime! --Iniciaba oraciones mi amigo el Rody, cuando la ocasión lo requería, en una especie de ruego de afecto cuando lo que en realidad quería era que lo escucharan.  Bueno, si, era reclamo de afecto.
 
