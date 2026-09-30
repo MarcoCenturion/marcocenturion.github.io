@@ -827,6 +827,14 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > El rock es drama.  Todo lo que había que decír sobre la felicidad ya lo hizo Ramón Ortega **La felicidad, ja ja ja ja**.  No hay mucho que agregar.  --Carlos Solari.
 
+**Droga**  *Fr. drogue, suministro provisión*.  Podemos rastrear su origen en el anglosajón drug (seco), a su vez del neerlandes droog (árico), el irlandes droch, el breton droug, el gales drwg y de estos al árabe dawa.  Todo parece apuntar hacia el norte y cierta *maldad* de origen ultramarino.  Hay quienes sugieren que es sinónimo de fármaco, pero con un alto componente peyorativo, aun careciendo de peyote.  Sea como fuere, es común a todas las culturas que aparezca un *chamán* que al ingerir ciertos hongos, o cactus, o plantas entra en contacto con la divinidad y nos transmite parte de esa comunicación.
+
+> El verdadero problema de dejar las drogas no es **olvidar donde**, sino tener que convertirse al cristianismo y salir a aplaudir jardines de la periferia de la ciudad, los fines de semana.  
+
+> Le traemos la palabra.  --Sostiene el crédulo frente Odiseo.
+
+> Si la palabra es **llovizna**, pasen, sino dejen de romper las pelotas.  --Los viajes tristes del divinal Odiseo Torres.  Jacinto Ruiz.  Ed. Planeta 2001.
+
 **Duda** *Lat. Dubitare.*  Vacilante del mismo origen proviene **dos**, porque dos son las opciones de quien duda.  Su par antagónico *dogma* es la escrerosis del conocimiento, término con el que comparte, cuiosamente, el comienzo y el final.  Existe la creencia errónea que la educación formal debe fortalecer el caracter del alumnado, cuando en realidad debe formarlos en la duda constante.  El anciano Sócrates caminaba por Atenas poniendo en dudas las seguridades de la gente, con su método mayéutico. 
 
 > Hay una hermosa metáfora clásica *Dudoso como presente griego* en clara alusión al Caballo de Troya. 
