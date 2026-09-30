@@ -827,11 +827,11 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > El rock es drama.  Todo lo que había que decír sobre la felicidad ya lo hizo Ramón Ortega **La felicidad, ja ja ja ja**.  No hay mucho que agregar.  --Carlos Solari.
 
-**Droga**  *Fr. drogue, suministro provisión*.  Podemos rastrear su origen en el anglosajón drug (seco), a su vez del neerlandes droog (árico), el irlandes droch, el breton droug, el gales drwg y de estos al árabe dawa.  Todo parece apuntar hacia el norte y cierta *maldad* de origen ultramarino.  Hay quienes sugieren que es sinónimo de fármaco, pero con un alto componente peyorativo, aun careciendo de peyote.  Sea como fuere, es común a todas las culturas que aparezca un *chamán* que al ingerir ciertos hongos, o cactus, o plantas entra en contacto con la divinidad y nos transmite parte de esa comunicación.
+**Droga**  *Fr. drogue, suministro provisión*.  Podemos rastrear su origen en el anglosajón drug (seco), a su vez del neerlandes droog (árico), el irlandes droch, el breton droug, el gales drwg y de estos al árabe dawa.  Todo parece apuntar hacia el norte y una *maldad* ultramarina.  Cierta doctrina sugiere que es sinónimo de fármaco, pero con un alto componente peyorativo, aun careciendo de peyote.  Sea como fuere, es común a todas las culturas que aparezca un elegido como Keanu Reaves en Matrix, al que llaman Chamán, que al ingerir ciertos hongos, o cactus, o plantas, entre en contacto directo con la divinidad y nos *baje* un resumen de ese chat de autenticidad *floja de papeles*, los sitios donde se adora al señor no tributan o *"el señor me dijo que me tienen que dar el diez porciento de sus ingresos"* que tampoco tributa.
 
 > El verdadero problema de dejar las drogas no es **olvidar donde**, sino tener que convertirse al cristianismo y salir a aplaudir jardines de la periferia de la ciudad, los fines de semana.  
 
-> Le traemos la palabra.  --Sostiene el crédulo frente Odiseo.
+> Le traemos la palabra.  --Sostiene el crédulo frente a Odiseo.
 
 > Si la palabra es **llovizna**, pasen, sino dejen de romper las pelotas.  --Los viajes tristes del divinal Odiseo Torres.  Jacinto Ruiz.  Ed. Planeta 2001.
 
