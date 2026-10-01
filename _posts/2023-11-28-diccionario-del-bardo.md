@@ -1289,7 +1289,7 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 
 > Con la tuya.  --Mucho mas creíble y coherente, puesto que ninguno de estos paga tributos.
 
-> Mas macrista que la evasión impositiva.  --Graffitty en CABA. 2015.
+> Más macrista que la evasión impositiva.  --Graffitty en CABA. 2015.
 
 **Indio**  *Sanscrito Sindhu río, corriente de agua.*  Voz con la que occidente llama a todo lo que no tenga su color de piel o su cristiana cosmovisión.  Equivalente a los términos *goi* del judaísmo o *xeno* para los griegos.  El navegante genovés Cristóforo Colombo cree haber llegado a las indias y nos bautiza de esta manera.  Anteponiéndole el artículo **El** nombramos seres mitológicos como *El Dante* y en el mismo sentido *El indio*. La voz popular sugiere lo mismo para Ezequiel pero apocopado en la mediterránea Córdoba como *Leze*.
 
