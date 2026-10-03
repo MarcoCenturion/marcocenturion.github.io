@@ -16,11 +16,11 @@ lead_text: 'Un acercamiento al uso del idioma del centro del país'
 
 > Aerodinámicamente, el cuerpo de la abeja es incapaz de volar, afortunadamente la abeja no sabe leer.
 
-**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, esta es la captura de una imagen defectuosa, originada en un defecto en el sistema óptico utilizado, como es el caso de la *aberración cromática,* en Astronomía, producido por un defecto en la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón.  Si bien todas las épocas contaron con artes berretas, cercanos a lo obsceno, el reguetón lleva los límites al extremo de lo incompatible con la vida.
+**Aberración**  *Lat. Ab anterior, errare vagar, pifiarla, errar.*  Error que se produce en la percepción por motivos externos al receptor.  En óptica, esta es la captura de una imagen defectuosa, originada en un defecto en el sistema óptico utilizado, como es el caso de la *aberración cromática,* en Astronomía, originado en un defecto de la lente.  En el ámbito musical, aquella que llega al oído producto de erróneo sistema rítmico y melódico utilizado, tal es el caso del reguetón.  Si bien todas las épocas contaron con artes berretas, cercanos a lo obsceno, el reguetón lleva los límites al extremo de lo incompatible con la vida.
 
 > Cantan y bailan -mi dios- cumbias y merengues crueles, otra vez.  --Me matan Limón.  Carlos Solari.
 
-**Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En tiempos de la república romana, existían quienes litigaban por el honor, no solo individual sino por el valor de la ley por sobre los hombres.  La doctrina no es pacífica pero existen razones para afirmar que la frase completa era *Vir bonus ad vocatum*, hombre bueno que hace este trabajo por vocación.
+**Abogado**  *Lat. ad vocatum, literalmente por vocación.*  En tiempos de la república romana, existían quienes litigaban por el honor, no solo individual sino por el valor de la ley por sobre los hombres.  La doctrina no es pacífica pero existen razones para afirmar que la frase completa era *Vir bonus ad vocatum*, hombre bueno que hace este trabajo por vocación.  En la plaza de la intendencia, en Córdoba, frente a Tribunales hay una placa que recuerda abogadas y abogados víctimas de la dictadura.  Suele estar vandalizada con excrementos humanos.  No nos separa una grieta que se resuelva discutiendo, al fascismo se lo destruye. 
 
 **Absurdo**  *Lat. Ab, de y surdum, sordo*.  Inadecuado, disparatado, contrario a la lógica.  Religiones que justifican genocidios, premios Nobel de la Paz a quienes comienzan guerras.  La literatura del absurdo genera obras obsesivas y opuestas a toda lógica, que terminan dando vida a la realidad, que se tiñe de caracter berreta.  Un recurso de la lógica era plantear la nulidad de ciertas proposiciones por *reductio ad absurdum*, pero las ideas absurdas cuentan con cierto embrujo mágico, el fascismo, el terraplanismo, son solo ejemplos simples.  
 
@@ -646,7 +646,7 @@ flowchart LR
 
 **Conmover** *Lat. commovere, com movere, mover completamente*.  Perturbar, inquiertar, turbar.  Sacar algo de su comodidad.  La referencia no parece ser exclusivamente topológica.
 
-> Dudá siempre de quien no se conmueve por nada.
+> Si ya no te conmueven, ni los tiroteos.  --Carlos Solari.
 
 **Copado**  *Participio del verbo copar*.  Modismo rioplatense de origen incierto, posiblemente provenga de *colmado*.  Un momento, una persona, una situación es *copada* y no traducible a otros idiomas.
 
@@ -654,7 +654,7 @@ flowchart LR
 
 > Posiblemente no lo sean, pero así me gusta verlos.  Tenemos el tamaño de quienes nos quieren.  --Sisoco García. Obras Completas. 
 
-**Cosa**  *Lat. Causa.* Tangible, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
+**Cosa**  *Lat. Causa.*  Lo tangible, palpable, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
 
 > Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
 
@@ -2372,6 +2372,14 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 **Taita**  *Quechua padre*.  De donde viene tata.  En el lunfardo del conurbano de principios del siglo XX, pasó a ser un personaje malevo, prepontente, mandón, por lo general *bancaba con el cuero lo que decía con la boca*, poco relacionado con el libertario del siglo XXI al carecer por completo este último de cualquier tipo de código de honor, además de su innata capacidad para huir de mujeres de todo tipo, seguramente por ser portadoras de la mejor arma anti fascista, la temida vulva, con la que se llevarán adelante las verdaderas revoluciones que nos sucedan.
 
 > Que la revolución, viene oliendo a jazmín.  --Feliz Luna y Ariel Ramirez.
+
+**Tamaño** *Lat. tam magnus, tan grande*.  El hecho de ser de uso diario y cotidiano, va ocultando la belleza de su significado, como ocurre con infinidad de palabras.  Algo más.  La pregunta sobre *¿Cuan grande es algo?*   Tiene la extraña capacidad de trasladar al lector, de manera poco renunciable, a una niñez puntual, aquella donde todo era enorme e inalcanzable, a distancias, sonidos, sabores, pero por sobre todo sentires.  De aquel lugar no volvemos sin cierta resistencia natural, para descubrir que muchos tamaños son subjetivos.  El enemigo no es tan grande si dejamos de mirarlo de rodillas, casi todos los imposibles, inalcanzables y utópicos, son solo **más difíciles**. Un amor, dice Vinicius, puede reducir su tamaño pero no una amistad, una vez alcanzada su morfología ideal.  Es por esto que los amigos, amigas, amigues, tienen el tamaño del corazón que los alberga, que llegado casos extremos puede prescindir de la frecuentación o la existencia física.  
+
+> ¿Sabeis acaso por ventura, que le dice una mujer al poseedor de un miembro de gran tamaño, después del acto conocido coloquialmente como **la cochinada**? --Pregunta el divinal Odiseo Torres a su inmediato anterior, mirando el prolijo powerpoint proyectado con el título **Objetivos Ventas 3Q 2015**.
+
+> No.  --Reponde el altanero, sospechando la trampa, pero imposibilitado de escapar como acostumbran los fascistas de las mujeres.
+
+> Yo si.
 
 **Tambo**  *Quechua almacén*.  Sitio de trueque de mercancías.  De allí los gringos de dedos amplios del oeste cordobés que terminan sus frases con *ma vá*.  
 
