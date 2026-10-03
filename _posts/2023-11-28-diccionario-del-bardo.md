@@ -2034,6 +2034,10 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 > No le habrá quedao bonito, 
 > pero si le quedó firme. --Aro en Chacarera. Noche cordobesa 1985, Tonos y Toneles.  Autor anónimo chileno. 
 
+**Precaución**  *Lat. prae antes y cavere cuidado, guardarse*.  Tanto cauto como incauto provienen de aquí tambien, cota, cautela también derivan de cavere.  Bien sabemos que nada enseña mejor que la experiencia, que cobra caro pero enseña bién.  Forzamos charlas con niñes y adolescentes, sobre cuidados de todo tipo y momento, no del todo inútiles, porque siguen aceptando falacias estúpidas, por el solo hecho de ser aceptadas por la manada.  Escuchá tangos, el mercado no se regula solo, la derecha solo para tomar el papel higiénico y el vino no se mastica, insistimos.      
+
+> Llevá pañuelo, por si hay zamba.  --Precauciones de Madre.  Roberto Maggi.  Ed. Sudamericana. 2001.
+
 **Precio**  *Lat. Pretium*.  Cantidad a pagar por algo.  De allí la amplia familia de términos derivados: aprecio, desprecio, justiprecio, menosprecio, sobreprecio.  Las voces pornografía y intérprete, provienen de esta raiz.  Reputación que se ganaba en las *justas*.  Es norma medir interlocutores poniéndole precio a su fidelidad, honradez, etc.  Invencible e inmortal a quien no tiene precio, solo quienes se esfuerzan en encontrar tu precio saben el miedo que sienten por tener uno. 
 
 > Es barato lo que puedas comprar con dinero. --De las cosas y los cosos.  Odise Torres.
@@ -2373,7 +2377,7 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 
 > Que la revolución, viene oliendo a jazmín.  --Feliz Luna y Ariel Ramirez.
 
-**Tamaño** *Lat. tam magnus, tan grande*.  El hecho de ser de uso diario y cotidiano, va ocultando la belleza de su significado, como ocurre con infinidad de palabras.  Algo más.  La pregunta sobre *¿Cuan grande es algo?*   Tiene la extraña capacidad de trasladar al lector, de manera poco renunciable, a una niñez puntual, aquella donde todo era enorme e inalcanzable, a distancias, sonidos, sabores, pero por sobre todo sentires.  De aquel lugar no volvemos sin cierta resistencia natural, para descubrir que muchos tamaños son subjetivos.  El enemigo no es tan grande si dejamos de mirarlo de rodillas, casi todos los imposibles, inalcanzables y utópicos, son solo **más difíciles**. Un amor, dice Vinicius, puede reducir su tamaño pero no una amistad, una vez alcanzada su morfología ideal.  Es por esto que los amigos, amigas, amigues, tienen el tamaño del corazón que los alberga, que llegado casos extremos puede prescindir de la frecuentación o la existencia física.  
+**Tamaño** *Lat. tam magnus, tan grande*.  El hecho de ser de uso diario y cotidiano, va ocultando la belleza de su significado, como ocurre con infinidad de palabras.  Algo más.  La pregunta sobre: *¿Cuán grande es algo?*   Tiene la extraña capacidad de trasladar al lector, de manera poco renunciable, a una niñez puntual, aquella donde todo era enorme e inalcanzable, a distancias, sonidos, sabores, pero por sobre todo sentires.  De aquel lugar no volvemos sin cierta resistencia natural, para descubrir que muchos tamaños son subjetivos.  El enemigo no es tan grande si dejamos de mirarlo de rodillas, casi todos los imposibles, inalcanzables y utópicos, son solo **más difíciles**. Un amor, dice Vinicius, puede reducir su tamaño pero no una amistad, una vez alcanzada su morfología ideal.  Es por esto que los amigos, amigas, amigues, tienen el tamaño del corazón que los alberga, que llegados casos extremos, pueden prescindir de la frecuentación o la existencia física.  
 
 > ¿Sabeis acaso por ventura, que le dice una mujer al poseedor de un miembro de gran tamaño, después del acto conocido coloquialmente como **la cochinada**? --Pregunta el divinal Odiseo Torres a su inmediato anterior, mirando el prolijo powerpoint proyectado con el título **Objetivos Ventas 3Q 2015**.
 
