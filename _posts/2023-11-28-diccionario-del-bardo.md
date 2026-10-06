@@ -2476,6 +2476,14 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 **Tomate**  *Nahuatl Tomatl*.  Agua gorda.  Mantiene la hermosa nomenclatura en portuguñes y francés, en iglés cambia apenas a Tomato, mientras que en italiano, tal vez en honor al jardín de las Hesperides lo nombran *pomo d'oro* o manzana dorada.
 
+**Tumbao**  Dícese de la alegría en el andar.  Aplica a una serie de arpegios sincopados utilizados en la música afro cubana.  De compleja explicación al público indocto o residente en zonas templadas.  Carlos explica la notación numérica de calles en Santa Marta a los turistas, su rostro muestra lo incapaz que es de imaginar un sistema donde tengamos que memorizar *stings* en lugar de *enteros*.  Utiliza el idioma musical y correcto del colombiano de la costa, al llegar en el relato a una intersección de calles y carreras, cambia el tono de voz, sonríe, se llena de luz, lleva su mano derecha a sostener una cintura imaginaria, golpe de hombros, la izquierda sube, acompañando las palabras *Es la zona de la T* mientras ejecuta dos o tres pasos, vuelve su yo a la actualidad sin música y su voz de uso diario, al notar el asentimiento de sus interlocutores.   Los franceses consultan ahora como tomar la wawa para el Tayrona, Carlos vuelve, desanda los números, al llegar a la intersección, no hace falta decir Zona de la T, ahora solo acomoda brazos, brilla, sonríe y hace los dos pasos.  Los gringuitos brillan también, el idioma de la música es más fácil de comprender.
+
+> El carioca no camina, avanza bailando.  --Marta.  Escritora argentina.
+
+> Si decimos que la redonda tiene cuatro tiempos y la blanca dos tiempos.  ¿Que tiene la negra?  --Pregunta la profe de música.
+
+> La negra tiene tumbao.  --Responde la alumnita de cabello enmarañado.
+
 ## U 
  
 **Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante el trabajo de investigación llevado a por científicos de la escuela de Frankfurt, intentando indagar la patología que puede llevar al individuo a encontrar placer en esta repetición, junto a otros.
