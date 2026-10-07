@@ -2494,19 +2494,27 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 ## U 
  
-**Uniforme**  *Lat*  Que conservan la Una sola y misma forma.  Resulta muy interesante el trabajo de investigación llevado a por científicos de la escuela de Frankfurt, intentando indagar la patología que puede llevar al individuo a encontrar placer en esta repetición, junto a otros.
+**Uniforme**  *Lat. unis, uno y formis, forma*  Que conservan la Una sola y misma forma.  Resulta muy interesante el trabajo de investigación llevado a por científicos de la escuela de Frankfurt, intentando indagar la patología que puede llevar al individuo a encontrar placer en esta repetición, junto a otros.
 
 > ... La evidencia señala posible mamadera fría entre el quinto y octavo mes.  --Correlación entre fascismo y estreñimiento, con falta de amor maternal.  T. Adorno.  Centro Editor de América Latina.
 
+> No es lo mismo vestir un uniforme militar, que serlo.  --Manuel Belgrano.
+
+> Visera puede ser, nunca gorra.  --Veinte consejos para evitar los cuernos.  --Odiseo Torres.  Seix Barral.  2014
+
 **Universidad**  *Lat. Universitatis, el conjunto de todas las cosas*.  Originado en el medioevo para designar al colectivo de docentes, alumnos y personal no docente, de centros de estudios de nivel superior, no directamente relacionado con órdenes religiosas.  Nos llega a la actualidad que las primeras universidades fueron fundadas en Bologna, Paris, Cambridge o Salamanca, omitiendo maliciosamente la de Córdoba, Andalucía en el siglo X, varios antes que las primera, por ser de la época del Califato.  Estas se pueden ser de carácter públicas -donde los estudiantes estudian- y privadas -donde los padres de los estudiantes pagan-   Como es de esperar, la diferencia académica es abismal.  La República Argentina cuenta con cinco premios Nóbel, todos egresados de universidades públicas, laicas y gratuitas.  La derecha sostiene que los partidos populistas quieren a la población bruta, pero no han levantado un solo edificio universitario, ni secundario, ni primario, ni jardines de infantes.
  
-**Uo**  Onomatopeya exclamativa, que agrega -en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza de forma aislada, en pares o tríadas, dependiendo de las necesidades estéticas.
+**Uo**  Onomatopeya exclamativa, que agrega -solo en apariencia- alegría a temas de ciertos géneros musicales, dándole sentido a frases que no lo tienen *per sé*.   Se la utiliza de forma aislada, en pares o tríadas, dependiendo de las necesidades estéticas.  Una vez encontrada la entonación y dicción afortunada, se la utilizará en ciclos aleatorios en todas las canciones futuras.
 
 > Dale pelado se vino la pachanga, uo uo uo.  --Vilma Palma e Vampiro.  Et. Al.
 
-**USB**  Acrónimo tecnológico de *Universal Serial Bus*, esto es un puerto de comunicaciones universal de PCs y dispositivos electrónicos.  El hecho de tener una sola forma de inserción, recuerda al humano medio diariamente su estupidez, puesto que siempre el primer intento de enchufe es erróneo.  Puede darse que incluso el segundo también lo sea y vuelva el indivíduo sobre sus pasos y descubra que no es medio pelotudo, porque esa posibilidad de error del cincuenta porciento, ha pasado a ser del cien porciento.  Se detectaron casos en lo que hay mas cambios de posición, que lindan la patología.
+> Dejame, dejame, que te toque la piel. uo uo ie.  --Idem.
 
-**Usuario**  *Lat. usuarius, usus*.  Uno de los antecedentes del contrato de locación, era el contrato de uso, en tiempos de la república.  Luego, una de las partes de este contrato.  El paso de los siglos nos trae a esta degradación del indivíduo, que originalmente era persona, para pasar luego a cliente, de ahí a consumidor y vaya a saber uno porqué motivo, llegó a este puesto desabrido, despersonalizado y libre de lactosa, donde queda tan poco claro quien es el usado.
+> Te llevé por la ruta que va al sur, dijiste mirándome extrañada, uo uo uo uo uo uo uo --Idem.
+
+**USB**  Acrónimo tecnológico de *Universal Serial Bus*, esto es un puerto de comunicaciones universal de PCs y dispositivos electrónicos.  El hecho de tener una sola forma de inserción, recuerda al humano medio diariamente su estupidez, puesto que siempre el primer intento de enchufe es erróneo.  Puede darse que incluso el segundo también lo sea y vuelva el indivíduo sobre sus pasos y descubra que no es medio pelotudo, porque esa posibilidad de error del cincuenta porciento, ha pasado a ser del cien porciento.  Se detectaron casos en lo que hay mas cambios de posición, que lindan la patología severa.
+
+**Usuario**  *Lat. usuarius, usus*.  Uno de los antecedentes del contrato de locación, era el contrato de uso, en tiempos de la república.  Luego, por cercanía cacofónica, se aplicó a una de las partes de este contrato, quien recibe la cosa en uso.  El paso de los siglos nos trae a esta degradación del indivíduo, que originalmente era persona, para pasar luego a cliente, de ahí a consumidor y vaya a saber uno porqué motivo, llegó a este puesto desabrido, despersonalizado y libre de lactosa, donde queda tan poco claro quien es el usado.  Hasta la proliferación de cierta tecnología el titular del derecho sobre la cosa era un ser vivo independiente.  El nuevo siglo nos trajo multitud de servicios en *la nube* donde los titulares ya no son **dueños** y cabe la posibilidad que vez ni siquiera **usuarios**, puesto que aceptaron términos y condiciones que dificilmente alguien en la historia de la humanidad haya leido.  El resultado es un imperio digital, que cobra un importe, para almacenar datos del usuario, que recuerda los planes de ahorro, en los que la clase media, le prestaba dinero a las terminales automotrices, para que fabriquen su auto, mientras estas últimas le cobraban un diez porciento de *gastos administrativos*, ciento veinte porciento anual de tasa.  El tecnofeudalismo no es casual, es causal de lo anterior. 
  
 ## V
 
