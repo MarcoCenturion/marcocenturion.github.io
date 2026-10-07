@@ -1415,7 +1415,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 > Howard Garder sugiere la existencia de al menos ocho inteligencias distintas, Linguística, Lógico-matemática, espacial, musical, interpersonal, etc.  Damos a diario con seres muy inteligentes en algún aspecto, pero analfabetos en otros.  Resultaría interesante investigar que se rompió en la inteligencia emocional, interpersonal durante principios del siglo XXI para que florecieran los fascimos en el mundo.
 
-> Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del teléfono que me pidio acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
+> Me hice una prueba gratuita y obtuve un puntaje altísimo de IQ.  En una aplicación del teléfono que me pidió acceder a la cámara, el micrófono, el geolocalizador y las claves de las billeteras de cryptos.
 
 > ¿Listo?  Debería tener sesenta puntos menos en mi IQ para considerarme listo.  --Sheldon Cooper.  The Big Bang Theory.
 
@@ -2428,7 +2428,7 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 > La iglesia es esa insitución que te pide dinero para resolver sus problemas, pero te sugiere oración para resolver los tuyos. --Sisoco García.  Disquisiciones acerca de la Fe.
 
-**Termidor** *Fr. Enero*.  A la par que separaba troncos de cabezas, la revolución francesa se propuso quitar todo dejo de religiones y vestigios reales en la vida diaria.  La asamblea votó cambiar el calendario gregoriano, o careta, por un calendario revolucionario o *Calendrier républicain*, acorde a los tiempos agrícolas.  Una utopía algo romántica, puesto que para no otra cosa fueron inventadas las utopías.  El mes mas cálido del hemisferio boreal, será llamado de esta manera, mes de sed.  Por extraños caprichos de la utopía, termina convertido en vino en caja.
+**Termidor** *Fr. Enero*.  A la par que separaba troncos de cabezas, la revolución francesa se propuso quitar todo dejo de religiones y vestigios *reales* en la vida cotidiana.  La asamblea votó cambiar el calendario gregoriano, o careta, por un calendario revolucionario o *Calendrier républicain*, acorde a los tiempos agrícolas de siembras y cosechas.  Una utopía algo romántica, puesto que para no otra cosa fueron inventadas las utopías.  El mes mas cálido del hemisferio boreal, será llamado de esta manera, mes de sed.  Por extraños caprichos de la utopía, termina convertido en vino en caja apto para la mezcla con gaseosa de limón llamada pretty, en cuyo honor la bebida obtenida fue bautizada pritiado en la mediterránea Córdoba.
  
 **Tero** *Sus. Americanismo.*  Ave de mediano porte, ataviado en escala de blancos, negros y grises.  Su estética esbelta, su monocromía, su elegancia y respetuoso saludo, nos recuerdan mangas nipones del estilo Miyazaki.  Su habitat es la llanura pampeana, aunque merced a su carácter impetuoso, se lo puede observar disfrutando de desde playas catarinenses, hasta incluso paulistas.  Bajo el influjo de qué clase de tóxicos puede alguien sugerir en una canción: 
 
@@ -2446,7 +2446,7 @@ impolutaste gusta el tango, pibe?  No importa, el tango te espera.  --Roberto Go
 
 **Tiempo**  *Lat. tempus*.  Magnitud física para subdividir la eternidad.  En virtud de esa división es que el observador puede situarse en pasado, presente y futuro respecto de un suceso.  Su condición de subjetiva hace que no signifiquen lo mismo, los diez minutos esperando a la persona amada, en la primera cita, que los diez en la puerta del quirófano, que los diez posteriores.  En la hélade arcaica, Cronos había asesinado a su padre para quedarse con la eternidad, posteriormente, la subdivisión de ese tiempo pasa al siglo del estagirita Aristóteles, quien sostiene que es la medida en que captamos en el alma el cambio de los fenómenos.  Hasta la relatividad general donde el tiempo no es independiente del observador, como vimos en la frase anterior.  El solo hecho de intentar imaginar el tiempo anterior al Big Bang nos hace dueños inmediatos de un amor infinito impersonal, porque tenemos el tamaño de los enemigos que elegimos, nuestro valor se alcanza ahí, donde no hay lugar para respuestas simplistas. Posiblemente nuestra angustia se origine en no poder decir si es tiempo, o espacio, partícula, energía y la idea simplista de decirle dios sabemos que trae mas dudas que respuestas. 
 
-> Si te pidio tiempo y distancia es porque intenta despejar velocidad.  --Albert Einstein.
+> Si te pidió **tiempo** y **distancia** es porque seguramente intenta despejar **velocidad**.  --Albert Einstein.
 
 > Hay tanta distancia dentro del tiempo, que si uno agarra se encuentra con las montañas.  --Pequeño Dixit.  Jacinto Ruiz. 
 
