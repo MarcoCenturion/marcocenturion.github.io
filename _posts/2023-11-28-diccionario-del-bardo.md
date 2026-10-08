@@ -1729,6 +1729,10 @@ De no acceder de inmediato a la magia de la imagen anterior, se sugiere volver a
 
 ## N
 
+**Nacimiento**  *Lat. nascere nasci, nacer y miento, instrumento*.  Salir del vientre.  Del mismo origen provienen nación  por referirse a quienes nacieron en ese lugar, o naturaleza.  
+
+> El Che tiene esa costumbre de seguir naciendo siempre.  --Eduardo Galeano.
+
 **Nada**  *Lat. nata. nacimiento.*   Verdaderos ríos de tinta han corrido sobre este sustantivo, atravesando corrientes de pensamiento dispares en el tiempo y el espacio.  Es al menos curioso que el vocablo proveniene etimológicamente de *nacimiento*.  Experimenta una curiosa metamorfosis en el siglo XXI a modo de punto final de toda oración, tal vez emulando el *punto final* de la vida.  Sugiérese maridarlo con el bello *Osea*, qudando de la siguiente forma:  
 
 > O sea, Nada.  Digamos.
