@@ -1429,7 +1429,7 @@ La falta de sobrevivientes voladoras, hace que la humanidad deba esperar hasta e
 
 **Jabalí** / **Jabalina**. *Ar. hinzir gabalí, cerdo del monte*. No sabemos a ciencia cierta quien es anterior, si el arma da nombre al animal con el que se lo cazaba o al revés.  Su correcto uso era ser arrojada lo mas lejos posible.  En la Roma de la república su nombre era *pilum*   Su sinónimo mas interesante es Venablo.  
 
-**Jaku**  *Quechua jaca*.  Lienzo tendido a la espalada de las mujeres con los que transportaban a los niños.
+**Jaku**  *Quechua jaca*.  Lienzo tendido a la espalada de las mujeres con los que transportaban a los niños, antecesor del moderno fular o foular.  
 
 **Jarra**  *Ar. جَرّة  djarrah*.  De allí Jar en inglés, jarré en francés, giara en italiano.  
 
@@ -2103,6 +2103,10 @@ Cuando la única manera lógica de ser *más positivo*, es ceder un electrón.  
 > Con dinero suficiente podemos hacer creer cualquier cosa al humano medio.  Prueba de ellos es que una de las empresas mas grandes del planeta no vende agua con gas y edulcorante, sino publicidad, por otra parte, existe un amplio sector de la sociedad argentina que está convencido que el clan Macri es democrático y honesto.  --Tribulaciones Tributarias.  Odiseo Torres.  1999.
 
 **Pucho**  *Quechua puchu, resíduo, sobrante, pequeña cantidad*.  Resto del cigarrillo de tabaco.  De uso coloquial en el Buenos Aires del siglo XX y por añadidura al resto del país.  Compañero de armas de Larguirucho en las historietas de García Ferrer, tan ambíguamente malo como bueno, en franca disonancia con las reglas estéticas de Marvell y Disney.  
+
+**Pueblo**  *Lat. populus*.  El pueblo es la población joven de la república, distinta del senado, el cuerpo consultivo de ancianos *sabios*.  La verdadera connotación que llega a la actualidad proviene de la revolución francesa.  People en inglés, en frances pople, del anterior peupel.  En italiano deviene en populari, popolo, la **piazza dil popolo**, gentío muchedumbre, gente común, las masas.  Llegan a nuestros días las incripciones SPQR, Senatus Populusque tomanus, al senado y el pueblo de Roma, tanto a patricios como a plebeyos.  Hasta la llegada de la toma de la Bastilla, el pueblo no *delivera ni gobierna*.  Aquellos que nada tienen, nada pueden perder y en algún momento de la historia lo descubren, es su nirvana político.  
+
+> Nos, los representantes del pueblo de la Nación Agentina, reunidos en congreso ... Preámbulo de la constitución Argentina.  
 
 **Puma**  *Quechua Puma*.  El mayor de los felinos americanos.  William Henry Hudson hace una defensa encendida de este, sugiriendo que no se registraron ataques a humanos, a excepción de hembras hambrientas con crías.  La dificultad se presenta al carecer de comercio verbal con el noble animal y averiguar así si viene con los niños, con hambre y cuantos son en la mesa, para tomar los recaudos del caso.
 
