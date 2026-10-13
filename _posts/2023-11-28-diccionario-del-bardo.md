@@ -272,6 +272,12 @@ Aquello que en realidad recuerdan, esos revolucionarios memoriosos no son libros
 
 > Hay Querido, es que confundo siempre izquierda y derecha, yo se lo que es babor y estribor.  --Viajes con mi tía.  Graham Greene.
 
+**Baile** *Lat. ballare del gr. ballo*.  Mover el cuerpo de manera rítmica, que pareciera originarse en el movimiento para hacer dormir niñes.  En los cuarteles militares la oficialidad y sub oficialidad llamaba así a la acción de sacar a los reclusos a correr después de la ingesta de alimentos, lo que originaba todo tipo de desórdenes gástricos en los jóvenes, que divertía grandemente a los oficiales, demostrando con ello no solo su cortedad intelectual sino también lo infieles que son sus consortes.
+
+> Consumación vertical de un deseo horizontal.
+
+> Y de pronto alguien bailará contigo, no porque le guste bailar sino porque eres tu.  --J. L. Borges.
+
 **Banj**  Narcótico de uso sin receta **las Mil y Una Noches** a base de Beleño y Cáñamo.  Durante esos especiales momentos de la vida que llamamos simplemente viajes, cedemos frecuentemente a la tentación de la ingesta local, desde los horripilantes pero inocentes *Fanta Uva* o el *Te endulzado* de Brasil, al que el deiforme Odiseo Torres bautizara *Meo do Carioca*, o la *Inca Cola* en Perú, pasando a aquellos tóxicos que coquetean con el código penal local.  Estimo que interviene una compulsiva y envidiosa necesidad de validar con el cuero, aquello que observamos alegra al pueblo huesped, asumimos lo es por algo en especial y ocurre como con la mayoría de las costumbres, como la política, el fútbol o el reguetón, opera por simpatía, porque otro lo hace y no mas que eso.  Envidiamos secretamente la felicidad que produce pero no estamos dispuestos a cumplir el rito de paso de la ingesta.
 
 > Nao deixe Rio com saudade, pense em voltar.  Aeropuerto Carlos Jobim, Río de Janeiro.  2026.
@@ -1030,6 +1036,8 @@ Afortunadamente para la literatura, los éxodos prometen nuevos motivos como los
          alt="Caricatura Fascismo" 
          style="max-width: 100%; height: auto;">
 </div>
+
+> Cuando el fascismo regrese, no dirá *soy el fascismo*, dirá **soy la libertad**.  --Thomas Mann.
 
 **Faso**  *Marihuana Nahuatl, Malli, hierba para tejer y huana borrachera*.  Estudiosos de todo el orbe buscan patrones, en México también se la asocia a Juana como la prostituta que acompaña a los soldados, recordemos sinó el corrido popula *La Cucaracha* que no tiene *Mariguana pa fumar*.  Cruza el Río Colorado y en la Unión se la conoce como Marie Janne.  Tal vez no sea tan casual la cercanía entre la María madre de Jesucristo con esta otra, tan terrenal y pecadora.  La prohibición hizo que concentre la mayor cantidad de eufemismos para referirse a ella de manera tangencial.  
 
@@ -2350,6 +2358,17 @@ A partir de la prolija observación del saludo de la *teacher* de ingles, con su
 > Existe una libertad falsa, donde el indivíduo hace lo que quiere frente a otra auténtica, donde el indivíduo hace lo que corresponde.  --Julio Cortazar.
 
 **Sol**  *Lat. sol, solis*.  Origen de la vida, por lo menos en estos rincones del universo lo que lo convierte en centro de culto de las mitologías andinas, por oposición a las lunares europeas.  En el siglo XVIII Johan Sebastian Bach escribe una pieza a la que bautiza Aria en Do, que luego es popularizada como para Sol.  La curiosidad se presenta al ser ejecutadaa en violín sobre solo las últimas tres cuerdas, al cambiarse a Sol solo se utiliza la mas grave.  
+
+**Soledad**  *Lat. solitas*.  Estar sin nadie que rompa las pelotas.  De allí proviene soltero o soltera.  La soledad es la prueba mas certera de la condición social del homo sappiens.  El cachorro humano requiere del juicio de valor ajeno, incluso en casos extremos en que lo utiliza para hacer exactamente lo contrario.  Bástenos los ejemplos que la vida cotidiana nos pone a diario en publicidades, en consejos tanto de influencers nuevos como los tecnológicos, como también los antiguos sacerdotes y pastores religiosos. 
+
+> La soledad es un amigo que no está.  --Tema de Pototo.  Luis Alberto Spinetta.
+
+> La soledad es el regalo a los espíritus sensibles.  --Edga Allan Poe.
+
+> Si Evita viviera...
+>> Sería montonera, original.
+>> Isabelita sería soltera -- Peatonal 9 de Julio, Córdoba, 1984.
+>> Sería ricotera.  --Olavarria.  2018
 
 **Soltero**  *Lat. solitarius o solutus*.  Existe una discusión doctrinal sobre si esta palabra se origina en *solitario* o *suelto*, ambas con argumentos de peso.  Paradojicamente, el siglo XXI, fiel a su espíritu paradojal, ha traido la mayor libertad de elección sexual en milenios, en paralelo a la mayor cantidad de indidíduos célibes, inconveniente que se resolverá con autómatas sintéticos diseñados para satisfacer los requerimientos anímicos de esta generación de psicópatas.  
 
