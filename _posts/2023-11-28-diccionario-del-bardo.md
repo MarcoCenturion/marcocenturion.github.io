@@ -895,6 +895,18 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > Tuvo un episodio.   
 
+**Error**  *Lat. errare, vagar, sin rumbo*.  Errar, errante, errabundo, erróneo y el mas hermoso, aberrante, provienen de este simpático término.  También fue, durante un tiempo considerable, sinónimo de pecado, anormalidad o ignorancia.  En ámbitos de desarrollo de sistemas, es un mensaje que nos indica haber elegido un camino equivocado, lo realmente interesante es que si no elegimos ese camino nunca, tampoco nunca sabremos del error.
+
+> ¿Cual es el secreto del éxito, Maestro?
+
+> No cometer errores.
+
+> ¿Y como aprendo a no cometer errores?
+
+> Cometiéndolos.
+
+> Nothing will stop you from being creative so effectively as the fear of making a mistake.  --John Cleese.  Montty Python.
+
 **Escalofrío**  Sensación corporal de frío, violenta y repentina, por lo general, acompañada de espasmos musculares.  Se experimenta al sacar del bolillero la única bolilla de las treinta que no viste siquiera, la primera vez que escuchas el invierno porteño, cuando cambia la frase melódica y no sugiere la primavera, los veinte minutos mas escalofriantes de la vida, cuando desnudas el alma confesándole tu amor a alguien.
 
 > Nunca rechaces el consejo de un escalofrío.  --Oda a Francisco Urondo.  Sisoco García.  1918.
@@ -2209,6 +2221,8 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 > Así es, pero ni bien cuente su pregunta a mi regreso, comenzarán a hacerlo.
  
 > Si quieres decir una verdad hazlos reir, de lo contrario te matarán.  --Oscar Wilde.
+
+> A wonderful thing about true laughter is that it just destroys any kind of system of dividing people.  --John Cleese.  Monty Python.
 
 **Rey**  *Lat. regis, rex*.  Pieza a custodiar en el juego de ajedrez, que emula al jefe de la familia real.  Real en su acepción de sustantivo, sobre la realeza y no sobre la condición de realidad, como adjetivo, como podría pensarse.  La familia real vive sin laburar, a partir de haber convencido a mucha gente (mucha de verdad) que los envió un ser invisible llamado dios, para andar a caballo y sacarse fotos, por todo entretenimiento, pero que aún con tan poca presión laboral, logra descepcionarlos.
 
