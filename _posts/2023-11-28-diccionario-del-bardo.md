@@ -2226,7 +2226,7 @@ El serio Seguei responde afirmativamente con la cabeza y agrega:
 
 **Rey**  *Lat. regis, rex*.  Pieza a custodiar en el juego de ajedrez, que emula al jefe de la familia real.  Real en su acepción de sustantivo, sobre la realeza y no sobre la condición de realidad, como adjetivo, como podría pensarse.  La familia real vive sin laburar, a partir de haber convencido a mucha gente (mucha de verdad) que los envió un ser invisible llamado dios, para andar a caballo y sacarse fotos, por todo entretenimiento, pero que aún con tan poca presión laboral, logra descepcionarlos.
 
-> ¿Ha visto usted a la reina?  --Pregunta el encargado de seguridad del Palacio de Buckingham a una señora de palacio.
+> ¿Ha visto usted a la reina?  --Pregunta el encargado de seguridad del Palacio de Buckingham a la anciana de la familia real.
 
 > ¿A cual de las reinas se refiere usted, a mi madre, mi hermana o mi marido?  --Responde cortesmente la duquesa.  
 
