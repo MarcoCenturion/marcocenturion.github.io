@@ -1181,3 +1181,35 @@ Viviendo sin después
 Ni adiós, ni olvido
 
 María Elena Walsh
+
+
+## Las Golondrinas
+
+¿Adónde te irás volando por esos cielos,
+brasita negra que lustra la claridad?
+Detrás de tu vuelo errante mis ojos gozan
+¡la inmensidad...la inmensidad!
+
+Veleros de las tormentas se van las nubes,
+en surcos de luz dorada se pone el sol;
+y como sílabas negras, las golondrinas...
+¡dicen adiós...dicen adiós...!
+
+Vuela,vuela,vuela,golondrina,
+vuelve del más allá.
+Vuelve desde el fondo de la vida
+sobre la luz, cruzando el mar...
+¡cruzando el mar!
+
+Un cielo de barriletes tiene la tarde;
+el viento en las arboledas cantando va
+y desandando los días mi pensamiento
+¡también se va...también se va...!
+
+Cuando los días se acorten junto a mi sombra
+y en mi alma caiga sangrando el atardecer,
+yo levantaré los ojos pidiendo al cielo
+¡volverte a ver...volverte a ver...!
+
+
+Jaime Dávalos y Eduardo Falú
