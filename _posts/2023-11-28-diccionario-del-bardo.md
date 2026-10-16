@@ -813,6 +813,10 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 [^46]: Todo parece indicar que el sabbath, a modo de festejo el señor se clavó un par de claritos, un porrito y de puro jodón dijo "les voy a poner el punto G justo adentro del upite" y terminado de decir eso escupió la bebida en medio de la risa festejándose el chiste.
 
+**Domingo**  *Lat. dies domenicus día del señor*.  La raiz es domus, casa.  Originalmente día del Sol, que sobreviven en el inglés sunday.  Hasta la llegada de Constantino que previa una batalla sueña el signo del cristianismo y una voz que le susurra *in hoc signo vinces*, traducido como *con ese signo vencerás*.  
+
+> La explicación de porqué los domingos son mas tranquilos, por lo menos en occidente, es porque cierta gente en particular que está rezando en sus templos.  --Sisoco García. 
+
 **Dominio**  *Lat. Dominus dueño de la casa, por domus*.  1. Domesticar es esa feliz metamorfosis de algo silvestre a hogareño, a aquerenciarse en el hogar.  Se aplica a plantas[^94] y mascotas pero se ha documentado la existencia de gente así.   Don y doña, también tienen su origen en esta voz latina relacionada al hogar.  2. En teoría musical dominante es el acorde encargado de pasar el control de la tensión al acorde que lo sucede.  La emoción, en muchos casos, se presenta de forma natural al ser esta progresión, mas o menos la esperada, esperable.  Ahora, la magia sucede cuando aparece la emoción por la progresión inesperada, como en Adios Nonino, dejando de ser caricia para convertise en un directo al mentón de parte de Mike Tyson.
 
 [^94]: Decimos que un cerearl fue domesticado, cuando labores culturales fueron sacando lo mejor de él hasta la actualidad, por caso el maiz, sustento de la América pre hispánica.  Semillas y flores de amapola fosilizadas, fueron halladas junto a restos oseos de neandertales de aproximadamente tres mil años, mientras que textos suméricos de cuatro mil años antes de la era común dan cuenta de esta *planta de la felicidad*, hasta la llegada de las prohibiciones en el siglo XX. 
