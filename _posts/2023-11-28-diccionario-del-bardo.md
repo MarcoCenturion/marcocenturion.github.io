@@ -1161,6 +1161,10 @@ Heredia, narrador y poeta de la galia trasalpina, simil fónico de los primos de
 
 > É a garrafa de cana, o estilhaço na estrada.  --Águas de Março.  Carlos Antonio Jobim.
 
+**Gato**  *Lat. cattus, del proto germánico kattus*.  Originalmente cattus era el sustantivo con el que los romanos llamaban al gato doméstico, mientras felis lo reservaban para los gatos salvajes o *felis silvestris*.  Uno de los primeros dibujos animados de la historia era un gato llamado felix.  En los años locos porteños de principios de siglo XX, varoncitos de las clases acomodadas acudían por *amor rentado* a casas de tolerancia, *gatillando* pagando, de allí el sustantivo para nombrar a las meretrices de las clases acomodadas sea este nombre, reservando el de prostitutas para las pobres. 
+
+> Religion is like a blind man looking in black room for a black cat that isnt there, and find it.  --Wilde.
+
 **Gaucho**  *Quechua wakcha, huaso, pobre, huérfano.*  La horfandad del gaucho argentino, parece ser mas amplia la familiar.  Gente que vivía en las zonas rurales donde compartían una tierra común, sin títulos de propiedad.  A medida que avanza la *civilización* son expulsados a territorios indígenas, presente en la literatura gauchesca como el Martín Fierro.
 
 **Género**  Controversia del siglo XXI, propia de las clases dominantes, entretenidos mirándose el ombligo.  En la casa de mi infancia, éramos dos abuelos, dos padres y seis hermanos.  Al ser el mayor de esos niños, cargué desde temprano con obligaciones de *ambos* géneros con alguna que otra queja menor.  Después de volver en la bicicleta con bolsas de las compras, pelaba durante horas papas para el almuerzo.  Todos los días mamá cocinaba para diez personas, yo era el auxiliar obligado de cocina.  Recuerdo con ternura que cierta vez, siendo apenas un niño, se me ocurrió una idea brillante, argumentar en mi favor que hacer todas las compras me eximía de tareas que por sexo correspondían a mis hermanas mujeres.  Mamá con su providencial sabiduría y aplomo me explicó pacientemente, delante de todos, varones adultos incluídos.
