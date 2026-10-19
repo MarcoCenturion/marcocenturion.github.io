@@ -664,6 +664,8 @@ flowchart LR
 
 > Posiblemente no lo sean, pero así me gusta verlos.  Tenemos el tamaño de quienes nos quieren.  --Sisoco García. Obras Completas. 
 
+**Cortés**  *Lat. corte*.  Las personas habituadas a las ciudades, los *urbanos*, tenían mejores tratos que los campecinos o *rustici*, rústicos, porque se comportaban de manera afable ante otros y otras, decimos que auellos cuentan con una inteligencia adicional.  Una sola sílaba separa **cortesía** de **cortesano** o cortesana, que expresan algo totalmente distinto, hasta contradictorio.  Aquellos que utilizan esa capacidad para tejer internas palaciegas y la *rosca* de lo que hoy llamamos coloquialmente la **casta**.  La cercanía de los fonemas nos dificultaría grandemente distinguir a unos de otros, hasta que exceptuamos la impostura natural con la que operan, que se observa al agudizar la visión y ver los hilos que los manejan.
+
 **Cosa**  *Lat. Causa.*  Lo tangible, palpable, aquello que tiene entidad.  Se nos va la vida y al final descubrimos que las cosas más importantes de la vida no son precisamente cosas, en estos tiempos donde se ama las cosas y se usa a las personas.
 
 > Las cosas consituyen el segundo elemento en el título "Las palabras y las cosas: una arqueología de las ciencias humanas" del pensador frances Michelle Foucualt.  Por algo ocupan un segundo lugar, relegadas por las palabras.  Figura entre los cien libros indispensables del siglo XX.  Cuando se editó, alcanzó los quince mil ejemplares vendidos, en seis meses, solo en francés.  
