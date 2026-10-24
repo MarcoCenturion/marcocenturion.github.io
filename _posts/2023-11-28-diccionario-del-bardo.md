@@ -1806,6 +1806,10 @@ Y sin haber pisado un barco en la vida, imaginamos velas preñadas de aire, foqu
 
 **Neolengua**  Síntesis a que apunta el idioma de la distopía de George Orwell **1984**, la eliminación sistemática de vocablos para que no exista el sentimiento asociado a ello.  No podemos pensar lo que no podemos nombrar, ese es el resultado del empobrecimiento del idioma, el empobrecimiento de los encéfalos.
 
+**Nieve**  *Lat. nix, nivis, nivem del Gr. nifás*.  La palabra cuenta con cierta belleza per se, propia de todas las precipitaciones acuas.  La trae a la Grecia clásica el Bóreas es el viento del norte, presente desde la Ilíada.  En francés neige, en inglés snow, en italiano nebbia.  El calendario de la revolución francesa le asignó el mes de diciembre a Nivose, el mes de la nieve.  
+
+> Si eliges no divertirte en la nieve, tendrás menos alegría y la misma cantidad de nieve.  --Poverbio árabe.
+
 **Ninguno** *Lat. Nec unus*.  Originalmente el témino utilizado para el indefinido era nullus, de donde llega a nuestros días nulo.  Por caprichos de los idiomas sobrevivió en el habla cotidiana ninguno.  De aquí proviene el verbo ningunear.  Una rata de biblioteca acusa a Edward Gibbon de cierta omisión en su obra *Decline and Fall* de la que sale airoso aunque aturdido, aunque *no tardó en descubrir que este vano estrépito era solo dañino en el propósito*.
 
 > Un triunfo frente a tales antagonistas, era vergüenza suficiente.  --Prologo a Decline and Fall de Jorge Luis Borges.
@@ -1888,7 +1892,7 @@ Existe otro No, el de la poesía.
 
 > Grandote, pesado y de pocas luces.
 
-**Orden**  *Lat. Ordinis*.  El sentido original venía del orden de los hilos en un telar.  Tanto arma, como armonía, aristocracia y aritmética provienen de este sustantivo.  Importante es destacar que ordinario también proviene del mismo origen.  En el inglés order, señala una orden religiosa, lo mismo que el frances ordre.  Se otorga demasiada entidad a la previsibilidad y el orden, seguramente embelezados por una tendencia natural a la entropía.  No por nada los discursos mas retrógrados encuentran adeptos cuando reclaman un orden y una paz, que congelaba un orden establecido
+**Orden**  *Lat. Ordinis*.  El sentido original venía del orden de los hilos en un telar.  Tanto arma, como armonía, aristocracia y aritmética provienen de este sustantivo.  Importante es destacar que ordinario también proviene del mismo origen.  En el inglés order, señala una orden religiosa, lo mismo que el frances ordre.  Se otorga demasiada entidad a la previsibilidad y el orden, seguramente embelezados por una tendencia natural a la entropía.  No por nada los discursos mas retrógrados encuentran adeptos cuando reclaman un orden y una paz, que congelaba un orden establecido, que como es fácil adivinar, beneficia a quien puso ese orden, o simplemente lo propone como modelo de campañas electorales.  Basta dar un paso atrás y visualizarlos.  Lo curioso es el caracter hipnótico de su efecto en las masas.  Quienes generan la inflación, cometen los delitos, evaden impuestos y todo el código penal, se erigen como los paladines de la justicia.
 
 > El orden es para los giles, los genios nos manejamos en el caos.  --Albert Einstein.
 
@@ -1963,6 +1967,8 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 **Paradoja** *Gr. Para Doxa - Contrario a la opinión.* Utilizado para resaltar un contrasentido.  Un puesto policial fue colocado en Baradero con el objeto de controlar el uso de cascos por parte de motociclistas, para proteger -suponemos- la integridad física de los conductores.  Un agente del orden, dispara a uno de estos jóvenes por la espalda, por evadir el control, quitándole la vida y en el mismo acto la necesidad de utilizar un casco.
 
 > Ayer me golpeó un libro en la cabeza y perdí el conocimiento.
+
+> Jesus está esperando en el cielo por la llegada de sus fieles, mientras que estos están en la tierra esperando su regreso.
 
 **Paraíso**  *Lat paradisus, jardín del Gr. παράδεισος y este del persa پرديس cercado.* Al parecer paraiso y huerto tienen el mismo significado, aludiendo a una vida hortícola antes que carnívora.   
 
