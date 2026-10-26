@@ -903,7 +903,7 @@ Ella lo corrige, ojos entrecerrados, leve cabeceo negativo, horario > antihorari
 
 > Tuvo un episodio.   
 
-**Error**  *Lat. errare, vagar, sin rumbo*.  Errar, errante, errabundo, erróneo y el mas hermoso, aberrante, provienen de este simpático término.  También fue, durante un tiempo considerable, sinónimo de pecado, anormalidad o ignorancia.  En ámbitos de desarrollo de sistemas, es un mensaje que nos indica haber elegido un camino equivocado, lo realmente interesante es que si no elegimos ese camino nunca, tampoco nunca sabremos del error.
+**Error**  *Lat. errare, vagar, sin rumbo*.  Errar, errante, errabundo, erróneo y el mas hermoso, aberrante, provienen de este simpático término.  También fue, durante un tiempo considerable, sinónimo de pecado, anormalidad o ignorancia.  En ámbitos de desarrollo de sistemas, es un mensaje que nos indica haber elegido un camino equivocado, lo realmente interesante es que si no elegimos ese camino nunca, tampoco nunca sabremos del error.  James Joyce sugiere *mistakes are the portals of discovery*.
 
 > ¿Cual es el secreto del éxito, Maestro?
 
@@ -1937,6 +1937,9 @@ Decenas de miles de hombres, reviven la epopeya de **Alaska** del siglo XIX, alg
 **Pauta** *Lat. Pacta.*  Es el modelo, los renglones en el cuaderno.  La convención, la línea a seguir.  Luego, la pauta publicitaria es literalmente la escritura de la realidad, que recubre a la *realidad real*.  El antagónico masculino *pacto* designa las palabras de lo convenido, estén escritas o no.
 
 > Un ex jefe mafioso, de la familia Gambino, recibe un resumen de su tarjeta de crédito, con un monto elevado de intereses, en su nueva vida fuera del hampa.  Al quejarse, el impecable ejecutivo bancario le hace notar el contrato de adhesión y la letra pequeña.  "Esto es como si yo al estrecharle la mano, me quedara susurrando en voz baja durante una hora" responde.
+
+> Aprende todas las reglas de tu arte hasta convertirte en un experto y poder romperlas como un artista.  -Pablo Picasso.
+
 
 **Pachamama**  *Quechua.  Madre tierra.*  El dios de la cosmovisión andina, en la que los humanos no son el pueblo elegido, ni el privilegiado, ni el heredero del cielo, sino parte de esa madre tierra, hermanos de ríos y árboles.  Donde debemos merecer lo que cultivamos y agradecer a esa madre y respetarla. 
 
