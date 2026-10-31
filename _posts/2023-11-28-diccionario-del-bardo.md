@@ -64,11 +64,11 @@ lead_text: 'Un acercamiento al uso del idioma del centro del país'
 
 > El estructuralismo seguro tiene un método más científico para explicar algo inexplicable como la **Moda** pero seguramente, menos bella también.  En la primavera democrática de los ochentas, en la mediterránea Córdoba, ocupaban el centro de la moda los pantalones de tela escocesa y llamativamente mas pegados a la piel, de lo que veníamos acostumbrados.  Una niña agraciada en glúteos camina por 25 de mayo en dirección de Maipú, donde obreros de la UOCRA se entretenienen en tareas de encofrado y silbatinas, alternativa y acompasadamente.  Descubren, a la *pretty woman, walking down the street* de cabotaje que llena la realidad diez cuadras a la redonda, uno suelta: *"¿Negra, tian loteu lupite?  [Por te han parcelado las posaderas]"* a lo que otro agrega pasado el primer milisegundo: *"¡Guardame un terrenito cerca del aljibe!"*. 
 
-**Alfajor** *Ar. Al fashur el relleno*.   Esta confitura andaluza llevada a niveles olímpicos en latinoamérica, consta de dos obleas, chatas, cilíndrias unidas entre si por un aglutinante dulce, que en Argentina es predominantemente *dulce de leche*.  Existe bibliografía que niega la condición de alfajor a todo aquello ejecutado con otro *manjar* de por medio.  Puede o no estar recubierto.
+**Alfajor** *Ar.  ﺍﻞﻓﺸﺮ Al fashur, literalmente el relleno*.   Esta confitura andaluza llevada a niveles olímpicos en latinoamérica, consta de dos obleas, chatas, cilíndrias unidas entre si por un aglutinante dulce, que en Argentina es predominantemente *dulce de leche*.  Existe bibliografía que niega la condición de alfajor a todo aquello ejecutado con otro *manjar* de por medio.  Puede o no estar recubierto.
 
 > Voy a un congreso a Moscú, que le traigo de regalo a los niños.  --Pregunta dubitativa la escritora multipremiada.
 
-> Alfajores, no le erras.  --Contesta seguro el marido, algo menos inteligente.  El amor obra de manera misteriosa.
+> Alfajores, no le erras.  --Contesta seguro el marido, de opiniones de derechas.  El amor obra de manera misteriosa.
 
 **Alferez** *Ar. الفَارِس alfaris, jinete*.  Oficial de caballería que lleva el estandarte.  Cierta bibliografía militar cita textual: *inmediatamente por debajo del teniente*, frase curiosa, que llama a la prudencia y el decoro sobre preguntas ulteriores, por versar sobre varones armados, afectos a la violencia y marcada cortedad intelectual, visible en su escaso sentido del humor.
 
@@ -694,9 +694,9 @@ Una segunda utilidad, no menos interesante, es valerse de este *hiper-sustantivo
 
 > Fue sorprendido en el cuatrereado de leña, mediando nocturnidad, en inmediaciones de la casa de degustación de glandes.
 
-**Cucaracha**. Insecto repulsivo en el que despertó convertido una mañana el buen **Gregorio Samsa**.  El sucesor de la estirpe humana.  Difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** sostiene que la bondad o la maldad no son mas que criterios estéticos.  No confundir con **Kukas** que es totalmente otra cosa.
+**Cucaracha**.  *Lat. Blattodea, blatta orientalis, Gr.  κόκκυξ eides, que tiene aspecto de*.  Existen más de cuatro mil especies de este insecto, sin contar al buen **Gregorio Samsa** que se metamorfoseó hacia aquí una mañana antes de la invación Nazi a Praga.  Comparten con el homo sapiens una tan curiosa como perturbadora ventaja evolutiva, la alimentación omnívora.  Existe un mito entre biologos, que las sugiere como la especie sucesora de la estirpe humana, no solo en virtud a esa *ambiguedad alimenticia* sino que además, algunas especies logran sobrevivir sin aire cuarenta y cinco minutos, otras, un mes sin alimento y soportan hasta quince veces la dosis mortal de radiación que mataría a los mamíferos.  En la escala evolutiva difiere muy poco de la mariposa, por lo que **Friedrich Nietzsche** llega a afirmar que la bondad o la maldad no son mas que criterios estéticos.  No confundir con la bisilábica **Kukas**, curioso resumen apocopado de la palabra madre, que utilizan a modo signo de puntuación, varoncitos de envalentonamiento inexplicable, para referirse peyorativamente a intelectuales de izquierda, de preferencia mujeres, quienes lo toman de *honrosa distinción*, con elegante sonrisa y otros signos visibles de agradecimiento.
 
-> La Cucaracha ya no tiene marigüana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral, cambiaron el tóxico lúdico por la frase inentendible:  *La patita de atrás*.
+> La Cucaracha ya no tiene marigüana pa fumar --Corrido popular mejicano de la época de la Revolución.  El decoro y la moral de los setentas, cambiaron el tóxico lúdico por la frase inentendible:  *La patita de atrás*.
 
 **Cuidado**  *Lat. cogitatus reflexión, cogitere pensar del Gr. Ager guiar*.  Este es tanto la prudencia que el actuar requiere, como el aviso de peligro o precaución en el accionar o decir, algo puesto en duda en el siglo XXI, tiempo de palabras sueltas con cierta negligencia respecto de sus resultados, como de selfie al bordel del precipicio. El buen Renato o Rene Desartes sugirió que *cogito ergo sum* dándonos un indicio del cuidado de Si que pregonaba en la Atenas del siglo de Oro el asceta Sócrates, dando origen a la ética occidental.
 
@@ -1318,6 +1318,8 @@ co mil personas por año y la única libertad es una estatua, o a Bolivia que ti
 > Existe una libertad berreta, en la que uno hace lo que quiere y una libertad plena, donde hace lo que debe.  --Julio Cortazar.
 
 > Ser odiado por idiotas es el precio que se paga por no ser uno de ellos.  --Nietzche.
+
+> What a terrible era in which idiots fovern the blind.  --Whilliam Shakespeare.
 
 **Imagen**  *Lat. imago*.  Copia de otra cosa, espejo, retrato, imitación de la realidad.  Por ello, seguramente, varias cosmogonías como la musulmana, castigan copiar la obra de dios.  Motivo de disputas desde la prehistoria, en sus animismos hasta el psicoanálisis lacaniano, pasando por las toneladas de imágenes que invaden al yo diariamente para venderle yogurt, autos o cursos de trading.   
 
