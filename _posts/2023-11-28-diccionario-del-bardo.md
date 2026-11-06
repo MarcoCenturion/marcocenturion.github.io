@@ -1015,6 +1015,8 @@ Afortunadamente para la literatura, los éxodos prometen nuevos motivos como los
 
 > Temo que su argumento es falaz, mi buen amigo.
 
+> It is strange to see that people do not need proor to belive a lie while they demand infinite proof to acept the truth.  --Mark Twain.
+
 **Falsedad** *Lat. Falcitas, falta de verdad*.  De aquí también pareciera provenir falopa, pero estudios recientes de la Universidad de La Matanza lo desmienten, puesto que ciertos tóxicos que no son falsos.
 
 > El mismo diablo citará las sagradas escrituras si conviene a sus propósitos.  --El Mercader de Venecia.  William Shakespeare.
